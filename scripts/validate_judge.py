@@ -39,6 +39,27 @@ def cmd_sample(args) -> int:
     payload = json.loads(Path(args.results).read_text(encoding="utf-8"))
     records = payload["records"]
 
+    # A decline ("No information available") is near-mechanical to label: correct
+    # for an adversarial item, incorrect for an answerable one. They made up 40%
+    # of the first 30-row sample, so only ~18 rows actually tested the judge's
+    # semantic judgement. --no-declines draws a top-up from the cases where the
+    # judge has to compare meaning, giving a second, harder agreement figure.
+    if args.no_declines:
+        records = [r for r in records if not r["abstained"] and r["prediction"].strip()]
+        if not records:
+            print("No non-decline records in this results file.")
+            return 1
+
+    exclude = set()
+    if args.exclude:
+        for path in args.exclude:
+            for row in csv.DictReader(Path(path).open(encoding="utf-8")):
+                exclude.add((row["conv_id"], int(row["qa_index"])))
+        before = len(records)
+        records = [r for r in records if (r["conv_id"], r["qa_index"]) not in exclude]
+        print(f"excluded {before - len(records)} rows already labelled in "
+              f"{len(args.exclude)} previous sample(s)")
+
     by_category = defaultdict(list)
     for record in records:
         by_category[record["category"]].append(record)
@@ -144,6 +165,11 @@ def main(argv=None) -> int:
     p_sample.add_argument("-n", type=int, default=30)
     p_sample.add_argument("-o", "--out", default=None)
     p_sample.add_argument("--seed", type=int, default=0)
+    p_sample.add_argument("--no-declines", action="store_true",
+                          help="sample only answers that attempted a real answer, "
+                               "excluding 'No information available' declines")
+    p_sample.add_argument("--exclude", nargs="*", default=None,
+                          help="previous validation CSV(s) whose rows must not be redrawn")
     p_sample.set_defaults(func=cmd_sample)
 
     p_score = sub.add_parser("score", help="score agreement on a labelled CSV")

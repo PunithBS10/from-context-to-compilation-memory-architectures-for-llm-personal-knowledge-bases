@@ -65,7 +65,8 @@ def select_questions(qa_items: list, max_questions: int | None, stratify: bool) 
 
 
 def run(system_key: str, dataset_key: str, limit: int | None, max_questions: int | None,
-        use_cache: bool, dump_prompts: int, stratify: bool = False) -> Path:
+        use_cache: bool, dump_prompts: int, stratify: bool = False,
+        note: str = "") -> Path:
     conversations = DATASETS[dataset_key](limit)
     client = LLMClient(use_cache=use_cache)
     judge = LLMJudge(client)
@@ -133,6 +134,7 @@ def run(system_key: str, dataset_key: str, limit: int | None, max_questions: int
             "limit": limit,
             "max_questions": max_questions,
             "stratified": stratify,
+            "note": note,
             "cache_enabled": use_cache,
             "cache_hits": client.cache_hits,
             "live_api_calls": client.calls,
@@ -218,6 +220,8 @@ def main(argv=None) -> int:
                         help="with --max-questions, spread the sample evenly across QA "
                              "categories instead of taking them in file order")
     parser.add_argument("--no-cache", action="store_true", help="ignore the response cache")
+    parser.add_argument("--note", default="",
+                        help="free-text label recorded in the results file, e.g. why this run exists")
     parser.add_argument("--dump-prompts", type=int, default=0,
                         help="print the first N raw prompts before sending them")
     parser.add_argument("--dry-run", action="store_true",
@@ -229,7 +233,7 @@ def main(argv=None) -> int:
 
     run(args.system, args.dataset, args.limit, args.max_questions,
         use_cache=not args.no_cache, dump_prompts=args.dump_prompts,
-        stratify=args.stratify)
+        stratify=args.stratify, note=args.note)
     return 0
 
 
