@@ -1,0 +1,31 @@
+results_file,conv_id,qa_index,category,question,gold_answer,prediction,human_correct
+system_l_locomo_20260817_210022.json,conv-50,48,temporal,What was Dave doing in the first weekend of October 2023?,attending a car show,No information available.,0
+system_l_locomo_20260817_210022.json,conv-26,172,adversarial,What inspired Melanie's painting for the art show?,[unanswerable - correct response is to decline],Melanie's painting was inspired by the sunsets.,0
+system_l_locomo_20260817_210022.json,conv-30,20,temporal,When did Gina get accepted for the design internship?,27-May-23,21-Jun-23,0
+system_l_locomo_20260817_210022.json,conv-44,28,multi_hop,What is something that Audrey often dresses up her dogs with?,Hats,Party hats.,1
+system_l_locomo_20260817_210022.json,conv-49,184,adversarial,What family event is Sam planning for next summer?,[unanswerable - correct response is to decline],A big family reunion.,0
+system_l_locomo_20260817_210022.json,conv-41,34,temporal,When did Maria join a gym?,The week before 16 June 2023,No information available.,0
+system_l_locomo_20260817_210022.json,conv-44,4,temporal,When did Audrey make muffins for herself?,The week of April 3rd to 9th,No information available.,0
+system_l_locomo_20260817_210022.json,conv-42,219,adversarial,What supervillain is Joanna a fan of?,[unanswerable - correct response is to decline],No information available.,1
+system_l_locomo_20260817_210022.json,conv-49,81,multi_hop,What is a stress reliever for Evan?,"Drawing, traveling, places with a beautiful view, yoga, sunsets or something comfortable for Evan",Watercolor painting.,0
+system_l_locomo_20260817_210022.json,conv-48,143,single_hop,Why does Deborah take her cats out for a run in the park every day?,Exercise and nature are important to her,Exercise and nature are really important to me.,1
+system_l_locomo_20260817_210022.json,conv-47,132,single_hop,What career milestone did John achieve recently in September 2022?,making his first mobile game,John won the regional chess tournament.,0
+system_l_locomo_20260817_210022.json,conv-50,146,single_hop,What type of music has Dave been getting into lately?,Classic rock,Classic rock.,1
+system_l_locomo_20260817_210022.json,conv-50,190,adversarial,When did Calvin sell the car he restored last year?,[unanswerable - correct response is to decline],No information available.,1
+system_l_locomo_20260817_210022.json,conv-49,124,single_hop,What does Evan mention about his progress at the gym to Sam?,gaining strength,"Evan mentions, ""I've been working on it for two years now.""",0
+system_l_locomo_20260817_210022.json,conv-48,70,open_domain,Is the friend who wrote Deborah the motivational quote no longer alive?,likely yes,"Yes, the friend will never be able to support her.",1
+system_l_locomo_20260817_210022.json,conv-43,202,adversarial,What is Tim excited to see at Disneyland?,[unanswerable - correct response is to decline],No information available.,1
+system_l_locomo_20260817_210022.json,conv-48,83,multi_hop,What kind of professional activities does Jolene participate in to gain more experience in her field?,"present work at virtual conference, attend workshops  and intern at firms",Internships and engineering projects.,0
+system_l_locomo_20260817_210022.json,conv-43,19,open_domain,What is a prominent charity organization that John might want to work with and why?,"Good Sports, because they work with Nike, Gatorade, and Under Armour and they aim toprovide youth sports opportunities for kids ages 3-18 in high-need communities.",No information available.,0
+system_l_locomo_20260817_210022.json,conv-47,36,open_domain,Who is Jill?,Most likely John's partner.,No information available.,0
+system_l_locomo_20260817_210022.json,conv-44,30,temporal,When is Andrew planning to go to the beach with his girlfriend?,Nov-23,Next month.,0
+system_l_locomo_20260817_210022.json,conv-30,0,temporal,When Jon has lost his job as a banker?,19-Jan-23,19-Jan-23,1
+system_l_locomo_20260817_210022.json,conv-50,24,multi_hop,Can Dave work with engines?,yes,"Yes, he works on car engines.",1
+system_l_locomo_20260817_210022.json,conv-42,144,single_hop,What kind of impact does Joanna hope to have with her writing?,share her stories and hopefully have an impact,Joanna hopes to make a difference and have an impact.,1
+system_l_locomo_20260817_210022.json,conv-50,135,single_hop,What does Calvin believe makes an artist create something extraordinary?,Paying attention to small details,Paying attention to those small details.,1
+system_l_locomo_20260817_210022.json,conv-49,69,multi_hop,Which two significant life events occur in Evan's life in December 2023 with his partner?,his partner gets pregnant and they get married,Evan got married and announced his partner's pregnancy.,1
+system_l_locomo_20260817_210022.json,conv-42,68,open_domain,How many hikes has Joanna been on?,Four,No information available.,0
+system_l_locomo_20260817_210022.json,conv-47,34,multi_hop,Which countries did James visit in July 2022?,"Canada, Greenland",Canada and Greenland.,1
+system_l_locomo_20260817_210022.json,conv-43,220,adversarial,What motivated John to keep pushing himself to get better in writing and reading?,[unanswerable - correct response is to decline],No information available.,1
+system_l_locomo_20260817_210022.json,conv-26,81,open_domain,Would Caroline want to move back to her home country soon?,No; she's in the process of adopting children.,No information available.,0
+system_l_locomo_20260817_210022.json,conv-41,41,open_domain,Does John live close to a beach or the mountains?,beach,No information available.,0

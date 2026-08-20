@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Data (downloaded, not committed — see README)
+data/
+
+# API response cache
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
