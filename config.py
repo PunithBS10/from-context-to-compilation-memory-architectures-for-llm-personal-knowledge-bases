@@ -30,6 +30,16 @@ JUDGE_MODEL = "gpt-4.1-mini"
 # is expected; the check stays in place to prove that rather than assume it.
 MODEL_CONTEXT_LIMIT = 128_000
 
+# --- System A (RAG) ---------------------------------------------------------
+# Conventional settings, fixed deliberately and NOT hand-tuned. The strongest
+# attack on this thesis is "you beat a weak RAG", so any change here needs a
+# documented reason and a re-run.
+CHUNK_TURNS = 4        # a lone turn is often meaningless ("Wow, that's cool!")
+CHUNK_OVERLAP = 1      # stops a question and its answer splitting across chunks
+RAG_K = 5              # chunks retrieved per question; 10 is run as a sweep
+EMBEDDING_MODEL = "text-embedding-3-small"
+EMBEDDING_BATCH = 128  # texts per embeddings request
+
 TEMPERATURE = 0.0
 MAX_ANSWER_TOKENS = 256
 MAX_JUDGE_TOKENS = 200
@@ -46,6 +56,9 @@ PRICES = {
     "gpt-4.1-nano": {"input": 0.10, "output": 0.40},
     "gpt-4o":       {"input": 2.50, "output": 10.00},
     "gpt-4o-mini":  {"input": 0.15, "output": 0.60},
+    # Embeddings bill input only; output stays 0 so the same helper works.
+    "text-embedding-3-small": {"input": 0.02, "output": 0.0},
+    "text-embedding-3-large": {"input": 0.13, "output": 0.0},
 }
 
 # --- API behaviour ----------------------------------------------------------
@@ -76,6 +89,10 @@ def as_dict() -> dict:
         "temperature": TEMPERATURE,
         "max_answer_tokens": MAX_ANSWER_TOKENS,
         "max_judge_tokens": MAX_JUDGE_TOKENS,
+        "chunk_turns": CHUNK_TURNS,
+        "chunk_overlap": CHUNK_OVERLAP,
+        "rag_k": RAG_K,
+        "embedding_model": EMBEDDING_MODEL,
         "context_safety_margin": CONTEXT_SAFETY_MARGIN,
         "prices_usd_per_1m": PRICES,
     }

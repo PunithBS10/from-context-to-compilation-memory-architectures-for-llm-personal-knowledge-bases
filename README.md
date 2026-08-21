@@ -7,12 +7,13 @@ same conversational-memory data so the effect of each layer is isolated:
 | System | What it is | Status |
 |---|---|---|
 | **L** | Long-context baseline — the whole conversation in the context window | **built** |
-| A | Plain RAG baseline | next |
-| B | Compiled LLM-wiki memory (OKF format) | planned |
+| **A** | Plain RAG baseline — chunk, embed, retrieve top-k | **built** |
+| B | Compiled LLM-wiki memory (OKF format) | next |
 | C | Wiki + provenance tracking | planned |
 | D | Wiki + provenance-driven selective forgetting | planned |
 
-Research context: `../00_PROJECT_STATUS.md`. Design: `IMPLEMENTATION_SPEC_System_L.md`.
+Research context: `../00_PROJECT_STATUS.md` and `../00_RESEARCH_LOG.md`.
+Design: `IMPLEMENTATION_SPEC_System_L.md`, `IMPLEMENTATION_SPEC_System_A.md`.
 
 ## Run it
 
@@ -24,10 +25,14 @@ python scripts/inspect_locomo.py                        # confirm the data schem
 python -m src.runner --system l --limit 1 --dry-run     # free: prompts + cost estimate
 python -m src.runner --system l --limit 1               # one conversation, real calls
 python -m src.runner --system l                         # full run (see cost below)
+python -m src.runner --system a --k 5                   # RAG baseline
+python -m src.runner --system a --k 10                  # retrieval-depth sweep
 ```
 
 Useful flags: `--limit N` (first N conversations), `--max-questions N`,
-`--dump-prompts N` (print raw prompts before sending), `--no-cache`.
+`--stratify` (spread a small sample across all QA categories), `--k N`
+(retrieval depth), `--dump-prompts N` (print raw prompts before sending),
+`--note "..."` (label the run in its results file), `--no-cache`.
 
 ## What it does
 
@@ -102,6 +107,40 @@ python scripts/validate_judge.py score results/judge_validation_<stamp>.csv
 That reports agreement and Cohen's kappa. Do it once, early, and quote the
 figure in the thesis.
 
+## Results so far
+
+Full LoCoMo, 1,986 questions, `gpt-4o-mini`, judge `gpt-4.1-mini`:
+
+| | L | A (k=5) | A (k=10) |
+|---|---|---|---|
+| Judge accuracy | 0.579 | 0.609 | **0.624** |
+| Mean prompt tokens | 20,849 | **958** | 1,748 |
+| Mean latency | 5.71 s | 0.95 s | **0.68 s** |
+| Total cost | $6.43 | **$0.50** | $0.74 |
+| Evidence recall | n/a | 0.755 | 0.837 |
+
+Retrieval beats brute-force context on this dataset, and does it roughly 13x
+cheaper. See `../00_RESEARCH_LOG.md` for the per-category breakdown and the
+caveats — particularly judge leniency on temporal questions, which is where
+System A's advantage is largest.
+
+## System A notes
+
+Chunks are 4 turns with 1 turn of overlap, never crossing a session boundary,
+each rendered with its session date so temporal questions stay answerable.
+Retrieved chunks are re-ordered chronologically before entering the prompt.
+Similarity is a dot product over L2-normalised embeddings held in a numpy
+array — no vector database, because one conversation is ~200 chunks and every
+line of this has to be defensible in a viva.
+
+**The answering prompt is imported from `system_l.py`, not copied**, so the two
+systems cannot drift apart. The only difference between L and A is what text
+reaches the model.
+
+**Evidence recall** uses LoCoMo's `evidence` field to report how often the
+retrieved chunks actually contained the answer's source turns. It separates
+"retrieval missed it" from "retrieval found it and the model was still wrong".
+
 ## Cost and caching
 
 Every API response is cached on disk under `.cache/`, keyed by model, messages,
@@ -123,6 +162,7 @@ src/llm.py                     OpenAI client: cache, retry/backoff, accounting
 src/datasets/locomo.py         loader -> Conversation objects
 src/systems/base.py            MemorySystem, Answer — the shared interface
 src/systems/system_l.py        System L
+src/systems/system_a.py        System A (chunking, embedding, retrieval)
 src/evaluation/judge.py        LLM-as-judge
 src/evaluation/metrics.py      F1, aggregation, per-category summaries
 src/runner.py                  run(system, dataset) -> results file

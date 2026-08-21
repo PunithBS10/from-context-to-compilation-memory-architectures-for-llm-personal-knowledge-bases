@@ -93,6 +93,17 @@ def _mean(values) -> float:
     return statistics.fmean(values) if values else 0.0
 
 
+def _mean_or_none(values) -> float | None:
+    """Mean of the non-None values, or None if there are none at all.
+
+    Distinct from `_mean`: a real 0.0 must stay 0.0, while "no applicable
+    records" must stay None, so an un-retrieved metric is never reported as a
+    score of zero.
+    """
+    present = [v for v in values if v is not None]
+    return statistics.fmean(present) if present else None
+
+
 def summarise(records: list[dict]) -> dict:
     """Aggregate per-question records into the report the thesis needs.
 
@@ -116,7 +127,18 @@ def summarise(records: list[dict]) -> dict:
             "mean_prompt_tokens": _mean(r["prompt_tokens"] for r in subset_answered),
             "mean_completion_tokens": _mean(r["completion_tokens"] for r in subset_answered),
             "mean_cost_usd": _mean(r["cost_usd"] for r in subset_answered),
-            "mean_latency_s": _mean(r["latency_s"] for r in subset_live),
+            # None, not 0.0, when every record was replayed from cache: a
+            # cache hit is not a latency measurement, and reporting 0.00s would
+            # look like an impossibly fast system.
+            "mean_latency_s": _mean_or_none(r["latency_s"] for r in subset_live),
+            # Retrieval-only. None for systems that do not retrieve and for
+            # questions with no evidence listed, where recall is undefined
+            # rather than zero. `_mean_or_none` keeps a genuine 0.0 distinct
+            # from "not applicable" -- `or None` would silently conflate them.
+            "evidence_recall": _mean_or_none(
+                r.get("evidence_recall") for r in subset),
+            "mean_retrieval_cost_usd": _mean_or_none(
+                r.get("retrieval_cost_usd") for r in subset_answered),
         }
 
     categories = sorted({r["category"] for r in records})
@@ -148,6 +170,7 @@ def summarise(records: list[dict]) -> dict:
 SUMMARY_COLUMNS = [
     "scope", "n", "judge_accuracy", "f1", "abstention_rate", "context_overflow",
     "mean_prompt_tokens", "mean_completion_tokens", "mean_cost_usd", "mean_latency_s",
+    "evidence_recall", "mean_retrieval_cost_usd",
 ]
 
 

@@ -1,0 +1,7 @@
+scope,n,judge_accuracy,f1,abstention_rate,context_overflow,mean_prompt_tokens,mean_completion_tokens,mean_cost_usd,mean_latency_s,evidence_recall,mean_retrieval_cost_usd
+overall,10,0.7,0.4813,0.2,0,1004.4,5.6,0.0002,,0.65,0.0
+adversarial,2,0.5,0.5,0.5,0,1049.5,5.0,0.0002,,1.0,0.0
+multi_hop,2,0.5,0.1667,0.0,0,1010.5,8.5,0.0002,,0.0,0.0
+open_domain,2,0.5,0.3111,0.5,0,966.0,6.5,0.0001,,0.75,0.0
+single_hop,2,1.0,0.9286,0.0,0,1030.5,4.0,0.0002,,1.0,0.0
+temporal,2,1.0,0.5,0.0,0,965.5,4.0,0.0001,,0.5,0.0

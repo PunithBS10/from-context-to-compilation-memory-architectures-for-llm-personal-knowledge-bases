@@ -35,6 +35,17 @@ RETRYABLE = (RateLimitError, APITimeoutError, APIConnectionError, InternalServer
 
 
 @dataclass
+class EmbeddingResult:
+    vectors: list[list[float]]
+    model: str
+    prompt_tokens: int = 0
+    latency_s: float = 0.0
+    cost_usd: float = 0.0
+    api_texts: int = 0       # texts that actually hit the API
+    cached_texts: int = 0    # texts served from the embedding cache
+
+
+@dataclass
 class LLMResponse:
     text: str
     model: str
@@ -176,3 +187,72 @@ class LLMClient:
             cached=False,
             meta={"finish_reason": record["finish_reason"]},
         )
+
+    # --- embeddings -------------------------------------------------------
+    def embed(self, texts: list[str], model: str = config.EMBEDDING_MODEL) -> EmbeddingResult:
+        """Embed many texts, batching the API calls.
+
+        Cached per individual text, not per batch, so a changed batch boundary
+        still reuses every vector it has already paid for. The cache namespace
+        is distinct from the chat cache ("emb:" prefix in the key payload), so
+        the two can never collide.
+        """
+        vectors: list[list[float] | None] = [None] * len(texts)
+        pending: list[int] = []
+
+        if self.use_cache:
+            for index, text in enumerate(texts):
+                hit = self._cache_read(self._embed_key(model, text))
+                if hit is not None:
+                    vectors[index] = hit["vector"]
+                    self.cache_hits += 1
+                else:
+                    pending.append(index)
+        else:
+            pending = list(range(len(texts)))
+
+        prompt_tokens = 0
+        latency = 0.0
+        for start in range(0, len(pending), config.EMBEDDING_BATCH):
+            batch = pending[start:start + config.EMBEDDING_BATCH]
+            payload = [texts[i] for i in batch]
+
+            last_error: Exception | None = None
+            for attempt in range(config.MAX_RETRIES):
+                try:
+                    began = time.perf_counter()
+                    response = self.client.embeddings.create(model=model, input=payload)
+                    latency += time.perf_counter() - began
+                    break
+                except RETRYABLE as err:
+                    last_error = err
+                    delay = config.RETRY_BASE_DELAY * (2 ** attempt)
+                    print(f"  [embed retry {attempt + 1}/{config.MAX_RETRIES}] "
+                          f"{type(err).__name__}; sleeping {delay:.0f}s")
+                    time.sleep(delay)
+            else:
+                raise RuntimeError(
+                    f"{model} embeddings failed after {config.MAX_RETRIES} retries"
+                ) from last_error
+
+            self.calls += 1
+            prompt_tokens += response.usage.prompt_tokens if response.usage else 0
+            for index, item in zip(batch, response.data):
+                vectors[index] = item.embedding
+                if self.use_cache:
+                    self._cache_write(self._embed_key(model, texts[index]),
+                                      {"vector": item.embedding})
+
+        return EmbeddingResult(
+            vectors=[v for v in vectors if v is not None],
+            model=model,
+            prompt_tokens=prompt_tokens,
+            latency_s=latency,
+            cost_usd=config.price_of(model, prompt_tokens, 0),
+            api_texts=len(pending),
+            cached_texts=len(texts) - len(pending),
+        )
+
+    def _embed_key(self, model: str, text: str) -> str:
+        payload = json.dumps({"kind": "emb", "model": model, "text": text}, sort_keys=True)
+        return hashlib.sha256(payload.encode("utf-8")).hexdigest()
