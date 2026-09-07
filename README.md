@@ -12,9 +12,6 @@ same conversational-memory data so the effect of each layer is isolated:
 | C | Wiki + provenance tracking | planned |
 | D | Wiki + provenance-driven selective forgetting | planned |
 
-The design is documented here. The *reasoning* — decisions and why, what went
-wrong, how each result is interpreted — is in `../00_RESEARCH_LOG.md`, and the
-current state of the project is in `../00_PROJECT_STATUS.md`.
 
 ## Run it
 
