@@ -1,0 +1,51 @@
+---
+title: Hiking
+type: topic
+---
+
+- Andrew's favorite hiking spot is Fox Hollow. — 27 March, 2023
+- Andrew misses exploring nature trails with his family's dog. — 2 April, 2023
+- Audrey wants to hike with her dogs. — 2 April, 2023
+- Andrew thinks hiking with a dog is a great way to bond and create memories together. — 2 April, 2023
+- Andrew feels connected to nature when he is out on a hike. — 16 April, 2023
+- Audrey went on a hike and had an amazing experience with a hummingbird on 3 May, 2023. — 3 May, 2023
+- Andrew found a new open space to hike nearby. — 3 May, 2023
+- Andrew usually tries to escape the city at least once a weekend to hike. — 3 May, 2023
+- Andrew finds nature therapeutic and feels great being surrounded by greenery or standing on top of a mountain breathing in fresh air. — 3 May, 2023
+- Andrew had a great hike last weekend with friends and his girlfriend at a recently found spot. — 11 May, 2023
+- Audrey took her dogs for a hike to a national park the week before 2 June 2023 and reached a beautiful peak during sunset. — 2 June, 2023
+- Audrey described the sunset at the peak as stunning and felt it was a slice of paradise. — 2 June, 2023
+- Audrey took a bunch of photos during the hike, and one of her favorites features two horses in a field with a fence. — 2 June, 2023
+- Andrew hiked with friends last Friday and enjoyed the great weather outdoors. — 26 June, 2023
+- Audrey and her friends stumbled across a stunning lake in the mountains a few years back during a hike. — 26 June, 2023
+- Andrew and Audrey plan to go hiking next month with their dogs. — 8 July, 2023
+- Andrew shared a photo of a trail he thinks would be great for the dogs. — 8 July, 2023
+- Audrey is looking into the trail for her dogs to run around. — 8 July, 2023
+- Audrey shared a photo from a hike last year showing a pretty sunset. — 8 July, 2023
+- Audrey hiked last year, which was a 3 hour drive from her, and the sunset was amazing. — 8 July, 2023
+- Andrew misses the peace and feeling of freedom that comes with going for a hike. — 11 July, 2023
+- Audrey and Andrew plan to go hiking next month with their dogs. — 11 July, 2023
+- Andrew and Audrey are excited for their hike and for Toby and Audrey's dogs to meet. — 11 July, 2023
+- Audrey and her dogs went on a trail hike that took two hours. — 4 August, 2023
+- Audrey saw lots of amazing views during the hike. — 4 August, 2023
+- Andrew shared a photo from his last hike, which features a sunset over a mountain with a church on top. — 19 August, 2023
+- Andrew went for a hike last weekend — 6 September, 2023
+- Andrew witnessed a beautiful sunset during his hike — 6 September, 2023
+- Andrew wants to hike with Toby someday — 6 September, 2023
+- Audrey and her dogs are going on a hike next month. — 1 October, 2023
+- Andrew used to hike a lot, but finds it more challenging now with his work-life balance. — 4 October, 2023
+- Audrey plans to go on a hike with her dogs for therapy. — 13 October, 2023
+- Audrey remembers the good times every time she goes on a hiking trip with her dogs. — 13 October, 2023
+- Buddy loves checking out new hiking trails with Andrew. — 19 October, 2023
+- Audrey and Andrew plan to go hiking with their dogs next month. — 19 October, 2023
+- Audrey is going to research and find a nice spot for their hike. — 19 October, 2023
+- Audrey and Andrew are planning to go hiking on Saturday. — 28 October, 2023
+- Audrey is going to bring snacks for the hike with Andrew. — 28 October, 2023
+- Audrey and Andrew plan to explore a trail by a lake that is peaceful and dog-friendly. — 28 October, 2023
+- There is a lake near the trail that Audrey and Andrew plan to explore with their dogs. — 28 October, 2023
+- Audrey shared a photo of a lake she found online. — 28 October, 2023
+- Audrey and Andrew are excited to capture moments with their dogs during the hike. — 28 October, 2023
+- Andrew shared a photo of a man hiking up a mountain with a backpack. — 28 October, 2023
+- Andrew shared a photo of a man walking a dog on a leash. — 28 October, 2023
+- Andrew shared a photo of a forest with yellow trees and a blue sky. — 28 October, 2023
+- Andrew shared a photo of a man and his dog on a trail. — 28 October, 2023

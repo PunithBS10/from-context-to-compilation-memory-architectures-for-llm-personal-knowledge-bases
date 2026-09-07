@@ -1,0 +1,43 @@
+---
+title: LGBTQ support group
+type: event
+---
+
+- Caroline attended an LGBTQ support group on 7 May 2023. — 8 May, 2023
+- Caroline found the transgender stories at the support group inspiring. — 8 May, 2023
+- Caroline feels accepted and has gained courage to embrace herself from the support group. — 8 May, 2023
+- Caroline talked about her transgender journey at a school event last week — 9 June, 2023
+- Caroline shared her struggles and development since coming out during her talk — 9 June, 2023
+- Caroline believes conversations about gender identity and inclusion are necessary — 9 June, 2023
+- Caroline attended an LGBTQ+ counseling workshop last Friday that was enlightening. — 27 June, 2023
+- The LGBTQ+ counseling workshop Caroline attended discussed different therapeutic methods for working with trans people. — 27 June, 2023
+- Caroline attended an LGBTQ+ pride parade last week. — 3 July, 2023
+- Caroline is going to a transgender conference this month. — 3 July, 2023
+- Caroline is excited to meet other people in the community and learn more about advocacy at the transgender conference. — 3 July, 2023
+- Caroline appreciates her friends and family for their support during her transition. — 6 July, 2023
+- Caroline's support network has been amazing, providing love, guidance, and acceptance during her transition. — 6 July, 2023
+- Caroline attended an LGBTQ conference two days ago and felt accepted in the community. — 12 July, 2023
+- Caroline attended a pride parade a few weeks ago. — 15 July, 2023
+- Caroline felt accepted and happy at the pride parade. — 15 July, 2023
+- Caroline joined a mentorship program for LGBTQ youth — 17 July, 2023
+- Caroline mentors a transgender teen — 17 July, 2023
+- Caroline and her mentee attended an LGBT pride event last month — 17 July, 2023
+- Caroline's mentee felt supported at the pride event — 17 July, 2023
+- Caroline is having an LGBTQ art show next month — 17 July, 2023
+- Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on 18 July 2023. — 20 July, 2023
+- Caroline's LGBTQ activist group has regular meetings, plans events and campaigns to support each other. — 20 July, 2023
+- Caroline missed the pride parade that took place last weekend in her city. — 20 July, 2023
+- Caroline had a not-so-great experience on a hike where she ran into a group of religious conservatives who upset her. — 17 August, 2023
+- Caroline thinks there is still much work to do for LGBTQ rights. — 17 August, 2023
+- Caroline and Melanie had a blast last year at the Pride fest. — 17 August, 2023
+- Caroline values having supportive people around and promoting LGBTQ rights. — 23 August, 2023
+- Caroline wants to live authentically and help others do the same. — 23 August, 2023
+- Caroline is putting together an LGBTQ art show next month to showcase her paintings. — 25 August, 2023
+- Caroline volunteered at an LGBTQ+ youth center. — 28 August, 2023
+- Caroline felt fulfilled guiding and supporting young people at the LGBTQ+ youth center. — 28 August, 2023
+- Caroline plans to continue volunteering at the youth center. — 28 August, 2023
+- Caroline is involved in putting together a talent show for the kids at the youth center next month. — 28 August, 2023
+- Caroline is inspired by her work making a difference for the LGBTQ+ community. — 13 September, 2023
+- Caroline is thankful for her friends, family, and mentors' support. — 13 September, 2023
+- Creating art was important to Caroline during her transition. — 13 September, 2023
+- Caroline's relationships have changed during her journey, with some friends supporting her and others not able to handle it. — 13 September, 2023

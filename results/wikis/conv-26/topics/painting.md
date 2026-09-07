@@ -1,0 +1,40 @@
+---
+title: Painting
+type: topic
+---
+
+- Melanie painted a lake sunrise last year. — 8 May, 2023
+- Melanie finds painting a fun way to express her feelings and relax after a long day. — 8 May, 2023
+- Melanie and her kids love painting together, especially nature-inspired ones. — 15 July, 2023
+- Melanie and her kids painted a sunset with a palm tree last weekend. — 15 July, 2023
+- Caroline painted a piece for the art show after visiting an LGBTQ center — 17 July, 2023
+- Caroline's painting conveys unity and strength — 17 July, 2023
+- Melanie and her kids finished another painting — 17 July, 2023
+- Caroline uses her art to represent inclusivity and diversity. — 14 August, 2023
+- Caroline's art expresses her trans experience and helps people understand the trans community. — 14 August, 2023
+- Caroline created a painting titled 'Embracing Identity' that represents comfort and love in being oneself. — 14 August, 2023
+- Caroline's art helps her explore her transition and changing body. — 14 August, 2023
+- Caroline believes that beauty can be found in imperfections. — 14 August, 2023
+- Melanie uses painting to express her feelings and be creative. — 17 August, 2023
+- Melanie feels a strong connection to art and finds it to be a sanctuary and source of comfort. — 17 August, 2023
+- Melanie painted a horse on a wooden wall. — 23 August, 2023
+- Caroline created a self-portrait with a blue face. — 23 August, 2023
+- Caroline felt liberated and empowered while painting her self-portrait. — 23 August, 2023
+- Caroline believes painting helps her explore her identity and be true to herself. — 23 August, 2023
+- Caroline has been busy painting. — 25 August, 2023
+- Caroline painted a sunset after visiting the beach last week. — 25 August, 2023
+- Caroline created a stained glass window to remind herself and others of their true potential. — 25 August, 2023
+- Caroline made a stained glass window for a local church to show her journey as a transgender woman. — 25 August, 2023
+- Caroline enjoys drawing flowers and finds it great to appreciate nature. — 25 August, 2023
+- Melanie loves painting landscapes and still life. — 25 August, 2023
+- Melanie is feeling inspired by autumn and planning a few paintings. — 25 August, 2023
+- Caroline has been creating art since she was 17. — 13 September, 2023
+- Caroline finds art empowering and cathartic. — 13 September, 2023
+- Melanie has been into art for seven years, focusing on painting and pottery. — 13 September, 2023
+- Caroline expressed her feelings and explored her gender identity through painting and drawing. — 13 September, 2023
+- Caroline made a painting to show her path as a trans woman, using red and blue to represent the binary gender system. — 13 September, 2023
+- Caroline's painting serves as a reminder to love her authentic self. — 13 September, 2023
+- Melanie painted a sunset inspired piece last week. — 13 October, 2023
+- Caroline has been trying out abstract painting recently. — 13 October, 2023
+- Melanie painted an abstract painting to show tranquility with peaceful blue streaks. — 13 October, 2023
+- Caroline drew a picture that stands for freedom and being real. — 13 October, 2023

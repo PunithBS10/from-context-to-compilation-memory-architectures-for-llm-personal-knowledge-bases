@@ -1,0 +1,32 @@
+---
+title: Painting
+type: topic
+---
+
+- Sam has been thinking about trying painting as a hobby. — 18 May, 2023
+- Evan started watercolor painting a few years back. — 18 May, 2023
+- Evan's friend got him into watercolor painting and gave him some advice. — 18 May, 2023
+- Sam has been thinking about trying painting as a hobby to stay motivated. — 24 May, 2023
+- Evan believes painting is a great way to relieve stress and be creative. — 24 May, 2023
+- Evan has been painting for a few years and finds it helps him find peace. — 24 May, 2023
+- Evan started taking painting classes a few days ago. — 19 August, 2023
+- Evan started painting when a friend gave him a painting that inspired him. — 19 August, 2023
+- Evan is learning about watercolors in his painting classes. — 19 August, 2023
+- Evan loves painting landscapes. — 19 August, 2023
+- Evan shared an image of a painting of a sunset over a body of water — 11 September, 2023
+- Evan finds that painting or going for a drive helps him de-stress — 11 September, 2023
+- Sam wants to give painting a try to see if it relaxes him — 11 September, 2023
+- Evan suggested that Sam get acrylic paints, brushes, a canvas/paper, and a palette to mix colors for painting — 11 September, 2023
+- Evan and Sam plan to have a painting session next Saturday — 11 September, 2023
+- Evan enjoys watercolor painting to keep busy and relax. — 6 October, 2023
+- Evan's sunset painting was inspired by a vacation a few years back. — 6 October, 2023
+- Evan's cactus painting came from a road trip last month. — 6 October, 2023
+- Evan finished a painting of a sunset, which helps him relax. — 14 October, 2023
+- Evan shared an image of a photo of a woman standing in front of a painting. — 17 December, 2023
+- Evan finished a contemporary figurative painting a few days ago. — 17 December, 2023
+- Evan's painting emphasizes the emotional state through expressive brushwork and vibrant color choices. — 17 December, 2023
+- Evan's painting captures a moment of introspection where the subject is deeply immersed in thought. — 17 December, 2023
+- Evan's close friend helped him get his painting published in the exhibition. — 17 December, 2023
+- Evan created a painting when he was a mix of emotions - sad, mad, and hopeful. — 26 December, 2023
+- Evan painted a piece with a sense of joy and freedom, using spontaneous strokes and bold colors. — 26 December, 2023
+- Evan shared a photo of a tree with pink flowers in a park that reminded him of last spring. — 11 January, 2024

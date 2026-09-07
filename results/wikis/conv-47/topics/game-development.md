@@ -1,0 +1,34 @@
+---
+title: Game Development
+type: topic
+---
+
+- James is working on a project to create a computer game based on sketches he made as a child. — 17 March, 2022
+- James enjoys combining his passions for gaming and storytelling in his projects. — 17 March, 2022
+- James worked with one of his gaming pals on a programming project last Thursday. — 20 April, 2022
+- James created a virtual world inspired by The Witcher 3. — 20 April, 2022
+- James created a game character for the virtual world he developed. — 20 April, 2022
+- James has been working on a project for weeks. — 4 May, 2022
+- James hit a major snag in his project due to a bug in the code that messed up the game mechanics. — 4 May, 2022
+- James tried debugging the issue for hours but couldn't solve it on his own. — 4 May, 2022
+- James teamed up with a group of friends to fix the issue in his project. — 4 May, 2022
+- James is currently working on a new part of a football simulator. — 13 June, 2022
+- James was working on collecting player databases for the football simulator. — 13 June, 2022
+- John and his siblings are working on a simple, text-based adventure game to help them learn coding. — 26 August, 2022
+- James is trying out different genres of games and wants to create a strategy game like Civilization. — 26 August, 2022
+- James wants to create his own awesome strategy game one day. — 26 August, 2022
+- James finished his Unity strategy game on 1 September 2022. — 1 September, 2022
+- James's Unity strategy game took loads of time and effort to complete. — 1 September, 2022
+- James is proud of his Unity strategy game. — 1 September, 2022
+- James was inspired to create his game by playing strategy games like Civilization and Total War. — 1 September, 2022
+- James faced challenges during the development of his game, particularly in balancing mechanics and ensuring fairness. — 1 September, 2022
+- James learned that perseverance and patience are key during the game development process. — 1 September, 2022
+- James believes that feedback and collaboration are essential in game development. — 1 September, 2022
+- John watches tutorials and keeps up with developer forums for information and ideas to improve his game. — 20 September, 2022
+- James made his first game and released it for the gaming community. — 13 October, 2022
+- James felt fulfilled to see players engage with the game world he created. — 13 October, 2022
+- James plans to make more games in different genres and test out new ideas. — 13 October, 2022
+- James is looking forward to creating more enjoyable experiences. — 13 October, 2022
+- John collaborated with a game developer to create an online board game. — 7 November, 2022
+- John is about to release a demo of the online board game soon for others to try. — 7 November, 2022
+- James wants to support John and give his thoughts on the online board game when the demo is out. — 7 November, 2022

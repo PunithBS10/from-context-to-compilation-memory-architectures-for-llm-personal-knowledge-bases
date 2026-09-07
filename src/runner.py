@@ -26,11 +26,13 @@ from src.evaluation import metrics
 from src.evaluation.judge import LLMJudge
 from src.llm import LLMClient
 from src.systems.system_a import SystemA
+from src.systems.system_b import SystemB
 from src.systems.system_l import SystemL
 
 SYSTEMS = {
     "l": lambda client, model: SystemL(client, model),
     "a": lambda client, model: SystemA(client, model, k=config.RAG_K),
+    "b": lambda client, model: SystemB(client, model, k=config.RAG_K),
 }
 
 DATASETS = {
@@ -126,6 +128,11 @@ def run(system_key: str, dataset_key: str, limit: int | None, max_questions: int
                 "retrieval_cost_usd": answer.meta.get("retrieval_cost_usd"),
                 "retrieved_dia_ids": answer.meta.get("retrieved_dia_ids"),
                 "evidence_recall": _evidence_recall(qa, answer.meta.get("retrieved_dia_ids")),
+                # "turn" (System A retrieves raw turns) or "session" (System B
+                # retrieves compiled facts, which map back only as far as the
+                # session they came from). The two are NOT the same measure and
+                # the results file has to say which one it is holding.
+                "evidence_recall_granularity": answer.meta.get("evidence_recall_granularity"),
                 "k": answer.meta.get("k"),
             })
 
@@ -233,6 +240,7 @@ def _print_summary(payload: dict) -> None:
             line += f"{recall:>11.3f}" if recall is not None else f"{'-':>11}"
         print(line)
     print("-" * 78)
+    _print_ingest(payload)
     print(f"questions {totals['questions']}  |  context overflows {totals['context_overflows']}"
           f"  |  live calls {payload['run']['live_api_calls']}"
           f"  |  cache hits {payload['run']['cache_hits']}")
@@ -247,6 +255,29 @@ def _print_summary(payload: dict) -> None:
         print(f"WARNING: no price for {config.ANSWER_MODEL} in config.PRICES; cost is reported as 0.")
 
 
+def _print_ingest(payload: dict) -> None:
+    """Cost of BUILDING the memory, reported apart from the cost of using it.
+
+    For L and A ingestion is free or nearly so. For B it is one LLM call per
+    session, paid once and then amortised over every question -- a real
+    trade-off against A that is invisible if ingest cost is folded into the
+    answer cost, and dishonest if it is left out altogether.
+    """
+    stats = payload.get("ingest") or []
+    cost = sum(s.get("ingest_cost_usd", 0.0) for s in stats)
+    if not cost:
+        return
+    prompt_tokens = sum(s.get("ingest_prompt_tokens", 0) for s in stats)
+    completion_tokens = sum(s.get("ingest_completion_tokens", 0) for s in stats)
+    latency = sum(s.get("ingest_latency_s", 0.0) for s in stats)
+    reused = sum(1 for s in stats if s.get("wiki_from_disk"))
+    print(f"ingest (build the memory): ${cost:.4f} over {len(stats)} conversations, "
+          f"{prompt_tokens:,} prompt + {completion_tokens:,} completion tokens, "
+          f"{latency:.0f}s"
+          + (f"  [{reused}/{len(stats)} wikis reused from disk, cost is the "
+             f"original build's]" if reused else ""))
+
+
 def main(argv=None) -> int:
     parser = argparse.ArgumentParser(description="Run a memory system over a QA benchmark.")
     parser.add_argument("--system", default="l", choices=sorted(SYSTEMS))
@@ -259,6 +290,9 @@ def main(argv=None) -> int:
                         help="with --max-questions, spread the sample evenly across QA "
                              "categories instead of taking them in file order")
     parser.add_argument("--no-cache", action="store_true", help="ignore the response cache")
+    parser.add_argument("--rebuild-wiki", action="store_true",
+                        help="System B: recompile every wiki instead of reusing the "
+                             "one in results/wikis/")
     parser.add_argument("--k", type=int, default=None,
                         help="retrieval depth for RAG systems; overrides config.RAG_K "
                              "for this run and is recorded in the results snapshot")
@@ -274,6 +308,8 @@ def main(argv=None) -> int:
     # actually used rather than the default.
     if args.k is not None:
         config.RAG_K = args.k
+    if args.rebuild_wiki:
+        config.WIKI_REUSE = False
 
     if args.dry_run:
         return dry_run(args)
@@ -290,8 +326,10 @@ def dry_run(args) -> int:
 
     Free for System L. For a retrieval system the assembled prompt depends on
     retrieval, so chunk and question embeddings are genuinely computed -- a few
-    tenths of a cent per conversation, cached thereafter. No chat completion is
-    ever sent, which is where the real money is.
+    tenths of a cent per conversation, cached thereafter. For System B
+    ingestion also COMPILES the wiki, which is real LLM calls; that spend is
+    reported below rather than hidden, and a wiki already on disk is reused.
+    No answering completion is ever sent, which is where the real money is.
     """
     conversations = DATASETS[args.dataset](args.limit)
     from src.llm import count_tokens
@@ -301,6 +339,7 @@ def dry_run(args) -> int:
     print(f"DRY RUN - system {args.system.upper()}, dataset {args.dataset}, "
           f"model {config.ANSWER_MODEL} (context {config.MODEL_CONTEXT_LIMIT:,})\n")
     grand_tokens = grand_questions = 0
+    ingest_cost = 0.0
     for conversation in conversations:
         system = SYSTEMS[args.system](client, config.ANSWER_MODEL)
         system.ingest(conversation)
@@ -311,6 +350,7 @@ def dry_run(args) -> int:
         grand_tokens += run_tokens
         grand_questions += len(qa_items)
         stats = system.ingest_stats()
+        ingest_cost += stats.get("ingest_cost_usd", 0.0)
         detail = (f"chunks {stats['ingest_chunks']:>4}"
                   if stats.get("ingest_chunks")
                   else f"transcript {getattr(system, 'transcript_tokens', 0):>7,} tok")

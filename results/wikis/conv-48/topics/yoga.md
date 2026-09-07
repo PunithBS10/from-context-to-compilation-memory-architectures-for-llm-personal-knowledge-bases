@@ -1,0 +1,63 @@
+---
+title: Yoga
+type: topic
+---
+
+- Deborah's goal is to keep teaching yoga and supporting her community. — 23 January, 2023
+- Deborah is passionate about helping people find peace and joy through yoga. — 23 January, 2023
+- Yoga helped Deborah find peace during a rough time. — 23 January, 2023
+- Deborah practices yoga — 27 January, 2023
+- Deborah does yoga at her old home — 27 January, 2023
+- Deborah and Anna talked about how yoga has improved their lives and the sense of community it gives — 1 February, 2023
+- Deborah teaches yoga and finds it a great way to find balance and reconnect with herself. — 4 February, 2023
+- Deborah and Anna were trying out different dance poses in yoga class, including Warrior II, which builds strength and boosts focus. — 4 February, 2023
+- Deborah explained how to do a modified yoga pose while sitting on the edge of a chair, which helps relax tense muscles. — 4 February, 2023
+- Deborah enjoys the sound of the waves and fresh air while doing yoga on the beach. — 22 February, 2023
+- Jolene practices yoga and meditation to help her feel calm amidst the craziness. — 25 February, 2023
+- Jolene's partner started joining her for yoga sometimes, which has brought them closer. — 25 February, 2023
+- Jolene did yoga and meditation last Friday to relax. — 2 March, 2023
+- Deborah also did yoga and meditation to reset her mind. — 2 March, 2023
+- Deborah started a yoga class in the neighborhood — 13 March, 2023
+- Deborah hosted a yoga class for her neighbors on Friday — 13 March, 2023
+- Deborah finds yoga calming and wanted to share that with others — 13 March, 2023
+- Deborah enjoys giving people peace and awareness through yoga — 13 March, 2023
+- Deborah has made great friends through teaching yoga — 13 March, 2023
+- Deborah bought new props for her yoga class. — 28 March, 2023
+- Deborah bought a candle to improve her yoga practice. — 28 March, 2023
+- Jolene feels relaxed during yoga and loves creating a serene space with soothing scents like lavender and rosemary. — 28 March, 2023
+- Deborah enjoys scents like candles and essential oils during her yoga session. — 28 March, 2023
+- Jolene finds music helps her during yoga. — 28 March, 2023
+- Deborah listens to instrumental tracks with mellow melodies and rhythms during yoga, including a track called 'Savana.' — 28 March, 2023
+- Jolene loves listening to Nils Frahm and Olafur Arnalds during her yoga practice. — 28 March, 2023
+- Jolene has been doing yoga sporadically for about 3 years. — 6 June, 2023
+- Jolene finds yoga has helped her with stress and kept her centered. — 6 June, 2023
+- Deborah recommends practicing mindful breathing for yoga. — 6 June, 2023
+- Deborah is getting ready for a yoga retreat with some buddies. — 26 June, 2023
+- Deborah tried a new yoga pose called Dancer Pose (Natarajasana). — 26 June, 2023
+- Deborah shared a photo of a tree pose during her yoga retreat. — 26 June, 2023
+- Deborah's yoga retreat is a perfect spot for reflecting and getting centered. — 26 June, 2023
+- Deborah does running and yoga/meditation with others. — 9 July, 2023
+- Deborah suggested a gentle flow yoga routine that focuses on breathing and grounding. — 1 August, 2023
+- Deborah will send Jolene a tutorial video with yoga poses. — 1 August, 2023
+- Deborah shared an image of a photo of a woman in a pink shirt doing a yoga pose. — 1 August, 2023
+- Deborah made a meditation guide for her yoga retreat — 12 August, 2023
+- Deborah led a meditation yoga session to the elderly at a local care home last week during sunset. — 16 August, 2023
+- Deborah has been focusing on teaching yoga and spending time with the community. — 19 August, 2023
+- Deborah organized a yoga event last month. — 19 August, 2023
+- Deborah reached out to different nearby businesses and places to organize the yoga event. — 19 August, 2023
+- The yoga event included yoga, food stalls, and live music. — 19 August, 2023
+- Deborah practices yoga and meditation to find balance and inner peace. — 21 August, 2023
+- Jolene is trying to do more yoga and meditation to help relax and stay focused. — 21 August, 2023
+- Jolene has been doing yoga for 3 years. — 21 August, 2023
+- Jolene finds yoga a great way to escape studying and work stress. — 21 August, 2023
+- Jolene's favorite yoga pose for rest is savasana, aka the corpse pose. — 21 August, 2023
+- Deborah attended a yoga retreat near her mom's place last week. — 24 August, 2023
+- Deborah found the yoga retreat life-changing and enjoyed connecting with nature and herself. — 24 August, 2023
+- Jolene has been into yoga and meditation lately, which helps her recharge and relieve tension. — 26 August, 2023
+- Jolene checked out some cool yoga classes in Rio de Janeiro. — 30 August, 2023
+- Deborah's yoga pals have been her second family and have supported each other through a lot. — 3 September, 2023
+- Deborah found an old photo from when she first started doing yoga, featuring her mum who was her biggest fan and source of motivation. — 3 September, 2023
+- Deborah had a tough week because a storm forced her to cancel her yoga getaway — 8 September, 2023
+- Deborah finds doing yoga on the beach peaceful and relaxing. — 15 September, 2023
+- Jolene creates a serene yoga space with candles and oils for extra chill vibes. — 15 September, 2023
+- Jolene felt connected to nature and herself while doing yoga with a beautiful backdrop. — 20 September, 2023

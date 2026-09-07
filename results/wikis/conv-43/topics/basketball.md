@@ -1,0 +1,61 @@
+---
+title: Basketball
+type: topic
+---
+
+- John enjoys playing basketball and gives it his all every time he is on the court. — 15 June, 2023
+- John's team bond is strong and makes all the hard work worth it. — 9 August, 2023
+- John's team supports and motivates each other, creating a family-like environment. — 9 August, 2023
+- John has been playing basketball since he was a kid — 11 August, 2023
+- John's dad signed him up for a local basketball league when he turned ten — 11 August, 2023
+- John earned a college scholarship for basketball — 11 August, 2023
+- John was drafted by a basketball team after college — 11 August, 2023
+- John's number one goal in basketball is winning a championship — 11 August, 2023
+- John wants to make a difference away from the basketball court through charity — 11 August, 2023
+- John met back up with his teammates on the 15th after his trip. — 17 August, 2023
+- John felt welcomed back by his teammates after his trip. — 17 August, 2023
+- John feels lucky to be a part of his basketball team. — 17 August, 2023
+- Tim felt like he belonged at an event last month where everyone shared the same love for it. — 17 August, 2023
+- John's teammates gave him a basketball signed by them as a sign of friendship. — 17 August, 2023
+- John finds comfort in having the signed basketball as a reminder of his bond with his teammates. — 17 August, 2023
+- John feels motivated by the support from his teammates and the signed basketball. — 17 August, 2023
+- John found a new gym to stay on his basketball game. — 21 August, 2023
+- John had to adapt and tweak his routine at the new gym. — 21 August, 2023
+- John figured out a schedule that includes both basketball and strength training. — 21 August, 2023
+- John listens to his body and gives it enough rest to push himself during practice. — 21 August, 2023
+- John includes strength training in his routine to build muscle, increase power, and prevent injuries. — 21 August, 2023
+- Strength training helps John become more explosive in games and boosts his overall athleticism. — 21 August, 2023
+- Incorporating strength training improved John's shooting accuracy, agility, and speed. — 21 August, 2023
+- John and his friends were teammates for four years in high school. — 26 August, 2023
+- John connected with his new teammates over their shared love for basketball. — 21 September, 2023
+- John loves playing pro basketball and finds it a constant challenge that helps him grow. — 21 September, 2023
+- John collects basketball jerseys. — 2 October, 2023
+- John admires LeBron for his skills and leadership. — 2 October, 2023
+- John has met LeBron a few times. — 2 October, 2023
+- John is mentoring the younger players on his team. — 17 October, 2023
+- John finds mentoring the younger players super rewarding and enjoys sharing his skills and knowledge with them. — 17 October, 2023
+- John is gaining experience in adapting, motivating, and encouraging the younger players he mentors. — 17 October, 2023
+- John enjoys providing advice and support to the younger players on and off the court. — 17 October, 2023
+- John feels great to have the trust and admiration of the younger players he mentors. — 17 October, 2023
+- Tim has a prized possession, a basketball signed by his favorite player. — 6 November, 2023
+- Tim's favorite player is LeBron James. — 6 November, 2023
+- Tim was inspired by LeBron's epic block in a Finals game a few years back. — 6 November, 2023
+- John faced a major challenge last season when he hurt his ankle, requiring time off and physical therapy. — 21 November, 2023
+- John learned the importance of patience and perseverance while recovering from his ankle injury. — 21 November, 2023
+- John messed up during a big basketball game and worked hard to get better afterwards. — 21 November, 2023
+- John has been playing professional basketball for just under a year. — 6 December, 2023
+- John is getting better at his overall game on the basketball court. — 6 December, 2023
+- John won a trophy for his achievements in basketball. — 6 December, 2023
+- John's basketball team builds camaraderie through team dinners, outings, and basketball games. — 8 December, 2023
+- John felt great being out there making plays for his team during the game. — 11 December, 2023
+- John practiced basketball outside for hours when he was younger, dreaming of playing in big games. — 11 December, 2023
+- Tim believes sports are a way to express ourselves and stay positive. — 11 December, 2023
+- John stated that basketball has been a significant part of his life and allows him to pursue his passions. — 11 December, 2023
+- John shared a photo of a group of women's basketball players holding up a trophy. — 16 December, 2023
+- John injured himself not too long ago and had to miss some games. — 16 December, 2023
+- John is trying to stay active and do his rehab while recovering from his injury. — 16 December, 2023
+- John does physical therapy exercises every day. — 16 December, 2023
+- John had a milestone moment at the gym last Friday when he was able to jog a bit with no pain. — 16 December, 2023
+- John's team has been putting in a lot of work and achieving their goals on the court. — 19 December, 2023
+- John's team has seen the most growth in communication and bonding during their training. — 19 December, 2023
+- John practices and trains in basketball every day — 2 January, 2024

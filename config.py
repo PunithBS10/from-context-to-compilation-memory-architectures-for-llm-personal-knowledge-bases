@@ -40,6 +40,40 @@ RAG_K = 5              # chunks retrieved per question; 10 is run as a sweep
 EMBEDDING_MODEL = "text-embedding-3-small"
 EMBEDDING_BATCH = 128  # texts per embeddings request
 
+# --- System B (compiled wiki) -----------------------------------------------
+# B compiles the conversation into markdown wiki pages, then retrieves over
+# those with EXACTLY the settings above -- same embedding model, same k, same
+# similarity. Nothing here may change how retrieval works, only what it sees.
+WIKI_DIR = RESULTS_DIR / "wikis"      # every compiled wiki is kept on disk
+
+# The compiler is the answering model by default. Using a stronger extractor
+# would make B's wiki better than A's raw text for a reason unrelated to the
+# representation, so any change here has to be reported as a variable.
+WIKI_EXTRACTION_MODEL = ANSWER_MODEL
+
+# One extraction call per session (~800 tokens in, a page of JSON out). If a
+# session's facts hit this ceiling the reply is truncated and facts are lost
+# silently, so the compiler counts truncations and reports them.
+MAX_EXTRACTION_TOKENS = 1_200
+
+# Wiki chunk budget. System A's chunks average 153 tokens (max 307), so this
+# keeps a B chunk the same order of size as an A chunk: at the same k, the two
+# systems put a comparable amount of text in front of the model. A page shorter
+# than this is one chunk; only longer pages are split.
+WIKI_CHUNK_MAX_TOKENS = 250
+
+# Recompile every wiki instead of reusing the one on disk. Set by
+# `--rebuild-wiki`; the on-disk wiki is reused only when it was built by the
+# same model, prompt and compiler version (see wiki.BUILD_FINGERPRINT).
+WIKI_REUSE = True
+
+# The fidelity audit checks the compiler's output with a DIFFERENT and stronger
+# model, for the same reason the judge is not the answerer: a model grading
+# itself is not evidence.
+WIKI_AUDIT_MODEL = JUDGE_MODEL
+MAX_AUDIT_TOKENS = 200
+WIKI_AUDIT_SAMPLE = 100    # facts sampled for the fidelity audit, ~100 per the spec
+
 TEMPERATURE = 0.0
 MAX_ANSWER_TOKENS = 256
 MAX_JUDGE_TOKENS = 200
@@ -94,5 +128,21 @@ def as_dict() -> dict:
         "rag_k": RAG_K,
         "embedding_model": EMBEDDING_MODEL,
         "context_safety_margin": CONTEXT_SAFETY_MARGIN,
+        "wiki_extraction_model": WIKI_EXTRACTION_MODEL,
+        "wiki_chunk_max_tokens": WIKI_CHUNK_MAX_TOKENS,
+        "max_extraction_tokens": MAX_EXTRACTION_TOKENS,
+        # Fingerprint of the extraction prompt and compiler that built the
+        # wikis this run read. A prompt edit changes the wiki, so the results
+        # file has to record which one. Imported lazily: src.systems.wiki
+        # imports this module.
+        "wiki_build_fingerprint": _wiki_build_fingerprint(),
         "prices_usd_per_1m": PRICES,
     }
+
+
+def _wiki_build_fingerprint() -> str | None:
+    try:
+        from src.systems.wiki import BUILD_FINGERPRINT
+    except Exception:          # config must stay importable on its own
+        return None
+    return BUILD_FINGERPRINT

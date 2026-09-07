@@ -1,0 +1,82 @@
+---
+title: Health changes
+type: topic
+---
+
+- Evan suggested Sam swap soda for flavored seltzer water and try dark chocolate with high cocoa content instead of candy. — 6 June, 2023
+- Sam agreed to try swapping soda for flavored seltzer water and dark chocolate. — 6 June, 2023
+- Evan is willing to help Sam get started with basic exercises. — 6 June, 2023
+- Sam's friends mocked his weight last Friday, which hurt him and made him realize he needs to make changes. — 27 July, 2023
+- Evan has a gym membership card as a reminder of his commitment to health. — 27 July, 2023
+- Evan made dietary changes by cutting down on sugary snacks and eating more veggies and fruit, which made a big impact on his health. — 27 July, 2023
+- Sam is reducing his soda and candy intake and is determined to make a change. — 27 July, 2023
+- Evan suggested flavored seltzer water as a great alternative to soda. — 27 July, 2023
+- Evan is reading the novel 'The Great Gatsby'. — 27 July, 2023
+- Evan suggested pairing flavored seltzer with air-popped popcorn or fruit as low-calorie snacks. — 27 July, 2023
+- Sam plans to start going to the gym and exercise regularly starting tomorrow. — 27 July, 2023
+- Evan believes exercising is just as important as eating right. — 27 July, 2023
+- Evan has been dealing with health issues lately. — 7 August, 2023
+- Evan has been working on his health for two years. — 7 August, 2023
+- Evan uses a fitness watch to track his progress and it serves as a reminder to keep going. — 7 August, 2023
+- Evan is motivated by a thirst for adventure on interesting hikes. — 7 August, 2023
+- Evan has a bonsai tree that symbolizes strength and resilience. — 7 August, 2023
+- Evan believes that every little thing we do for ourselves helps us in the long run. — 7 August, 2023
+- Sam has a quote that helps him stay motivated: 'Don't fear it, just take the first step. It's been helping me move forward to healthier habits!' — 13 August, 2023
+- Sam feels that his journey feels endless at times but is convinced it will be rewarding in the end. — 13 August, 2023
+- Sam is on a diet and living healthier. — 19 August, 2023
+- Sam has noticed more energy and less sluggishness after eating. — 19 August, 2023
+- Sam started a new diet and exercise routine last Monday and it has made a huge difference. — 27 August, 2023
+- Evan is looking into physical therapy for his knee. — 27 August, 2023
+- Evan is keeping it low-key and swimming to stay active. — 27 August, 2023
+- Sam loves being surrounded by nature and is working on becoming healthier. — 27 August, 2023
+- Evan suggested going for more hikes to Sam. — 27 August, 2023
+- Sam shared an image of a bowl of beef and vegetables with a package of healthy choice — 11 September, 2023
+- Sam is trying to make healthier choices but struggles with cravings for sugary drinks and snacks — 11 September, 2023
+- Sam's cravings are usually triggered by stress, boredom, or wanting comfort — 11 September, 2023
+- Evan is doing easy exercises to keep his knee strong while he heals. — 6 October, 2023
+- Sam went for a check-up on Monday and his doctor said his weight is a serious health risk. — 8 October, 2023
+- Evan started lifting weights one year ago and is seeing some gains. — 8 October, 2023
+- Evan advises Sam to start out with good form and technique when lifting weights. — 8 October, 2023
+- Evan suggests Sam find a trainer to help avoid injuries while building strength. — 8 October, 2023
+- Evan encourages Sam to stay consistent with his workout routine. — 8 October, 2023
+- Evan believes in Sam's ability to improve his health and encourages him to stay positive. — 8 October, 2023
+- Sam appreciates Evan's support and will keep him posted on his progress. — 8 October, 2023
+- Sam had a health scare last weekend and ended up in the ER with a severe stomachache. — 17 October, 2023
+- Sam was diagnosed with gastritis. — 17 October, 2023
+- Sam plans to start prioritizing health by adopting a more nutritious diet and getting regular exercise. — 17 October, 2023
+- Evan has been focusing on fitness and it has been beneficial for his overall well-being. — 17 October, 2023
+- Evan suggested that Sam set goals for exercise to stay motivated. — 17 October, 2023
+- Evan advised Sam to find an exercise that he enjoys and to get a buddy for extra fun and accountability. — 17 October, 2023
+- Evan was at the gym yesterday and is gaining strength. — 17 October, 2023
+- Sam is excited to get fit with Evan and looks forward to hitting the trails soon. — 17 October, 2023
+- Sam expressed appreciation for Evan's support. — 17 October, 2023
+- Sam is trying to keep up with a new health routine but feels pressured by his family. — 25 October, 2023
+- Evan just got back from his morning walk, which helps him start the day actively. — 25 October, 2023
+- Evan went through a similar phase two years ago, changing his diet and starting to walk regularly. — 25 October, 2023
+- Evan started focusing more on his well-being rather than fixating on quick results. — 25 October, 2023
+- Evan believes letting go of unrealistic expectations was liberating, both physically and mentally. — 25 October, 2023
+- Evan encourages Sam to take it one day at a time and celebrate small victories. — 25 October, 2023
+- Sam is a Weight Watchers coach in his group now. — 9 November, 2023
+- Evan had a health scare last week and went to the hospital. — 21 November, 2023
+- Evan's health scare was a misunderstanding. — 21 November, 2023
+- Evan realizes the importance of keeping an eye on his health. — 21 November, 2023
+- Sam has been dealing with some discomfort that limits his movement. — 21 November, 2023
+- Sam has been trying to make changes diet-wise. — 21 November, 2023
+- Evan stays in shape by hitting the gym and taking his car out for a spin. — 21 November, 2023
+- Evan believes in appreciating the little things in life. — 21 November, 2023
+- Evan and Sam support each other during tough times. — 21 November, 2023
+- Evan is considering trying yoga for stress relief and flexibility. — 5 December, 2023
+- Sam thinks yoga is a great choice and has helped with flexibility and stress levels. — 5 December, 2023
+- Evan's son had an accident last Tuesday when he fell off his bike. — 17 December, 2023
+- Evan's son is doing better now after the accident. — 17 December, 2023
+- Evan shared an image of a photo of a young boy with crutches and a backpack. — 17 December, 2023
+- Evan has been trying new healthy snacks and will send recipes to Sam. — 31 December, 2023
+- Evan has started a new diet limiting himself to just two ginger snaps a day — 6 January, 2024
+- Sam made a meal plan and workout schedule to stay motivated and healthy. — 10 January, 2024
+- Sam plans to ask the doctor about a balanced diet plan and low-impact exercises. — 10 January, 2024
+- Evan suggested swimming, yoga, and walking as low-impact exercises. — 10 January, 2024
+- Sam watched The Godfather last night, which motivated him to keep up with his routine. — 10 January, 2024
+- Evan mentioned that yoga has helped him with stress and staying flexible. — 10 January, 2024
+- Sam has not found any low-impact exercises he enjoys. — 11 January, 2024
+- Sam has been on a few car rides lately, which helps him chill and enjoy the view. — 11 January, 2024
+- Being in nature helps Sam relax and get some fresh air away from the city. — 11 January, 2024

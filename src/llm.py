@@ -133,6 +133,9 @@ class LLMClient:
                     latency_s=hit.get("latency_s", 0.0),
                     cost_usd=hit.get("cost_usd", 0.0),
                     cached=True,
+                    # Carried through so a truncated reply stays visible on a
+                    # cached rerun: System B counts those.
+                    meta={"finish_reason": hit.get("finish_reason")},
                 )
 
         last_error: Exception | None = None

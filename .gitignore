@@ -1,3 +1,8 @@
+# Internal working notes: the implementation specs are drafts written to brief
+# the build, not documentation of it. The README documents the design; the
+# reasoning lives in ../00_RESEARCH_LOG.md.
+IMPLEMENTATION_SPEC_*.md
+
 # Secrets
 .env
 

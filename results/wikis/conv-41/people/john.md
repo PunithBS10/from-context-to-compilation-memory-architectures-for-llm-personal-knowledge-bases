@@ -1,0 +1,48 @@
+---
+title: John
+type: person
+---
+
+- John just got back from a family road trip yesterday — 17 December, 2022
+- John's family helps him stay centered and reminds him why he is passionate about making a positive impact — 22 December, 2022
+- John shared an image of his family having a picnic in the park — 22 December, 2022
+- John shared an image of his family enjoying a ride on a swing — 22 December, 2022
+- John and his family love climbing, sliding, and playing games at the playground — 22 December, 2022
+- John shared an image of a group of people standing around a kitchen table — 22 December, 2022
+- John joined a service-focused online group last week and has been feeling a sense of connection and purpose with them. — 1 January, 2023
+- John has been inspired by the incredible stories shared in the online group he joined. — 1 January, 2023
+- John believes that providing the right assistance and resources can make a lasting impact. — 1 January, 2023
+- John recently failed the military aptitude test and has been feeling a bit stressed out. — 1 January, 2023
+- John had a film camera as a kid and took plenty of beach pictures. — 1 January, 2023
+- John appreciates Maria's support and friendship. — 5 February, 2023
+- John had a picnic with his wife and kids. — 6 March, 2023
+- John's one-year-old child is named Kyle. — 6 March, 2023
+- John takes his kids to the park a few times a week. — 6 March, 2023
+- John found a violin concert that his family enjoyed last week. — 6 March, 2023
+- John retook the aptitude test last week and received great results. — 6 March, 2023
+- John wants to volunteer to serve his country. — 6 March, 2023
+- John graduated from university last week. — 2 April, 2023
+- John's car broke down last Friday on his way to work. — 10 April, 2023
+- John is trying to get his car fixed, but it's tough and putting a strain on his wallet. — 10 April, 2023
+- John explored the coast up in the Pacific Northwest and hit some cool national parks last year. — 10 April, 2023
+- John has been blogging about politics and the government since the last time he chatted with Maria. — 18 April, 2023
+- John cares about making a real impact through his blogging. — 18 April, 2023
+- John is planning a trip to the East Coast. — 18 April, 2023
+- John is passionate about veterans and their rights. — 20 May, 2023
+- John is busy doing a petition and gaining support from his buddies. — 25 May, 2023
+- John has a picture of his workmates from a hiking trip. — 25 May, 2023
+- John shared a picture of his family at the beach. — 25 May, 2023
+- John believes that moments like the beach picture make life worth living. — 25 May, 2023
+- John and Maria believe they are making progress towards making a positive impact. — 25 May, 2023
+- John had to say goodbye to Max, who was an important part of his family for 10 years. — 3 June, 2023
+- John and his family are still sad about Max's passing but find comfort in the good times and memories they had with him. — 3 June, 2023
+- John wants his kids to learn the importance of unconditional love and loyalty, lessons taught by Max. — 3 June, 2023
+- John got promoted at work and is now an assistant manager. — 16 June, 2023
+- John's promotion is a reward for all the hustle and hardship he put in. — 16 June, 2023
+- John usually works during regular work hours but sometimes brings work home. — 16 June, 2023
+- John and his family attended a live music event last week. — 27 June, 2023
+- John enjoyed seeing his family dancing and having fun at the live music event. — 27 June, 2023
+- John is enjoying his new job and finds his team super encouraging and inspiring. — 22 July, 2023
+- John lost his job at the mechanical engineering company on 5 August 2023. — 5 August, 2023
+- John is now part of the fire-fighting brigade. — 16 August, 2023
+- John feels a sense of purpose and passion from being part of the fire-fighting brigade. — 16 August, 2023

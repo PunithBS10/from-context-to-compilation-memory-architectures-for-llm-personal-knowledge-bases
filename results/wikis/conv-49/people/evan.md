@@ -1,0 +1,56 @@
+---
+title: Evan
+type: person
+---
+
+- Evan just got back from a trip with his family in his new Prius. — 18 May, 2023
+- Evan's old Prius broke down, and he decided to get it repaired and sell it. — 18 May, 2023
+- Evan and his family went to the Rockies last week. — 18 May, 2023
+- Evan and his family hiked the trails in the Rockies last week. — 18 May, 2023
+- Evan had a health scare last week involving a sudden heart palpitation incident. — 6 June, 2023
+- Evan is trying to eat less processed food and sugary snacks. — 6 June, 2023
+- Evan loves ginger snaps. — 6 June, 2023
+- Evan struggled with his health a few years ago but stuck with it. — 27 July, 2023
+- Evan's family motivates him to stay healthy. — 7 August, 2023
+- Evan has been searching for his keys for the last half hour without luck. — 13 August, 2023
+- Evan's son had a soccer accident last Saturday and hurt his ankle. — 15 August, 2023
+- Evan has been looking after his son and taking him to the doctor after the soccer accident. — 15 August, 2023
+- Evan's son's ankle is getting better but is still sore. — 15 August, 2023
+- Evan encourages Sam to keep moving forward slowly and taking small steps. — 15 August, 2023
+- Evan enjoys skiing, snowboarding, and ice skating as winter activities. — 19 August, 2023
+- Evan drove somewhere fun last month with amazing views. — 19 August, 2023
+- Evan had a lot of fun skiing in Banff last month. — 19 August, 2023
+- Evan twisted his knee last Friday and it is really painful. — 27 August, 2023
+- Evan had a setback last week and messed up his knee playing basketball with the kids. — 6 October, 2023
+- Evan helped a lost tourist find their way two weeks ago and took an unexpected tour around the city. — 6 October, 2023
+- Evan encountered a lost tourist recently, which seems to be a recurring theme in his life. — 17 October, 2023
+- Evan and Sam plan to go on a hike together soon. — 17 October, 2023
+- Evan's new Prius broke down on 5 December 2023. — 5 December, 2023
+- Evan relies on his new Prius for his active lifestyle and road trips. — 5 December, 2023
+- Evan's partner is pregnant. — 9 December, 2023
+- Evan is excited and a bit nervous about becoming a parent again. — 9 December, 2023
+- Evan remembers the joy when his first child was born. — 9 December, 2023
+- Evan wants to show Sam a collage of family memories. — 9 December, 2023
+- Evan's family motto is 'Bring it on Home'. — 9 December, 2023
+- Evan's family motto reminds them of the importance of togetherness. — 9 December, 2023
+- Evan is looking forward to expanding his family and creating more memories. — 9 December, 2023
+- Evan is planning a big family reunion next summer. — 9 December, 2023
+- Evan got married last week. — 26 December, 2023
+- Evan's wife is from Canada. — 26 December, 2023
+- Evan believes in love at first sight. — 26 December, 2023
+- Evan felt a spark lit inside him when he first saw his wife. — 26 December, 2023
+- Evan lost his keys again, and it has become a weekly ritual for him. — 26 December, 2023
+- Evan is getting married and his work friends have been a great support. — 31 December, 2023
+- Evan and his partner told their extended family about their marriage on 6 January, 2024 — 6 January, 2024
+- Evan feels overwhelmed by the love and support from their families regarding their marriage — 6 January, 2024
+- Evan's family is happy about his marriage — 6 January, 2024
+- Evan is having a family get-together on the evening of 6 January, 2024 — 6 January, 2024
+- Evan is enjoying homemade lasagna at the family get-together — 6 January, 2024
+- Evan and his partner are going to Canada for their honeymoon next month — 6 January, 2024
+- Evan is excited to explore the beautiful snowy landscapes in Canada during his honeymoon — 6 January, 2024
+- Evan and his partner plan to ski, try local cuisine, and enjoy beautiful views during their honeymoon — 6 January, 2024
+- Evan plans to try poutine while in Canada — 6 January, 2024
+- Evan had a pee accident near some roses after drinking too much with friends last night. — 10 January, 2024
+- Evan apologized for the pee accident and the people involved were understanding. — 10 January, 2024
+- Evan had to apologize to his partner for a drunken night that was embarrassing. — 11 January, 2024
+- Evan's partner was not thrilled about the rose bushes but understood it was an accident. — 11 January, 2024

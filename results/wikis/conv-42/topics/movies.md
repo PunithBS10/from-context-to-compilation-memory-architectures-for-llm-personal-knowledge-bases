@@ -1,0 +1,43 @@
+---
+title: Movies
+type: topic
+---
+
+- Nate loves action and sci-fi movies — 21 January, 2022
+- Joanna loves dramas and romcoms — 21 January, 2022
+- Joanna finished her first full screenplay and printed it last Friday. — 23 January, 2022
+- Joanna's screenplay is a mix of drama and romance. — 23 January, 2022
+- Joanna is going to submit her screenplay to some film festivals. — 23 January, 2022
+- Joanna watched the movie 'Little Women' and found it amazing, describing it as a great story about sisterhood, love, and reaching for dreams. — 7 February, 2022
+- Nate plans to add 'Little Women' to his list of movies to watch based on Joanna's recommendation. — 7 February, 2022
+- Joanna is writing a screenplay about a thirty year old woman on a journey of self-discovery after a loss — 25 February, 2022
+- Joanna's new screenplay is somewhat similar to her last one — 25 February, 2022
+- The main character in Joanna's screenplay takes a road trip to heal and grow — 25 February, 2022
+- Joanna's new screenplay was inspired by personal experiences and her own journey of self-discovery — 25 February, 2022
+- Joanna hopes her screenplay gets noticed and makes it to the screen — 25 February, 2022
+- Joanna enjoys dramas and emotionally-driven films. — 21 April, 2022
+- Nate loves fantasy and sci-fi movies. — 21 April, 2022
+- Nate enjoys a particular trilogy of fantasy or sci-fi movies for its world building, battles, and storytelling. — 21 April, 2022
+- Joanna watched 'The Lord of the Rings' Trilogy on 2 May, 2022. — 2 May, 2022
+- Joanna wrote a few bits for a screenplay that appeared on the big screen on 5 June, 2022. — 5 June, 2022
+- Joanna submitted her recent screenplay to a film contest to see how others might like it. — 24 June, 2022
+- Nate watched 'Little Women' recently and thought it was great. — 6 October, 2022
+- Joanna recommended 'Little Women' to Nate a while back. — 6 October, 2022
+- Nate watched a movie called 'Inception' recently. — 9 October, 2022
+- Joanna watched a classic movie recently that she found awesome. — 9 October, 2022
+- Joanna rates the classic movie she watched a 9 or 10 out of 10. — 9 October, 2022
+- Joanna had a recent setback with another rejection from a production company. — 21 October, 2022
+- Joanna contributed to a movie script that was shown on the big screen for the first time on 23 October, 2022. — 25 October, 2022
+- Joanna felt a mix of emotions when she saw her movie script on the big screen, but overall it was a satisfying moment. — 25 October, 2022
+- Joanna has seen her movie script on the big screen three times. — 25 October, 2022
+- Joanna's favorite part of seeing her movie on the big screen was seeing her characters come alive. — 25 October, 2022
+- Joanna set up meetings with movie producers on 4 November, 2022. — 4 November, 2022
+- Joanna felt confident discussing her script and vision during the producer meetings. — 4 November, 2022
+- The movie producers seemed interested and excited about Joanna's script. — 4 November, 2022
+- The producers loved the elements of self-discovery in Joanna's script. — 4 November, 2022
+- Joanna found it validating to be taken seriously by the producers. — 4 November, 2022
+- Joanna finished the presentation for producers last Friday. — 7 November, 2022
+- Joanna worked hard on another script and created a plan for getting it made into a movie. — 9 November, 2022
+- Joanna pitched her script to some producers yesterday and they really liked it. — 9 November, 2022
+- Joanna is filming her own movie from a road-trip script. — 11 November, 2022
+- Joanna experienced excitement when an actor told her how much she liked her script. — 11 November, 2022

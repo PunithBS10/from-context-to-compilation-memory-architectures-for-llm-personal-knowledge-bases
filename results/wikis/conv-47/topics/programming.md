@@ -1,0 +1,39 @@
+---
+title: Programming
+type: topic
+---
+
+- James has worked with Python and C++. — 17 March, 2022
+- James has built a website and created some game mods. — 17 March, 2022
+- John met three new friends in his programming course last Tuesday. — 20 April, 2022
+- John has been super busy at work with deadlines all over the place. — 23 April, 2022
+- John is working on a difficult coding assignment that is frustrating him. — 23 April, 2022
+- John is trying to make a new algorithm work better but is currently stuck. — 23 April, 2022
+- James suggested breaking the algorithm problem down into smaller steps and doing research on similar algorithms. — 23 April, 2022
+- James encouraged John to seek help and reminded him that every problem has a solution. — 23 April, 2022
+- John appreciated James' advice and plans to keep going with his project. — 23 April, 2022
+- John is currently taking on freelance programming to hone his coding skills. — 29 April, 2022
+- John is working on a website for a local small business. — 29 April, 2022
+- John's website project is his first professional project outside of class. — 29 April, 2022
+- John has encountered challenges figuring out how to get payments on the website. — 29 April, 2022
+- John used resources to understand the payment process for his website. — 29 April, 2022
+- John volunteered his programming skills for a social cause. — 11 May, 2022
+- John made a software tool for a charitable foundation to streamline their operations. — 11 May, 2022
+- The foundation previously used paper records and recorded inventory manually. — 11 May, 2022
+- John created an application that structured the foundation's work and consolidated inventory management on smartphones. — 11 May, 2022
+- John shared a screenshot of the system he developed for the foundation. — 11 May, 2022
+- John was inspired by the foundation's passion for helping kids. — 11 May, 2022
+- John feels it is rewarding to use his coding skills to make a difference. — 11 May, 2022
+- John's experience volunteering has given him a clearer sense of purpose. — 11 May, 2022
+- John is considering volunteer roles and potentially a career in the non-profit sector. — 11 May, 2022
+- John has not yet found a non-profit organization that aligns with his values and passion for programming, but he believes it won't be difficult to find one. — 11 May, 2022
+- James started a course that combines his passion for gaming and programming. — 13 June, 2022
+- John joined a programming group online on 19 August 2022 — 21 August, 2022
+- John's online programming group consists of skilled coders passionate about using tech for good — 21 August, 2022
+- John has been teaching his siblings coding. — 1 September, 2022
+- John's siblings are creating their own programs, starting with basic games and stories. — 1 September, 2022
+- John is proud of his siblings for learning coding and creating their own games. — 1 September, 2022
+- John will be a programming mentor for game developers. — 3 October, 2022
+- John will be teaching coding and assisting with projects as a programming mentor. — 3 October, 2022
+- John gained insight into various programming approaches and techniques at the seminar. — 21 October, 2022
+- John found some cool ideas at the seminar that he can use in his own work. — 21 October, 2022

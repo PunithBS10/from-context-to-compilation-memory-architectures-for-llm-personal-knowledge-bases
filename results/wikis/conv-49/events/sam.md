@@ -1,0 +1,34 @@
+---
+title: Sam
+type: event
+---
+
+- Sam hiked with his dad when he was ten years old. — 18 May, 2023
+- Sam had a check-up with his doctor a few days ago. — 24 May, 2023
+- Sam found the weight from the check-up pretty eye-opening. — 24 May, 2023
+- Evan believes it's never too late to make positive changes for a healthier lifestyle. — 24 May, 2023
+- Evan suggests finding a fitness routine that one enjoys as a tip for starting a healthier lifestyle. — 24 May, 2023
+- Evan recommends making smarter choices in diet to support a healthier lifestyle. — 24 May, 2023
+- Evan encourages Sam to exercise in addition to painting to address his weight problem. — 24 May, 2023
+- Sam is trying to eat healthier these days. — 6 June, 2023
+- Sam is still enjoying soda and candy, although he knows it's not the best habit. — 6 June, 2023
+- Sam had a frustrating issue at the supermarket with broken self-checkout machines. — 6 June, 2023
+- Sam has been dealing with health issues that have been challenging for him. — 13 August, 2023
+- Sam had a dream where he was soaring over skyscrapers. — 13 August, 2023
+- Sam had a tough week and a doctor's appointment, which was a wake-up call to take better care of himself. — 15 August, 2023
+- Sam has been feeling a mix of emotions, somewhat concerned about his health but also motivated to make positive changes. — 15 August, 2023
+- Sam loves expressing himself through writing and finds it therapeutic. — 6 October, 2023
+- Sam has been frustrated lately with his new phone's navigation app malfunctioning. — 6 October, 2023
+- Sam writes in his journal and does creative writing to express his innermost thoughts and feelings. — 6 October, 2023
+- Sam had a rough week and bought unhealthy snacks, feeling guilty about it. — 14 October, 2023
+- Sam is dealing with work stress and trying to stay motivated. — 14 October, 2023
+- Sam attended a Weight Watchers meeting on 4 December 2023. — 5 December, 2023
+- Sam sketches occasionally but hasn't created anything remarkable yet. — 26 December, 2023
+- Sam suggested putting a GPS sensor on Evan's keys. — 26 December, 2023
+- Sam had issues with the self-checkout at the store, which is becoming a regular annoyance. — 31 December, 2023
+- Evan has never had a problem with the self-checkout at the store. — 31 December, 2023
+- Sam is having homemade lasagna for dinner on 6 January, 2024 — 6 January, 2024
+- Sam shared a photo of a pie with raspberries and limes on top from his cousin's wedding — 6 January, 2024
+- Sam had a recurring dream where he is flying over skyscrapers. — 10 January, 2024
+- Sam has health issues that have been rough for him. — 11 January, 2024
+- Sam appreciates being reminded to appreciate the small things in life. — 11 January, 2024

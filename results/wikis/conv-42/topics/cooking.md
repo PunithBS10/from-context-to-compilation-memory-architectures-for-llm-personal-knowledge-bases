@@ -1,0 +1,58 @@
+---
+title: Cooking
+type: topic
+---
+
+- Nate discovered he can make coconut milk ice cream and tried it. — 7 February, 2022
+- Nate found the coconut milk ice cream he made to be super good, rich, and creamy. — 7 February, 2022
+- Nate is looking forward to trying out different flavors and toppings for his coconut milk ice cream. — 7 February, 2022
+- Nate loves coconut milk, chocolate, and mixed berry flavors for dairy-free desserts. — 7 February, 2022
+- Nate made a dairy-free chocolate cake with berries on it. — 7 February, 2022
+- Nate made his friend some ice cream — 25 February, 2022
+- Nate made chocolate and vanilla swirl ice cream — 25 February, 2022
+- Nate knows a dairy-free ice cream recipe using coconut milk — 25 February, 2022
+- Joanna is keen to try Nate's dairy-free recipe — 25 February, 2022
+- Nate's ice cream is dairy-free and easy to make. — 17 April, 2022
+- Nate made his ice cream with coconut milk, vanilla extract, sugar, and a pinch of salt. — 17 April, 2022
+- Joanna plans to try making the ice cream tonight. — 17 April, 2022
+- Joanna has been testing out dairy-free dessert recipes for friends and family. — 2 May, 2022
+- Joanna made a dairy-free vanilla cake with strawberry filling and coconut cream frosting. — 2 May, 2022
+- Joanna enjoys experimenting in the kitchen and making tasty desserts. — 2 May, 2022
+- Joanna finds cooking and baking to be her creative outlets. — 2 May, 2022
+- Joanna feels rewarded when people enjoy her desserts. — 2 May, 2022
+- Nate made vegan ice cream last Friday and shared it with people in his vegan diet group. — 24 June, 2022
+- Joanna plans to make Nate's vegan ice cream recipe for her family this weekend. — 24 June, 2022
+- Nate started teaching people how to make dairy-free desserts since they last spoke. — 14 August, 2022
+- Nate has been making coconut milk ice cream, which is creamy, rich, and dairy-free. — 14 August, 2022
+- Joanna loves Nate's coconut milk ice cream. — 14 August, 2022
+- Nate offered to share his coconut milk ice cream recipe with Joanna. — 14 August, 2022
+- Joanna is excited to surprise her family with something delicious she will bake. — 14 August, 2022
+- Joanna celebrated receiving feedback on her book by making a delicious treat. — 22 August, 2022
+- Joanna revised one of her old recipes and made a piece of cake with strawberries and chocolate. — 5 September, 2022
+- Joanna has been tinkering with recipes to find comfort and get creative. — 5 September, 2022
+- Joanna is tweaking a dessert recipe to make it yummier and more accessible. — 5 September, 2022
+- Joanna is experimenting with different flavors like chocolate, raspberry, and coconut. — 5 September, 2022
+- Joanna made dairy-free chocolate coconut cupcakes with raspberry frosting. — 5 September, 2022
+- Joanna has been making all sorts of desserts that work for everyone's diets, including cookies, pies, and cakes. — 5 September, 2022
+- Nate is interested in joining Joanna for baking and cooking. — 5 September, 2022
+- Nate suggested using dairy-free margarine or coconut oil instead of butter for dairy-free baking. — 5 September, 2022
+- Nate encourages Joanna to check labels to ensure ingredients are dairy-free. — 5 September, 2022
+- Nate taught people vegan ice cream recipes on his own cooking show last Monday. — 14 September, 2022
+- Nate's favorite dish from the cooking show is coconut milk ice cream. — 14 September, 2022
+- Nate's coconut milk ice cream is dairy-free. — 14 September, 2022
+- Joanna made a dessert with almond milk last Friday. — 14 September, 2022
+- Nate's favorite dairy-free dessert is chocolate mousse. — 14 September, 2022
+- Joanna's favorite dairy-free treat is a chocolate raspberry tart with an almond flour crust. — 14 September, 2022
+- Joanna makes a dairy-free chocolate cake with raspberries. — 14 September, 2022
+- Joanna's chocolate cake is made with almond flour, coconut oil, chocolate, and raspberries. — 14 September, 2022
+- Joanna makes a dessert with blueberries, coconut milk, and a gluten-free crust. — 14 September, 2022
+- Joanna tried her newest dairy-free recipe yesterday and it was a winner with her family. — 6 October, 2022
+- Joanna has been revising and perfecting a recipe for her family. — 21 October, 2022
+- Nate's turtles have a varied diet that includes vegetables, fruits, and insects. — 25 October, 2022
+- Nate loves seeing his turtles eat fruit because they get hyped and it's cute. — 25 October, 2022
+- Nate made lactose-free ice cream with coconut milk. — 4 November, 2022
+- Joanna plans to visit Nate on 5 November, 2022, to try the ice cream. — 4 November, 2022
+- Joanna will bring some of her recipes to share desserts with Nate. — 4 November, 2022
+- Nate has been wanting to try Joanna's chocolate and raspberry cake for a while. — 4 November, 2022
+- Nate is experimenting with flavors and made colorful bowls of coconut milk ice cream. — 11 November, 2022
+- Joanna thinks Nate's ice cream looks mouthwatering and appreciates the colors and mix-ins. — 11 November, 2022

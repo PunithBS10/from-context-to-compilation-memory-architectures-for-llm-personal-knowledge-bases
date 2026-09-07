@@ -22,16 +22,16 @@ Two design points that would quietly corrupt the results if missed:
   prompt. Relevance order scrambles the timeline, which again hurts temporal
   questions for a reason that has nothing to do with retrieval quality.
 
-No vector database. One conversation is ~150 chunks, so cosine similarity over
-a numpy array is instant, and every line of it can be explained in a viva.
+Embedding and retrieval live in `retrieval.VectorIndex`, shared with System B
+rather than copied into it: A and B must differ only in *what* is stored, so
+*how* it is stored and searched has to be one piece of code.
 """
 from __future__ import annotations
-
-import numpy as np
 
 import config
 from src.llm import LLMClient, count_tokens
 from src.systems.base import Answer, MemorySystem
+from src.systems.retrieval import VectorIndex
 # The prompt is imported, not copied, so it cannot drift away from System L's.
 from src.systems.system_l import SYSTEM_PROMPT, USER_TEMPLATE
 
@@ -88,8 +88,7 @@ class SystemA(MemorySystem):
         self.model = model
         self.k = k
         self.chunks: list[Chunk] = []
-        self.chunk_texts: list[str] = []
-        self.matrix: np.ndarray | None = None
+        self.index = VectorIndex(client)
         self.speakers = ""
         self._ingest = {"ingest_prompt_tokens": 0, "ingest_completion_tokens": 0,
                         "ingest_cost_usd": 0.0, "ingest_latency_s": 0.0,
@@ -101,18 +100,15 @@ class SystemA(MemorySystem):
         self.speakers = (" and ".join(conversation.speakers)
                          if conversation.speakers else "two people")
         self.chunks = build_chunks(conversation)
-        self.chunk_texts = [c.render() for c in self.chunks]
-
-        result = self.client.embed(self.chunk_texts)
-        self.matrix = _unit_rows(np.asarray(result.vectors, dtype=np.float32))
+        stats = self.index.build(self.chunks)
 
         self._ingest.update({
-            "ingest_prompt_tokens": result.prompt_tokens,
-            "ingest_cost_usd": result.cost_usd,
-            "ingest_latency_s": result.latency_s,
-            "ingest_chunks": len(self.chunks),
-            "ingest_embeddings_from_api": result.api_texts,
-            "ingest_embeddings_from_cache": result.cached_texts,
+            "ingest_prompt_tokens": stats["prompt_tokens"],
+            "ingest_cost_usd": stats["cost_usd"],
+            "ingest_latency_s": stats["latency_s"],
+            "ingest_chunks": stats["n_documents"],
+            "ingest_embeddings_from_api": stats["embeddings_from_api"],
+            "ingest_embeddings_from_cache": stats["embeddings_from_cache"],
         })
 
     def ingest_stats(self) -> dict:
@@ -122,20 +118,7 @@ class SystemA(MemorySystem):
     def retrieve(self, question: str) -> tuple[list[Chunk], list[float], dict]:
         """Embed the question, score every chunk, return the top k in
         chronological order."""
-        result = self.client.embed([question])
-        query = _unit_rows(np.asarray(result.vectors, dtype=np.float32))[0]
-
-        # Rows and query are unit vectors, so the dot product IS cosine
-        # similarity -- no API call, no library, one matrix multiply.
-        scores = self.matrix @ query
-        top = np.argsort(-scores)[:self.k]
-        ordered = sorted(top, key=lambda i: self.chunks[i].index)   # chronological
-
-        cost = {"embed_cost_usd": result.cost_usd, "embed_latency_s": result.latency_s,
-                "embed_cached": result.cached_texts > 0}
-        return ([self.chunks[i] for i in ordered],
-                [float(scores[i]) for i in ordered],
-                cost)
+        return self.index.retrieve(question, self.k)
 
     def build_prompt(self, question: str) -> tuple[str, str]:
         """The exact prompt pair answer() would send, for --dry-run and
@@ -185,12 +168,10 @@ class SystemA(MemorySystem):
                 "retrieval_cost_usd": retrieval_cost["embed_cost_usd"],
                 "answer_cost_usd": response.cost_usd,
                 "retrieved_tokens": count_tokens(retrieved_text, self.model),
+                # Turn-level: LoCoMo's `evidence` field lists dia_ids, and A
+                # retrieves raw turns, so recall is exact. System B can only
+                # report this at session granularity -- see system_b.py.
+                "evidence_recall_granularity": "turn",
                 **response.meta,
             },
         )
-
-
-def _unit_rows(matrix: np.ndarray) -> np.ndarray:
-    """L2-normalise each row so dot products are cosine similarities."""
-    norms = np.linalg.norm(matrix, axis=-1, keepdims=True)
-    return matrix / np.clip(norms, 1e-12, None)

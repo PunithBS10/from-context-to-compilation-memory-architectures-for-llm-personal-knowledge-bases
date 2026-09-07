@@ -1,0 +1,33 @@
+---
+title: Nature spots
+type: topic
+---
+
+- Deborah's favorite nature spot is a park with a forest trail that is calming. — 4 February, 2023
+- Deborah loves a beach nearby where the sound of the waves and the sand under her feet make her feel peaceful and happy. — 4 February, 2023
+- Jolene took a picture of a sunset over the water in Bogota during her vacation last summer, which made her appreciate nature's calming power. — 4 February, 2023
+- Deborah reflects on her mother's life at a spot by the water near her mom's old house, which helps her find peace. — 4 February, 2023
+- Deborah visited a calming place with a garden and flowers on 22 February 2023. — 22 February, 2023
+- Deborah finds comfort in spending time in the garden after losing her friend. — 22 February, 2023
+- Jolene took Seraphim to the park last Sunday. — 2 March, 2023
+- Jolene shared a photo of a lizard laying on the ground surrounded by leaves from the park visit. — 2 March, 2023
+- Deborah finds nature refreshing and helps her find peace every day. — 9 July, 2023
+- Jolene loves going for walks to take in nature and takes photos during her walks. — 9 July, 2023
+- Jolene has a photo of a sunset over a body of water that captures peacefulness. — 9 July, 2023
+- Jolene finds a hidden gem spot that makes her feel peaceful and tranquil. — 9 July, 2023
+- Deborah and her husband enjoy spending time outdoors and exploring nature. — 19 August, 2023
+- Deborah loves going to a park near her house that has a nice forest trail and a beach. — 19 August, 2023
+- Deborah's special bench in the park holds a lot of special memories for her and her mom. — 19 August, 2023
+- Deborah cherishes memories of watching a beautiful sunset with her mom at the park. — 19 August, 2023
+- Deborah went to a place that held a lot of memories for her on 21 August, 2023. — 21 August, 2023
+- Deborah sat on a bench where she used to chat, which brought back a lot of emotions. — 21 August, 2023
+- Deborah has a favorite spot by a lake where she ponders and lets things go. — 30 August, 2023
+- Deborah's favorite spot has soothing vibes and nice views, making it ideal for reflecting and letting go. — 30 August, 2023
+- Deborah recently saw a wonderful sunrise — 6 September, 2023
+- Deborah shared a photo of a person walking on the beach with a surfboard — 6 September, 2023
+- Jolene enjoys taking beach walks to relax — 6 September, 2023
+- Jolene expressed a desire to watch the sunrise with Deborah one day — 6 September, 2023
+- Jolene and her partner plan a camping trip to connect with nature and practice yoga — 8 September, 2023
+- Jolene was inspired and refreshed by the beauty of nature at the retreat. — 12 September, 2023
+- Jolene took a hike with her partner and found a waterfall oasis that felt peaceful. — 20 September, 2023
+- Jolene is planning to get out in nature again next month. — 20 September, 2023

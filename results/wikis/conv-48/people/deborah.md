@@ -1,0 +1,50 @@
+---
+title: Deborah
+type: person
+---
+
+- Deborah visited her mother's old house last week. — 23 January, 2023
+- Deborah's mother passed away a few years ago. — 23 January, 2023
+- Deborah's mother had a special bench near the window in her house. — 23 January, 2023
+- Deborah sometimes sits on the bench to stay connected to her mother. — 23 January, 2023
+- Deborah's dad passed away two days ago — 27 January, 2023
+- Deborah is trying to channel her grief by spending more time with family and cherishing memories — 27 January, 2023
+- Deborah looked at the family album and found comfort in great memories — 27 January, 2023
+- Deborah's parents were married in 1993 — 27 January, 2023
+- Deborah and her husband are trying to be as good a family as Deborah's parents were — 27 January, 2023
+- Deborah values love and openness in her relationship — 27 January, 2023
+- Deborah received a letter from group members thanking her for the positive influence she had on them — 27 January, 2023
+- Deborah's mom passed away — 27 January, 2023
+- Deborah feels her mom's presence when she sits by the window in her old home — 27 January, 2023
+- Deborah's mom enjoyed reading as one of her hobbies — 27 January, 2023
+- Deborah's mom had a great passion for travel — 27 January, 2023
+- Deborah met her new neighbor Anna at yoga in the park — 1 February, 2023
+- Deborah lost a friend last week before 22 February 2023. — 22 February, 2023
+- Deborah shared a photo of her last trip with her friend Karlie, taken last summer when they hiked. — 22 February, 2023
+- Deborah meditates, does yoga, and teaches classes in the morning. — 25 February, 2023
+- Deborah went for a morning jog for the first time in a nearby park and will incorporate it into her daily routine. — 25 February, 2023
+- Deborah spends time with loved ones in the evenings. — 25 February, 2023
+- Deborah believes exercise is key for feeling connected to her body. — 25 February, 2023
+- Deborah's mom was interested in art. — 9 April, 2023
+- Deborah feels that going to an art show allows her to experience it with her mom even though she's gone. — 9 April, 2023
+- Deborah encourages Jolene to keep up the good work on her project. — 9 April, 2023
+- Deborah told Anna the story of her life last Friday and they were super kind about it. — 19 August, 2023
+- Deborah's mom really loved flowers and they always made her happy. — 21 August, 2023
+- Deborah's mom appreciated the simple things in life. — 21 August, 2023
+- Deborah has been thinking about her mom's influence and the importance of remembering those we love. — 26 August, 2023
+- Deborah visited her mom's house last month, which holds a special place in her heart. — 30 August, 2023
+- Deborah's mom had good and bad times at her house, which is a symbol of her strength and love. — 30 August, 2023
+- Deborah relaxed outside her mom's house, which brought back fond memories. — 30 August, 2023
+- Deborah found comfort in her work and spending time at home after the setback — 8 September, 2023
+- Deborah reconnected with her mom's old friends on 15 September, 2023. — 15 September, 2023
+- Deborah found hearing stories about her mom emotional, both happy and sad. — 15 September, 2023
+- Deborah appreciated her mom more through the stories shared by her friends. — 15 September, 2023
+- Deborah and her mom's friends reminisced and looked through her mom's photos. — 15 September, 2023
+- Deborah feels that pictures bring back memories and enhance appreciation for loved ones. — 15 September, 2023
+- Deborah visited her mom's old house on 10 September 2023. — 17 September, 2023
+- Deborah sat on a bench at her mom's old house, which was a comforting experience. — 17 September, 2023
+- Deborah's mom had a big passion for cooking. — 17 September, 2023
+- Deborah remembers the smell of her mom's special dish that would fill the house. — 17 September, 2023
+- Deborah has a big bookshelf. — 17 September, 2023
+- Deborah believes having a space like a bookshelf is important for escaping reality and relaxing. — 17 September, 2023
+- Deborah has memories of her mom singing lullabies to her. — 20 September, 2023

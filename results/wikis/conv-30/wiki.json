@@ -1,0 +1,2150 @@
+{
+  "conv_id": "conv-30",
+  "speakers": [
+    "Jon",
+    "Gina"
+  ],
+  "extraction_model": "gpt-4o-mini",
+  "build_fingerprint": "9ad622199c7e",
+  "built_utc": "2026-08-30T12:24:21.029198+00:00",
+  "sessions": [
+    {
+      "index": 1,
+      "session_id": "session_1",
+      "timestamp": "4:04 pm on 20 January, 2023",
+      "date_label": "20 January, 2023"
+    },
+    {
+      "index": 2,
+      "session_id": "session_2",
+      "timestamp": "2:32 pm on 29 January, 2023",
+      "date_label": "29 January, 2023"
+    },
+    {
+      "index": 3,
+      "session_id": "session_3",
+      "timestamp": "12:48 am on 1 February, 2023",
+      "date_label": "1 February, 2023"
+    },
+    {
+      "index": 4,
+      "session_id": "session_4",
+      "timestamp": "10:43 am on 4 February, 2023",
+      "date_label": "4 February, 2023"
+    },
+    {
+      "index": 5,
+      "session_id": "session_5",
+      "timestamp": "9:32 am on 8 February, 2023",
+      "date_label": "8 February, 2023"
+    },
+    {
+      "index": 6,
+      "session_id": "session_6",
+      "timestamp": "2:35 pm on 16 March, 2023",
+      "date_label": "16 March, 2023"
+    },
+    {
+      "index": 7,
+      "session_id": "session_7",
+      "timestamp": "7:28 pm on 23 March, 2023",
+      "date_label": "23 March, 2023"
+    },
+    {
+      "index": 8,
+      "session_id": "session_8",
+      "timestamp": "1:26 pm on 3 April, 2023",
+      "date_label": "3 April, 2023"
+    },
+    {
+      "index": 9,
+      "session_id": "session_9",
+      "timestamp": "10:33 am on 9 April, 2023",
+      "date_label": "9 April, 2023"
+    },
+    {
+      "index": 10,
+      "session_id": "session_10",
+      "timestamp": "11:24 am on 25 April, 2023",
+      "date_label": "25 April, 2023"
+    },
+    {
+      "index": 11,
+      "session_id": "session_11",
+      "timestamp": "3:14 pm on 11 May, 2023",
+      "date_label": "11 May, 2023"
+    },
+    {
+      "index": 12,
+      "session_id": "session_12",
+      "timestamp": "7:18 pm on 27 May, 2023",
+      "date_label": "27 May, 2023"
+    },
+    {
+      "index": 13,
+      "session_id": "session_13",
+      "timestamp": "8:29 pm on 13 June, 2023",
+      "date_label": "13 June, 2023"
+    },
+    {
+      "index": 14,
+      "session_id": "session_14",
+      "timestamp": "9:38 pm on 16 June, 2023",
+      "date_label": "16 June, 2023"
+    },
+    {
+      "index": 15,
+      "session_id": "session_15",
+      "timestamp": "10:04 am on 19 June, 2023",
+      "date_label": "19 June, 2023"
+    },
+    {
+      "index": 16,
+      "session_id": "session_16",
+      "timestamp": "2:15 pm on 21 June, 2023",
+      "date_label": "21 June, 2023"
+    },
+    {
+      "index": 17,
+      "session_id": "session_17",
+      "timestamp": "1:25 pm on 9 July, 2023",
+      "date_label": "9 July, 2023"
+    },
+    {
+      "index": 18,
+      "session_id": "session_18",
+      "timestamp": "5:44 pm on 21 July, 2023",
+      "date_label": "21 July, 2023"
+    },
+    {
+      "index": 19,
+      "session_id": "session_19",
+      "timestamp": "6:46 pm on 23 July, 2023",
+      "date_label": "23 July, 2023"
+    }
+  ],
+  "stats": {
+    "compile_prompt_tokens": 25700,
+    "compile_completion_tokens": 5856,
+    "compile_cost_usd": 0.007368600000000001,
+    "compile_latency_s": 53.154595799860545,
+    "compile_calls": 19,
+    "compile_cached_calls": 0,
+    "sessions_compiled": 19,
+    "truncated_sessions": 0,
+    "duplicate_facts_dropped": 0,
+    "generic_page_titles": 0,
+    "salvaged_sessions": 0,
+    "unparsable_sessions": 0,
+    "empty_sessions": 0,
+    "n_pages": 14,
+    "n_facts": 210,
+    "wiki_tokens": 5081,
+    "raw_conversation_tokens": 11954,
+    "compression_ratio": 0.425
+  },
+  "pages": [
+    {
+      "title": "Dance",
+      "type": "topic",
+      "slug": "dance",
+      "path": "topics/dance.md",
+      "facts": [
+        {
+          "fact_id": "dance#1",
+          "text": "Gina uses dance for stress relief.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#2",
+          "text": "Jon loves all dances, but contemporary is his top pick.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#3",
+          "text": "Gina's favorite dance style is contemporary.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#4",
+          "text": "Jon is following his passion for dance and is determined to make it work.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#5",
+          "text": "Jon is passionate about dancing and it brings him joy and fulfillment.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#6",
+          "text": "Dancing makes Jon very happy.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#7",
+          "text": "Jon finds joy in seeing his students improve in dance.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#8",
+          "text": "Jon used to be scared of what people would think about him dancing.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#9",
+          "text": "Jon learned that his own happiness is the most important thing.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#10",
+          "text": "Gina encourages Jon to keep dancing and expressing himself.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#11",
+          "text": "Jon has a love for dance that has been his stress-buster since childhood.",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#12",
+          "text": "Gina also uses dance as a way to de-stress.",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#13",
+          "text": "Jon has been practicing dance routines lately to keep his mind focused and motivated.",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#14",
+          "text": "Jon is willing to show Gina one of his dance routines.",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#15",
+          "text": "Gina had a mentor when she was learning how to dance.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#16",
+          "text": "Gina believes staying positive is very important.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#17",
+          "text": "Gina encourages Jon to keep going for his dreams and not quit.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#18",
+          "text": "Jon has been promoting his business and has started posting dance videos on social media.",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#19",
+          "text": "Gina shared a photo of a group of young women dancing.",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dance",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance#20",
+          "text": "Jon finds dancing keeps him going during stressful times.",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dance",
+          "page_type": "topic"
+        }
+      ]
+    },
+    {
+      "title": "Dance competition",
+      "type": "event",
+      "slug": "dance-competition",
+      "path": "events/dance-competition.md",
+      "facts": [
+        {
+          "fact_id": "dance-competition#1",
+          "text": "Jon's dance crew took home first place in a local competition last year.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance competition",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "dance-competition#2",
+          "text": "Gina competed in a few dance competitions and shows.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance competition",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "dance-competition#3",
+          "text": "Gina's favorite memory was when her team won first place at a regionals at age fifteen.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance competition",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "dance-competition#4",
+          "text": "Gina's team performed a contemporary piece called 'Finding Freedom' at the competition.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance competition",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "dance-competition#5",
+          "text": "Jon is getting ready for a dance competition near him next month.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dance competition",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "dance-competition#6",
+          "text": "Jon is hosting a dance competition next month to showcase local talent.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dance competition",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "dance-competition#7",
+          "text": "Gina is attending Jon's dance competition event next month.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dance competition",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "dance-competition#8",
+          "text": "Gina has a trophy from a dance contest that reminds her of hard work, dedication, and joy.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance competition",
+          "page_type": "event"
+        }
+      ]
+    },
+    {
+      "title": "Dance festival",
+      "type": "event",
+      "slug": "dance-festival",
+      "path": "events/dance-festival.md",
+      "facts": [
+        {
+          "fact_id": "dance-festival#1",
+          "text": "Jon's group will perform at the festival and has been practicing hard.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance festival",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "dance-festival#2",
+          "text": "Jon had a performance at a festival and received compliments on his dance moves.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dance festival",
+          "page_type": "event"
+        }
+      ]
+    },
+    {
+      "title": "Dance rehearsal",
+      "type": "event",
+      "slug": "dance-rehearsal",
+      "path": "events/dance-rehearsal.md",
+      "facts": [
+        {
+          "fact_id": "dance-rehearsal#1",
+          "text": "Jon rehearses with a small group of dancers after work.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance rehearsal",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "dance-rehearsal#2",
+          "text": "Jon and his group do all kinds of dances, from contemporary to hip-hop.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance rehearsal",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "dance-rehearsal#3",
+          "text": "Jon's group is finishing up choreography to perform at a nearby festival next month.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance rehearsal",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "dance-rehearsal#4",
+          "text": "Jon is working on new dance routines and rehearsing hard for an upcoming show.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dance rehearsal",
+          "page_type": "event"
+        }
+      ]
+    },
+    {
+      "title": "Dance studio",
+      "type": "topic",
+      "slug": "dance-studio",
+      "path": "topics/dance-studio.md",
+      "facts": [
+        {
+          "fact_id": "dance-studio#1",
+          "text": "Jon is starting a dance studio because he is passionate about dancing.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#2",
+          "text": "Jon has been into dancing since he was a kid.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#3",
+          "text": "Jon wants to teach others the joy that dancing brings him.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#4",
+          "text": "Jon is on the hunt for the ideal spot for his dance studio.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#5",
+          "text": "Jon found a place for his dance studio with great natural light.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#6",
+          "text": "Jon is looking for a good dance floor with enough bounce for him and his students to dance safely.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#7",
+          "text": "Jon is after Marley flooring for his dance studio, which is great for grip and movement.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#8",
+          "text": "Gina believes that dance floors help avoid injuries and make dancing more enjoyable.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#9",
+          "text": "Jon is searching for a place to open his dance studio.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#10",
+          "text": "Jon is staying positive and pushing forward with his dance studio.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#11",
+          "text": "Gina encourages Jon to stay motivated and keep going with his dance studio.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#12",
+          "text": "Jon is searching for a dance studio location.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#13",
+          "text": "Jon loves running his own dance studio and helping dancers of all ages and levels express themselves.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#14",
+          "text": "Jon aims to turn his dancing passion into a business.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#15",
+          "text": "Jon finds juggling dance and business goals tricky but rewarding.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#16",
+          "text": "Jon's dance moves energize him to tackle his business goals.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#17",
+          "text": "Jon is motivated by seeing his dance studio students succeed.",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#18",
+          "text": "Jon shares a photo of a group of women doing a dance routine after one of the dance classes.",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#19",
+          "text": "Jon is expanding his dance studio's social media presence.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#20",
+          "text": "Jon is offering workshops and classes to local schools and centers.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#21",
+          "text": "Jon is seeing progress in his dance studio and the dancers are excited.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#22",
+          "text": "Jon is turning his love of dance into a business by running a dance studio.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#23",
+          "text": "Jon has sunk tons of time into the dance studio lately.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#24",
+          "text": "Jon's students are already excelling in dance.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#25",
+          "text": "Jon is learning dance alongside his students.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#26",
+          "text": "Losing his job gave Jon the push he needed to pursue his passion for dance.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#27",
+          "text": "Gina used to love spending time in the dance studio.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#28",
+          "text": "Jon went to a fair to show off his studio on 24 April 2023.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#29",
+          "text": "Jon got some possible leads from the fair he attended.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#30",
+          "text": "Gina encourages Jon to focus on why he started his business because he loves it.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#31",
+          "text": "Gina believes in Jon's talent and passion for dance.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#32",
+          "text": "Jon feels low on confidence while running his business.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#33",
+          "text": "Jon appreciates Gina's support and encouragement.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#34",
+          "text": "Jon is determined to keep going and reach his dreams.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#35",
+          "text": "Jon is working on opening his own dance studio.",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#36",
+          "text": "Jon's job loss gave him the push to start his dream business: his own dance studio.",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#37",
+          "text": "Jon wants to create a place for people to dance and express themselves with his dance studio.",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#38",
+          "text": "Jon is hoping 'The Lean Startup' will give him tips for his business.",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#39",
+          "text": "Jon is wrapping up the business plan for his dance studio.",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#40",
+          "text": "Jon is looking for investors for his dance studio.",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#41",
+          "text": "Searching for investors has been tough for Jon, but he is staying hopeful.",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#42",
+          "text": "Jon is prepping for his dance studio more than ever.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#43",
+          "text": "Jon wants his dance studio to be a place of support and encouragement for all dancers.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#44",
+          "text": "Jon is offering one-on-one mentoring and training to help dancers reach their full potential.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#45",
+          "text": "Jon uses a clipboard with a notepad attached to stay organized and motivated.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#46",
+          "text": "Jon sets goals, tracks his achievements, and finds areas to improve using a notebook with a calendar.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#47",
+          "text": "Jon uses a whiteboard to stay on track, visualize goals, and tokenize successes.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#48",
+          "text": "Jon color-codes achievements to easily track his progress and stay motivated.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#49",
+          "text": "Jon is working on opening a dance studio.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#50",
+          "text": "The official opening night of Jon's dance studio is tomorrow.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#51",
+          "text": "Jon is working hard to make everything just right for the opening of his dance studio.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#52",
+          "text": "Gina congratulated Jon on the opening of his dance studio.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#53",
+          "text": "Jon shared an image of a group of young dancers in a dance studio.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#54",
+          "text": "Gina is excited for the launch of Jon's dance studio.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#55",
+          "text": "Jon wants to savor the good vibes at the opening of his dance studio.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#56",
+          "text": "Gina expressed pride in Jon's efforts for the dance studio.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#57",
+          "text": "Jon and Gina plan to make great memories at the grand opening of the dance studio.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#58",
+          "text": "Jon is looking forward to enjoying the moment with Gina at the dance studio opening.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#59",
+          "text": "Gina will be by Jon's side at the grand opening of the dance studio.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#60",
+          "text": "Jon is excited to guide and mentor aspiring dancers on their dreams.",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#61",
+          "text": "Gina believes Jon is the perfect mentor and guide for aspiring dancers.",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#62",
+          "text": "Jon's dance studio is on tenuous grounds right now.",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#63",
+          "text": "Jon got a temp job to help cover expenses while looking for investors.",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#64",
+          "text": "Jon has been networking and it has gotten him some good opportunities.",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#65",
+          "text": "Jon attended a networking event where he met some investors and received good advice.",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#66",
+          "text": "Jon is sprucing up his business plan and tweaking his pitch to investors.",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#67",
+          "text": "Jon is working on an online platform to showcase the dance studio's offerings.",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#68",
+          "text": "Gina suggests using Instagram and TikTok to reach a younger audience for the dance studio.",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#69",
+          "text": "Gina offers to help Jon with making content and managing his social media accounts.",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#70",
+          "text": "Gina believes having a creative space for dancers is important.",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#71",
+          "text": "Jon's studio will be a go-to spot for self-expression.",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "dance-studio#72",
+          "text": "Jon wants his studio to welcome dancers of all ages and backgrounds.",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dance studio",
+          "page_type": "topic"
+        }
+      ]
+    },
+    {
+      "title": "Gina",
+      "type": "person",
+      "slug": "gina",
+      "path": "people/gina.md",
+      "facts": [
+        {
+          "fact_id": "gina#1",
+          "text": "Gina lost her job at Door Dash in January 2023.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#2",
+          "text": "Gina launched an ad campaign for her clothing store in hopes of growing the business.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#3",
+          "text": "Gina's clothing store has a variety of clothes on display.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#4",
+          "text": "Gina has only been to Rome once.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#5",
+          "text": "Gina encourages Jon to believe in himself and to take breaks to destress by dancing.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#6",
+          "text": "Gina and Jon are determined to chase their dreams and make their goals happen.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#7",
+          "text": "Gina emailed some wholesalers and received a positive reply.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#8",
+          "text": "Jon supports Gina in her efforts to create her store.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#9",
+          "text": "Gina has a tattoo that stands for freedom and reminds her to follow her passions and express herself.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#10",
+          "text": "Gina believes taking risks is necessary for growth and success.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#11",
+          "text": "Gina's tattoo serves as a reminder to dance without worrying about what people think.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#12",
+          "text": "Gina lost her job at Door Dash.",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#13",
+          "text": "Gina is motivated by dance as a stress relief and fashion as a source of creativity.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#14",
+          "text": "Gina loves being around friends and having a great time.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#15",
+          "text": "Jon appreciates Gina's support and encouragement.",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Gina",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "gina#16",
+          "text": "Gina is always there to cheer Jon on.",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Gina",
+          "page_type": "person"
+        }
+      ]
+    },
+    {
+      "title": "Jon",
+      "type": "person",
+      "slug": "jon",
+      "path": "people/jon.md",
+      "facts": [
+        {
+          "fact_id": "jon#1",
+          "text": "Jon lost his job as a banker on 19 January 2023.",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#2",
+          "text": "Jon was in Paris yesterday.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#3",
+          "text": "Jon appreciates Gina's support.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#4",
+          "text": "Jon believes success is almost here for him and Gina.",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#5",
+          "text": "Jon is putting in a lot of work on his business despite obstacles.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#6",
+          "text": "Jon used to work a secure 9-5 job as a banker before pursuing dance.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#7",
+          "text": "Jon started hitting the gym last week to stay on track with his venture.",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#8",
+          "text": "Jon lost his job but is now starting his own business.",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#9",
+          "text": "Jon is facing new challenges while starting his business.",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#10",
+          "text": "Gina supports Jon in his dance studio business.",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#11",
+          "text": "Gina encourages Jon to keep going and never give up.",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#12",
+          "text": "Gina believes in Jon and tells him he can do it even when it's tough.",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#13",
+          "text": "Jon shut down his bank account for his business.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#14",
+          "text": "Jon appreciates Gina's support for his dance studio.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#15",
+          "text": "Jon appreciates Gina's support in his dance journey.",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#16",
+          "text": "Jon got mentored by a business mentor on 15 June 2023.",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#17",
+          "text": "Jon loves performing and is motivated by Gina's encouragement.",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#18",
+          "text": "Jon took a short trip to Rome last week to clear his mind.",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#19",
+          "text": "Jon lost his job recently.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#20",
+          "text": "Jon feels confident and won't give up.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Jon",
+          "page_type": "person"
+        },
+        {
+          "fact_id": "jon#21",
+          "text": "Gina's support means a lot to Jon.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Jon",
+          "page_type": "person"
+        }
+      ]
+    },
+    {
+      "title": "Clothing store",
+      "type": "topic",
+      "slug": "clothing-store",
+      "path": "topics/clothing-store.md",
+      "facts": [
+        {
+          "fact_id": "clothing-store#1",
+          "text": "Gina can expand her clothing store and get closer to her customers due to the positive reply from a wholesaler.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#2",
+          "text": "Gina designed her clothing store to be cozy and inviting for customers.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#3",
+          "text": "Gina chose furniture for her store that looks great and is comfortable.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#4",
+          "text": "Gina's store features a chandelier that adds a glam feel while matching the style of the store.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#5",
+          "text": "Gina wants her customers to feel like they are in a cool oasis when they visit her store.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#6",
+          "text": "Gina is committed to creating a special shopping experience for her customers.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#7",
+          "text": "Gina believes that hard work and effort will help her create a special shopping experience for her customers.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#8",
+          "text": "Gina's clothing store is doing great.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#9",
+          "text": "Gina found a cool new fashion piece for her store.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#10",
+          "text": "Gina has been working hard on her online store and teamed up with a local artist for some cool designs.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#11",
+          "text": "Gina got the idea for her new designs from a fashion magazine.",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#12",
+          "text": "Gina opened an online clothes store.",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#13",
+          "text": "Gina is passionate about fashion trends and finding unique pieces.",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#14",
+          "text": "Gina wants to blend her love for dance and fashion in her online store.",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#15",
+          "text": "Gina and Jon both face challenges in starting and running their own businesses.",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#16",
+          "text": "Gina and Jon support each other in their business journeys.",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#17",
+          "text": "Gina's online clothing store has been a roller coaster but rewarding.",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#18",
+          "text": "Gina is keeping up with fashion trends to offer the best pieces to customers.",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#19",
+          "text": "Jon believes brand identity is key for running a successful business.",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#20",
+          "text": "Jon advises building relationships with customers to let them know you care.",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#21",
+          "text": "Jon emphasizes the importance of staying positive and motivating others.",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#22",
+          "text": "Gina has new offers and promotions in her online store to attract new customers.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#23",
+          "text": "Gina combines her passions for dance and fashion in her business.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#24",
+          "text": "Gina is focused on growing her customer base.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#25",
+          "text": "Gina plans to work with fashion bloggers and influencers to promote her store.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#26",
+          "text": "Gina is going to do more ads to reach more people for her store.",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#27",
+          "text": "Gina started her own online clothing store not long ago.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#28",
+          "text": "Gina started her online clothing store after losing her job.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#29",
+          "text": "Gina finds her journey with her online clothing store tough but rewarding.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#30",
+          "text": "Gina stays motivated by thinking of her big goal and why she is doing it.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#31",
+          "text": "Gina gets help from people who support her to stay motivated.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#32",
+          "text": "Gina dances to stay motivated.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#33",
+          "text": "Gina reminds herself of her successes and progress to stay confident.",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#34",
+          "text": "Gina has developed a video presentation to teach how to style her fashion pieces.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#35",
+          "text": "Gina is working on her online store and growing the customer base.",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#36",
+          "text": "Gina opened an online clothing store after losing her job.",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#37",
+          "text": "Gina has acquired new unique pieces for her store.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#38",
+          "text": "Gina made a limited edition line of hoodies last week to show off her style and creativity.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#39",
+          "text": "Gina's hoodie design reminds her of the grit it takes to stand out and face challenges.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#40",
+          "text": "Gina built a new website for customers to make orders last week.",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#41",
+          "text": "Gina faced challenges sourcing trendy pieces for her store.",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "clothing-store#42",
+          "text": "Gina advises reaching out to people in your field for help and contacts.",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Clothing store",
+          "page_type": "topic"
+        }
+      ]
+    },
+    {
+      "title": "Design internship",
+      "type": "event",
+      "slug": "design-internship",
+      "path": "events/design-internship.md",
+      "facts": [
+        {
+          "fact_id": "design-internship#1",
+          "text": "Gina had an interview for a design internship yesterday.",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Design internship",
+          "page_type": "event"
+        }
+      ]
+    },
+    {
+      "title": "Fashion internship",
+      "type": "event",
+      "slug": "fashion-internship",
+      "path": "events/fashion-internship.md",
+      "facts": [
+        {
+          "fact_id": "fashion-internship#1",
+          "text": "Gina got accepted for a fashion internship.",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Fashion internship",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "fashion-internship#2",
+          "text": "Gina's fashion internship is a part-time position in the fashion department of an international company.",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Fashion internship",
+          "page_type": "event"
+        },
+        {
+          "fact_id": "fashion-internship#3",
+          "text": "Gina got noticed by fashion editors last week.",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Fashion internship",
+          "page_type": "event"
+        }
+      ]
+    },
+    {
+      "title": "The Lean Startup",
+      "type": "topic",
+      "slug": "the-lean-startup",
+      "path": "topics/the-lean-startup.md",
+      "facts": [
+        {
+          "fact_id": "the-lean-startup#1",
+          "text": "Jon is currently reading 'The Lean Startup'.",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "The Lean Startup",
+          "page_type": "topic"
+        }
+      ]
+    },
+    {
+      "title": "Entrepreneurship",
+      "type": "topic",
+      "slug": "entrepreneurship",
+      "path": "topics/entrepreneurship.md",
+      "facts": [
+        {
+          "fact_id": "entrepreneurship#1",
+          "text": "Gina encourages Jon to stay passionate, focused, and resilient as an entrepreneur.",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#2",
+          "text": "Gina believes that failures lead you closer to success.",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#3",
+          "text": "Jon chose to go to networking events yesterday to make things happen.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#4",
+          "text": "Jon is investing his time in his business.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#5",
+          "text": "Jon is writing all his plans down.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#6",
+          "text": "Gina believes tracking plans and goals is key to progress.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#7",
+          "text": "Jon finds seeing his goals written down on paper helps keep him motivated and focused.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#8",
+          "text": "Gina encourages Jon to keep persevering and working hard.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#9",
+          "text": "Gina shared an image of a sign that says 'never give up'.",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#10",
+          "text": "Jon is going full-time with his business idea.",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#11",
+          "text": "Jon lost his job, which pushed him to pursue his business dreams.",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#12",
+          "text": "Jon feels supported by his community, which motivates him to chase his dreams.",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#13",
+          "text": "Gina encourages Jon to keep pushing towards his dreams.",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#14",
+          "text": "Jon has been rehearsing hard and working on business plans.",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#15",
+          "text": "Gina supports Jon in his journey to make his dream happen.",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#16",
+          "text": "Gina encourages Jon to never give up and keep going.",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "entrepreneurship#17",
+          "text": "Gina reminds Jon to 'Just do it!'",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Entrepreneurship",
+          "page_type": "topic"
+        }
+      ]
+    },
+    {
+      "title": "Marketing",
+      "type": "topic",
+      "slug": "marketing",
+      "path": "topics/marketing.md",
+      "facts": [
+        {
+          "fact_id": "marketing#1",
+          "text": "Gina advises to use social media channels and work with influencers for marketing.",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Marketing",
+          "page_type": "topic"
+        },
+        {
+          "fact_id": "marketing#2",
+          "text": "Jon started to learn marketing and analytics tools to push his business forward.",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Marketing",
+          "page_type": "topic"
+        }
+      ]
+    },
+    {
+      "title": "Dance class",
+      "type": "event",
+      "slug": "dance-class",
+      "path": "events/dance-class.md",
+      "facts": [
+        {
+          "fact_id": "dance-class#1",
+          "text": "Gina felt the importance of a creative space for dancers during a dance class with friends last Friday.",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dance class",
+          "page_type": "event"
+        }
+      ]
+    }
+  ]
+}

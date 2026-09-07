@@ -1,0 +1,37 @@
+---
+title: Caroline
+type: person
+---
+
+- Caroline has been transitioning for three years — 9 June, 2023
+- Caroline feels powerful when sharing her story — 9 June, 2023
+- Caroline has received a lot of love and support throughout her journey — 9 June, 2023
+- Caroline has known her friends for 4 years since moving from her home country — 9 June, 2023
+- Caroline's friends have been important to her, especially after a tough breakup — 9 June, 2023
+- Caroline believes hanging with loved ones brings happiness — 9 June, 2023
+- Caroline received a necklace with a cross and a heart as a gift from her grandma in her home country, Sweden. — 27 June, 2023
+- The necklace Caroline received stands for love, faith, and strength, reminding her of her roots and family support. — 27 June, 2023
+- Caroline has a hand-painted bowl that a friend made for her 18th birthday ten years ago. — 27 June, 2023
+- The hand-painted bowl Caroline owns reminds her of art and self-expression. — 27 June, 2023
+- Caroline realized she can be herself without fear and found the courage to transition. — 15 July, 2023
+- Caroline attended a pride parade on 11 August 2023. — 14 August, 2023
+- Caroline felt inspired by the pride parade and the celebration of love and acceptance. — 14 August, 2023
+- Caroline and Melanie are planning a family outing this summer. — 17 August, 2023
+- Caroline suggested planning something special for just the two of them this summer to catch up and explore nature. — 17 August, 2023
+- Caroline has a guinea pig named Oscar. — 23 August, 2023
+- Caroline shared a photo of Oscar eating parsley. — 23 August, 2023
+- Caroline used to go horseback riding with her dad when she was a kid. — 23 August, 2023
+- Caroline went hiking last week and got into a bad spot with some people. — 25 August, 2023
+- Caroline found a rainbow sidewalk while walking in her neighborhood for Pride Month. — 25 August, 2023
+- Caroline went biking with the gang last weekend and saw some cool stuff. — 13 September, 2023
+- Caroline shared a photo of a beach with a fence and a sunset. — 13 September, 2023
+- Caroline loves the yellow leaves in Melanie's photo and thinks it looks cozy. — 13 September, 2023
+- Caroline is ready to be a mom and share her love and family. — 13 October, 2023
+- Caroline went to a poetry reading last Friday. — 13 October, 2023
+- Caroline found self-acceptance to be a long process. — 22 October, 2023
+- Caroline wants to offer love and support to those who need it. — 22 October, 2023
+- Caroline received invaluable help from friends, family, and role models during her transition. — 22 October, 2023
+- Caroline wants to pass the same support she received to anyone who needs it. — 22 October, 2023
+- Caroline finds joy in bringing comfort to others and helping them grow. — 22 October, 2023
+- Caroline appreciates the support of those close to her. — 22 October, 2023
+- Caroline believes being yourself is freeing and leads to contentment. — 22 October, 2023

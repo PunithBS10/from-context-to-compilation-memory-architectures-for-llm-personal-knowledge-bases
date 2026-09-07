@@ -1,0 +1,40 @@
+---
+title: Jolene
+type: person
+---
+
+- Jolene's mother passed away last year. — 23 January, 2023
+- Jolene has a pet snake named Susie — 27 January, 2023
+- Jolene's pet snakes calm her down and make her happy — 27 January, 2023
+- Jolene's second snake is named Seraphim — 27 January, 2023
+- Jolene bought her snake a year ago in Paris — 27 January, 2023
+- Jolene enjoys playing video games with her partner — 27 January, 2023
+- Jolene and her partner played the game 'Detroit' on the console last week — 27 January, 2023
+- Jolene learned to play video games on her own as a child — 27 January, 2023
+- Jolene and her partner are planning to play 'Walking Dead' next Saturday — 27 January, 2023
+- Jolene planned to play the console with her partner — 1 February, 2023
+- Jolene wants to keep working in engineering and continue to make a positive impact on communities in need by creating sustainable solutions. — 4 February, 2023
+- Jolene did a mini retreat on 1 February 2023 to assess where she is at in life. — 9 February, 2023
+- Jolene gained new insights from her mini retreat. — 9 February, 2023
+- Jolene achieved more than she imagined at her mini retreat, which was a confidence boost. — 9 February, 2023
+- Jolene shared sketches in her planner during the conversation. — 9 February, 2023
+- Jolene had a great night out on 21 February 2023, including dinner and drinks with friends. — 22 February, 2023
+- Jolene is balancing engineering school with her partner's video games. — 25 February, 2023
+- Jolene and her partner have been together for three years and are not married yet. — 25 February, 2023
+- Jolene and her partner met in an engineering class in college and quickly became friends. — 25 February, 2023
+- Jolene has a lot going on with her studies and exams. — 2 March, 2023
+- Jolene feels overwhelmed by exams and deadlines. — 2 March, 2023
+- Jolene has a to-do list that seems never-ending. — 2 March, 2023
+- Jolene has snakes that cannot chat or understand her feelings, but their time together is valuable. — 9 April, 2023
+- Jolene appreciates Deborah's support regarding her project. — 9 April, 2023
+- Jolene has been stressed since she lost her work files — 12 August, 2023
+- Jolene has been thinking a lot about her plans lately, especially after checking in with her boyfriend. — 16 August, 2023
+- Jolene feels like she is trying to juggle her engineering, relationship, and personal growth. — 16 August, 2023
+- Jolene bought a console for her partner as a gift on the 17th. — 19 August, 2023
+- Jolene's engineering studies are still going strong. — 19 August, 2023
+- Jolene and her partner talked about how their loved ones have influenced them and what their values meant to them last Friday. — 26 August, 2023
+- Jolene's mom taught her to persevere and stay resilient, and her partner's dad showed them to stay determined. — 26 August, 2023
+- Jolene is pursuing engineering and her partner is pursuing creative endeavors, influenced by their loved ones' values. — 26 August, 2023
+- Jolene has been focusing on studying and her relationship with her partner, taking little trips to the beach to relax. — 3 September, 2023
+- Jolene has a lot of finals coming up this month and has been studying hard, which has been stressful. — 3 September, 2023
+- Jolene's room is her little haven for peace and rest after a busy day. — 15 September, 2023

@@ -1,0 +1,38 @@
+---
+title: Nate
+type: person
+---
+
+- Nate enjoys playing video games — 21 January, 2022
+- Nate enjoys watching movies — 21 January, 2022
+- Nate has had his turtles for 3 years. — 23 January, 2022
+- Nate has two tortoises as pets. — 18 March, 2022
+- Nate is drawn to turtles because they are unique and their slow pace is calming. — 18 March, 2022
+- Nate finds taking care of his turtles to be fun and not tough. — 18 March, 2022
+- Nate will send Joanna pictures of his turtles so she can watch them grow without getting too close. — 18 March, 2022
+- Nate dyed his hair last week. — 15 April, 2022
+- Nate's new hair color is bright and bold purple. — 15 April, 2022
+- Nate is not really into hiking but is curious to see what the trail looks like. — 17 April, 2022
+- Nate finds spending time with his pets and engaging in hobbies helps him take a break from reality. — 17 April, 2022
+- Nate believes small things can have a powerful effect on happiness. — 17 April, 2022
+- Nate shared an image of a turtle and a strawberry in a bowl. — 17 April, 2022
+- Nate sometimes brings his turtles into the kitchen to watch him make food. — 17 April, 2022
+- Nate shared an image of a bowl of ice cream and a bowl of sprinkles. — 17 April, 2022
+- Nate has a gaming room. — 2 May, 2022
+- Nate thinks about his life or new recipes when he is deep in thought. — 12 May, 2022
+- Nate adopted a dog named Max who is full of energy and brings him joy. — 20 May, 2022
+- Nate took Max for a walk and ran into a couple who had a dog. — 25 May, 2022
+- The couple Nate met lives close by. — 25 May, 2022
+- Nate and the couple decided to do doggy playdates. — 25 May, 2022
+- Nate enjoys watching pets play with one another. — 25 May, 2022
+- Nate shared an image of a stuffed animal with Joanna. — 25 May, 2022
+- Nate believes the stuffed animal is a reminder of good vibes. — 25 May, 2022
+- Nate thinks the stuffed animal brings joy. — 25 May, 2022
+- Nate believes enjoying the ride is key during tough times. — 25 May, 2022
+- Nate is here to support Joanna. — 25 May, 2022
+- Nate is able to make a living at something he is passionate about. — 22 August, 2022
+- Nate's fish tank expansion has made his fish happy. — 22 August, 2022
+- Nate is taking time off this weekend to chill with his pets. — 22 August, 2022
+- Nate's turtles cheer him up when he is stressed. — 21 October, 2022
+- Nate took his turtles out for a walk on the day of this conversation. — 25 October, 2022
+- Nate has always liked turtles since he was a boy. — 25 October, 2022

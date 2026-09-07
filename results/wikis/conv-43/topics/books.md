@@ -1,0 +1,31 @@
+---
+title: Books
+type: topic
+---
+
+- John has been reading an inspiring book that reminds him to keep dreaming. — 2 August, 2023
+- Tim believes books can inspire and help keep dreams alive. — 2 August, 2023
+- Tim recently read 'The Name of the Wind', a fantasy novel — 11 August, 2023
+- 'The Name of the Wind' features a magician and musician protagonist — 11 August, 2023
+- Tim shared an image of a book set of three books — 11 August, 2023
+- Tim has been focusing on school and reading fantasy books. — 21 August, 2023
+- Tim is busy with studies but is finding time to relax with books. — 17 October, 2023
+- John has picked up a book after their conversation and finds it awesome. — 17 October, 2023
+- Tim read an awesome book about castles in the UK. — 21 October, 2023
+- Tim finds J.K. Rowling to be an inspiring writer. — 21 October, 2023
+- Tim has been reading J.K. Rowling's works for a long time. — 21 October, 2023
+- Tim likes the quote by J.K. Rowling: 'Turn on the light - happiness hides in the darkest of times.' — 21 October, 2023
+- Tim enjoys curling up with a good book in his free time. — 21 October, 2023
+- Tim enjoys reading and shared a photo of a book titled 'A Storm of Swords'. — 11 November, 2023
+- John enjoys reading non-fiction books about personal development and mindset. — 21 November, 2023
+- Tim enjoys reading fantasy stories and books on growth, psychology, and self-improvement. — 21 November, 2023
+- Tim recently read a book about how small changes can make big differences, which changed the way he does things. — 21 November, 2023
+- John recently finished rereading 'The Alchemist', which inspired him to follow dreams and search for personal legends. — 21 November, 2023
+- Tim read 'The Alchemist' a while back and it changed his perspective on his goals. — 21 November, 2023
+- John is currently reading 'Dune' by Frank Herbert, which is about religion and human control over ecology. — 8 December, 2023
+- Tim recently finished reading 'A Dance with Dragons' and highly recommends it. — 8 December, 2023
+- Tim has read all of the Game of Thrones series by George R. R. Martin. — 8 December, 2023
+- Tim loves to get lost in good books during his downtime. — 26 December, 2023
+- Tim loves reading — 2 January, 2024
+- Tim's favorite book is Harry Potter — 2 January, 2024
+- Tim is currently reading a fantasy novel called 'The Name of the Wind' by Patrick Rothfuss. — 7 January, 2024

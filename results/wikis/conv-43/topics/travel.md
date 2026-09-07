@@ -1,0 +1,42 @@
+---
+title: Travel
+type: topic
+---
+
+- Tim enjoys traveling to experience different kinds of magic. — 26 August, 2023
+- John loves discovering new cities. — 26 August, 2023
+- Tim is adding New York City to his travel list. — 26 August, 2023
+- John and his teammates are planning a team trip next month to explore a new city. — 21 September, 2023
+- Tim suggested Edinburgh, Scotland as a destination for John's team trip. — 21 September, 2023
+- John has not been to Edinburgh yet but is considering it for the trip. — 21 September, 2023
+- Tim took a photo of a sunset over a mountain range last summer during a trip to the Smoky Mountains. — 17 October, 2023
+- Tim dreams of visiting castles in the UK one day. — 21 October, 2023
+- John and his wife just left for a European vacation. — 6 November, 2023
+- Tim recommended visiting some castles during John and his wife's European vacation. — 6 November, 2023
+- John and his wife went road tripping out on the European coastline on 11 November, 2023. — 11 November, 2023
+- John described the views on the European coastline as spectacular and mentioned bonding with his wife during the trip. — 11 November, 2023
+- Tim went to a castle during his trip to the UK last Friday and found the architecture and history amazing. — 16 November, 2023
+- John went camping in the mountains last summer and found it stunning. — 1 December, 2023
+- John loved chilling and taking in the beauty of nature while camping. — 1 December, 2023
+- John shared a photo of his trip to the Rocky Mountains last year. — 1 December, 2023
+- Tim shared a photo of a plane flying over a mountain range with snow on the top. — 1 December, 2023
+- John shared a photo of a campfire with chairs and a lake in the background from his camping trip. — 1 December, 2023
+- Tim joined a travel club and is excited to check it out. — 6 December, 2023
+- Tim is interested in different cultures and countries. — 6 December, 2023
+- Tim has been reading cool stories from travelers from around the world to plan his next adventure. — 26 December, 2023
+- Tim read a story about two hikers who trekked through the Himalayas. — 26 December, 2023
+- The trek through the Himalayas was tough but worth it, with challenging terrain, altitude sickness, and bad weather. — 26 December, 2023
+- Tim visited a travel agency to see the requirements for his next dream trip. — 26 December, 2023
+- Tim joined a group of globetrotters who are into the same stuff as him — 2 January, 2024
+- John visited Italy last month — 2 January, 2024
+- John enjoyed the food, history, and architecture in Italy — 2 January, 2024
+- Tim loves traveling — 2 January, 2024
+- John has been to Paris and loved it — 2 January, 2024
+- Tim is in the study abroad program and is going to Ireland for a semester next month. — 7 January, 2024
+- Tim is going to stay in Galway, Ireland, which is known for its arts and Irish music. — 7 January, 2024
+- Tim wants to visit The Cliffs of Moher for its amazing ocean views and cliffs. — 7 January, 2024
+- Tim is researching visa requirements for countries he wants to visit. — 12 January, 2024
+- Tim feels proud of taking initiative in researching visa requirements. — 12 January, 2024
+- John recommends Barcelona as a must-visit city. — 12 January, 2024
+- John mentions that Barcelona has great culture, architecture, and food. — 12 January, 2024
+- John notes that the nearby beaches in Barcelona are great for soaking up the sun. — 12 January, 2024

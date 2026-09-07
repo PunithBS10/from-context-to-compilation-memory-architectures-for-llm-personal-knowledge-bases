@@ -1,0 +1,82 @@
+---
+title: Music
+type: topic
+---
+
+- Calvin wrote some new tunes and had a few studio sessions last week. — 26 March, 2023
+- Calvin is excited to collaborate on new music. — 26 March, 2023
+- Calvin received advice from a producer to stay true to himself and sound unique. — 20 April, 2023
+- Calvin dreams of touring the world and performing for different people. — 20 April, 2023
+- Calvin hopes his music can reach a global audience and make an impact. — 20 April, 2023
+- Calvin is currently stuck with his music creativity. — 3 May, 2023
+- Dave suggests immersing oneself in something loved to jumpstart inspiration. — 3 May, 2023
+- Calvin's place got flooded last week, but he managed to save his music gear and favorite microphone. — 16 May, 2023
+- Calvin is waiting on insurance to kick in so he can start repairs on his flooded place. — 16 May, 2023
+- Calvin has a music studio where he pours his heart into music. — 16 May, 2023
+- Calvin is excited for his upcoming performance in Tokyo this month. — 16 May, 2023
+- Calvin loves the rush and connection with the crowd when performing live. — 31 May, 2023
+- Calvin met with the creative team for his album on 8 June 2023. — 9 June, 2023
+- Calvin is feeling stoked about his album. — 9 June, 2023
+- Calvin shared a photo of a recording studio with a large window and a desk. — 9 June, 2023
+- Dave recently joined a rock band and has been practicing guitar. — 21 June, 2023
+- Dave shared a photo of his rock band practicing in a room. — 21 June, 2023
+- Calvin is working on music collaborations with Japanese artists. — 7 July, 2023
+- Calvin has been experimenting with different music genres and adding electronic elements to his songs. — 21 July, 2023
+- Calvin finds switching between music styles challenging but exciting. — 21 July, 2023
+- Calvin started making music to follow his dreams and feels motivated by collaborating with others. — 21 July, 2023
+- Calvin surrounds himself with positive energy and passion to stay motivated. — 21 July, 2023
+- Calvin's goal is to expand his brand worldwide and grow his fanbase — 3 August, 2023
+- Calvin wants his music to reach more people and make an impact — 3 August, 2023
+- Calvin aims to work with artists from around the globe and create special music — 3 August, 2023
+- Dave encourages Calvin to keep making a difference with his music — 3 August, 2023
+- Calvin had an amazing experience touring with a well-known artist. — 14 August, 2023
+- Calvin's tour ended and it was amazing. — 31 August, 2023
+- Calvin started shooting a video for his new album last weekend. — 31 August, 2023
+- Calvin is shooting the video in Miami on an awesome beach. — 31 August, 2023
+- Calvin had a custom guitar made by his Japanese artist friend. — 31 August, 2023
+- Calvin's custom guitar has an octopus on it, representing his love for art and the sea. — 31 August, 2023
+- Calvin's guitar has a shiny finish that gives it a unique look. — 31 August, 2023
+- Calvin values staying true to himself and being unique in his music. — 31 August, 2023
+- Calvin's album dropped on the 11th of September, 2023 — 13 September, 2023
+- Calvin is motivated to make better music after the positive feedback on his album — 13 September, 2023
+- Dave's band had a jam session where the music kept flowing and they had fun rehearsing. — 15 September, 2023
+- Calvin thinks rock concerts have an electrifying atmosphere. — 15 September, 2023
+- Dave wishes he had recorded the jam session but they were too into it and forgot. — 15 September, 2023
+- Calvin has a song by Tupac and Dr. Dre called 'California Love' that brings back memories from a road trip with his dad. — 22 September, 2023
+- Calvin and Dave plan to have a jam session together. — 22 September, 2023
+- Calvin's mutual friend arranged the meeting with the artists. — 4 October, 2023
+- Calvin loves working on a project to chill out. — 4 October, 2023
+- Calvin believes that hard work and dedication are key to reaching goals and potential. — 4 October, 2023
+- Calvin and Dave agree that progress keeps them motivated and pushes them for more. — 4 October, 2023
+- Calvin and Dave are committed to staying focused and working hard to make their dreams happen together. — 4 October, 2023
+- Dave attended a music festival and felt alive from the energy, music, and crowd. — 15 October, 2023
+- The Fireworks headlined the music festival that Dave attended. — 15 October, 2023
+- Calvin heard great things about The Fireworks and mentioned their recent performance with Frank Ocean. — 15 October, 2023
+- Calvin started touring with Frank Ocean in October 2023 — 19 October, 2023
+- Calvin feels a strong connection with the crowd when performing on stage — 19 October, 2023
+- Calvin met Frank Ocean at a festival in August last year — 19 October, 2023
+- Calvin and Frank Ocean clicked right away and had incredible chemistry on stage — 19 October, 2023
+- Calvin is currently on tour with Frank Ocean. — 23 October, 2023
+- Calvin finds performing and connecting with the crowd energizing. — 23 October, 2023
+- Calvin struggles to balance his job and personal life due to fame. — 23 October, 2023
+- Calvin takes it one day at a time to manage overwhelming demands. — 23 October, 2023
+- Calvin has a strong support system that helps him stay on track. — 23 October, 2023
+- Calvin stays connected and up-to-date on world events to inspire his music. — 23 October, 2023
+- Calvin is inspired by the struggles that people go through for his music. — 23 October, 2023
+- Calvin uses music as a way to express himself and work through his emotions. — 23 October, 2023
+- Calvin believes that paying attention to details makes a difference in music and cars. — 23 October, 2023
+- Calvin wants to create something extraordinary as an artist. — 23 October, 2023
+- Calvin finds concerts to be an indescribable connection between the artist and the crowd. — 23 October, 2023
+- Calvin wishes Dave a harmonious day ahead. — 23 October, 2023
+- Dave wishes Calvin many more electrifying moments in the spotlight. — 23 October, 2023
+- Calvin performed with someone he admires and found it to be a dream come true. — 25 October, 2023
+- Calvin feels that music is his passion and purpose. — 25 October, 2023
+- Calvin is excited about building up his fan base through networking with other artists. — 29 October, 2023
+- Calvin has had great collaborations recently and his album is almost finished. — 29 October, 2023
+- Dave listens to vinyl to relax and stay on track when doing car work. — 2 November, 2023
+- Dave has been getting into classic rock lately. — 2 November, 2023
+- Calvin feels that relationships are important in the music business. — 13 November, 2023
+- Calvin has been supporting some young musicians from a music program. — 13 November, 2023
+- Calvin thinks that supporting young musicians is amazing and their enthusiasm is inspiring. — 13 November, 2023
+- Calvin is excited about working with new talent and believes it brings new ideas to music. — 13 November, 2023
+- Calvin had an interesting chat with an artist at the gala about music and art. — 17 November, 2023

@@ -1,0 +1,37 @@
+---
+title: Joanna
+type: person
+---
+
+- Joanna enjoys writing — 21 January, 2022
+- Joanna enjoys reading — 21 January, 2022
+- Joanna enjoys watching movies — 21 January, 2022
+- Joanna enjoys exploring nature — 21 January, 2022
+- Joanna is allergic to most reptiles and animals with fur. — 23 January, 2022
+- Joanna's allergies make her face get puffy and itchy around certain animals. — 23 January, 2022
+- Joanna finds other ways to be happy despite her allergies. — 23 January, 2022
+- Joanna finds joy in writing and hanging out with friends. — 23 January, 2022
+- Joanna cannot have dairy — 25 February, 2022
+- Joanna is allergic to cockroaches. — 18 March, 2022
+- Joanna wishes she could get two turtles as pets if she wasn't allergic. — 18 March, 2022
+- Joanna saw a gorgeous sunset while hiking the other day. — 15 April, 2022
+- Joanna has been reading a lot in the past week. — 17 April, 2022
+- Joanna is a huge fan of nature. — 17 April, 2022
+- Joanna loves Nate's turtles. — 17 April, 2022
+- Joanna wishes she could make ice cream the way Nate does. — 17 April, 2022
+- Joanna is lactose intolerant. — 17 April, 2022
+- Joanna's first passion was acting, but she now focuses on writing. — 21 April, 2022
+- Joanna has allergies that prevent her from wanting to get a pet. — 20 May, 2022
+- Joanna is grateful for her supportive friends who understand and appreciate her work. — 20 May, 2022
+- Joanna loves the stuffed animal that Nate gave her. — 25 May, 2022
+- Joanna cherishes the stuffed animal with all her heart. — 25 May, 2022
+- Joanna appreciates small joys like the stuffed animal. — 25 May, 2022
+- Joanna reflects on tough times while finishing her screenplay. — 25 May, 2022
+- Joanna values Nate's opinion on her screenplay. — 25 May, 2022
+- Joanna will keep Nate updated on her screenplay. — 25 May, 2022
+- Joanna is trying out dairy-free options like coconut or almond milk because she is lactose intolerant. — 5 September, 2022
+- Joanna has a stuffed animal dog named Tilly that she received from Nate. — 21 October, 2022
+- Joanna named her stuffed animal dog Tilly after a dog she used to have in Michigan. — 21 October, 2022
+- Joanna got allergic to dogs and had to get rid of her dog. — 21 October, 2022
+- Joanna finds joy and focus from her stuffed animal Tilly. — 21 October, 2022
+- Joanna is allergic to turtles. — 9 November, 2022
