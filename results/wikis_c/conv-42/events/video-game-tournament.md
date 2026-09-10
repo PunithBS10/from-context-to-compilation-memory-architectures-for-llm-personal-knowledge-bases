@@ -1,0 +1,32 @@
+---
+title: Video game tournament
+type: event
+sources: [session_1, session_2, session_6, session_9, session_10, session_14, session_16, session_17, session_19, session_20, session_22, session_24, session_26, session_27, session_28]
+---
+
+- Nate won his first video game tournament last week — 21 January, 2022 [D1:3]
+- Nate's team played Counter-Strike: Global Offensive in the tournament — 21 January, 2022 [D1:7]
+- Nate enjoys hanging out with people outside of his circle at the tournament. — 23 January, 2022 [D2:16]
+- Nate is currently participating in a video game tournament. — 24 March, 2022 [D6:7]
+- Nate described the video game tournament as intense and filled with adrenaline. — 24 March, 2022 [D6:7]
+- Nate has a gaming tournament next month, which will be his 4th tournament. — 21 April, 2022 [D9:4]
+- Nate won his second tournament last week — 2 May, 2022 [D10:4]
+- Nate won another regional video game tournament last week. — 3 June, 2022 [D14:8]
+- Nate met some new people at the tournament. — 3 June, 2022 [D14:8]
+- Nate's victory in the tournament was a huge confidence boost. — 3 June, 2022 [D14:10]
+- Nate talked to some guys at the tournament who wanted to hang out later. — 3 June, 2022 [D14:14]
+- Nate is organizing a gaming party two weekends later. — 3 June, 2022 [D14:20]
+- Nate will invite his tournament friends and some old friends and teammates from other tournaments to his gaming party. — 3 June, 2022 [D14:22]
+- Nate is getting everyone custom controller decorations for coming to his gaming party. — 3 June, 2022 [D14:24]
+- Nate hosted a gaming party that was a great success with 7 attendees. — 24 June, 2022 [D16:2, D16:6]
+- Nate and his friends played Chess after the gaming party just for fun. — 24 June, 2022 [D16:2]
+- Nate won his fourth video game tournament on Friday, which was online. — 10 July, 2022 [D17:1]
+- Nate won an international tournament on 21 August 2022. — 22 August, 2022 [D19:1]
+- Nate had a letdown in a video game tournament on 5 September 2022 — 5 September, 2022 [D20:1]
+- Nate won a big video game tournament last week and earned a lot of money from it. — 6 October, 2022 [D22:2]
+- Nate saved some of the money he earned from the tournament but is not sure what to do with it. — 6 October, 2022 [D22:4]
+- Nate feels content and does not have big plans for the money he earned from the tournament. — 6 October, 2022 [D22:4]
+- Nate has been getting stressed lately because of his tournament progress. — 21 October, 2022 [D24:3]
+- Nate has been helping friends reset their high scores at an international video game tournament. — 4 November, 2022 [D26:12]
+- Nate won a big Valorant tournament on 5 November 2022. — 7 November, 2022 [D27:1]
+- Nate did not make it to the finals in the last game tournament. — 9 November, 2022 [D28:3]

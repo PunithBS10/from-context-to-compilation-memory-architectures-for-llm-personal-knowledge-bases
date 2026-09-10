@@ -147,6 +147,13 @@ def cmd_stats(args) -> int:
             "empty": stats.get("empty_sessions", 0),
             "truncated": stats.get("truncated_sessions", 0),
             "generic_titles": stats.get("generic_page_titles", 0),
+            # System C only. Zero throughout a System B wiki, whose compiler
+            # was never asked for citations.
+            "citations": stats.get("citations_total", 0),
+            "unresolvable": stats.get("citations_unresolvable", 0),
+            "other_session": stats.get("citations_other_session", 0),
+            "nonexistent": stats.get("citations_nonexistent", 0),
+            "no_citation": stats.get("facts_with_no_citation", 0),
         })
 
     header = (f"{'conv':<10}{'pages':>6}{'per':>5}{'evt':>5}{'top':>5}{'facts':>7}"
@@ -164,7 +171,9 @@ def cmd_stats(args) -> int:
     print("-" * len(header))
     totals = {key: sum(r[key] for r in rows)
               for key in ("pages", "facts", "raw_tokens", "wiki_tokens", "salvaged",
-                          "unparsable", "empty", "truncated", "generic_titles")}
+                          "unparsable", "empty", "truncated", "generic_titles",
+                          "citations", "unresolvable", "other_session",
+                          "nonexistent", "no_citation")}
     cost = sum(r["compile_cost_usd"] for r in rows)
     print(f"{len(rows)} wikis | {totals['pages']} pages | {totals['facts']} facts | "
           f"{totals['wiki_tokens']:,} compiled tokens from {totals['raw_tokens']:,} raw "
@@ -175,6 +184,18 @@ def cmd_stats(args) -> int:
           f"JSON, {totals['unparsable']} unreadable, {totals['empty']} empty, "
           f"{totals['truncated']} truncated, {totals['generic_titles']} facts filed "
           f"under a category name and re-filed")
+
+    if totals["citations"]:
+        cites = totals["citations"]
+        print(f"citations: {cites} ids on {totals['facts']} facts "
+              f"({cites / totals['facts']:.2f} per fact) | "
+              f"resolvability {(cites - totals['nonexistent']) / cites:.4f} | "
+              f"session consistency {(cites - totals['unresolvable']) / cites:.4f}")
+        print(f"  unresolvable {totals['unresolvable']} "
+              f"({totals['other_session']} named another session, "
+              f"{totals['nonexistent']} named no turn at all) | "
+              f"{totals['no_citation']} facts kept with no citation "
+              f"({totals['no_citation'] / totals['facts']:.2%})")
 
     if args.out:
         out = Path(args.out)

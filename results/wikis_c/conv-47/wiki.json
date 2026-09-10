@@ -1,0 +1,4608 @@
+{
+  "conv_id": "conv-47",
+  "speakers": [
+    "James",
+    "John"
+  ],
+  "extraction_model": "gpt-4o-mini",
+  "build_fingerprint": "9884fea0ef28",
+  "compiler_version": "c1",
+  "built_utc": "2026-09-10T13:54:07.855181+00:00",
+  "sessions": [
+    {
+      "index": 1,
+      "session_id": "session_1",
+      "timestamp": "3:47 pm on 17 March, 2022",
+      "date_label": "17 March, 2022"
+    },
+    {
+      "index": 2,
+      "session_id": "session_2",
+      "timestamp": "9:26 pm on 20 March, 2022",
+      "date_label": "20 March, 2022"
+    },
+    {
+      "index": 3,
+      "session_id": "session_3",
+      "timestamp": "12:40 am on 27 March, 2022",
+      "date_label": "27 March, 2022"
+    },
+    {
+      "index": 4,
+      "session_id": "session_4",
+      "timestamp": "2:13 pm on 4 April, 2022",
+      "date_label": "4 April, 2022"
+    },
+    {
+      "index": 5,
+      "session_id": "session_5",
+      "timestamp": "9:52 am on 12 April, 2022",
+      "date_label": "12 April, 2022"
+    },
+    {
+      "index": 6,
+      "session_id": "session_6",
+      "timestamp": "9:32 pm on 20 April, 2022",
+      "date_label": "20 April, 2022"
+    },
+    {
+      "index": 7,
+      "session_id": "session_7",
+      "timestamp": "11:04 am on 23 April, 2022",
+      "date_label": "23 April, 2022"
+    },
+    {
+      "index": 8,
+      "session_id": "session_8",
+      "timestamp": "2:36 pm on 29 April, 2022",
+      "date_label": "29 April, 2022"
+    },
+    {
+      "index": 9,
+      "session_id": "session_9",
+      "timestamp": "7:01 pm on 4 May, 2022",
+      "date_label": "4 May, 2022"
+    },
+    {
+      "index": 10,
+      "session_id": "session_10",
+      "timestamp": "12:45 am on 8 May, 2022",
+      "date_label": "8 May, 2022"
+    },
+    {
+      "index": 11,
+      "session_id": "session_11",
+      "timestamp": "5:00 pm on 11 May, 2022",
+      "date_label": "11 May, 2022"
+    },
+    {
+      "index": 12,
+      "session_id": "session_12",
+      "timestamp": "7:33 pm on 23 May, 2022",
+      "date_label": "23 May, 2022"
+    },
+    {
+      "index": 13,
+      "session_id": "session_13",
+      "timestamp": "4:30 pm on 13 June, 2022",
+      "date_label": "13 June, 2022"
+    },
+    {
+      "index": 14,
+      "session_id": "session_14",
+      "timestamp": "5:07 pm on 16 June, 2022",
+      "date_label": "16 June, 2022"
+    },
+    {
+      "index": 15,
+      "session_id": "session_15",
+      "timestamp": "9:59 pm on 19 June, 2022",
+      "date_label": "19 June, 2022"
+    },
+    {
+      "index": 16,
+      "session_id": "session_16",
+      "timestamp": "5:13 pm on 9 July, 2022",
+      "date_label": "9 July, 2022"
+    },
+    {
+      "index": 17,
+      "session_id": "session_17",
+      "timestamp": "9:49 am on 22 July, 2022",
+      "date_label": "22 July, 2022"
+    },
+    {
+      "index": 18,
+      "session_id": "session_18",
+      "timestamp": "1:45 pm on 6 August, 2022",
+      "date_label": "6 August, 2022"
+    },
+    {
+      "index": 19,
+      "session_id": "session_19",
+      "timestamp": "9:16 am on 10 August, 2022",
+      "date_label": "10 August, 2022"
+    },
+    {
+      "index": 20,
+      "session_id": "session_20",
+      "timestamp": "3:57 pm on 21 August, 2022",
+      "date_label": "21 August, 2022"
+    },
+    {
+      "index": 21,
+      "session_id": "session_21",
+      "timestamp": "9:18 pm on 26 August, 2022",
+      "date_label": "26 August, 2022"
+    },
+    {
+      "index": 22,
+      "session_id": "session_22",
+      "timestamp": "6:53 pm on 1 September, 2022",
+      "date_label": "1 September, 2022"
+    },
+    {
+      "index": 23,
+      "session_id": "session_23",
+      "timestamp": "9:23 pm on 4 September, 2022",
+      "date_label": "4 September, 2022"
+    },
+    {
+      "index": 24,
+      "session_id": "session_24",
+      "timestamp": "6:02 pm on 18 September, 2022",
+      "date_label": "18 September, 2022"
+    },
+    {
+      "index": 25,
+      "session_id": "session_25",
+      "timestamp": "8:56 pm on 20 September, 2022",
+      "date_label": "20 September, 2022"
+    },
+    {
+      "index": 26,
+      "session_id": "session_26",
+      "timestamp": "9:20 am on 3 October, 2022",
+      "date_label": "3 October, 2022"
+    },
+    {
+      "index": 27,
+      "session_id": "session_27",
+      "timestamp": "2:14 pm on 13 October, 2022",
+      "date_label": "13 October, 2022"
+    },
+    {
+      "index": 28,
+      "session_id": "session_28",
+      "timestamp": "7:36 pm on 21 October, 2022",
+      "date_label": "21 October, 2022"
+    },
+    {
+      "index": 29,
+      "session_id": "session_29",
+      "timestamp": "12:37 am on 31 October, 2022",
+      "date_label": "31 October, 2022"
+    },
+    {
+      "index": 30,
+      "session_id": "session_30",
+      "timestamp": "5:20 pm on 5 November, 2022",
+      "date_label": "5 November, 2022"
+    },
+    {
+      "index": 31,
+      "session_id": "session_31",
+      "timestamp": "8:57 pm on 7 November, 2022",
+      "date_label": "7 November, 2022"
+    }
+  ],
+  "stats": {
+    "compile_prompt_tokens": 53325,
+    "compile_completion_tokens": 14733,
+    "compile_cost_usd": 0.016838549999999997,
+    "compile_latency_s": 137.54197770007886,
+    "compile_calls": 31,
+    "compile_cached_calls": 0,
+    "sessions_compiled": 31,
+    "truncated_sessions": 0,
+    "duplicate_facts_dropped": 0,
+    "generic_page_titles": 5,
+    "salvaged_sessions": 0,
+    "unparsable_sessions": 0,
+    "empty_sessions": 0,
+    "citations_total": 355,
+    "citations_resolvable": 355,
+    "citations_unresolvable": 0,
+    "citations_other_session": 0,
+    "citations_nonexistent": 0,
+    "facts_with_no_citation": 0,
+    "citation_resolvability": 1.0,
+    "citation_session_consistency": 1.0,
+    "n_pages": 30,
+    "n_facts": 344,
+    "wiki_tokens": 10969,
+    "raw_conversation_tokens": 21153,
+    "compression_ratio": 0.5186
+  },
+  "pages": [
+    {
+      "title": "Bowling",
+      "type": "event",
+      "slug": "bowling",
+      "path": "events/bowling.md",
+      "facts": [
+        {
+          "fact_id": "bowling#1",
+          "text": "James went bowling yesterday and got 2 strikes.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Bowling",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:26"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dog Walking App",
+      "type": "topic",
+      "slug": "dog-walking-app",
+      "path": "topics/dog-walking-app.md",
+      "facts": [
+        {
+          "fact_id": "dog-walking-app#1",
+          "text": "James plans to build an app for dog walking and pet care.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dog Walking App",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:14"
+          ]
+        },
+        {
+          "fact_id": "dog-walking-app#2",
+          "text": "The goal of James's dog walking app is to connect pet owners with reliable dog walkers and provide helpful information on pet care.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dog Walking App",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:14"
+          ]
+        },
+        {
+          "fact_id": "dog-walking-app#3",
+          "text": "James's dog walking app allows users to add their pup's preferences and needs.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dog Walking App",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:16"
+          ]
+        },
+        {
+          "fact_id": "dog-walking-app#4",
+          "text": "James took his dogs out for a hike last Thursday",
+          "date_label": "23 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dog Walking App",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:2"
+          ]
+        },
+        {
+          "fact_id": "dog-walking-app#5",
+          "text": "James explored some nice trails and enjoyed fresh air during the hike",
+          "date_label": "23 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dog Walking App",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:2"
+          ]
+        },
+        {
+          "fact_id": "dog-walking-app#6",
+          "text": "James has a photo of the hike with his dogs",
+          "date_label": "23 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dog Walking App",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:4"
+          ]
+        },
+        {
+          "fact_id": "dog-walking-app#7",
+          "text": "James picked the hiking spot because it had great views and lots of trails",
+          "date_label": "23 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dog Walking App",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:6"
+          ]
+        },
+        {
+          "fact_id": "dog-walking-app#8",
+          "text": "James took his three dogs to a beach outing to have fun and bond with other dogkeepers yesterday.",
+          "date_label": "10 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dog Walking App",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:12"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Game Development",
+      "type": "topic",
+      "slug": "game-development",
+      "path": "topics/game-development.md",
+      "facts": [
+        {
+          "fact_id": "game-development#1",
+          "text": "James is working on a project to create a computer game based on sketches he made as a child.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:20"
+          ]
+        },
+        {
+          "fact_id": "game-development#2",
+          "text": "James enjoys combining his passions for gaming and storytelling in his projects.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:22"
+          ]
+        },
+        {
+          "fact_id": "game-development#3",
+          "text": "James worked with one of his gaming pals on a programming project last Thursday.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:2"
+          ]
+        },
+        {
+          "fact_id": "game-development#4",
+          "text": "James created a virtual world inspired by The Witcher 3.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:2"
+          ]
+        },
+        {
+          "fact_id": "game-development#5",
+          "text": "James created a game character for the virtual world he made.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:4"
+          ]
+        },
+        {
+          "fact_id": "game-development#6",
+          "text": "James has been working on a project for weeks.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:2"
+          ]
+        },
+        {
+          "fact_id": "game-development#7",
+          "text": "James hit a major snag in his project due to a bug in the code.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:4"
+          ]
+        },
+        {
+          "fact_id": "game-development#8",
+          "text": "James could not solve the bug in his project on his own.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:6"
+          ]
+        },
+        {
+          "fact_id": "game-development#9",
+          "text": "James teamed up with a group of friends to fix the bug in his project.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:6"
+          ]
+        },
+        {
+          "fact_id": "game-development#10",
+          "text": "James is working on a new part of a football simulator and collecting player databases.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:8"
+          ]
+        },
+        {
+          "fact_id": "game-development#11",
+          "text": "John and his siblings are working on a simple, text-based adventure game to help them learn coding.",
+          "date_label": "26 August, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:6",
+            "D21:8"
+          ]
+        },
+        {
+          "fact_id": "game-development#12",
+          "text": "James is trying out different genres of games and wants to create a strategy game like Civilization.",
+          "date_label": "26 August, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:9"
+          ]
+        },
+        {
+          "fact_id": "game-development#13",
+          "text": "James finished his Unity strategy game on 1 September, 2022",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:1"
+          ]
+        },
+        {
+          "fact_id": "game-development#14",
+          "text": "James is proud of the time and effort he put into his Unity strategy game",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:1"
+          ]
+        },
+        {
+          "fact_id": "game-development#15",
+          "text": "James received support and encouragement from John during the development of his game",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:1"
+          ]
+        },
+        {
+          "fact_id": "game-development#16",
+          "text": "James created his game because he has always loved playing strategy games like Civilization and Total War",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:5"
+          ]
+        },
+        {
+          "fact_id": "game-development#17",
+          "text": "James faced challenges in balancing mechanics and ensuring fairness during the development of his game",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:7"
+          ]
+        },
+        {
+          "fact_id": "game-development#18",
+          "text": "James learned that perseverance and patience are key during the game development process",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:9"
+          ]
+        },
+        {
+          "fact_id": "game-development#19",
+          "text": "James believes that feedback and collaboration are essential in game development",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:9"
+          ]
+        },
+        {
+          "fact_id": "game-development#20",
+          "text": "John watches tutorials and keeps up with developer forums for information and ideas to improve his game.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:13"
+          ]
+        },
+        {
+          "fact_id": "game-development#21",
+          "text": "John received an email about a volunteer gig at a game dev non-profit.",
+          "date_label": "3 October, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:1"
+          ]
+        },
+        {
+          "fact_id": "game-development#22",
+          "text": "James made his first game and released it for the gaming community.",
+          "date_label": "13 October, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:2"
+          ]
+        },
+        {
+          "fact_id": "game-development#23",
+          "text": "James felt fulfilled to see players engage with the game world he created.",
+          "date_label": "13 October, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:4"
+          ]
+        },
+        {
+          "fact_id": "game-development#24",
+          "text": "James was inspired to create his game by playing video games, particularly The Witcher 3.",
+          "date_label": "13 October, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:6"
+          ]
+        },
+        {
+          "fact_id": "game-development#25",
+          "text": "James plans to make more games in different genres and test out new ideas.",
+          "date_label": "13 October, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:8"
+          ]
+        },
+        {
+          "fact_id": "game-development#26",
+          "text": "John worked with a game developer on a project over the weekend.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:2"
+          ]
+        },
+        {
+          "fact_id": "game-development#27",
+          "text": "John collaborated with a game developer to create an online board game.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:4"
+          ]
+        },
+        {
+          "fact_id": "game-development#28",
+          "text": "John is about to release a demo of the online board game soon.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Game Development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "James",
+      "type": "person",
+      "slug": "james",
+      "path": "people/james.md",
+      "facts": [
+        {
+          "fact_id": "james#1",
+          "text": "James finds joy and excitement in video games, which motivate him.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:2"
+          ]
+        },
+        {
+          "fact_id": "james#2",
+          "text": "James tried programming in college and it is now a significant part of his life.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:6"
+          ]
+        },
+        {
+          "fact_id": "james#3",
+          "text": "James has two dogs named Max and Daisy.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:14"
+          ]
+        },
+        {
+          "fact_id": "james#4",
+          "text": "James writes down all his goals in a notebook and finds it satisfying to check them off when completed.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:18"
+          ]
+        },
+        {
+          "fact_id": "james#5",
+          "text": "James has two dogs that he considers his best pals.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:15"
+          ]
+        },
+        {
+          "fact_id": "james#6",
+          "text": "James visited Italy last year.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:12"
+          ]
+        },
+        {
+          "fact_id": "james#7",
+          "text": "James has also visited Turkey and Mexico.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:14"
+          ]
+        },
+        {
+          "fact_id": "james#8",
+          "text": "James has a support system of at least two people who help him when he's struggling.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:1"
+          ]
+        },
+        {
+          "fact_id": "james#9",
+          "text": "James has a dog named Max.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:13"
+          ]
+        },
+        {
+          "fact_id": "james#10",
+          "text": "Max brings James joy, especially in tough times.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:13"
+          ]
+        },
+        {
+          "fact_id": "james#11",
+          "text": "James took his puppy to the clinic yesterday.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:14"
+          ]
+        },
+        {
+          "fact_id": "james#12",
+          "text": "James's puppy had a routine examination at the clinic.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:16"
+          ]
+        },
+        {
+          "fact_id": "james#13",
+          "text": "James's puppy was vaccinated to prevent him from catching the seasonal canine disease.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:16"
+          ]
+        },
+        {
+          "fact_id": "james#14",
+          "text": "James cares a lot about his pets.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:17"
+          ]
+        },
+        {
+          "fact_id": "james#15",
+          "text": "James considers his pets to be the source of his joy.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:18"
+          ]
+        },
+        {
+          "fact_id": "james#16",
+          "text": "James has a dog named Ned, whom he adopted.",
+          "date_label": "26 August, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D21:3"
+          ]
+        },
+        {
+          "fact_id": "james#17",
+          "text": "James offered to be there for John if he needs someone to talk or vent to",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D22:19"
+          ]
+        },
+        {
+          "fact_id": "james#18",
+          "text": "James asked Samantha to become his girlfriend, and she agreed.",
+          "date_label": "4 September, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:1"
+          ]
+        },
+        {
+          "fact_id": "james#19",
+          "text": "James and Samantha went to the theater together.",
+          "date_label": "4 September, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:1"
+          ]
+        },
+        {
+          "fact_id": "james#20",
+          "text": "James and Samantha went to McGee's bar, where Samantha loves a good lager beer.",
+          "date_label": "4 September, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:3"
+          ]
+        },
+        {
+          "fact_id": "james#21",
+          "text": "James's week has been good, and he is trying to find a balance between work and other activities.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D25:20"
+          ]
+        },
+        {
+          "fact_id": "james#22",
+          "text": "James encourages John to take time for himself and take care during his busy week.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D25:22"
+          ]
+        },
+        {
+          "fact_id": "james#23",
+          "text": "James and Samantha decided to move in together.",
+          "date_label": "31 October, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D29:8"
+          ]
+        },
+        {
+          "fact_id": "james#24",
+          "text": "James and Samantha rented an apartment not far from McGee's bar.",
+          "date_label": "31 October, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D29:10"
+          ]
+        },
+        {
+          "fact_id": "james#25",
+          "text": "One of the criteria for James and Samantha's choice of apartment was its proximity to McGee's bar.",
+          "date_label": "31 October, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "James",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D29:12"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "John",
+      "type": "person",
+      "slug": "john",
+      "path": "people/john.md",
+      "facts": [
+        {
+          "fact_id": "john#1",
+          "text": "John has done a bit of coding in HTML and CSS a few years back.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:7"
+          ]
+        },
+        {
+          "fact_id": "john#2",
+          "text": "John is taking a programming class to refresh his coding skills.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:5"
+          ]
+        },
+        {
+          "fact_id": "john#3",
+          "text": "John does not like bowling and finds his fingers too big for it.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:27"
+          ]
+        },
+        {
+          "fact_id": "john#4",
+          "text": "John wants a pet but feels he is not ready for one yet.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:18"
+          ]
+        },
+        {
+          "fact_id": "john#5",
+          "text": "John met three new friends in his programming course last Tuesday.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:1"
+          ]
+        },
+        {
+          "fact_id": "john#6",
+          "text": "John wanted to be alone with nature two days ago and found a canyon.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:7"
+          ]
+        },
+        {
+          "fact_id": "john#7",
+          "text": "John captured a view of a river running through a canyon surrounded by mountains.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:7"
+          ]
+        },
+        {
+          "fact_id": "john#8",
+          "text": "John believes that only those who rest well work well.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:11"
+          ]
+        },
+        {
+          "fact_id": "john#9",
+          "text": "John visited Japan recently.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:15"
+          ]
+        },
+        {
+          "fact_id": "john#10",
+          "text": "John is impressed by the megacities of Japan and finds them technologically advanced.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:15"
+          ]
+        },
+        {
+          "fact_id": "john#11",
+          "text": "John has been super busy at work with deadlines all over the place",
+          "date_label": "23 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:11"
+          ]
+        },
+        {
+          "fact_id": "john#12",
+          "text": "John entered a local tournament last Friday and took second place.",
+          "date_label": "23 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:4"
+          ]
+        },
+        {
+          "fact_id": "john#13",
+          "text": "John received some money for taking second place in the tournament.",
+          "date_label": "23 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:6"
+          ]
+        },
+        {
+          "fact_id": "john#14",
+          "text": "John got a trophy for taking second place in the tournament.",
+          "date_label": "23 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:8"
+          ]
+        },
+        {
+          "fact_id": "john#15",
+          "text": "John got his dream job after lots of interviews and late nights.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D13:3"
+          ]
+        },
+        {
+          "fact_id": "john#16",
+          "text": "John is starting his new job next month.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D13:5"
+          ]
+        },
+        {
+          "fact_id": "john#17",
+          "text": "John is a fan of Manchester City.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D13:15"
+          ]
+        },
+        {
+          "fact_id": "john#18",
+          "text": "John has been thinking about his career and where he wants to be in the future.",
+          "date_label": "19 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D15:6"
+          ]
+        },
+        {
+          "fact_id": "john#19",
+          "text": "John is driven and passionate and wants to make a positive impact on the world.",
+          "date_label": "19 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D15:6"
+          ]
+        },
+        {
+          "fact_id": "john#20",
+          "text": "John is determined to make a positive impact.",
+          "date_label": "19 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D15:18"
+          ]
+        },
+        {
+          "fact_id": "john#21",
+          "text": "John feels overwhelmed and stressed while trying to balance personal and professional life",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:4"
+          ]
+        },
+        {
+          "fact_id": "john#22",
+          "text": "John recently left his IT job after 3 years.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:1"
+          ]
+        },
+        {
+          "fact_id": "john#23",
+          "text": "John is happy about his decision to leave his IT job.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:1"
+          ]
+        },
+        {
+          "fact_id": "john#24",
+          "text": "John is loving his new job.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:1"
+          ]
+        },
+        {
+          "fact_id": "john#25",
+          "text": "John felt super scared at first after leaving his job.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:3"
+          ]
+        },
+        {
+          "fact_id": "john#26",
+          "text": "John wants to focus on things that align with his values and passions.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:3"
+          ]
+        },
+        {
+          "fact_id": "john#27",
+          "text": "John has been helping his younger siblings with programming since they joined a programming course.",
+          "date_label": "26 August, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D21:2"
+          ]
+        },
+        {
+          "fact_id": "john#28",
+          "text": "John is going through some difficult times",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D22:18"
+          ]
+        },
+        {
+          "fact_id": "john#29",
+          "text": "John's week has been chaotic with everything going on.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D25:21"
+          ]
+        },
+        {
+          "fact_id": "john#30",
+          "text": "John appreciates James's help and plans to make time for himself.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D25:23"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Programming",
+      "type": "topic",
+      "slug": "programming",
+      "path": "topics/programming.md",
+      "facts": [
+        {
+          "fact_id": "programming#1",
+          "text": "James has worked with Python and C++.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:8"
+          ]
+        },
+        {
+          "fact_id": "programming#2",
+          "text": "James has built a website and created some game mods.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:8"
+          ]
+        },
+        {
+          "fact_id": "programming#3",
+          "text": "John is working on a difficult coding assignment that is frustrating him",
+          "date_label": "23 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:13"
+          ]
+        },
+        {
+          "fact_id": "programming#4",
+          "text": "John feels stuck on his coding project and is not making progress",
+          "date_label": "23 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:13",
+            "D7:15"
+          ]
+        },
+        {
+          "fact_id": "programming#5",
+          "text": "James suggested breaking the coding project down into smaller steps",
+          "date_label": "23 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:18"
+          ]
+        },
+        {
+          "fact_id": "programming#6",
+          "text": "James encouraged John to seek help and remember that every problem has a solution",
+          "date_label": "23 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:18"
+          ]
+        },
+        {
+          "fact_id": "programming#7",
+          "text": "John plans to try breaking down his coding project into smaller steps and asking for help",
+          "date_label": "23 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:19"
+          ]
+        },
+        {
+          "fact_id": "programming#8",
+          "text": "John is currently taking on freelance programming to hone his coding skills.",
+          "date_label": "29 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:2"
+          ]
+        },
+        {
+          "fact_id": "programming#9",
+          "text": "John is working on a website for a local small business, which is his first professional project outside of class.",
+          "date_label": "29 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:4"
+          ]
+        },
+        {
+          "fact_id": "programming#10",
+          "text": "John has encountered challenges figuring out how to get payments on the website.",
+          "date_label": "29 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:10"
+          ]
+        },
+        {
+          "fact_id": "programming#11",
+          "text": "John feels it is rewarding to use his coding skills to make a difference",
+          "date_label": "11 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:7"
+          ]
+        },
+        {
+          "fact_id": "programming#12",
+          "text": "John's experience volunteering has given him a clearer sense of purpose",
+          "date_label": "11 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:11"
+          ]
+        },
+        {
+          "fact_id": "programming#13",
+          "text": "John is considering volunteer roles and potentially a career in the non-profit sector",
+          "date_label": "11 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:11"
+          ]
+        },
+        {
+          "fact_id": "programming#14",
+          "text": "John has not yet found a non-profit organization that aligns with his values and passion for programming",
+          "date_label": "11 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:13"
+          ]
+        },
+        {
+          "fact_id": "programming#15",
+          "text": "James started a course that combines his passion for gaming and programming.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:6"
+          ]
+        },
+        {
+          "fact_id": "programming#16",
+          "text": "John joined a programming group online last Friday",
+          "date_label": "21 August, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:1"
+          ]
+        },
+        {
+          "fact_id": "programming#17",
+          "text": "John's online programming group has skilled coders passionate about using tech for good",
+          "date_label": "21 August, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:3"
+          ]
+        },
+        {
+          "fact_id": "programming#18",
+          "text": "John collaborated on a project with someone from his programming group last week",
+          "date_label": "21 August, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:5"
+          ]
+        },
+        {
+          "fact_id": "programming#19",
+          "text": "John has been teaching his siblings coding",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:10"
+          ]
+        },
+        {
+          "fact_id": "programming#20",
+          "text": "John's siblings are creating their own programs, starting with basic games and stories",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:12"
+          ]
+        },
+        {
+          "fact_id": "programming#21",
+          "text": "John is proud of his siblings for learning coding and creating their own games",
+          "date_label": "1 September, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:14"
+          ]
+        },
+        {
+          "fact_id": "programming#22",
+          "text": "John will be a programming mentor for game developers.",
+          "date_label": "3 October, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:3"
+          ]
+        },
+        {
+          "fact_id": "programming#23",
+          "text": "John will be teaching coding and assisting with projects as a programming mentor.",
+          "date_label": "3 October, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:3"
+          ]
+        },
+        {
+          "fact_id": "programming#24",
+          "text": "John feels excited and inspired about starting his journey as a programming mentor.",
+          "date_label": "3 October, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:5"
+          ]
+        },
+        {
+          "fact_id": "programming#25",
+          "text": "John organized a programming seminar last week.",
+          "date_label": "21 October, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:6"
+          ]
+        },
+        {
+          "fact_id": "programming#26",
+          "text": "The programming seminar John organized had a great turnout and was a fulfilling experience.",
+          "date_label": "21 October, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:8"
+          ]
+        },
+        {
+          "fact_id": "programming#27",
+          "text": "John gained insight into various programming approaches and techniques from the seminar.",
+          "date_label": "21 October, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:10"
+          ]
+        },
+        {
+          "fact_id": "programming#28",
+          "text": "John found some cool programming ideas at the seminar that he can use in his own work.",
+          "date_label": "21 October, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Programming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:12"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Witcher 3",
+      "type": "topic",
+      "slug": "the-witcher-3",
+      "path": "topics/the-witcher-3.md",
+      "facts": [
+        {
+          "fact_id": "the-witcher-3#1",
+          "text": "James is currently enjoying The Witcher 3.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "The Witcher 3",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:4"
+          ]
+        },
+        {
+          "fact_id": "the-witcher-3#2",
+          "text": "John is playing 'The Witcher 3'.",
+          "date_label": "10 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "The Witcher 3",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:7"
+          ]
+        },
+        {
+          "fact_id": "the-witcher-3#3",
+          "text": "John finds the storytelling and characters in 'The Witcher 3' amazing.",
+          "date_label": "10 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "The Witcher 3",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VR Gaming",
+      "type": "topic",
+      "slug": "vr-gaming",
+      "path": "topics/vr-gaming.md",
+      "facts": [
+        {
+          "fact_id": "vr-gaming#1",
+          "text": "John is interested in trying VR gaming.",
+          "date_label": "17 March, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "VR Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:33"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dogs",
+      "type": "topic",
+      "slug": "dogs",
+      "path": "topics/dogs.md",
+      "facts": [
+        {
+          "fact_id": "dogs#1",
+          "text": "James's dogs can do tricks like sit, stay, paw, and rollover.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:17"
+          ]
+        },
+        {
+          "fact_id": "dogs#2",
+          "text": "James has done lots of training with his dogs, and they have picked it up fast.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:17"
+          ]
+        },
+        {
+          "fact_id": "dogs#3",
+          "text": "James adopted a pup from a shelter in Stamford last week and named it Ned.",
+          "date_label": "12 April, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:1"
+          ]
+        },
+        {
+          "fact_id": "dogs#4",
+          "text": "James got the inspiration for the game character from a walk with his dogs two weeks ago.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:6"
+          ]
+        },
+        {
+          "fact_id": "dogs#5",
+          "text": "Max loves swimming and playing in the water.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:17"
+          ]
+        },
+        {
+          "fact_id": "dogs#6",
+          "text": "Max is great at catching frisbees in mid-air.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:23"
+          ]
+        },
+        {
+          "fact_id": "dogs#7",
+          "text": "James and Max enjoy long walks together.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:25"
+          ]
+        },
+        {
+          "fact_id": "dogs#8",
+          "text": "James and Max take walks on a nearby trail that is a mile from his house.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:27"
+          ]
+        },
+        {
+          "fact_id": "dogs#9",
+          "text": "James finds nature walks relaxing and refreshing.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:29"
+          ]
+        },
+        {
+          "fact_id": "dogs#10",
+          "text": "James started introducing his dogs Max, Daisy, and the new pup Ned on a Friday before 19 June 2022.",
+          "date_label": "19 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:1"
+          ]
+        },
+        {
+          "fact_id": "dogs#11",
+          "text": "James has a picture of his dogs Max, Daisy, and Ned together.",
+          "date_label": "19 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:3"
+          ]
+        },
+        {
+          "fact_id": "dogs#12",
+          "text": "James's dog Ned is cute and has been awesome since he was adopted.",
+          "date_label": "26 August, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "type": "topic",
+      "slug": "gaming",
+      "path": "topics/gaming.md",
+      "facts": [
+        {
+          "fact_id": "gaming#1",
+          "text": "James made a game avatar and joined a new platform.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:1"
+          ]
+        },
+        {
+          "fact_id": "gaming#2",
+          "text": "James enjoys exploring and chatting with other gamers.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:1"
+          ]
+        },
+        {
+          "fact_id": "gaming#3",
+          "text": "James feels like he's part of a super cool online community.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:1"
+          ]
+        },
+        {
+          "fact_id": "gaming#4",
+          "text": "James has shared tips, strategies, and stories about gaming with others.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:3"
+          ]
+        },
+        {
+          "fact_id": "gaming#5",
+          "text": "James finds gaming to be a refuge during tough times.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:5"
+          ]
+        },
+        {
+          "fact_id": "gaming#6",
+          "text": "James uses games as a way to relax and escape when feeling overwhelmed.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:7"
+          ]
+        },
+        {
+          "fact_id": "gaming#7",
+          "text": "James has been checking out different styles of gaming recently.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:9"
+          ]
+        },
+        {
+          "fact_id": "gaming#8",
+          "text": "John had a big win in his game last week and advanced to the next level.",
+          "date_label": "27 March, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:1"
+          ]
+        },
+        {
+          "fact_id": "gaming#9",
+          "text": "James got a new cutting-edge gaming system and has been playing new games to relax after work.",
+          "date_label": "27 March, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:8"
+          ]
+        },
+        {
+          "fact_id": "gaming#10",
+          "text": "John attended a gaming convention where he tried out loads of games, met developers, and participated in a tournament.",
+          "date_label": "27 March, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:9"
+          ]
+        },
+        {
+          "fact_id": "gaming#11",
+          "text": "John played CS:GO in an intense tournament at the gaming convention.",
+          "date_label": "27 March, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:11"
+          ]
+        },
+        {
+          "fact_id": "gaming#12",
+          "text": "James is getting into different types of games, like RPGs and strategy games.",
+          "date_label": "27 March, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:18"
+          ]
+        },
+        {
+          "fact_id": "gaming#13",
+          "text": "James joined an online gaming tournament on 3 April 2022.",
+          "date_label": "4 April, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:2"
+          ]
+        },
+        {
+          "fact_id": "gaming#14",
+          "text": "James made it to the semifinals in the online gaming tournament.",
+          "date_label": "4 April, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:4"
+          ]
+        },
+        {
+          "fact_id": "gaming#15",
+          "text": "James won some rounds in the online gaming tournament.",
+          "date_label": "4 April, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:4"
+          ]
+        },
+        {
+          "fact_id": "gaming#16",
+          "text": "James did not make it to the finals in the online gaming tournament.",
+          "date_label": "4 April, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:6"
+          ]
+        },
+        {
+          "fact_id": "gaming#17",
+          "text": "James met the whole team at the online gaming tournament and received gaming tips from one of them.",
+          "date_label": "4 April, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:8"
+          ]
+        },
+        {
+          "fact_id": "gaming#18",
+          "text": "James received autographs from the whole team at the online gaming tournament.",
+          "date_label": "4 April, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:10"
+          ]
+        },
+        {
+          "fact_id": "gaming#19",
+          "text": "James remembers that communication with the team and prioritizing team success are important in gaming.",
+          "date_label": "4 April, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:12"
+          ]
+        },
+        {
+          "fact_id": "gaming#20",
+          "text": "James usually uses voice chat to communicate with his team.",
+          "date_label": "4 April, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:14"
+          ]
+        },
+        {
+          "fact_id": "gaming#21",
+          "text": "James has been playing Apex Legends with his team.",
+          "date_label": "4 April, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:16"
+          ]
+        },
+        {
+          "fact_id": "gaming#22",
+          "text": "James thinks Apex Legends has awesome graphics and fast-paced gameplay.",
+          "date_label": "4 April, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:18"
+          ]
+        },
+        {
+          "fact_id": "gaming#23",
+          "text": "James is looking forward to trying new games, specifically RPGs and MOBAs.",
+          "date_label": "4 April, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:20"
+          ]
+        },
+        {
+          "fact_id": "gaming#24",
+          "text": "John has not made much progress with gaming lately due to being busy with work.",
+          "date_label": "12 April, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:2"
+          ]
+        },
+        {
+          "fact_id": "gaming#25",
+          "text": "John is playing a new RPG that has a really cool story and world, set in a futuristic dystopia.",
+          "date_label": "12 April, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:4"
+          ]
+        },
+        {
+          "fact_id": "gaming#26",
+          "text": "John's new RPG has tough gameplay but is a little laggy and sometimes produces errors.",
+          "date_label": "12 April, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:6"
+          ]
+        },
+        {
+          "fact_id": "gaming#27",
+          "text": "James prefers to wait until the bugs in the game are completely fixed before trying it out.",
+          "date_label": "12 April, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:7"
+          ]
+        },
+        {
+          "fact_id": "gaming#28",
+          "text": "John believes the game still looks great despite minor bugs, with awesome graphics and super immersive gameplay.",
+          "date_label": "12 April, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:8"
+          ]
+        },
+        {
+          "fact_id": "gaming#29",
+          "text": "James is excited to check out the game after John sends him the link.",
+          "date_label": "12 April, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:9",
+            "D5:11"
+          ]
+        },
+        {
+          "fact_id": "gaming#30",
+          "text": "James has been playing the game AC Valhalla.",
+          "date_label": "29 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:20"
+          ]
+        },
+        {
+          "fact_id": "gaming#31",
+          "text": "James is trying out strategy games like Civilization VI.",
+          "date_label": "29 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:21"
+          ]
+        },
+        {
+          "fact_id": "gaming#32",
+          "text": "Civilization VI is a high-quality turn-based strategy game where you manage resources, lead armies, and conquer territories.",
+          "date_label": "29 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:23"
+          ]
+        },
+        {
+          "fact_id": "gaming#33",
+          "text": "James has been playing Civilization VI for a month.",
+          "date_label": "29 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:29"
+          ]
+        },
+        {
+          "fact_id": "gaming#34",
+          "text": "John played a strategy board game with friends two days ago.",
+          "date_label": "29 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:30"
+          ]
+        },
+        {
+          "fact_id": "gaming#35",
+          "text": "John has been playing a game to figure out who the impostors are with friends.",
+          "date_label": "29 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:36"
+          ]
+        },
+        {
+          "fact_id": "gaming#36",
+          "text": "John organized a tournament for his favorite game, CS:GO, on 7 May 2022.",
+          "date_label": "8 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:4"
+          ]
+        },
+        {
+          "fact_id": "gaming#37",
+          "text": "James won an online gaming tournament last week",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:1"
+          ]
+        },
+        {
+          "fact_id": "gaming#38",
+          "text": "James feels motivated to keep improving after winning the tournament",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:1"
+          ]
+        },
+        {
+          "fact_id": "gaming#39",
+          "text": "John is drawn to the gaming industry and wants to turn that into a career.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:7"
+          ]
+        },
+        {
+          "fact_id": "gaming#40",
+          "text": "John wants to become an organizer of tournaments for various computer games in his state.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:7"
+          ]
+        },
+        {
+          "fact_id": "gaming#41",
+          "text": "John wants to organize competitions for CS:GO.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:7"
+          ]
+        },
+        {
+          "fact_id": "gaming#42",
+          "text": "John can also host Fortnite competitions.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:9"
+          ]
+        },
+        {
+          "fact_id": "gaming#43",
+          "text": "John has made some connections that will help him with hosting competitions.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:9"
+          ]
+        },
+        {
+          "fact_id": "gaming#44",
+          "text": "John's plan is to gain more experience and perfect his skills to be successful in the gaming field.",
+          "date_label": "6 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:9"
+          ]
+        },
+        {
+          "fact_id": "gaming#45",
+          "text": "John has been playing different genres like strategy and RPG games instead of his usual shooters.",
+          "date_label": "10 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:3"
+          ]
+        },
+        {
+          "fact_id": "gaming#46",
+          "text": "John is thinking about making competitions for strategy and RPG games.",
+          "date_label": "10 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:3"
+          ]
+        },
+        {
+          "fact_id": "gaming#47",
+          "text": "James has a gaming group he plays with regularly and they stream their game sessions",
+          "date_label": "21 August, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:8"
+          ]
+        },
+        {
+          "fact_id": "gaming#48",
+          "text": "John bought new devices and refurbished his gaming desk",
+          "date_label": "21 August, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:9"
+          ]
+        },
+        {
+          "fact_id": "gaming#49",
+          "text": "John has a gaming PC with a powerful graphics card and a headset for immersive sound",
+          "date_label": "21 August, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:11"
+          ]
+        },
+        {
+          "fact_id": "gaming#50",
+          "text": "John bought new gaming equipment, including headphones from Sennheiser and a mouse from Logitech.",
+          "date_label": "4 September, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:8",
+            "D23:10"
+          ]
+        },
+        {
+          "fact_id": "gaming#51",
+          "text": "John started getting into board games and tried one last week.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:1"
+          ]
+        },
+        {
+          "fact_id": "gaming#52",
+          "text": "The board game John tried is called 'Dungeons of the Dragon'.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:3"
+          ]
+        },
+        {
+          "fact_id": "gaming#53",
+          "text": "James started streaming games.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:20"
+          ]
+        },
+        {
+          "fact_id": "gaming#54",
+          "text": "James streamed a game last night and received many positive comments from the gaming community.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:4"
+          ]
+        },
+        {
+          "fact_id": "gaming#55",
+          "text": "John is excited to share his knowledge and motivate people who are passionate about gaming.",
+          "date_label": "3 October, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:3"
+          ]
+        },
+        {
+          "fact_id": "gaming#56",
+          "text": "James got a cool video card last week.",
+          "date_label": "3 October, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:8"
+          ]
+        },
+        {
+          "fact_id": "gaming#57",
+          "text": "James is excited to play new RPGs with his new video card.",
+          "date_label": "3 October, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:10"
+          ]
+        },
+        {
+          "fact_id": "gaming#58",
+          "text": "James is interested in playing Cyberpunk 2077.",
+          "date_label": "3 October, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:10"
+          ]
+        },
+        {
+          "fact_id": "gaming#59",
+          "text": "John played Cyberpunk 2077 and thinks it's awesome.",
+          "date_label": "3 October, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:11"
+          ]
+        },
+        {
+          "fact_id": "gaming#60",
+          "text": "John describes Cyberpunk 2077 as having an immersive world and an amazing story.",
+          "date_label": "3 October, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:11"
+          ]
+        },
+        {
+          "fact_id": "gaming#61",
+          "text": "James's apartment lost power three days ago, interrupting his game progress.",
+          "date_label": "21 October, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:3",
+            "D28:5"
+          ]
+        },
+        {
+          "fact_id": "gaming#62",
+          "text": "James tried Cyberpunk 2077 yesterday and found it to be a great and addictive game.",
+          "date_label": "21 October, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:27"
+          ]
+        },
+        {
+          "fact_id": "gaming#63",
+          "text": "John mentioned that the most difficult thing about Cyberpunk 2077 is making the right choices, as they can be life-changing.",
+          "date_label": "21 October, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:30"
+          ]
+        },
+        {
+          "fact_id": "gaming#64",
+          "text": "John advised James that he doesn't have to be friends with every character in Cyberpunk 2077.",
+          "date_label": "21 October, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:32"
+          ]
+        },
+        {
+          "fact_id": "gaming#65",
+          "text": "John and his gaming pals played Fortnite, Overwatch, and Apex Legends during the tournament.",
+          "date_label": "31 October, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:3"
+          ]
+        },
+        {
+          "fact_id": "gaming#66",
+          "text": "John is currently playing FIFA 23, a football game that allows online play with others.",
+          "date_label": "5 November, 2022",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:14"
+          ]
+        },
+        {
+          "fact_id": "gaming#67",
+          "text": "John suggested that James practice FIFA 23 before playing together.",
+          "date_label": "5 November, 2022",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:16"
+          ]
+        },
+        {
+          "fact_id": "gaming#68",
+          "text": "John stated that playing FIFA 23 requires a gamepad and a sense of timing.",
+          "date_label": "5 November, 2022",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:18"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hobbies",
+      "type": "topic",
+      "slug": "hobbies",
+      "path": "topics/hobbies.md",
+      "facts": [
+        {
+          "fact_id": "hobbies#1",
+          "text": "John has been getting into a new hobby of metal detecting.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:10"
+          ]
+        },
+        {
+          "fact_id": "hobbies#2",
+          "text": "John walks along the beaches looking for something worthwhile with his metal detector.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:10"
+          ]
+        },
+        {
+          "fact_id": "hobbies#3",
+          "text": "John has mostly found bottle caps while metal detecting, but has also found coins and a gold ring.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:12"
+          ]
+        },
+        {
+          "fact_id": "hobbies#4",
+          "text": "James is learning to play an instrument and has been at it daily.",
+          "date_label": "27 March, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:2",
+            "D3:6"
+          ]
+        },
+        {
+          "fact_id": "hobbies#5",
+          "text": "John has been playing drums for a month.",
+          "date_label": "27 March, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:5"
+          ]
+        },
+        {
+          "fact_id": "hobbies#6",
+          "text": "James is setting small goals and tracking his progress to stay motivated.",
+          "date_label": "27 March, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:16"
+          ]
+        },
+        {
+          "fact_id": "hobbies#7",
+          "text": "James enjoys the crunch of leaves under his feet and the peacefulness of nature",
+          "date_label": "23 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:8"
+          ]
+        },
+        {
+          "fact_id": "hobbies#8",
+          "text": "James bought an adventure book with fantasy novels and cool arts three days ago.",
+          "date_label": "29 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:11"
+          ]
+        },
+        {
+          "fact_id": "hobbies#9",
+          "text": "John recommended the novel 'The Name of the Wind' to James.",
+          "date_label": "29 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:14"
+          ]
+        },
+        {
+          "fact_id": "hobbies#10",
+          "text": "James finds happiness in his pets, computer games, travel, and pizza.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:16"
+          ]
+        },
+        {
+          "fact_id": "hobbies#11",
+          "text": "James's favorite pizza is pepperoni.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:18"
+          ]
+        },
+        {
+          "fact_id": "hobbies#12",
+          "text": "John's favorite pizza is Hawaiian pizza.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:19"
+          ]
+        },
+        {
+          "fact_id": "hobbies#13",
+          "text": "James also likes cheese pizza and prosciutto.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:20"
+          ]
+        },
+        {
+          "fact_id": "hobbies#14",
+          "text": "James encourages John to try prosciutto pizza.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:22"
+          ]
+        },
+        {
+          "fact_id": "hobbies#15",
+          "text": "James suggested going to Starbucks for coffee tomorrow.",
+          "date_label": "26 August, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:13"
+          ]
+        },
+        {
+          "fact_id": "hobbies#16",
+          "text": "John suggested having a beer instead of going to Starbucks.",
+          "date_label": "26 August, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:14"
+          ]
+        },
+        {
+          "fact_id": "hobbies#17",
+          "text": "James suggested going to McGee's pub, which serves great stout.",
+          "date_label": "26 August, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:15"
+          ]
+        },
+        {
+          "fact_id": "hobbies#18",
+          "text": "John does not like dark beer but is okay with light beers.",
+          "date_label": "26 August, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:16"
+          ]
+        },
+        {
+          "fact_id": "hobbies#19",
+          "text": "James confirmed that there are also light beers at McGee's pub.",
+          "date_label": "26 August, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:17"
+          ]
+        },
+        {
+          "fact_id": "hobbies#20",
+          "text": "James and John agreed to meet at McGee's pub tomorrow.",
+          "date_label": "26 August, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:18"
+          ]
+        },
+        {
+          "fact_id": "hobbies#21",
+          "text": "James started writing down everything he needed to do in a notebook.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:2"
+          ]
+        },
+        {
+          "fact_id": "hobbies#22",
+          "text": "James gets ideas from various sources like books, movies, and dreams.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:4"
+          ]
+        },
+        {
+          "fact_id": "hobbies#23",
+          "text": "James had a vivid dream a few weeks ago that led to some creative ideas.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:6"
+          ]
+        },
+        {
+          "fact_id": "hobbies#24",
+          "text": "James remembers a medieval castle with a labyrinth full of puzzles and traps from his dream.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:8"
+          ]
+        },
+        {
+          "fact_id": "hobbies#25",
+          "text": "James made some sketches and notes from his dream experience.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:10"
+          ]
+        },
+        {
+          "fact_id": "hobbies#26",
+          "text": "Music is a big part of James's life.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:12"
+          ]
+        },
+        {
+          "fact_id": "hobbies#27",
+          "text": "John is into electronic and rock music.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:13"
+          ]
+        },
+        {
+          "fact_id": "hobbies#28",
+          "text": "John used to play drums when he was younger.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:13"
+          ]
+        },
+        {
+          "fact_id": "hobbies#29",
+          "text": "James used to play guitar when he was younger.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:14"
+          ]
+        },
+        {
+          "fact_id": "hobbies#30",
+          "text": "John has jammed with friends before.",
+          "date_label": "18 September, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hobbies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:17"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pets",
+      "type": "topic",
+      "slug": "pets",
+      "path": "topics/pets.md",
+      "facts": [
+        {
+          "fact_id": "pets#1",
+          "text": "James offered to help John find the perfect pet.",
+          "date_label": "20 March, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:19"
+          ]
+        },
+        {
+          "fact_id": "pets#2",
+          "text": "James has two dogs, one named Daisy who is a Labrador.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:12"
+          ]
+        },
+        {
+          "fact_id": "pets#3",
+          "text": "Daisy loves to play with her toys and loves to eat.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:12"
+          ]
+        },
+        {
+          "fact_id": "pets#4",
+          "text": "James has two shepherds that are loyal and bring him joy.",
+          "date_label": "4 May, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:14"
+          ]
+        },
+        {
+          "fact_id": "pets#5",
+          "text": "John does not have pets but plans to get one someday.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:21"
+          ]
+        },
+        {
+          "fact_id": "pets#6",
+          "text": "James saw many cute rescue dogs at the animal sanctuary.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:11"
+          ]
+        },
+        {
+          "fact_id": "pets#7",
+          "text": "James has three dogs at home and thinks having more than three dogs is too much.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:13"
+          ]
+        },
+        {
+          "fact_id": "pets#8",
+          "text": "John still wants to get a dog.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:14"
+          ]
+        },
+        {
+          "fact_id": "pets#9",
+          "text": "James believes having furry friends brings joy and friendship.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:15"
+          ]
+        },
+        {
+          "fact_id": "pets#10",
+          "text": "James's dogs make dark days better.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:17"
+          ]
+        },
+        {
+          "fact_id": "pets#11",
+          "text": "John's cousin has a dog named Luna.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:22"
+          ]
+        },
+        {
+          "fact_id": "pets#12",
+          "text": "James thinks Luna is a great name for a dog.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:23"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Travel",
+      "type": "topic",
+      "slug": "travel",
+      "path": "topics/travel.md",
+      "facts": [
+        {
+          "fact_id": "travel#1",
+          "text": "James and John hope to travel together next year.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:16",
+            "D6:17"
+          ]
+        },
+        {
+          "fact_id": "travel#2",
+          "text": "James will start looking for a country where he and John can go together.",
+          "date_label": "20 April, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:18"
+          ]
+        },
+        {
+          "fact_id": "travel#3",
+          "text": "James had an awesome time at the amusement park with his friends last weekend.",
+          "date_label": "23 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "travel#4",
+          "text": "James went on some awesome roller coasters at the amusement park.",
+          "date_label": "23 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "travel#5",
+          "text": "James rode the Ferris wheel, electric cars, and buggies at the amusement park.",
+          "date_label": "23 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:3"
+          ]
+        },
+        {
+          "fact_id": "travel#6",
+          "text": "James bought air tickets to Toronto and is leaving the day after tomorrow evening",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:9"
+          ]
+        },
+        {
+          "fact_id": "travel#7",
+          "text": "James plans to visit Vancouver during his trip",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:11"
+          ]
+        },
+        {
+          "fact_id": "travel#8",
+          "text": "James plans to return from his trip on July 20",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:13"
+          ]
+        },
+        {
+          "fact_id": "travel#9",
+          "text": "James will bring John a souvenir from his trip",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:13"
+          ]
+        },
+        {
+          "fact_id": "travel#10",
+          "text": "James traveled to Nuuk and added it to his bucket list.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:22"
+          ]
+        },
+        {
+          "fact_id": "travel#11",
+          "text": "James brought souvenirs from his trip for John and his sister Jill.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:24"
+          ]
+        },
+        {
+          "fact_id": "travel#12",
+          "text": "James and his sister watched a wonderful sunset near the ocean.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:32"
+          ]
+        },
+        {
+          "fact_id": "travel#13",
+          "text": "James took many photos during his trip and chose the best one to share with John.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:34"
+          ]
+        },
+        {
+          "fact_id": "travel#14",
+          "text": "James started a road trip with his family and dogs on 4 November 2022.",
+          "date_label": "5 November, 2022",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:1"
+          ]
+        },
+        {
+          "fact_id": "travel#15",
+          "text": "James and his family are currently on a road trip.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:1"
+          ]
+        },
+        {
+          "fact_id": "travel#16",
+          "text": "James has already visited his friends Josh and Mark during the road trip.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:1"
+          ]
+        },
+        {
+          "fact_id": "travel#17",
+          "text": "James visited an animal sanctuary on the road trip.",
+          "date_label": "7 November, 2022",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Travel",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:11"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Charity event",
+      "type": "event",
+      "slug": "charity-event",
+      "path": "events/charity-event.md",
+      "facts": [
+        {
+          "fact_id": "charity-event#1",
+          "text": "John's tournament for CS:GO raised money for charity.",
+          "date_label": "8 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:4"
+          ]
+        },
+        {
+          "fact_id": "charity-event#2",
+          "text": "John used leftover money from the tournament to buy groceries and cook food for the homeless.",
+          "date_label": "8 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:12"
+          ]
+        },
+        {
+          "fact_id": "charity-event#3",
+          "text": "John volunteered his programming skills for a social cause by making a software tool for a charitable foundation",
+          "date_label": "11 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:1"
+          ]
+        },
+        {
+          "fact_id": "charity-event#4",
+          "text": "The charitable foundation previously used paper records and recorded inventory manually",
+          "date_label": "11 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:3"
+          ]
+        },
+        {
+          "fact_id": "charity-event#5",
+          "text": "John made an application that structured the foundation's work, allowing them to manage inventory on their smartphone",
+          "date_label": "11 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:3"
+          ]
+        },
+        {
+          "fact_id": "charity-event#6",
+          "text": "John shared a screenshot of the system he created for the charitable foundation",
+          "date_label": "11 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:5"
+          ]
+        },
+        {
+          "fact_id": "charity-event#7",
+          "text": "John was inspired by the foundation's passion for helping kids to contribute his skills",
+          "date_label": "11 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:7"
+          ]
+        },
+        {
+          "fact_id": "charity-event#8",
+          "text": "John has been looking into volunteering and thinking of going into non-profit work.",
+          "date_label": "19 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:8"
+          ]
+        },
+        {
+          "fact_id": "charity-event#9",
+          "text": "James volunteered with an organization that provides necessary items to those who are less fortunate.",
+          "date_label": "19 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:11"
+          ]
+        },
+        {
+          "fact_id": "charity-event#10",
+          "text": "James shared a picture from when he volunteered last month.",
+          "date_label": "19 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:9"
+          ]
+        },
+        {
+          "fact_id": "charity-event#11",
+          "text": "John asked James to take him to the organization he volunteered with this weekend.",
+          "date_label": "19 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:12"
+          ]
+        },
+        {
+          "fact_id": "charity-event#12",
+          "text": "James said no interview is necessary to volunteer, just a friendly and polite attitude and a desire to help people.",
+          "date_label": "19 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:15"
+          ]
+        },
+        {
+          "fact_id": "charity-event#13",
+          "text": "John held a gaming tournament with his buddies last night, raising money for a children's hospital.",
+          "date_label": "31 October, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:1"
+          ]
+        },
+        {
+          "fact_id": "charity-event#14",
+          "text": "John raised a decent amount of money for the children's hospital during the tournament.",
+          "date_label": "31 October, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:1",
+            "D29:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dog Shelter",
+      "type": "topic",
+      "slug": "dog-shelter",
+      "path": "topics/dog-shelter.md",
+      "facts": [
+        {
+          "fact_id": "dog-shelter#1",
+          "text": "John's main goal for the tournament was to raise money for a dog shelter near his home.",
+          "date_label": "8 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dog Shelter",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Personal Milestone",
+      "type": "topic",
+      "slug": "personal-milestone",
+      "path": "topics/personal-milestone.md",
+      "facts": [
+        {
+          "fact_id": "personal-milestone#1",
+          "text": "James had a personal milestone last month.",
+          "date_label": "23 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Personal Milestone",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:9"
+          ]
+        },
+        {
+          "fact_id": "personal-milestone#2",
+          "text": "James finished a big project he had been working on for months.",
+          "date_label": "23 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Personal Milestone",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:11"
+          ]
+        },
+        {
+          "fact_id": "personal-milestone#3",
+          "text": "James learned a new language while working on his big project.",
+          "date_label": "23 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Personal Milestone",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:11"
+          ]
+        },
+        {
+          "fact_id": "personal-milestone#4",
+          "text": "James learned about problem-solving, patience, and perseverance while working on his big project.",
+          "date_label": "23 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Personal Milestone",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:11"
+          ]
+        },
+        {
+          "fact_id": "personal-milestone#5",
+          "text": "James met a beautiful girl named Samantha at the beach outing and is thinking of asking her out on a date.",
+          "date_label": "10 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Personal Milestone",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:14",
+            "D19:16"
+          ]
+        },
+        {
+          "fact_id": "personal-milestone#6",
+          "text": "John achieved a major career milestone by making his first mobile game, which is launching next month.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Personal Milestone",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:7"
+          ]
+        },
+        {
+          "fact_id": "personal-milestone#7",
+          "text": "John kept the mobile game a secret until now because he would have been upset if it didn't work out.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Personal Milestone",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:9"
+          ]
+        },
+        {
+          "fact_id": "personal-milestone#8",
+          "text": "John has been working on the mobile game for the past few months and is proud of how it turned out.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Personal Milestone",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:9"
+          ]
+        },
+        {
+          "fact_id": "personal-milestone#9",
+          "text": "John's mobile game is a 2D adventure game with puzzles and exploration.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Personal Milestone",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:9"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Football",
+      "type": "topic",
+      "slug": "football",
+      "path": "topics/football.md",
+      "facts": [
+        {
+          "fact_id": "football#1",
+          "text": "James loves football and is taking the course to improve himself.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Football",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:10"
+          ]
+        },
+        {
+          "fact_id": "football#2",
+          "text": "James watched the Liverpool vs Chelsea match and believes there is no sport better than football.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Football",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:12"
+          ]
+        },
+        {
+          "fact_id": "football#3",
+          "text": "James is a fan of Liverpool and does not miss a single match of theirs.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Football",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:12"
+          ]
+        },
+        {
+          "fact_id": "football#4",
+          "text": "James hopes Liverpool becomes champions next season.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Football",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:14"
+          ]
+        },
+        {
+          "fact_id": "football#5",
+          "text": "James believes Manchester City is in bad form and has a terrible transfer policy.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Football",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:16"
+          ]
+        },
+        {
+          "fact_id": "football#6",
+          "text": "John believes the City manager can handle the team's issues.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Football",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:17"
+          ]
+        },
+        {
+          "fact_id": "football#7",
+          "text": "James bets that Liverpool will be higher than Manchester City in the final standings.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Football",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:18"
+          ]
+        },
+        {
+          "fact_id": "football#8",
+          "text": "John agrees to take the bet with James regarding the final standings.",
+          "date_label": "13 June, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Football",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:19"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Blogging",
+      "type": "topic",
+      "slug": "blogging",
+      "path": "topics/blogging.md",
+      "facts": [
+        {
+          "fact_id": "blogging#1",
+          "text": "John started a blog about coding last week.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Blogging",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:2"
+          ]
+        },
+        {
+          "fact_id": "blogging#2",
+          "text": "John uploaded a picture to his blog.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Blogging",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:2"
+          ]
+        },
+        {
+          "fact_id": "blogging#3",
+          "text": "John enjoys sharing his coding journey with others through his blog.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Blogging",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:4"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Books",
+      "type": "topic",
+      "slug": "books",
+      "path": "topics/books.md",
+      "facts": [
+        {
+          "fact_id": "books#1",
+          "text": "John bought a lot of new books, filling his bookcase almost completely.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:6"
+          ]
+        },
+        {
+          "fact_id": "books#2",
+          "text": "John is a big fan of sci-fi and fantasy books.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:8"
+          ]
+        },
+        {
+          "fact_id": "books#3",
+          "text": "John enjoys epic fantasy series with immersive world-building and intricate storylines.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:8"
+          ]
+        },
+        {
+          "fact_id": "books#4",
+          "text": "John recommends 'The Stormlight Archive' and 'Kingkiller Chronicle' as his favorite book series.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:10"
+          ]
+        },
+        {
+          "fact_id": "books#5",
+          "text": "John recommends 'The Expanse' series for those who enjoy sci-fi.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:10"
+          ]
+        },
+        {
+          "fact_id": "books#6",
+          "text": "James loves to read, especially while snuggled under the covers on a cold winter day",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:9"
+          ]
+        },
+        {
+          "fact_id": "books#7",
+          "text": "John uses a book filled with tips and insights on game design to help create puzzles for his game.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:11"
+          ]
+        },
+        {
+          "fact_id": "books#8",
+          "text": "James advises John to read a magazine that is a worthy source of information for game development.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:14"
+          ]
+        },
+        {
+          "fact_id": "books#9",
+          "text": "John finds the magazine helpful, as it contains tutorials, interviews with developers, and tips.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Parks",
+      "type": "topic",
+      "slug": "parks",
+      "path": "topics/parks.md",
+      "facts": [
+        {
+          "fact_id": "parks#1",
+          "text": "James usually brings a book to the park and chills when he's there alone.",
+          "date_label": "16 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Parks",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:31"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Extreme Sports",
+      "type": "topic",
+      "slug": "extreme-sports",
+      "path": "topics/extreme-sports.md",
+      "facts": [
+        {
+          "fact_id": "extreme-sports#1",
+          "text": "James has become interested in extreme sports",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Extreme Sports",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:5"
+          ]
+        },
+        {
+          "fact_id": "extreme-sports#2",
+          "text": "James did rope jumping yesterday from a height of 150 meters",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Extreme Sports",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:5"
+          ]
+        },
+        {
+          "fact_id": "extreme-sports#3",
+          "text": "James was surfing three days ago",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Extreme Sports",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:7"
+          ]
+        },
+        {
+          "fact_id": "extreme-sports#4",
+          "text": "James finds surfing relaxing",
+          "date_label": "9 July, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Extreme Sports",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:7"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chess",
+      "type": "topic",
+      "slug": "chess",
+      "path": "topics/chess.md",
+      "facts": [
+        {
+          "fact_id": "chess#1",
+          "text": "John started playing chess to get better at strategy and is loving it.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Chess",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:1"
+          ]
+        },
+        {
+          "fact_id": "chess#2",
+          "text": "James has played chess before and believes it tests strategy.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Chess",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:2"
+          ]
+        },
+        {
+          "fact_id": "chess#3",
+          "text": "John is playing mostly online chess for now and has joined a chess club to practice with others.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Chess",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:5"
+          ]
+        },
+        {
+          "fact_id": "chess#4",
+          "text": "John believes chess can improve decision-making skills.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Chess",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:7"
+          ]
+        },
+        {
+          "fact_id": "chess#5",
+          "text": "James suggests studying opening moves and analyzing games to improve at chess.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Chess",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:10"
+          ]
+        },
+        {
+          "fact_id": "chess#6",
+          "text": "John won the regional chess tournament on 1 November 2022.",
+          "date_label": "5 November, 2022",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Chess",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:4"
+          ]
+        },
+        {
+          "fact_id": "chess#7",
+          "text": "John felt a huge confidence boost after winning the regional chess tournament.",
+          "date_label": "5 November, 2022",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Chess",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:6"
+          ]
+        },
+        {
+          "fact_id": "chess#8",
+          "text": "John's strategy for the chess tournament involved analyzing and anticipating his opponent's moves.",
+          "date_label": "5 November, 2022",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Chess",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:8"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Childhood Memories",
+      "type": "event",
+      "slug": "childhood-memories",
+      "path": "events/childhood-memories.md",
+      "facts": [
+        {
+          "fact_id": "childhood-memories#1",
+          "text": "John shared a photo of a group of children holding a skateboard from when they were 10 years old.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Childhood Memories",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:13"
+          ]
+        },
+        {
+          "fact_id": "childhood-memories#2",
+          "text": "John and his friends were really into skateboarding at age 10 and often went to the skate park together.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Childhood Memories",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:15"
+          ]
+        },
+        {
+          "fact_id": "childhood-memories#3",
+          "text": "James played Nintendo games like Super Mario and The Legend of Zelda for hours as a kid.",
+          "date_label": "21 October, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Childhood Memories",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D28:25"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "type": "person",
+      "slug": "family",
+      "path": "people/family.md",
+      "facts": [
+        {
+          "fact_id": "family#1",
+          "text": "James shared a photo of his sister and his dogs relaxing together.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Family",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D17:26"
+          ]
+        },
+        {
+          "fact_id": "family#2",
+          "text": "James feels blessed to have a close bond with his sister and their dogs.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Family",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D17:30"
+          ]
+        },
+        {
+          "fact_id": "family#3",
+          "text": "John and his siblings try to plan a gaming night when they hang out",
+          "date_label": "21 August, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Family",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D20:15"
+          ]
+        },
+        {
+          "fact_id": "family#4",
+          "text": "John is organizing a gaming night with his siblings next month",
+          "date_label": "21 August, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Family",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D20:17"
+          ]
+        },
+        {
+          "fact_id": "family#5",
+          "text": "John's parents just started learning coding from him.",
+          "date_label": "4 September, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Family",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:2"
+          ]
+        },
+        {
+          "fact_id": "family#6",
+          "text": "James's mother visited him with her army friend two days ago.",
+          "date_label": "21 October, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Family",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D28:19"
+          ]
+        },
+        {
+          "fact_id": "family#7",
+          "text": "James's mother's friend is still serving in the army but retired a long time ago.",
+          "date_label": "21 October, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Family",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D28:21"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skateboarding",
+      "type": "topic",
+      "slug": "skateboarding",
+      "path": "topics/skateboarding.md",
+      "facts": [
+        {
+          "fact_id": "skateboarding#1",
+          "text": "James sometimes left class early to skateboard and still enjoys riding occasionally.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Skateboarding",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:16"
+          ]
+        },
+        {
+          "fact_id": "skateboarding#2",
+          "text": "James taught his dogs how to balance on a skateboard.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Skateboarding",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:16"
+          ]
+        },
+        {
+          "fact_id": "skateboarding#3",
+          "text": "James's dogs love to chase after the skateboard and run with it, providing them exercise.",
+          "date_label": "22 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Skateboarding",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:18"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "eSports",
+      "type": "topic",
+      "slug": "esports",
+      "path": "topics/esports.md",
+      "facts": [
+        {
+          "fact_id": "esports#1",
+          "text": "John is still full of courage to start hosting eSports competitions",
+          "date_label": "21 August, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "eSports",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:7"
+          ]
+        },
+        {
+          "fact_id": "esports#2",
+          "text": "John had a blast last week when he and his programmer friends organized an online competition.",
+          "date_label": "13 October, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "eSports",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cooking",
+      "type": "topic",
+      "slug": "cooking",
+      "path": "topics/cooking.md",
+      "facts": [
+        {
+          "fact_id": "cooking#1",
+          "text": "James signed up for a cooking class two days ago.",
+          "date_label": "4 September, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:13"
+          ]
+        },
+        {
+          "fact_id": "cooking#2",
+          "text": "James made a great omelette at his first cooking class.",
+          "date_label": "4 September, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:13"
+          ]
+        },
+        {
+          "fact_id": "cooking#3",
+          "text": "James made meringue and learned how to make dough in his cooking class.",
+          "date_label": "4 September, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:15"
+          ]
+        },
+        {
+          "fact_id": "cooking#4",
+          "text": "The cooking classes cost $10 per class.",
+          "date_label": "4 September, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Startup",
+      "type": "topic",
+      "slug": "startup",
+      "path": "topics/startup.md",
+      "facts": [
+        {
+          "fact_id": "startup#1",
+          "text": "John started a new startup focused on portable smokers yesterday.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Startup",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:3"
+          ]
+        },
+        {
+          "fact_id": "startup#2",
+          "text": "John welded a portable smoker from metal.",
+          "date_label": "20 September, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Startup",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Teaching",
+      "type": "topic",
+      "slug": "teaching",
+      "path": "topics/teaching.md",
+      "facts": [
+        {
+          "fact_id": "teaching#1",
+          "text": "John loves sharing what he knows and seeing others reach their potential.",
+          "date_label": "3 October, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Teaching",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Friendship",
+      "type": "topic",
+      "slug": "friendship",
+      "path": "topics/friendship.md",
+      "facts": [
+        {
+          "fact_id": "friendship#1",
+          "text": "John expressed his support for James and offered to help him.",
+          "date_label": "13 October, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Friendship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:11"
+          ]
+        },
+        {
+          "fact_id": "friendship#2",
+          "text": "James appreciates John's support and acknowledges their teamwork.",
+          "date_label": "13 October, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Friendship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:12",
+            "D27:13",
+            "D27:14"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -74,6 +74,14 @@ WIKI_AUDIT_MODEL = JUDGE_MODEL
 MAX_AUDIT_TOKENS = 200
 WIKI_AUDIT_SAMPLE = 100    # facts sampled for the fidelity audit, ~100 per the spec
 
+# --- System C (wiki + provenance) -------------------------------------------
+# C compiles its OWN wikis, because its compiler is asked for something B's was
+# not: the turn ids each fact came from. They are written here and never over
+# results/wikis/ -- B's committed wikis are the artefact both its published
+# results and its fidelity audit rest on, and recompiling over them would
+# silently invalidate both.
+WIKI_C_DIR = RESULTS_DIR / "wikis_c"
+
 TEMPERATURE = 0.0
 MAX_ANSWER_TOKENS = 256
 MAX_JUDGE_TOKENS = 200
@@ -131,6 +139,7 @@ def as_dict() -> dict:
         "wiki_extraction_model": WIKI_EXTRACTION_MODEL,
         "wiki_chunk_max_tokens": WIKI_CHUNK_MAX_TOKENS,
         "max_extraction_tokens": MAX_EXTRACTION_TOKENS,
+        "wiki_c_dir": str(WIKI_C_DIR),
         # Fingerprint of the extraction prompt and compiler that built the
         # wikis this run read. A prompt edit changes the wiki, so the results
         # file has to record which one. Imported lazily: src.systems.wiki

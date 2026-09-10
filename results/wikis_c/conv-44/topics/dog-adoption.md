@@ -1,0 +1,31 @@
+---
+title: Dog adoption
+type: topic
+sources: [session_5, session_7, session_11, session_12, session_14, session_24, session_27, session_28]
+---
+
+- Andrew has been looking for a dog to adopt by browsing websites, visiting shelters, and asking friends since they last spoke. — 6 May, 2023 [D5:1]
+- Andrew thinks the size of living space and the exercise needs of the breed are important for those considering getting a dog. — 6 May, 2023 [D5:3]
+- Audrey encourages Andrew to keep her posted on his search for a dog. — 6 May, 2023 [D5:18]
+- Andrew is searching for a pet-friendly spot in the city to adopt a dog, but he has not had luck so far. — 2 June, 2023 [D7:8]
+- Andrew feels a bit discouraged but is determined to find the right place and dog. — 2 June, 2023 [D7:8]
+- Audrey offered to help Andrew find a great spot for his furry friend by asking him to email her his criteria. — 2 June, 2023 [D7:11]
+- Andrew expressed gratitude for Audrey's assistance in his search for a furry friend. — 2 June, 2023 [D7:12]
+- Andrew wishes he could get a dog but finds it tough to find a place and the right dog. — 8 July, 2023 [D11:3]
+- Audrey found a breeder nearby that has the dogs she wanted. — 8 July, 2023 [D11:4]
+- Audrey made personalized tags for her dogs. — 11 July, 2023 [D12:6]
+- Audrey put a lot of love into making the tags for her dogs. — 11 July, 2023 [D12:10]
+- Andrew believes small acts of love show we care about our pets. — 11 July, 2023 [D12:11]
+- Audrey thinks small acts of love make a big difference in relationships with pets. — 11 July, 2023 [D12:12]
+- Audrey thinks German Shepherds are loyal and smart. — 4 August, 2023 [D14:20]
+- Audrey advises that dog owners should have enough time and energy for their pets. — 4 August, 2023 [D14:24]
+- Andrew recently adopted a pup from a shelter. — 19 October, 2023 [D24:2]
+- Andrew named his new pup Buddy. — 19 October, 2023 [D24:6]
+- Buddy is still getting used to Toby and the new environment. — 19 October, 2023 [D24:4]
+- Andrew is considering getting another dog but is unsure because he already has two dogs, Toby and Buddy. — 4 November, 2023 [D27:5]
+- Audrey advised Andrew to take care of Toby and Buddy first before getting more dogs. — 4 November, 2023 [D27:6]
+- Audrey suggested that keeping dogs happy and healthy is a good first step before getting more dogs. — 4 November, 2023 [D27:6]
+- Audrey believes that Andrew does not need more dogs to make his current dogs happy. — 4 November, 2023 [D27:8]
+- Andrew adopted a dog named Scout. — 22 November, 2023 [D28:8]
+- Andrew and his girlfriend are creating a safe and fun space for Scout with essentials like a bed, toys, and puppy pads. — 22 November, 2023 [D28:12]
+- Andrew feels lucky to have many furry friends, including Scout. — 22 November, 2023 [D28:14]

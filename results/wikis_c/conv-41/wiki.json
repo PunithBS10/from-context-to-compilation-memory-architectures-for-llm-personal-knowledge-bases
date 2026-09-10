@@ -1,0 +1,4263 @@
+{
+  "conv_id": "conv-41",
+  "speakers": [
+    "John",
+    "Maria"
+  ],
+  "extraction_model": "gpt-4o-mini",
+  "build_fingerprint": "9884fea0ef28",
+  "compiler_version": "c1",
+  "built_utc": "2026-09-10T13:46:00.133931+00:00",
+  "sessions": [
+    {
+      "index": 1,
+      "session_id": "session_1",
+      "timestamp": "11:01 am on 17 December, 2022",
+      "date_label": "17 December, 2022"
+    },
+    {
+      "index": 2,
+      "session_id": "session_2",
+      "timestamp": "6:10 pm on 22 December, 2022",
+      "date_label": "22 December, 2022"
+    },
+    {
+      "index": 3,
+      "session_id": "session_3",
+      "timestamp": "8:30 pm on 1 January, 2023",
+      "date_label": "1 January, 2023"
+    },
+    {
+      "index": 4,
+      "session_id": "session_4",
+      "timestamp": "7:06 pm on 9 January, 2023",
+      "date_label": "9 January, 2023"
+    },
+    {
+      "index": 5,
+      "session_id": "session_5",
+      "timestamp": "1:17 pm on 28 January, 2023",
+      "date_label": "28 January, 2023"
+    },
+    {
+      "index": 6,
+      "session_id": "session_6",
+      "timestamp": "2:33 pm on 5 February, 2023",
+      "date_label": "5 February, 2023"
+    },
+    {
+      "index": 7,
+      "session_id": "session_7",
+      "timestamp": "8:55 pm on 25 February, 2023",
+      "date_label": "25 February, 2023"
+    },
+    {
+      "index": 8,
+      "session_id": "session_8",
+      "timestamp": "6:03 pm on 6 March, 2023",
+      "date_label": "6 March, 2023"
+    },
+    {
+      "index": 9,
+      "session_id": "session_9",
+      "timestamp": "9:36 am on 2 April, 2023",
+      "date_label": "2 April, 2023"
+    },
+    {
+      "index": 10,
+      "session_id": "session_10",
+      "timestamp": "12:24 am on 7 April, 2023",
+      "date_label": "7 April, 2023"
+    },
+    {
+      "index": 11,
+      "session_id": "session_11",
+      "timestamp": "6:13 pm on 10 April, 2023",
+      "date_label": "10 April, 2023"
+    },
+    {
+      "index": 12,
+      "session_id": "session_12",
+      "timestamp": "7:34 pm on 18 April, 2023",
+      "date_label": "18 April, 2023"
+    },
+    {
+      "index": 13,
+      "session_id": "session_13",
+      "timestamp": "3:18 pm on 4 May, 2023",
+      "date_label": "4 May, 2023"
+    },
+    {
+      "index": 14,
+      "session_id": "session_14",
+      "timestamp": "5:04 pm on 6 May, 2023",
+      "date_label": "6 May, 2023"
+    },
+    {
+      "index": 15,
+      "session_id": "session_15",
+      "timestamp": "7:38 pm on 20 May, 2023",
+      "date_label": "20 May, 2023"
+    },
+    {
+      "index": 16,
+      "session_id": "session_16",
+      "timestamp": "1:24 pm on 25 May, 2023",
+      "date_label": "25 May, 2023"
+    },
+    {
+      "index": 17,
+      "session_id": "session_17",
+      "timestamp": "11:51 am on 3 June, 2023",
+      "date_label": "3 June, 2023"
+    },
+    {
+      "index": 18,
+      "session_id": "session_18",
+      "timestamp": "2:47 pm on 12 June, 2023",
+      "date_label": "12 June, 2023"
+    },
+    {
+      "index": 19,
+      "session_id": "session_19",
+      "timestamp": "7:20 pm on 16 June, 2023",
+      "date_label": "16 June, 2023"
+    },
+    {
+      "index": 20,
+      "session_id": "session_20",
+      "timestamp": "12:21 am on 27 June, 2023",
+      "date_label": "27 June, 2023"
+    },
+    {
+      "index": 21,
+      "session_id": "session_21",
+      "timestamp": "8:43 pm on 3 July, 2023",
+      "date_label": "3 July, 2023"
+    },
+    {
+      "index": 22,
+      "session_id": "session_22",
+      "timestamp": "6:59 pm on 5 July, 2023",
+      "date_label": "5 July, 2023"
+    },
+    {
+      "index": 23,
+      "session_id": "session_23",
+      "timestamp": "6:29 pm on 7 July, 2023",
+      "date_label": "7 July, 2023"
+    },
+    {
+      "index": 24,
+      "session_id": "session_24",
+      "timestamp": "3:34 pm on 17 July, 2023",
+      "date_label": "17 July, 2023"
+    },
+    {
+      "index": 25,
+      "session_id": "session_25",
+      "timestamp": "6:21 pm on 22 July, 2023",
+      "date_label": "22 July, 2023"
+    },
+    {
+      "index": 26,
+      "session_id": "session_26",
+      "timestamp": "1:59 pm on 31 July, 2023",
+      "date_label": "31 July, 2023"
+    },
+    {
+      "index": 27,
+      "session_id": "session_27",
+      "timestamp": "6:20 pm on 3 August, 2023",
+      "date_label": "3 August, 2023"
+    },
+    {
+      "index": 28,
+      "session_id": "session_28",
+      "timestamp": "5:19 pm on 5 August, 2023",
+      "date_label": "5 August, 2023"
+    },
+    {
+      "index": 29,
+      "session_id": "session_29",
+      "timestamp": "8:06 pm on 9 August, 2023",
+      "date_label": "9 August, 2023"
+    },
+    {
+      "index": 30,
+      "session_id": "session_30",
+      "timestamp": "12:10 am on 11 August, 2023",
+      "date_label": "11 August, 2023"
+    },
+    {
+      "index": 31,
+      "session_id": "session_31",
+      "timestamp": "3:14 pm on 13 August, 2023",
+      "date_label": "13 August, 2023"
+    },
+    {
+      "index": 32,
+      "session_id": "session_32",
+      "timestamp": "11:08 am on 16 August, 2023",
+      "date_label": "16 August, 2023"
+    }
+  ],
+  "stats": {
+    "compile_prompt_tokens": 55269,
+    "compile_completion_tokens": 13959,
+    "compile_cost_usd": 0.01666575,
+    "compile_latency_s": 124.33578329882585,
+    "compile_calls": 32,
+    "compile_cached_calls": 0,
+    "sessions_compiled": 32,
+    "truncated_sessions": 0,
+    "duplicate_facts_dropped": 0,
+    "generic_page_titles": 1,
+    "salvaged_sessions": 0,
+    "unparsable_sessions": 0,
+    "empty_sessions": 0,
+    "citations_total": 332,
+    "citations_resolvable": 332,
+    "citations_unresolvable": 0,
+    "citations_other_session": 0,
+    "citations_nonexistent": 0,
+    "facts_with_no_citation": 0,
+    "citation_resolvability": 1.0,
+    "citation_session_consistency": 1.0,
+    "n_pages": 22,
+    "n_facts": 320,
+    "wiki_tokens": 10337,
+    "raw_conversation_tokens": 22976,
+    "compression_ratio": 0.4499
+  },
+  "pages": [
+    {
+      "title": "Aerial yoga",
+      "type": "topic",
+      "slug": "aerial-yoga",
+      "path": "topics/aerial-yoga.md",
+      "facts": [
+        {
+          "fact_id": "aerial-yoga#1",
+          "text": "Maria started doing aerial yoga",
+          "date_label": "17 December, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Aerial yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:3"
+          ]
+        },
+        {
+          "fact_id": "aerial-yoga#2",
+          "text": "John's colleague Rob invited him to a beginner's yoga class",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Aerial yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:16"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "type": "topic",
+      "slug": "education",
+      "path": "topics/education.md",
+      "facts": [
+        {
+          "fact_id": "education#1",
+          "text": "Extra funding helped with needed repairs and renovations at a school",
+          "date_label": "17 December, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:12"
+          ]
+        },
+        {
+          "fact_id": "education#2",
+          "text": "John talked to someone who shared amazing stories that fired up his passion to make education better in the area.",
+          "date_label": "22 December, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:4"
+          ]
+        },
+        {
+          "fact_id": "education#3",
+          "text": "John believes investing in future generations is key to giving them the right tools for success.",
+          "date_label": "22 December, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:6"
+          ]
+        },
+        {
+          "fact_id": "education#4",
+          "text": "John is brainstorming future projects to help underserved communities get access to education, mentorship, job training, and resume building.",
+          "date_label": "1 January, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:7"
+          ]
+        },
+        {
+          "fact_id": "education#5",
+          "text": "Maria believes that more money and resources should be fought for to improve schools",
+          "date_label": "28 January, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:2"
+          ]
+        },
+        {
+          "fact_id": "education#6",
+          "text": "John is upset about the state of education and believes kids deserve better resources",
+          "date_label": "28 January, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:3"
+          ]
+        },
+        {
+          "fact_id": "education#7",
+          "text": "Maria feels it is not right that some kids have everything they need while others do not",
+          "date_label": "28 January, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:6"
+          ]
+        },
+        {
+          "fact_id": "education#8",
+          "text": "Maria took a creative writing class recently, and it was super enlightening",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:1"
+          ]
+        },
+        {
+          "fact_id": "education#9",
+          "text": "John is particularly interested in improving education and infrastructure.",
+          "date_label": "2 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:8"
+          ]
+        },
+        {
+          "fact_id": "education#10",
+          "text": "John has been thinking about how education and infrastructure shape communities.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:1"
+          ]
+        },
+        {
+          "fact_id": "education#11",
+          "text": "John feels that education and infrastructure can stunt growth in neighborhoods.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:1"
+          ]
+        },
+        {
+          "fact_id": "education#12",
+          "text": "Maria agrees that education and infrastructure play a crucial role in shaping communities.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:2"
+          ]
+        },
+        {
+          "fact_id": "education#13",
+          "text": "Maria believes it's important for younger generations to remember and appreciate those who served",
+          "date_label": "3 August, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:12"
+          ]
+        },
+        {
+          "fact_id": "education#14",
+          "text": "John and Maria agree on the importance of teaching kids about veterans",
+          "date_label": "3 August, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:14"
+          ]
+        },
+        {
+          "fact_id": "education#15",
+          "text": "John's mentoring program is showing real improvement in students' confidence and skills.",
+          "date_label": "13 August, 2023",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:9"
+          ]
+        },
+        {
+          "fact_id": "education#16",
+          "text": "One of the students in John's mentoring program was excited to show him their essay last week.",
+          "date_label": "13 August, 2023",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:9"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "John",
+      "type": "person",
+      "slug": "john",
+      "path": "people/john.md",
+      "facts": [
+        {
+          "fact_id": "john#1",
+          "text": "John just got back from a family road trip yesterday",
+          "date_label": "17 December, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:2"
+          ]
+        },
+        {
+          "fact_id": "john#2",
+          "text": "John's family helps him stay centered and reminds him why he is passionate about making a positive impact.",
+          "date_label": "22 December, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:12"
+          ]
+        },
+        {
+          "fact_id": "john#3",
+          "text": "John's family is his rock in tough times and always cheers him on.",
+          "date_label": "22 December, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:14"
+          ]
+        },
+        {
+          "fact_id": "john#4",
+          "text": "John and his family enjoy climbing, sliding, and playing games at the playground.",
+          "date_label": "22 December, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:16"
+          ]
+        },
+        {
+          "fact_id": "john#5",
+          "text": "John joined a service-focused online group last week and has been feeling a sense of connection and purpose with them.",
+          "date_label": "1 January, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:1"
+          ]
+        },
+        {
+          "fact_id": "john#6",
+          "text": "John has been inspired by sharing stories, advice, and encouragement with the group.",
+          "date_label": "1 January, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:3"
+          ]
+        },
+        {
+          "fact_id": "john#7",
+          "text": "John feels that providing the right assistance and resources can make a lasting impact.",
+          "date_label": "1 January, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:9"
+          ]
+        },
+        {
+          "fact_id": "john#8",
+          "text": "John recently failed the military aptitude test and has been feeling a bit stressed out.",
+          "date_label": "1 January, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:11"
+          ]
+        },
+        {
+          "fact_id": "john#9",
+          "text": "John had an unexpected incident on his way home last week.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:2"
+          ]
+        },
+        {
+          "fact_id": "john#10",
+          "text": "John's car had a broken windshield.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:2"
+          ]
+        },
+        {
+          "fact_id": "john#11",
+          "text": "John tried to stay calm and asked for assistance during the incident.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:6"
+          ]
+        },
+        {
+          "fact_id": "john#12",
+          "text": "John felt relieved and grateful after the incident.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:8"
+          ]
+        },
+        {
+          "fact_id": "john#13",
+          "text": "John likes to look at the sunset to calm down during tough times.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:10"
+          ]
+        },
+        {
+          "fact_id": "john#14",
+          "text": "John appreciates Maria's support in his community efforts.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:20"
+          ]
+        },
+        {
+          "fact_id": "john#15",
+          "text": "John thanks Maria for being an awesome friend.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:24"
+          ]
+        },
+        {
+          "fact_id": "john#16",
+          "text": "John appreciates Maria's support and values their friendship.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:20"
+          ]
+        },
+        {
+          "fact_id": "john#17",
+          "text": "John had a picnic with his wife and kids",
+          "date_label": "6 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:2"
+          ]
+        },
+        {
+          "fact_id": "john#18",
+          "text": "John's one-year-old son is named Kyle",
+          "date_label": "6 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:4"
+          ]
+        },
+        {
+          "fact_id": "john#19",
+          "text": "John retook an aptitude test last week with great results",
+          "date_label": "6 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:18"
+          ]
+        },
+        {
+          "fact_id": "john#20",
+          "text": "John discussed his desire to volunteer with his family and friends",
+          "date_label": "6 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:20"
+          ]
+        },
+        {
+          "fact_id": "john#21",
+          "text": "John graduated from university last week.",
+          "date_label": "2 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:4"
+          ]
+        },
+        {
+          "fact_id": "john#22",
+          "text": "John's car broke down last Friday on his way to work.",
+          "date_label": "10 April, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D11:1"
+          ]
+        },
+        {
+          "fact_id": "john#23",
+          "text": "John is trying to get his car fixed, but it's tough and putting a strain on his wallet.",
+          "date_label": "10 April, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D11:1"
+          ]
+        },
+        {
+          "fact_id": "john#24",
+          "text": "John stays positive and is looking for a solution to his car trouble.",
+          "date_label": "10 April, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D11:1"
+          ]
+        },
+        {
+          "fact_id": "john#25",
+          "text": "John took a road trip last year to explore the coast in the Pacific Northwest and visited some national parks.",
+          "date_label": "10 April, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D11:5"
+          ]
+        },
+        {
+          "fact_id": "john#26",
+          "text": "John shared a picture of a mountain with a sunset and flowers in the foreground from his road trip.",
+          "date_label": "10 April, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D11:3"
+          ]
+        },
+        {
+          "fact_id": "john#27",
+          "text": "John has been blogging about politics and the government since the last conversation.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "john#28",
+          "text": "John cares about making a real impact through his blogging.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "john#29",
+          "text": "John believes that better education and infrastructure are needed for neighborhoods.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "john#30",
+          "text": "John is researching policies and writing about his thoughts and ideas on the political system.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:3"
+          ]
+        },
+        {
+          "fact_id": "john#31",
+          "text": "John is focusing on education reform and infrastructure development in his blog.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:5"
+          ]
+        },
+        {
+          "fact_id": "john#32",
+          "text": "John aims to raise awareness and start conversations to create positive change.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:3",
+            "D12:5"
+          ]
+        },
+        {
+          "fact_id": "john#33",
+          "text": "John has received good feedback on his blog posts so far.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:7"
+          ]
+        },
+        {
+          "fact_id": "john#34",
+          "text": "John and his colleagues attended a convention last month focused on using tech for good in their community.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:9"
+          ]
+        },
+        {
+          "fact_id": "john#35",
+          "text": "John felt inspired by connecting with like-minded individuals at the convention.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:9",
+            "D12:11"
+          ]
+        },
+        {
+          "fact_id": "john#36",
+          "text": "John found the energy in the room at the convention to be infectious and empowering.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:13"
+          ]
+        },
+        {
+          "fact_id": "john#37",
+          "text": "John is planning a trip to the East Coast.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:17"
+          ]
+        },
+        {
+          "fact_id": "john#38",
+          "text": "John agrees that every small act can make a big impact.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:23"
+          ]
+        },
+        {
+          "fact_id": "john#39",
+          "text": "Maria is proud of John for sticking with his dream to make a difference in his community.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:2"
+          ]
+        },
+        {
+          "fact_id": "john#40",
+          "text": "John feels motivated by Maria's support and encouragement.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:3",
+            "D14:5"
+          ]
+        },
+        {
+          "fact_id": "john#41",
+          "text": "John has always been passionate about veterans and their rights.",
+          "date_label": "20 May, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D15:3"
+          ]
+        },
+        {
+          "fact_id": "john#42",
+          "text": "John is busy doing a petition and gaining support from his buddies.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:1"
+          ]
+        },
+        {
+          "fact_id": "john#43",
+          "text": "John has a picture of his workmates from a hiking trip.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:1"
+          ]
+        },
+        {
+          "fact_id": "john#44",
+          "text": "John will spread the word about the chili cook-off event.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:5"
+          ]
+        },
+        {
+          "fact_id": "john#45",
+          "text": "John will ask around to see if anyone wants to volunteer for the event.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:7"
+          ]
+        },
+        {
+          "fact_id": "john#46",
+          "text": "John shared a picture of his family at the beach.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:11"
+          ]
+        },
+        {
+          "fact_id": "john#47",
+          "text": "John believes that working together with passionate people is awesome.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:9"
+          ]
+        },
+        {
+          "fact_id": "john#48",
+          "text": "John and Maria are making progress towards making a positive impact.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:19"
+          ]
+        },
+        {
+          "fact_id": "john#49",
+          "text": "John had to say goodbye to Max, who was an important part of their family for 10 years.",
+          "date_label": "3 June, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D17:1"
+          ]
+        },
+        {
+          "fact_id": "john#50",
+          "text": "John and his family are still sad about Max's passing but find comfort in the good times and memories they had with him.",
+          "date_label": "3 June, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D17:3"
+          ]
+        },
+        {
+          "fact_id": "john#51",
+          "text": "John cherishes a picture of Max sitting in the grass with a leash.",
+          "date_label": "3 June, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D17:5"
+          ]
+        },
+        {
+          "fact_id": "john#52",
+          "text": "John believes Max taught them the importance of unconditional love and loyalty.",
+          "date_label": "3 June, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D17:9"
+          ]
+        },
+        {
+          "fact_id": "john#53",
+          "text": "John is considering adopting a rescue dog to teach his kids responsibility and compassion.",
+          "date_label": "3 June, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D17:11"
+          ]
+        },
+        {
+          "fact_id": "john#54",
+          "text": "John got promoted at work and is now an assistant manager.",
+          "date_label": "16 June, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:6",
+            "D19:8"
+          ]
+        },
+        {
+          "fact_id": "john#55",
+          "text": "John's trophy commemorates his journey and symbolizes the obstacles he overcame.",
+          "date_label": "16 June, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:10"
+          ]
+        },
+        {
+          "fact_id": "john#56",
+          "text": "John faced hurdles including tech issues, workplace challenges, and self-doubt on his path to promotion.",
+          "date_label": "16 June, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:12"
+          ]
+        },
+        {
+          "fact_id": "john#57",
+          "text": "John believes that support from loved ones and self-belief helped him overcome challenges.",
+          "date_label": "16 June, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:14"
+          ]
+        },
+        {
+          "fact_id": "john#58",
+          "text": "John usually works during regular work hours but sometimes brings work home.",
+          "date_label": "16 June, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:18"
+          ]
+        },
+        {
+          "fact_id": "john#59",
+          "text": "John tries to organize his time to balance work and important moments in life.",
+          "date_label": "16 June, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:20"
+          ]
+        },
+        {
+          "fact_id": "john#60",
+          "text": "John and his family attended a live music event last week where they had a blast and enjoyed the energy in the air.",
+          "date_label": "27 June, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D20:4"
+          ]
+        },
+        {
+          "fact_id": "john#61",
+          "text": "John appreciates Maria's support and friendship in their community work.",
+          "date_label": "7 July, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:7",
+            "D23:13"
+          ]
+        },
+        {
+          "fact_id": "john#62",
+          "text": "John is enjoying his new job and finds his team super encouraging and inspiring.",
+          "date_label": "22 July, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D25:1"
+          ]
+        },
+        {
+          "fact_id": "john#63",
+          "text": "John feels a strong bond with his fire brigade team, similar to his time in the military.",
+          "date_label": "31 July, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D26:10"
+          ]
+        },
+        {
+          "fact_id": "john#64",
+          "text": "John lost his job at the mechanical engineering company because it tanked",
+          "date_label": "5 August, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D28:1"
+          ]
+        },
+        {
+          "fact_id": "john#65",
+          "text": "John has a dog named Max.",
+          "date_label": "11 August, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D30:4"
+          ]
+        },
+        {
+          "fact_id": "john#66",
+          "text": "John is now part of the fire-fighting brigade.",
+          "date_label": "16 August, 2023",
+          "session_index": 32,
+          "session_id": "session_32",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D32:1"
+          ]
+        },
+        {
+          "fact_id": "john#67",
+          "text": "John feels a sense of purpose and passion from his involvement in the fire-fighting brigade.",
+          "date_label": "16 August, 2023",
+          "session_index": 32,
+          "session_id": "session_32",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D32:9"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kickboxing",
+      "type": "topic",
+      "slug": "kickboxing",
+      "path": "topics/kickboxing.md",
+      "facts": [
+        {
+          "fact_id": "kickboxing#1",
+          "text": "John is doing kickboxing",
+          "date_label": "17 December, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Kickboxing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:4"
+          ]
+        },
+        {
+          "fact_id": "kickboxing#2",
+          "text": "John is off to do some taekwondo.",
+          "date_label": "22 December, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Kickboxing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:28"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Local politics",
+      "type": "topic",
+      "slug": "local-politics",
+      "path": "topics/local-politics.md",
+      "facts": [
+        {
+          "fact_id": "local-politics#1",
+          "text": "John is hoping to get into local politics",
+          "date_label": "17 December, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:6"
+          ]
+        },
+        {
+          "fact_id": "local-politics#2",
+          "text": "John is passionate about improving education and infrastructure in his community",
+          "date_label": "17 December, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:8"
+          ]
+        },
+        {
+          "fact_id": "local-politics#3",
+          "text": "John saw how lack of education and crumbling infrastructure affected his neighborhood growing up",
+          "date_label": "17 December, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:10"
+          ]
+        },
+        {
+          "fact_id": "local-politics#4",
+          "text": "John believes schools and infrastructure should be funded properly",
+          "date_label": "17 December, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:10"
+          ]
+        },
+        {
+          "fact_id": "local-politics#5",
+          "text": "John is going to chat with local leaders and organizations to get support and gather ideas for his next move in politics",
+          "date_label": "17 December, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:14"
+          ]
+        },
+        {
+          "fact_id": "local-politics#6",
+          "text": "John has been networking with people to get their input for his campaign.",
+          "date_label": "22 December, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:2"
+          ]
+        },
+        {
+          "fact_id": "local-politics#7",
+          "text": "John has been looking into local politics and talking to community leaders.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:12"
+          ]
+        },
+        {
+          "fact_id": "local-politics#8",
+          "text": "John is feeling optimistic about local politics.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:12"
+          ]
+        },
+        {
+          "fact_id": "local-politics#9",
+          "text": "John has a community meeting coming up next week to discuss education and infrastructure upgrades.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:16"
+          ]
+        },
+        {
+          "fact_id": "local-politics#10",
+          "text": "John and Maria believe that working together can bring positive changes to the neighborhood.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:21"
+          ]
+        },
+        {
+          "fact_id": "local-politics#11",
+          "text": "John attended a community meeting where he heard everyone's worries about education and its impact on the area",
+          "date_label": "28 January, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:1"
+          ]
+        },
+        {
+          "fact_id": "local-politics#12",
+          "text": "John is running for office again",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:2"
+          ]
+        },
+        {
+          "fact_id": "local-politics#13",
+          "text": "John is considering going into policymaking because of his degree and passion for making a positive impact.",
+          "date_label": "2 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:6"
+          ]
+        },
+        {
+          "fact_id": "local-politics#14",
+          "text": "John's experiences in community meetings have given him a better understanding of the challenges in education and infrastructure systems.",
+          "date_label": "2 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:10"
+          ]
+        },
+        {
+          "fact_id": "local-politics#15",
+          "text": "John decided to run for office again on 6 May, 2023, despite not being successful before.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:1"
+          ]
+        },
+        {
+          "fact_id": "local-politics#16",
+          "text": "John experienced a power cut in his area last week, realizing the importance of upgrading infrastructure.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:13"
+          ]
+        },
+        {
+          "fact_id": "local-politics#17",
+          "text": "John noted that the roadways in his area are full of potholes and can be dangerous for drivers.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:15"
+          ]
+        },
+        {
+          "fact_id": "local-politics#18",
+          "text": "John is thinking about starting a community project regarding infrastructure improvements.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:17"
+          ]
+        },
+        {
+          "fact_id": "local-politics#19",
+          "text": "John wants to work on improving his old area, West County.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:21"
+          ]
+        },
+        {
+          "fact_id": "local-politics#20",
+          "text": "John shared an image of a dark street at night during the conversation.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:13"
+          ]
+        },
+        {
+          "fact_id": "local-politics#21",
+          "text": "John shared an image of a garden with a raised bed of plants during the conversation.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:23"
+          ]
+        },
+        {
+          "fact_id": "local-politics#22",
+          "text": "John has great respect for the military and believes in standing up for what he believes in.",
+          "date_label": "3 July, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:24"
+          ]
+        },
+        {
+          "fact_id": "local-politics#23",
+          "text": "John feels motivated by being around others who share the same values and passion for activism.",
+          "date_label": "3 July, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Local politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:26"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Maria",
+      "type": "person",
+      "slug": "maria",
+      "path": "people/maria.md",
+      "facts": [
+        {
+          "fact_id": "maria#1",
+          "text": "Maria has been busy volunteering at the homeless shelter",
+          "date_label": "17 December, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:3"
+          ]
+        },
+        {
+          "fact_id": "maria#2",
+          "text": "Maria donated her old car to a homeless shelter she volunteers at on 21 December 2022.",
+          "date_label": "22 December, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:1"
+          ]
+        },
+        {
+          "fact_id": "maria#3",
+          "text": "Maria loves spending time with her friends, watching movies, hiking, and having game nights at her place.",
+          "date_label": "22 December, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:17"
+          ]
+        },
+        {
+          "fact_id": "maria#4",
+          "text": "Maria took a photo of a sunset at the beach last month.",
+          "date_label": "1 January, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:14"
+          ]
+        },
+        {
+          "fact_id": "maria#5",
+          "text": "Maria finds watching the sunset peaceful and it helps her appreciate life's small moments.",
+          "date_label": "1 January, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:14"
+          ]
+        },
+        {
+          "fact_id": "maria#6",
+          "text": "Maria is now friends with one of her fellow volunteers.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:1"
+          ]
+        },
+        {
+          "fact_id": "maria#7",
+          "text": "Maria has been taking notes about local politics in her notebook.",
+          "date_label": "9 January, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:13"
+          ]
+        },
+        {
+          "fact_id": "maria#8",
+          "text": "Maria experienced money problems when she was younger and had to rely on outside help from her auntie.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:9"
+          ]
+        },
+        {
+          "fact_id": "maria#9",
+          "text": "Maria expressed her willingness to help John whenever he needs it.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:19"
+          ]
+        },
+        {
+          "fact_id": "maria#10",
+          "text": "Maria considers John a great friend and will always be there for him.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:21"
+          ]
+        },
+        {
+          "fact_id": "maria#11",
+          "text": "Maria's grandma passed away last week",
+          "date_label": "6 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:1"
+          ]
+        },
+        {
+          "fact_id": "maria#12",
+          "text": "Maria created a shadow box with a picture of a castle",
+          "date_label": "6 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:13"
+          ]
+        },
+        {
+          "fact_id": "maria#13",
+          "text": "Maria was inspired to create a shadow box from a trip to England",
+          "date_label": "6 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:15"
+          ]
+        },
+        {
+          "fact_id": "maria#14",
+          "text": "Maria recently gave a few talks at the homeless shelter she volunteers at.",
+          "date_label": "10 April, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D11:10"
+          ]
+        },
+        {
+          "fact_id": "maria#15",
+          "text": "Maria received lots of compliments from other volunteers after her talks at the homeless shelter.",
+          "date_label": "10 April, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D11:10"
+          ]
+        },
+        {
+          "fact_id": "maria#16",
+          "text": "Maria bought a cross necklace to feel closer to her faith.",
+          "date_label": "10 April, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D11:10"
+          ]
+        },
+        {
+          "fact_id": "maria#17",
+          "text": "Maria feels really blessed to know the people at the homeless shelter she volunteers at.",
+          "date_label": "10 April, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D11:12"
+          ]
+        },
+        {
+          "fact_id": "maria#18",
+          "text": "Maria helped organize a meal for the shelter residents and assisted with getting everything ready.",
+          "date_label": "10 April, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D11:16"
+          ]
+        },
+        {
+          "fact_id": "maria#19",
+          "text": "Maria enjoys seeing people come together and supporting each other at the shelter.",
+          "date_label": "10 April, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D11:18"
+          ]
+        },
+        {
+          "fact_id": "maria#20",
+          "text": "Maria agrees that education and infrastructure are key to community growth.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:2"
+          ]
+        },
+        {
+          "fact_id": "maria#21",
+          "text": "Maria is still volunteering at the homeless shelter.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:18"
+          ]
+        },
+        {
+          "fact_id": "maria#22",
+          "text": "Maria finds her volunteering at the homeless shelter to be fulfilling but tough due to the growing need for help.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:20"
+          ]
+        },
+        {
+          "fact_id": "maria#23",
+          "text": "John encourages Maria by acknowledging her dedication to helping people.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:21"
+          ]
+        },
+        {
+          "fact_id": "maria#24",
+          "text": "Maria believes that little acts of kindness can have a big effect.",
+          "date_label": "18 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:22"
+          ]
+        },
+        {
+          "fact_id": "maria#25",
+          "text": "Maria's family is small, and she relies on them for strength during tough times.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D13:12"
+          ]
+        },
+        {
+          "fact_id": "maria#26",
+          "text": "Maria believes that even small steps will make a difference.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:4"
+          ]
+        },
+        {
+          "fact_id": "maria#27",
+          "text": "Maria is willing to help John with his project to support veterans.",
+          "date_label": "20 May, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D15:10"
+          ]
+        },
+        {
+          "fact_id": "maria#28",
+          "text": "Maria is busy at the shelter getting ready for a fundraiser next week.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:2"
+          ]
+        },
+        {
+          "fact_id": "maria#29",
+          "text": "Maria hopes to raise enough money to cover basic needs for the homeless.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:2"
+          ]
+        },
+        {
+          "fact_id": "maria#30",
+          "text": "John offered to help with Maria's fundraiser.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:3"
+          ]
+        },
+        {
+          "fact_id": "maria#31",
+          "text": "Maria appreciates John's help with the fundraiser.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:4",
+            "D16:6"
+          ]
+        },
+        {
+          "fact_id": "maria#32",
+          "text": "Maria needs to get the word out about the chili cook-off at the fundraiser.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:4"
+          ]
+        },
+        {
+          "fact_id": "maria#33",
+          "text": "Maria finds hope in appreciating little moments.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:12",
+            "D16:14"
+          ]
+        },
+        {
+          "fact_id": "maria#34",
+          "text": "Maria feels motivated working with passionate people like John.",
+          "date_label": "25 May, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:10"
+          ]
+        },
+        {
+          "fact_id": "maria#35",
+          "text": "Maria started volunteering at a local dog shelter once a month.",
+          "date_label": "3 June, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D17:12"
+          ]
+        },
+        {
+          "fact_id": "maria#36",
+          "text": "Maria has been struggling but is focusing on the positive and relying on her friends and family for support.",
+          "date_label": "27 June, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D20:1"
+          ]
+        },
+        {
+          "fact_id": "maria#37",
+          "text": "Maria's family has been there for her, giving her words of encouragement and reminding her she is not alone.",
+          "date_label": "27 June, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D20:3"
+          ]
+        },
+        {
+          "fact_id": "maria#38",
+          "text": "Maria is off to have dinner with some friends from the gym.",
+          "date_label": "7 July, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:14"
+          ]
+        },
+        {
+          "fact_id": "maria#39",
+          "text": "Maria got a puppy two weeks ago named Coco.",
+          "date_label": "11 August, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D30:1"
+          ]
+        },
+        {
+          "fact_id": "maria#40",
+          "text": "Coco is a white dog.",
+          "date_label": "11 August, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D30:1"
+          ]
+        },
+        {
+          "fact_id": "maria#41",
+          "text": "Maria volunteered at the shelter front desk last Friday.",
+          "date_label": "16 August, 2023",
+          "session_index": 32,
+          "session_id": "session_32",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D32:14"
+          ]
+        },
+        {
+          "fact_id": "maria#42",
+          "text": "Maria felt good seeing smiles on people's faces when they received food or a bed at the shelter.",
+          "date_label": "16 August, 2023",
+          "session_index": 32,
+          "session_id": "session_32",
+          "page_title": "Maria",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D32:14"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cooking",
+      "type": "topic",
+      "slug": "cooking",
+      "path": "topics/cooking.md",
+      "facts": [
+        {
+          "fact_id": "cooking#1",
+          "text": "John and his family made pizza together, picking out toppings and sharing a meal.",
+          "date_label": "22 December, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:24"
+          ]
+        },
+        {
+          "fact_id": "cooking#2",
+          "text": "Maria made peach cobbler recently.",
+          "date_label": "22 December, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:25"
+          ]
+        },
+        {
+          "fact_id": "cooking#3",
+          "text": "Maria made dinner with her mom last night.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:16"
+          ]
+        },
+        {
+          "fact_id": "cooking#4",
+          "text": "Maria enjoys banana split sundaes after a day of volunteering.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:18"
+          ]
+        },
+        {
+          "fact_id": "cooking#5",
+          "text": "Maria is going to bake some cakes after the conversation.",
+          "date_label": "22 July, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Community service",
+      "type": "event",
+      "slug": "community-service",
+      "path": "events/community-service.md",
+      "facts": [
+        {
+          "fact_id": "community-service#1",
+          "text": "John and the group held events to meet people, including going to a homeless shelter to give out food and supplies.",
+          "date_label": "1 January, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:5"
+          ]
+        },
+        {
+          "fact_id": "community-service#2",
+          "text": "John organized a toy drive for kids in need with the group.",
+          "date_label": "1 January, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:5"
+          ]
+        },
+        {
+          "fact_id": "community-service#3",
+          "text": "Maria volunteered at a shelter during an event for kids last week",
+          "date_label": "28 January, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:6"
+          ]
+        },
+        {
+          "fact_id": "community-service#4",
+          "text": "Maria was inspired to volunteer by her aunt, who believed in helping others",
+          "date_label": "28 January, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:8"
+          ]
+        },
+        {
+          "fact_id": "community-service#5",
+          "text": "Maria had a touching moment while volunteering when she comforted a sad little girl who had no family",
+          "date_label": "28 January, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:10"
+          ]
+        },
+        {
+          "fact_id": "community-service#6",
+          "text": "Maria offered to help with networking or assisting at future events.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:17"
+          ]
+        },
+        {
+          "fact_id": "community-service#7",
+          "text": "Maria has been volunteering at a homeless shelter",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:3"
+          ]
+        },
+        {
+          "fact_id": "community-service#8",
+          "text": "Maria met a woman named Jean while volunteering, who had been through a lot but remained optimistic and resilient",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:5"
+          ]
+        },
+        {
+          "fact_id": "community-service#9",
+          "text": "Jean went through a divorce, lost her job, and ended up homeless",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:7"
+          ]
+        },
+        {
+          "fact_id": "community-service#10",
+          "text": "Maria volunteered at a homeless shelter",
+          "date_label": "6 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:21"
+          ]
+        },
+        {
+          "fact_id": "community-service#11",
+          "text": "Maria built connections at the homeless shelter by listening and showing compassion",
+          "date_label": "6 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:23"
+          ]
+        },
+        {
+          "fact_id": "community-service#12",
+          "text": "John believes it is important to put words into action and find solutions to community issues.",
+          "date_label": "2 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:12"
+          ]
+        },
+        {
+          "fact_id": "community-service#13",
+          "text": "Maria and John volunteered together last year, which was a fulfilling experience.",
+          "date_label": "2 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:17"
+          ]
+        },
+        {
+          "fact_id": "community-service#14",
+          "text": "John believes their actions can make a big impact.",
+          "date_label": "2 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:18"
+          ]
+        },
+        {
+          "fact_id": "community-service#15",
+          "text": "John volunteered at a career fair at a local school last weekend.",
+          "date_label": "7 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:13"
+          ]
+        },
+        {
+          "fact_id": "community-service#16",
+          "text": "John found it incredible to see how lack of resources affects kids' dreams at the career fair.",
+          "date_label": "7 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:13"
+          ]
+        },
+        {
+          "fact_id": "community-service#17",
+          "text": "The sign John saw at the career fair says, 'Always look on the bright side of life.'",
+          "date_label": "7 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:15"
+          ]
+        },
+        {
+          "fact_id": "community-service#18",
+          "text": "Maria has been involved in charity work, which she finds rewarding and fulfilling.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:8"
+          ]
+        },
+        {
+          "fact_id": "community-service#19",
+          "text": "Maria joined a nearby church to feel closer to a community and her faith.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:10"
+          ]
+        },
+        {
+          "fact_id": "community-service#20",
+          "text": "Maria wants to join forces with John to create a safe and bustling environment for their community.",
+          "date_label": "6 May, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:22"
+          ]
+        },
+        {
+          "fact_id": "community-service#21",
+          "text": "John is tackling a project to support military veterans.",
+          "date_label": "20 May, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:1"
+          ]
+        },
+        {
+          "fact_id": "community-service#22",
+          "text": "John wants to show appreciation for veterans by working on a project to support them.",
+          "date_label": "20 May, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:3"
+          ]
+        },
+        {
+          "fact_id": "community-service#23",
+          "text": "John wants to help make veterans' lives better.",
+          "date_label": "20 May, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:7"
+          ]
+        },
+        {
+          "fact_id": "community-service#24",
+          "text": "John and Maria plan to make a real impact together for veterans.",
+          "date_label": "20 May, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:11"
+          ]
+        },
+        {
+          "fact_id": "community-service#25",
+          "text": "John organized a small party for veterans to share their stories.",
+          "date_label": "20 May, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:13"
+          ]
+        },
+        {
+          "fact_id": "community-service#26",
+          "text": "John found it heartwarming to see veterans make connections and find camaraderie at the party.",
+          "date_label": "20 May, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:13"
+          ]
+        },
+        {
+          "fact_id": "community-service#27",
+          "text": "Maria volunteered at a shelter, which made her feel great to help.",
+          "date_label": "27 June, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D20:7"
+          ]
+        },
+        {
+          "fact_id": "community-service#28",
+          "text": "Maria met someone special at the shelter who laughed while she was playing with the kids, which was uplifting.",
+          "date_label": "27 June, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D20:9"
+          ]
+        },
+        {
+          "fact_id": "community-service#29",
+          "text": "Maria met three children at a shelter and shared a photo of them.",
+          "date_label": "3 July, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D21:1"
+          ]
+        },
+        {
+          "fact_id": "community-service#30",
+          "text": "Maria was involved in a car accident where a car ran a red light and hit them, but everyone is okay.",
+          "date_label": "3 July, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D21:5"
+          ]
+        },
+        {
+          "fact_id": "community-service#31",
+          "text": "Maria shared a photo of a lot of white portable homes in a parking lot.",
+          "date_label": "3 July, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D21:15"
+          ]
+        },
+        {
+          "fact_id": "community-service#32",
+          "text": "Maria received a letter from a shelter resident named Laura expressing gratitude for the impact made on their life.",
+          "date_label": "3 July, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D21:19"
+          ]
+        },
+        {
+          "fact_id": "community-service#33",
+          "text": "John participated in a marching event for veterans' rights and shared a photo of a badge and a flag.",
+          "date_label": "3 July, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D21:22"
+          ]
+        },
+        {
+          "fact_id": "community-service#34",
+          "text": "John's old area was hit by a nasty flood last week, ruining many homes.",
+          "date_label": "7 July, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D23:1"
+          ]
+        },
+        {
+          "fact_id": "community-service#35",
+          "text": "John is getting people together to chat about the flood and discuss potential solutions.",
+          "date_label": "7 July, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D23:3"
+          ]
+        },
+        {
+          "fact_id": "community-service#36",
+          "text": "Maria is willing to join the meeting to contribute to making the community better.",
+          "date_label": "7 July, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D23:4"
+          ]
+        },
+        {
+          "fact_id": "community-service#37",
+          "text": "John visited a veteran's hospital last week and met some amazing people.",
+          "date_label": "17 July, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:1"
+          ]
+        },
+        {
+          "fact_id": "community-service#38",
+          "text": "John heard inspiring and heartbreaking stories from an elderly veteran named Samuel during his visit to the veteran's hospital.",
+          "date_label": "17 July, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:3"
+          ]
+        },
+        {
+          "fact_id": "community-service#39",
+          "text": "John attended a community event last month that included arts and crafts and fun activities for families.",
+          "date_label": "17 July, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:11"
+          ]
+        },
+        {
+          "fact_id": "community-service#40",
+          "text": "Maria had a great experience hiking with her church friends last weekend.",
+          "date_label": "22 July, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D25:2"
+          ]
+        },
+        {
+          "fact_id": "community-service#41",
+          "text": "Maria wanted to make connections, laugh together, and take in nature's beauty during her hike.",
+          "date_label": "22 July, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D25:4"
+          ]
+        },
+        {
+          "fact_id": "community-service#42",
+          "text": "Maria felt a real sense of peace when she reached the top of the hike and saw the breathtaking view.",
+          "date_label": "22 July, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D25:6"
+          ]
+        },
+        {
+          "fact_id": "community-service#43",
+          "text": "Maria plans to explore more and volunteer at shelters next month.",
+          "date_label": "22 July, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D25:8"
+          ]
+        },
+        {
+          "fact_id": "community-service#44",
+          "text": "Maria dropped off baked goods at a homeless shelter last week.",
+          "date_label": "31 July, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:1"
+          ]
+        },
+        {
+          "fact_id": "community-service#45",
+          "text": "John joined a fire-fighting brigade.",
+          "date_label": "31 July, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:2"
+          ]
+        },
+        {
+          "fact_id": "community-service#46",
+          "text": "John's training for the fire brigade was intense and taxing.",
+          "date_label": "31 July, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:4"
+          ]
+        },
+        {
+          "fact_id": "community-service#47",
+          "text": "John's team had their first call-out last Sunday.",
+          "date_label": "31 July, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:4"
+          ]
+        },
+        {
+          "fact_id": "community-service#48",
+          "text": "John's team saved a family from a burning building during a rescue mission.",
+          "date_label": "31 July, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:6"
+          ]
+        },
+        {
+          "fact_id": "community-service#49",
+          "text": "Maria shared a photo of her volunteering experience.",
+          "date_label": "31 July, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:13"
+          ]
+        },
+        {
+          "fact_id": "community-service#50",
+          "text": "John asked family and friends to join the virtual support group he is a part of and be advocates for the military",
+          "date_label": "3 August, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:1"
+          ]
+        },
+        {
+          "fact_id": "community-service#51",
+          "text": "Maria has been volunteering at a homeless shelter for about a year",
+          "date_label": "3 August, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:4"
+          ]
+        },
+        {
+          "fact_id": "community-service#52",
+          "text": "Maria started volunteering at the homeless shelter after witnessing a family struggling on the streets",
+          "date_label": "3 August, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:4"
+          ]
+        },
+        {
+          "fact_id": "community-service#53",
+          "text": "John had a meaningful experience at a military memorial last week that impacted his kids",
+          "date_label": "3 August, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:9"
+          ]
+        },
+        {
+          "fact_id": "community-service#54",
+          "text": "John's kids were awestruck and humbled by the military memorial visit",
+          "date_label": "3 August, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:11"
+          ]
+        },
+        {
+          "fact_id": "community-service#55",
+          "text": "Maria took up community work with her friends from church",
+          "date_label": "5 August, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D28:8"
+          ]
+        },
+        {
+          "fact_id": "community-service#56",
+          "text": "John helped renovate a rundown community center last year",
+          "date_label": "5 August, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D28:11"
+          ]
+        },
+        {
+          "fact_id": "community-service#57",
+          "text": "Maria volunteered at a homeless shelter and received a medal for her efforts",
+          "date_label": "9 August, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:1"
+          ]
+        },
+        {
+          "fact_id": "community-service#58",
+          "text": "John participated in a community event to raise money for a good cause",
+          "date_label": "9 August, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:2"
+          ]
+        },
+        {
+          "fact_id": "community-service#59",
+          "text": "John worked with a local organization that helps victims of domestic abuse",
+          "date_label": "9 August, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:10"
+          ]
+        },
+        {
+          "fact_id": "community-service#60",
+          "text": "John is considering joining local organizations or volunteering programs.",
+          "date_label": "11 August, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D30:18"
+          ]
+        },
+        {
+          "fact_id": "community-service#61",
+          "text": "Maria encourages John to research and explore organizations he would be interested in.",
+          "date_label": "11 August, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D30:19"
+          ]
+        },
+        {
+          "fact_id": "community-service#62",
+          "text": "John is volunteering as a mentor for a local school.",
+          "date_label": "13 August, 2023",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D31:1"
+          ]
+        },
+        {
+          "fact_id": "community-service#63",
+          "text": "John was impressed with the dedication and teamwork of the fire-fighting brigade.",
+          "date_label": "16 August, 2023",
+          "session_index": 32,
+          "session_id": "session_32",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D32:3"
+          ]
+        },
+        {
+          "fact_id": "community-service#64",
+          "text": "John and the fire-fighting brigade worked hard for two hours on a project.",
+          "date_label": "16 August, 2023",
+          "session_index": 32,
+          "session_id": "session_32",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D32:5"
+          ]
+        },
+        {
+          "fact_id": "community-service#65",
+          "text": "John and the fire-fighting brigade raised donations including canned food, toiletries, and clothes.",
+          "date_label": "16 August, 2023",
+          "session_index": 32,
+          "session_id": "session_32",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D32:7"
+          ]
+        },
+        {
+          "fact_id": "community-service#66",
+          "text": "John's donations helped get a brand new fire truck.",
+          "date_label": "16 August, 2023",
+          "session_index": 32,
+          "session_id": "session_32",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D32:11"
+          ]
+        },
+        {
+          "fact_id": "community-service#67",
+          "text": "John and Maria want to continue making a difference in their community.",
+          "date_label": "16 August, 2023",
+          "session_index": 32,
+          "session_id": "session_32",
+          "page_title": "Community service",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D32:15",
+            "D32:17"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Childhood memories",
+      "type": "topic",
+      "slug": "childhood-memories",
+      "path": "topics/childhood-memories.md",
+      "facts": [
+        {
+          "fact_id": "childhood-memories#1",
+          "text": "John shared a photo that reminded him of a doll from his childhood that made him feel better",
+          "date_label": "28 January, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Childhood memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:13"
+          ]
+        },
+        {
+          "fact_id": "childhood-memories#2",
+          "text": "Maria's family went on a road trip to Oregon when she was younger.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Childhood memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:3"
+          ]
+        },
+        {
+          "fact_id": "childhood-memories#3",
+          "text": "Maria did not have any pets growing up.",
+          "date_label": "13 August, 2023",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Childhood memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kindness",
+      "type": "topic",
+      "slug": "kindness",
+      "path": "topics/kindness.md",
+      "facts": [
+        {
+          "fact_id": "kindness#1",
+          "text": "Maria believes that spreading kindness and support can make a difference",
+          "date_label": "28 January, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Kindness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:14"
+          ]
+        },
+        {
+          "fact_id": "kindness#2",
+          "text": "Maria finds joy in being able to make a difference.",
+          "date_label": "27 June, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Kindness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:11"
+          ]
+        },
+        {
+          "fact_id": "kindness#3",
+          "text": "Maria is spreading kindness and positivity through her actions.",
+          "date_label": "27 June, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Kindness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:13"
+          ]
+        },
+        {
+          "fact_id": "kindness#4",
+          "text": "Maria believes that little acts of kindness can transform lives and improve the community.",
+          "date_label": "7 July, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Kindness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:10"
+          ]
+        },
+        {
+          "fact_id": "kindness#5",
+          "text": "John believes that spreading positivity and making a difference is important.",
+          "date_label": "17 July, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Kindness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:15"
+          ]
+        },
+        {
+          "fact_id": "kindness#6",
+          "text": "Maria believes that doing good and helping others brings joy, and that little acts of kindness can have a big effect.",
+          "date_label": "17 July, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Kindness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:16"
+          ]
+        },
+        {
+          "fact_id": "kindness#7",
+          "text": "Cindy, a resident at the shelter, wrote a note expressing gratitude for the support they receive",
+          "date_label": "3 August, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Kindness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:8"
+          ]
+        },
+        {
+          "fact_id": "kindness#8",
+          "text": "Maria expressed sadness about domestic abuse and acknowledged the importance of supporting organizations fighting against it",
+          "date_label": "9 August, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Kindness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:11"
+          ]
+        },
+        {
+          "fact_id": "kindness#9",
+          "text": "John and Maria agreed to keep spreading awareness and supporting important causes",
+          "date_label": "9 August, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Kindness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:13"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Charity event",
+      "type": "event",
+      "slug": "charity-event",
+      "path": "events/charity-event.md",
+      "facts": [
+        {
+          "fact_id": "charity-event#1",
+          "text": "Maria participated in a charity event on 3 February 2023.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:1"
+          ]
+        },
+        {
+          "fact_id": "charity-event#2",
+          "text": "Maria felt the power of collective effort to help people in need during the charity event.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:1"
+          ]
+        },
+        {
+          "fact_id": "charity-event#3",
+          "text": "Maria served meals at the charity event and saw gratitude on the faces of those she helped.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:3"
+          ]
+        },
+        {
+          "fact_id": "charity-event#4",
+          "text": "Maria had a conversation with someone named David at the charity event.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:5"
+          ]
+        },
+        {
+          "fact_id": "charity-event#5",
+          "text": "Maria linked David up with a nearby organization that offers housing and support for homeless individuals.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:7"
+          ]
+        },
+        {
+          "fact_id": "charity-event#6",
+          "text": "Maria participated in a 5K charity run for a homeless shelter last weekend.",
+          "date_label": "7 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:10"
+          ]
+        },
+        {
+          "fact_id": "charity-event#7",
+          "text": "Maria felt a sense of unity and energy while participating in the charity run.",
+          "date_label": "7 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:10"
+          ]
+        },
+        {
+          "fact_id": "charity-event#8",
+          "text": "Maria finds charity work rewarding and is passionate about it.",
+          "date_label": "7 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:10"
+          ]
+        },
+        {
+          "fact_id": "charity-event#9",
+          "text": "Maria is planning a ring-toss tournament for a homeless shelter's fundraiser later in May 2023.",
+          "date_label": "20 May, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:18"
+          ]
+        },
+        {
+          "fact_id": "charity-event#10",
+          "text": "John set up a 5K charity run in his neighborhood to help veterans and their families",
+          "date_label": "9 August, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:4"
+          ]
+        },
+        {
+          "fact_id": "charity-event#11",
+          "text": "John faced challenges in getting sponsors for the charity run",
+          "date_label": "9 August, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Charity event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:8"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Food drive",
+      "type": "event",
+      "slug": "food-drive",
+      "path": "events/food-drive.md",
+      "facts": [
+        {
+          "fact_id": "food-drive#1",
+          "text": "John started helping out with a food drive for folks who lost their jobs.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Food drive",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:10"
+          ]
+        },
+        {
+          "fact_id": "food-drive#2",
+          "text": "John was inspired to get involved with the food drive by seeing the effect unemployment has on neighbors.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Food drive",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:12"
+          ]
+        },
+        {
+          "fact_id": "food-drive#3",
+          "text": "John's decision to start the food drive was motivated by unemployment in the community.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Food drive",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:14"
+          ]
+        },
+        {
+          "fact_id": "food-drive#4",
+          "text": "John has been overwhelmed by the response and volunteers for the food drive.",
+          "date_label": "5 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Food drive",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:16"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Family activities",
+      "type": "topic",
+      "slug": "family-activities",
+      "path": "topics/family-activities.md",
+      "facts": [
+        {
+          "fact_id": "family-activities#1",
+          "text": "John found a violin concert that his family enjoyed",
+          "date_label": "6 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:12"
+          ]
+        },
+        {
+          "fact_id": "family-activities#2",
+          "text": "John started going to boot camps with his family last month.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:3"
+          ]
+        },
+        {
+          "fact_id": "family-activities#3",
+          "text": "John and his family work out together three times a week.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:7"
+          ]
+        },
+        {
+          "fact_id": "family-activities#4",
+          "text": "John and his family have noticed more energy and gains in strength and endurance since starting boot camp.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:5"
+          ]
+        },
+        {
+          "fact_id": "family-activities#5",
+          "text": "John's kids are getting excited about staying active.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:5"
+          ]
+        },
+        {
+          "fact_id": "family-activities#6",
+          "text": "John's family supports each other during boot camp by cheering each other on and providing emotional support.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:15"
+          ]
+        },
+        {
+          "fact_id": "family-activities#7",
+          "text": "John had an awesome day at the park with his family, where the kids had fun on the playground.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:22"
+          ]
+        },
+        {
+          "fact_id": "family-activities#8",
+          "text": "Maria is helping her cousin find a new place after her cousin had to leave in a hurry.",
+          "date_label": "3 July, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:5",
+            "D21:7"
+          ]
+        },
+        {
+          "fact_id": "family-activities#9",
+          "text": "Maria shared a photo of a row of houses while discussing her cousin's search for a new place.",
+          "date_label": "3 July, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:7"
+          ]
+        },
+        {
+          "fact_id": "family-activities#10",
+          "text": "John's family motivates him and reminds him why he is working for change.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:5",
+            "D22:7"
+          ]
+        },
+        {
+          "fact_id": "family-activities#11",
+          "text": "Maria had a picnic with friends from church last weekend where they played games and ate food.",
+          "date_label": "17 July, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:6"
+          ]
+        },
+        {
+          "fact_id": "family-activities#12",
+          "text": "Maria and her friends played charades and a scavenger hunt during their picnic.",
+          "date_label": "17 July, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:8"
+          ]
+        },
+        {
+          "fact_id": "family-activities#13",
+          "text": "John is thinking of setting up a fun event for his kids soon, inspired by a community event he attended last month.",
+          "date_label": "17 July, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:9",
+            "D24:11"
+          ]
+        },
+        {
+          "fact_id": "family-activities#14",
+          "text": "John enjoys spending time outdoors with his family, going for hikes, hanging out at the park, and having picnics.",
+          "date_label": "13 August, 2023",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:19"
+          ]
+        },
+        {
+          "fact_id": "family-activities#15",
+          "text": "John's family enjoys playing board games and having movie nights at home.",
+          "date_label": "13 August, 2023",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Family activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D31:19"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Parenting",
+      "type": "topic",
+      "slug": "parenting",
+      "path": "topics/parenting.md",
+      "facts": [
+        {
+          "fact_id": "parenting#1",
+          "text": "John takes his kids to the park a few times a week",
+          "date_label": "6 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Parenting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:8"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Poetry",
+      "type": "topic",
+      "slug": "poetry",
+      "path": "topics/poetry.md",
+      "facts": [
+        {
+          "fact_id": "poetry#1",
+          "text": "Maria has been taking a poetry class to help her put her feelings into words.",
+          "date_label": "2 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Poetry",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yoga",
+      "type": "topic",
+      "slug": "yoga",
+      "path": "topics/yoga.md",
+      "facts": [
+        {
+          "fact_id": "yoga#1",
+          "text": "John started a weekend yoga class with a colleague.",
+          "date_label": "7 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:1"
+          ]
+        },
+        {
+          "fact_id": "yoga#2",
+          "text": "John feels great, both mentally and physically after each yoga session.",
+          "date_label": "7 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:1"
+          ]
+        },
+        {
+          "fact_id": "yoga#3",
+          "text": "John had been wanting to try yoga for a while before starting the class.",
+          "date_label": "7 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:1"
+          ]
+        },
+        {
+          "fact_id": "yoga#4",
+          "text": "John's yoga class focuses on fundamentals like poses and breathing.",
+          "date_label": "7 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:5"
+          ]
+        },
+        {
+          "fact_id": "yoga#5",
+          "text": "John feels more connected and relaxed after yoga sessions.",
+          "date_label": "7 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:7"
+          ]
+        },
+        {
+          "fact_id": "yoga#6",
+          "text": "Maria enjoys aerial yoga as a way to switch off and focus on her body.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:15"
+          ]
+        },
+        {
+          "fact_id": "yoga#7",
+          "text": "Maria enjoys upside-down poses in yoga because they make her feel free and light.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:17"
+          ]
+        },
+        {
+          "fact_id": "yoga#8",
+          "text": "John goes to a yoga studio often, which has a chill vibe and awesome instructors.",
+          "date_label": "22 July, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:11"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Personal growth",
+      "type": "topic",
+      "slug": "personal-growth",
+      "path": "topics/personal-growth.md",
+      "facts": [
+        {
+          "fact_id": "personal-growth#1",
+          "text": "Maria believes pushing boundaries is how we grow and find out what we're capable of.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:36"
+          ]
+        },
+        {
+          "fact_id": "personal-growth#2",
+          "text": "Maria felt like she was in a fairy tale at the waterfall.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:7"
+          ]
+        },
+        {
+          "fact_id": "personal-growth#3",
+          "text": "John sometimes doubts if he is making a difference in his work.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:5"
+          ]
+        },
+        {
+          "fact_id": "personal-growth#4",
+          "text": "John looks at pictures of his family to remember why he is doing what he is doing.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:9"
+          ]
+        },
+        {
+          "fact_id": "personal-growth#5",
+          "text": "Maria is inspired by chatting to people, volunteering, and listening to music.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:10"
+          ]
+        },
+        {
+          "fact_id": "personal-growth#6",
+          "text": "John is inspired by his family, exercise, and spending time with friends.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:11"
+          ]
+        },
+        {
+          "fact_id": "personal-growth#7",
+          "text": "John finds that little things can make a big impact in how we think.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:15"
+          ]
+        },
+        {
+          "fact_id": "personal-growth#8",
+          "text": "Maria is motivated to help people.",
+          "date_label": "31 July, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:1"
+          ]
+        },
+        {
+          "fact_id": "personal-growth#9",
+          "text": "John feels like he is not making much of an impact lately.",
+          "date_label": "11 August, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:14"
+          ]
+        },
+        {
+          "fact_id": "personal-growth#10",
+          "text": "John is questioning his decisions and goals.",
+          "date_label": "11 August, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:14"
+          ]
+        },
+        {
+          "fact_id": "personal-growth#11",
+          "text": "John wants to positively affect people and the world.",
+          "date_label": "11 August, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:16"
+          ]
+        },
+        {
+          "fact_id": "personal-growth#12",
+          "text": "John is exploring options to channel his energy into something meaningful.",
+          "date_label": "11 August, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Personal growth",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:18"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Self-care",
+      "type": "topic",
+      "slug": "self-care",
+      "path": "topics/self-care.md",
+      "facts": [
+        {
+          "fact_id": "self-care#1",
+          "text": "Maria takes care of herself physically, emotionally, and mentally to stay positive.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:20"
+          ]
+        },
+        {
+          "fact_id": "self-care#2",
+          "text": "Maria finds nature to be a natural soul-soother when things get tough.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:9"
+          ]
+        },
+        {
+          "fact_id": "self-care#3",
+          "text": "Maria finds her Zen through a mix of moments to herself and favorite tunes.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Travel",
+      "type": "event",
+      "slug": "travel",
+      "path": "events/travel.md",
+      "facts": [
+        {
+          "fact_id": "travel#1",
+          "text": "Maria took a solo trip to Spain last year.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D13:24"
+          ]
+        },
+        {
+          "fact_id": "travel#2",
+          "text": "Maria realized the importance of relying on her inner strength and appreciating small moments during her solo trip.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D13:24"
+          ]
+        },
+        {
+          "fact_id": "travel#3",
+          "text": "Maria tried surfing for the first time during her vacation.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D13:30"
+          ]
+        },
+        {
+          "fact_id": "travel#4",
+          "text": "Maria learned the power of not giving up and trying new things while surfing.",
+          "date_label": "4 May, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D13:30"
+          ]
+        },
+        {
+          "fact_id": "travel#5",
+          "text": "Maria went camping with friends from church last weekend.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:1"
+          ]
+        },
+        {
+          "fact_id": "travel#6",
+          "text": "John went on a mountaineering trip last week with workmates.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:2"
+          ]
+        },
+        {
+          "fact_id": "travel#7",
+          "text": "Maria enjoyed hiking to a waterfall with a bridge over it.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:5"
+          ]
+        },
+        {
+          "fact_id": "travel#8",
+          "text": "Maria has gone camping a few times but has never tried mountain climbing.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:11"
+          ]
+        },
+        {
+          "fact_id": "travel#9",
+          "text": "John has been camping plenty of times and loves how uncomplicated it is.",
+          "date_label": "12 June, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:12"
+          ]
+        },
+        {
+          "fact_id": "travel#10",
+          "text": "Maria has a picture from a vacation in Florida where she felt gratitude sitting with her family.",
+          "date_label": "16 June, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D19:23"
+          ]
+        },
+        {
+          "fact_id": "travel#11",
+          "text": "John shared a photo of two children playing in the ocean waves from a family vacation.",
+          "date_label": "16 June, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D19:24"
+          ]
+        },
+        {
+          "fact_id": "travel#12",
+          "text": "John took a trip last year for his daughter Sara's birthday.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D22:7"
+          ]
+        },
+        {
+          "fact_id": "travel#13",
+          "text": "John and Max went on a camping trip last summer.",
+          "date_label": "11 August, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D30:6"
+          ]
+        },
+        {
+          "fact_id": "travel#14",
+          "text": "John and Max hiked and swam during their camping trip.",
+          "date_label": "11 August, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Travel",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D30:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fitness",
+      "type": "topic",
+      "slug": "fitness",
+      "path": "topics/fitness.md",
+      "facts": [
+        {
+          "fact_id": "fitness#1",
+          "text": "Maria joined a gym last week and is sticking to her workout routine.",
+          "date_label": "16 June, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Fitness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:1"
+          ]
+        },
+        {
+          "fact_id": "fitness#2",
+          "text": "Maria wants to get stronger and improve her endurance, and is trying kundalini yoga.",
+          "date_label": "16 June, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Fitness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:3"
+          ]
+        },
+        {
+          "fact_id": "fitness#3",
+          "text": "John is trying out different workout regimes and is interested in rock climbing.",
+          "date_label": "16 June, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Fitness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:4"
+          ]
+        },
+        {
+          "fact_id": "fitness#4",
+          "text": "John sees sunsets at least once a week during his walks.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Fitness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:17"
+          ]
+        },
+        {
+          "fact_id": "fitness#5",
+          "text": "John uses his walks to disconnect, think, and find peace.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Fitness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:17"
+          ]
+        },
+        {
+          "fact_id": "fitness#6",
+          "text": "Maria has been taking regular 'me-time' walks at the park nearby.",
+          "date_label": "5 July, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Fitness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:18"
+          ]
+        },
+        {
+          "fact_id": "fitness#7",
+          "text": "The yoga studio offers a variety of classes, including yoga, kickboxing, and circuit training.",
+          "date_label": "22 July, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Fitness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:13"
+          ]
+        },
+        {
+          "fact_id": "fitness#8",
+          "text": "John has done weight training, which he found challenging but peaceful, similar to yoga.",
+          "date_label": "22 July, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Fitness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:17"
+          ]
+        },
+        {
+          "fact_id": "fitness#9",
+          "text": "Maria is interested in trying new classes to switch up her exercise routine.",
+          "date_label": "22 July, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Fitness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:14"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Job hunt",
+      "type": "topic",
+      "slug": "job-hunt",
+      "path": "topics/job-hunt.md",
+      "facts": [
+        {
+          "fact_id": "job-hunt#1",
+          "text": "John is looking into opportunities in the tech industry",
+          "date_label": "5 August, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Job hunt",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:3"
+          ]
+        },
+        {
+          "fact_id": "job-hunt#2",
+          "text": "John may have found a job at a tech company that needs his mechanical skills for their hardware team",
+          "date_label": "5 August, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Job hunt",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Adoption",
+      "type": "event",
+      "slug": "adoption",
+      "path": "events/adoption.md",
+      "facts": [
+        {
+          "fact_id": "adoption#1",
+          "text": "Maria adopted a black puppy named Shadow from a shelter last week.",
+          "date_label": "13 August, 2023",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Adoption",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D31:2",
+            "D31:4"
+          ]
+        },
+        {
+          "fact_id": "adoption#2",
+          "text": "Maria's new puppy Shadow gets along great with her other dog.",
+          "date_label": "13 August, 2023",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Adoption",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D31:4"
+          ]
+        },
+        {
+          "fact_id": "adoption#3",
+          "text": "John is considering looking into shelters to adopt a new puppy.",
+          "date_label": "13 August, 2023",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Adoption",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D31:7"
+          ]
+        },
+        {
+          "fact_id": "adoption#4",
+          "text": "Maria's puppy Shadow is learning commands and house training.",
+          "date_label": "13 August, 2023",
+          "session_index": 31,
+          "session_id": "session_31",
+          "page_title": "Adoption",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D31:10"
+          ]
+        }
+      ]
+    }
+  ]
+}

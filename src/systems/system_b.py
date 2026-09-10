@@ -19,6 +19,11 @@ Held constant with System A, deliberately and without exception:
   including the abstention rule;
 * the same answering model, judge, temperature and metrics.
 
+System B is complete and its wikis are committed. It pins its own compiler
+(`wiki.B_PROFILE`) rather than following whatever the module's current one is,
+so a compiler change made for System C or D cannot make B's published wikis
+look stale and silently recompile over them.
+
 A and B therefore differ in exactly one thing: what is stored. (The prompt's
 wording -- "Below is the full conversation" -- is a slightly odd fit for a page
 of compiled facts, and that is a deliberate cost: rewording it for B would
@@ -42,8 +47,8 @@ from src.systems.base import Answer, MemorySystem
 from src.systems.retrieval import VectorIndex
 # Prompts imported, never copied, so L, A and B cannot drift apart.
 from src.systems.system_l import SYSTEM_PROMPT, USER_TEMPLATE
-from src.systems.wiki import (BUILD_FINGERPRINT, Wiki, WikiChunk, WikiCompiler,
-                              build_wiki_chunks)
+from src.systems.wiki import (B_PROFILE, Wiki, WikiChunk, build_wiki_chunks,
+                              load_or_compile)
 
 
 class SystemB(MemorySystem):
@@ -82,7 +87,12 @@ class SystemB(MemorySystem):
         }
 
         self.wiki = self._load_or_compile(conversation)
-        self.wiki.write(self.wiki_dir)      # inspectable evidence, and what the audit reads
+        # Written only when it was actually compiled. A wiki loaded from disk is
+        # already on disk, and re-rendering it would rewrite the committed
+        # artefact that System B's published results and fidelity audit rest on
+        # every time a later system changes how a page renders.
+        if not self.wiki.from_disk:
+            self.wiki.write(self.wiki_dir)  # inspectable evidence, and what the audit reads
 
         self.chunks = build_wiki_chunks(self.wiki)
         embed = self.index.build(self.chunks)
@@ -110,35 +120,11 @@ class SystemB(MemorySystem):
         }
 
     def _load_or_compile(self, conversation) -> Wiki:
-        """Reuse the wiki on disk when it was built the same way, else compile.
-
-        Same principle as the response cache: a wiki built by a different
-        model, extraction prompt or compiler version is a different experiment,
-        so it is rebuilt rather than silently reused. A reused wiki reports the cost of
-        the ORIGINAL compilation (recorded in its manifest), flagged with
-        `wiki_from_disk`, so nothing is reported as free that was not free.
-        """
-        if self.reuse_wiki:
-            existing = Wiki.load(self.wiki_dir, conversation.conv_id)
-            if existing is not None:
-                fresh_enough = (
-                    existing.extraction_model == self.extraction_model
-                    and existing.build_fingerprint == BUILD_FINGERPRINT
-                    and existing.stats.get("sessions_compiled") == len(
-                        [s for s in conversation.sessions if s.turns])
-                )
-                if fresh_enough:
-                    if self.verbose:
-                        print(f"  [wiki] {conversation.conv_id}: reusing "
-                              f"{existing.stats.get('n_facts')} facts on "
-                              f"{existing.stats.get('n_pages')} pages from disk")
-                    return existing
-                print(f"  [wiki] {conversation.conv_id}: on-disk wiki was built with a "
-                      f"different model or prompt - recompiling")
-
-        compiler = WikiCompiler(self.client, model=self.extraction_model,
-                                verbose=self.verbose)
-        return compiler.compile(conversation)
+        """B_PROFILE, always: System B reads and writes only wikis built by the
+        compiler its published results were produced with."""
+        return load_or_compile(self.client, conversation, self.wiki_dir,
+                               profile=B_PROFILE, model=self.extraction_model,
+                               reuse=self.reuse_wiki, verbose=self.verbose)
 
     def ingest_stats(self) -> dict:
         return dict(self._ingest)

@@ -1,0 +1,33 @@
+---
+title: Japan trip
+type: event
+sources: [session_1, session_3, session_6, session_7, session_9, session_10, session_14, session_15, session_20, session_24]
+---
+
+- Calvin is heading to Japan next month. — 23 March, 2023 [D1:9]
+- Calvin's agent found him a place to stay in Japan. — 23 March, 2023 [D1:11]
+- Calvin plans to explore the city and try local cuisines in Japan. — 23 March, 2023 [D1:13]
+- Calvin plans to collaborate with musicians while in Japan. — 23 March, 2023 [D1:13]
+- Calvin will be in Japan for a few months before going to Boston. — 23 March, 2023 [D1:15]
+- Calvin attended a music festival in Tokyo on 20 April 2023. — 20 April, 2023 [D3:1, D3:3]
+- Calvin met talented artists and industry people at the music festival in Tokyo. — 20 April, 2023 [D3:3]
+- Calvin received advice from a producer at the music festival to stay true to himself and sound unique. — 20 April, 2023 [D3:7]
+- Calvin took a photo of the Tokyo skyline at night. — 16 May, 2023 [D6:15]
+- Dave wants to take a trip to Tokyo soon. — 16 May, 2023 [D6:16]
+- Calvin toured with Frank Ocean last week in Tokyo — 31 May, 2023 [D7:1]
+- Calvin felt alive performing in Tokyo — 31 May, 2023 [D7:1]
+- Calvin loves performing live and feels a connection with the crowd — 31 May, 2023 [D7:11]
+- Calvin is excited to perform in Boston — 31 May, 2023 [D7:15]
+- Dave thinks Boston's music scene is awesome — 31 May, 2023 [D7:16]
+- Calvin has a view from his living room of a small town in Japan with mountains in the background. — 21 June, 2023 [D9:11, D9:13]
+- Calvin has not been to the small town in Japan yet, but it is on his to-do list after his tour with Frank Ocean ends. — 21 June, 2023 [D9:15]
+- Calvin is looking forward to trying the food and checking out the culture in Japan. — 7 July, 2023 [D10:10]
+- Dave has never been to Japan but is keen to go one day. — 7 July, 2023 [D10:11]
+- Calvin ended his tour with a show in Japan. — 14 August, 2023 [D14:4]
+- Calvin experienced a magical moment in Tokyo when the audience sang along to one of his songs. — 14 August, 2023 [D14:6]
+- Calvin met Frank Ocean at a music festival in Tokyo. — 22 August, 2023 [D15:4]
+- Calvin played at a music festival in Tokyo and described it as a dream come true. — 22 August, 2023 [D15:8]
+- Calvin's trip to Japan was incredible, and he is longing to go back. — 22 September, 2023 [D20:4]
+- Calvin visited streets in Tokyo similar to those in a photo shared by Dave. — 19 October, 2023 [D24:13]
+- Calvin is excited to explore Shibuya Crossing and Shinjuku in Tokyo. — 19 October, 2023 [D24:19]
+- Calvin is going to Tokyo next month after the tour ends. — 19 October, 2023 [D24:17]

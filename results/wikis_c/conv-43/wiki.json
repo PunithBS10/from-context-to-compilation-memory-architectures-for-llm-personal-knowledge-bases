@@ -1,0 +1,4445 @@
+{
+  "conv_id": "conv-43",
+  "speakers": [
+    "Tim",
+    "John"
+  ],
+  "extraction_model": "gpt-4o-mini",
+  "build_fingerprint": "9884fea0ef28",
+  "compiler_version": "c1",
+  "built_utc": "2026-09-10T13:50:02.769672+00:00",
+  "sessions": [
+    {
+      "index": 1,
+      "session_id": "session_1",
+      "timestamp": "7:48 pm on 21 May, 2023",
+      "date_label": "21 May, 2023"
+    },
+    {
+      "index": 2,
+      "session_id": "session_2",
+      "timestamp": "5:08 pm on 15 June, 2023",
+      "date_label": "15 June, 2023"
+    },
+    {
+      "index": 3,
+      "session_id": "session_3",
+      "timestamp": "4:21 pm on 16 July, 2023",
+      "date_label": "16 July, 2023"
+    },
+    {
+      "index": 4,
+      "session_id": "session_4",
+      "timestamp": "4:17 pm on 2 August, 2023",
+      "date_label": "2 August, 2023"
+    },
+    {
+      "index": 5,
+      "session_id": "session_5",
+      "timestamp": "10:29 am on 9 August, 2023",
+      "date_label": "9 August, 2023"
+    },
+    {
+      "index": 6,
+      "session_id": "session_6",
+      "timestamp": "1:08 pm on 11 August, 2023",
+      "date_label": "11 August, 2023"
+    },
+    {
+      "index": 7,
+      "session_id": "session_7",
+      "timestamp": "7:54 pm on 17 August, 2023",
+      "date_label": "17 August, 2023"
+    },
+    {
+      "index": 8,
+      "session_id": "session_8",
+      "timestamp": "4:29 pm on 21 August, 2023",
+      "date_label": "21 August, 2023"
+    },
+    {
+      "index": 9,
+      "session_id": "session_9",
+      "timestamp": "6:59 pm on 26 August, 2023",
+      "date_label": "26 August, 2023"
+    },
+    {
+      "index": 10,
+      "session_id": "session_10",
+      "timestamp": "2:52 pm on 31 August, 2023",
+      "date_label": "31 August, 2023"
+    },
+    {
+      "index": 11,
+      "session_id": "session_11",
+      "timestamp": "8:17 pm on 21 September, 2023",
+      "date_label": "21 September, 2023"
+    },
+    {
+      "index": 12,
+      "session_id": "session_12",
+      "timestamp": "3:00 pm on 2 October, 2023",
+      "date_label": "2 October, 2023"
+    },
+    {
+      "index": 13,
+      "session_id": "session_13",
+      "timestamp": "1:50 pm on 13 October, 2023",
+      "date_label": "13 October, 2023"
+    },
+    {
+      "index": 14,
+      "session_id": "session_14",
+      "timestamp": "1:50 pm on 17 October, 2023",
+      "date_label": "17 October, 2023"
+    },
+    {
+      "index": 15,
+      "session_id": "session_15",
+      "timestamp": "5:51 pm on 21 October, 2023",
+      "date_label": "21 October, 2023"
+    },
+    {
+      "index": 16,
+      "session_id": "session_16",
+      "timestamp": "11:41 am on 6 November, 2023",
+      "date_label": "6 November, 2023"
+    },
+    {
+      "index": 17,
+      "session_id": "session_17",
+      "timestamp": "3:36 pm on 11 November, 2023",
+      "date_label": "11 November, 2023"
+    },
+    {
+      "index": 18,
+      "session_id": "session_18",
+      "timestamp": "3:59 pm on 16 November, 2023",
+      "date_label": "16 November, 2023"
+    },
+    {
+      "index": 19,
+      "session_id": "session_19",
+      "timestamp": "10:22 am on 21 November, 2023",
+      "date_label": "21 November, 2023"
+    },
+    {
+      "index": 20,
+      "session_id": "session_20",
+      "timestamp": "9:52 am on 1 December, 2023",
+      "date_label": "1 December, 2023"
+    },
+    {
+      "index": 21,
+      "session_id": "session_21",
+      "timestamp": "5:34 pm on 6 December, 2023",
+      "date_label": "6 December, 2023"
+    },
+    {
+      "index": 22,
+      "session_id": "session_22",
+      "timestamp": "7:42 pm on 8 December, 2023",
+      "date_label": "8 December, 2023"
+    },
+    {
+      "index": 23,
+      "session_id": "session_23",
+      "timestamp": "8:28 pm on 11 December, 2023",
+      "date_label": "11 December, 2023"
+    },
+    {
+      "index": 24,
+      "session_id": "session_24",
+      "timestamp": "3:37 pm on 16 December, 2023",
+      "date_label": "16 December, 2023"
+    },
+    {
+      "index": 25,
+      "session_id": "session_25",
+      "timestamp": "10:04 am on 19 December, 2023",
+      "date_label": "19 December, 2023"
+    },
+    {
+      "index": 26,
+      "session_id": "session_26",
+      "timestamp": "3:35 pm on 26 December, 2023",
+      "date_label": "26 December, 2023"
+    },
+    {
+      "index": 27,
+      "session_id": "session_27",
+      "timestamp": "5:26 pm on 2 January, 2024",
+      "date_label": "2 January, 2024"
+    },
+    {
+      "index": 28,
+      "session_id": "session_28",
+      "timestamp": "5:24 pm on 7 January, 2024",
+      "date_label": "7 January, 2024"
+    },
+    {
+      "index": 29,
+      "session_id": "session_29",
+      "timestamp": "1:41 pm on 12 January, 2024",
+      "date_label": "12 January, 2024"
+    }
+  ],
+  "stats": {
+    "compile_prompt_tokens": 54967,
+    "compile_completion_tokens": 14216,
+    "compile_cost_usd": 0.01677465,
+    "compile_latency_s": 117.04490689979866,
+    "compile_calls": 29,
+    "compile_cached_calls": 0,
+    "sessions_compiled": 29,
+    "truncated_sessions": 0,
+    "duplicate_facts_dropped": 0,
+    "generic_page_titles": 2,
+    "salvaged_sessions": 0,
+    "unparsable_sessions": 0,
+    "empty_sessions": 0,
+    "citations_total": 334,
+    "citations_resolvable": 334,
+    "citations_unresolvable": 0,
+    "citations_other_session": 0,
+    "citations_nonexistent": 0,
+    "facts_with_no_citation": 0,
+    "citation_resolvability": 1.0,
+    "citation_session_consistency": 1.0,
+    "n_pages": 44,
+    "n_facts": 322,
+    "wiki_tokens": 10999,
+    "raw_conversation_tokens": 23090,
+    "compression_ratio": 0.4764
+  },
+  "pages": [
+    {
+      "title": "Harry Potter fan project",
+      "type": "topic",
+      "slug": "harry-potter-fan-project",
+      "path": "topics/harry-potter-fan-project.md",
+      "facts": [
+        {
+          "fact_id": "harry-potter-fan-project#1",
+          "text": "Tim is working on a Harry Potter fan project.",
+          "date_label": "21 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Harry Potter fan project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:2"
+          ]
+        },
+        {
+          "fact_id": "harry-potter-fan-project#2",
+          "text": "Tim is discussing various aspects of the Harry Potter universe for his fan project.",
+          "date_label": "21 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Harry Potter fan project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:16"
+          ]
+        },
+        {
+          "fact_id": "harry-potter-fan-project#3",
+          "text": "Tim skyped with a Harry Potter fan he met in CA and had a great time talking about characters and potential collaboration.",
+          "date_label": "9 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Harry Potter fan project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:1"
+          ]
+        },
+        {
+          "fact_id": "harry-potter-fan-project#4",
+          "text": "Tim went to a Harry Potter conference in the UK last week",
+          "date_label": "13 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Harry Potter fan project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:1"
+          ]
+        },
+        {
+          "fact_id": "harry-potter-fan-project#5",
+          "text": "Tim felt inspired and like he got a new lease of life at the Harry Potter conference",
+          "date_label": "13 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Harry Potter fan project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:1"
+          ]
+        },
+        {
+          "fact_id": "harry-potter-fan-project#6",
+          "text": "Tim attended a Harry Potter party on 8 December 2023 and met many people who share his interests.",
+          "date_label": "8 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Harry Potter fan project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:1"
+          ]
+        },
+        {
+          "fact_id": "harry-potter-fan-project#7",
+          "text": "Tim wore a Gryffindor scarf to the Harry Potter party.",
+          "date_label": "8 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Harry Potter fan project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:3"
+          ]
+        },
+        {
+          "fact_id": "harry-potter-fan-project#8",
+          "text": "Tim has seen all the Harry Potter movies and enjoys comparing them to the books.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Harry Potter fan project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:28"
+          ]
+        },
+        {
+          "fact_id": "harry-potter-fan-project#9",
+          "text": "Tim's favorite book is Harry Potter",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Harry Potter fan project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:19"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Harry Potter locations",
+      "type": "event",
+      "slug": "harry-potter-locations",
+      "path": "events/harry-potter-locations.md",
+      "facts": [
+        {
+          "fact_id": "harry-potter-locations#1",
+          "text": "Tim visited a place in London related to Harry Potter a few years ago.",
+          "date_label": "21 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Harry Potter locations",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:18"
+          ]
+        },
+        {
+          "fact_id": "harry-potter-locations#2",
+          "text": "Tim went on a tour related to Harry Potter that he found amazing.",
+          "date_label": "21 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Harry Potter locations",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:18"
+          ]
+        },
+        {
+          "fact_id": "harry-potter-locations#3",
+          "text": "John has not been to any real Harry Potter places but wants to visit them.",
+          "date_label": "21 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Harry Potter locations",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:19"
+          ]
+        },
+        {
+          "fact_id": "harry-potter-locations#4",
+          "text": "Tim is considering visiting more Harry Potter spots in the future.",
+          "date_label": "15 June, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Harry Potter locations",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D2:13"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Minnesota Wolves",
+      "type": "event",
+      "slug": "minnesota-wolves",
+      "path": "events/minnesota-wolves.md",
+      "facts": [
+        {
+          "fact_id": "minnesota-wolves#1",
+          "text": "John signed with the Minnesota Wolves.",
+          "date_label": "21 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Minnesota Wolves",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:5"
+          ]
+        },
+        {
+          "fact_id": "minnesota-wolves#2",
+          "text": "John is a shooting guard for the Minnesota Wolves.",
+          "date_label": "21 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Minnesota Wolves",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:7"
+          ]
+        },
+        {
+          "fact_id": "minnesota-wolves#3",
+          "text": "John's season opener with the Minnesota Wolves is next week.",
+          "date_label": "21 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Minnesota Wolves",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:7"
+          ]
+        },
+        {
+          "fact_id": "minnesota-wolves#4",
+          "text": "John is having fun with the new team.",
+          "date_label": "21 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Minnesota Wolves",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:13"
+          ]
+        },
+        {
+          "fact_id": "minnesota-wolves#5",
+          "text": "John's favorite basketball team is the Wolves.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Minnesota Wolves",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-season training",
+      "type": "topic",
+      "slug": "pre-season-training",
+      "path": "topics/pre-season-training.md",
+      "facts": [
+        {
+          "fact_id": "pre-season-training#1",
+          "text": "John encountered challenges fitting into the new team's style of play during pre-season training.",
+          "date_label": "21 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Pre-season training",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:11"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shooting percentage improvement",
+      "type": "topic",
+      "slug": "shooting-percentage-improvement",
+      "path": "topics/shooting-percentage-improvement.md",
+      "facts": [
+        {
+          "fact_id": "shooting-percentage-improvement#1",
+          "text": "John's goal is to improve his shooting percentage.",
+          "date_label": "21 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Shooting percentage improvement",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:9"
+          ]
+        },
+        {
+          "fact_id": "shooting-percentage-improvement#2",
+          "text": "John is focusing on better shooting and making more of an impact on the court.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Shooting percentage improvement",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:17"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Basketball game",
+      "type": "event",
+      "slug": "basketball-game",
+      "path": "events/basketball-game.md",
+      "facts": [
+        {
+          "fact_id": "basketball-game#1",
+          "text": "John played in a basketball game recently.",
+          "date_label": "15 June, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D2:16"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#2",
+          "text": "John scored 40 points in a basketball game last week, his highest ever.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:1"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#3",
+          "text": "John and his teammates celebrated their win at a restaurant after the game.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:5"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#4",
+          "text": "John feels a strong bond with his teammates who are equally passionate about basketball.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:7"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#5",
+          "text": "John is excited for his game in Seattle next month.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:19"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#6",
+          "text": "John had a crazy intense basketball game last week and they won by a tight score.",
+          "date_label": "9 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:2"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#7",
+          "text": "John scored the last basket in the game and heard the crowd cheer.",
+          "date_label": "9 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:2"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#8",
+          "text": "John's team bond is strong and makes all the hard work worth it.",
+          "date_label": "9 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:6"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#9",
+          "text": "John feels that having a strong team is like having a family away from home.",
+          "date_label": "9 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:8"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#10",
+          "text": "Tim finds having a supportive team who are like family to be priceless.",
+          "date_label": "9 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:9"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#11",
+          "text": "John's team encourages him when he's down, not just in sports but in other aspects of life.",
+          "date_label": "9 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:10"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#12",
+          "text": "John has seen LeBron James play live and found it to be a wild experience.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:24"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#13",
+          "text": "John had a basketball game last year where his team was trailing big time in the 4th quarter.",
+          "date_label": "6 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:6"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#14",
+          "text": "John's team had to dig deep and keep pushing to overturn the deficit in the basketball game last year.",
+          "date_label": "6 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:6"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#15",
+          "text": "John's basketball team played a tough game against a top team and won recently.",
+          "date_label": "8 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D22:4"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#16",
+          "text": "John had a career-high in assists last Friday in a big game against their rival.",
+          "date_label": "11 December, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D23:3"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#17",
+          "text": "John's basketball team had a close game against another team last week and won.",
+          "date_label": "16 December, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:2",
+            "D24:4"
+          ]
+        },
+        {
+          "fact_id": "basketball-game#18",
+          "text": "John held a benefit basketball game last week.",
+          "date_label": "7 January, 2024",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Basketball game",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D28:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Endorsement opportunities",
+      "type": "topic",
+      "slug": "endorsement-opportunities",
+      "path": "topics/endorsement-opportunities.md",
+      "facts": [
+        {
+          "fact_id": "endorsement-opportunities#1",
+          "text": "John is exploring endorsement opportunities.",
+          "date_label": "15 June, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:2"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#2",
+          "text": "John is currently considering sports brands like Nike and Under Armour for endorsements.",
+          "date_label": "15 June, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:4"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#3",
+          "text": "John is making progress with endorsements and has talked to some big names.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:9"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#4",
+          "text": "John signed a deal with Nike for basketball shoes and gear.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:13"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#5",
+          "text": "John is in talks with Gatorade about a potential sponsorship.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:13"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#6",
+          "text": "John has always liked Under Armour and would like to work with them.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:15"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#7",
+          "text": "John is looking into more endorsements and building his brand off the court.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:17"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#8",
+          "text": "Tim advised John to pick endorsements that align with his values and brand.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:22"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#9",
+          "text": "John is getting better at his overall game and has secured endorsement deals.",
+          "date_label": "6 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:8"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#10",
+          "text": "John got an amazing deal with a renowned outdoor gear company last week",
+          "date_label": "19 December, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:2"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#11",
+          "text": "John received awesome hiking stuff and outdoor gear from the deal",
+          "date_label": "19 December, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:4"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#12",
+          "text": "John's photoshoot took place in a gorgeous forest",
+          "date_label": "19 December, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:4"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#13",
+          "text": "John got an endorsement with a popular beverage company.",
+          "date_label": "12 January, 2024",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:4"
+          ]
+        },
+        {
+          "fact_id": "endorsement-opportunities#14",
+          "text": "John felt that all the hard work he put into training paid off with the endorsement.",
+          "date_label": "12 January, 2024",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Endorsement opportunities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fantasy literature forum",
+      "type": "event",
+      "slug": "fantasy-literature-forum",
+      "path": "events/fantasy-literature-forum.md",
+      "facts": [
+        {
+          "fact_id": "fantasy-literature-forum#1",
+          "text": "Tim joined a fantasy literature forum last night and had a great talk about his favorite books.",
+          "date_label": "15 June, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Fantasy literature forum",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D2:1"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature-forum#2",
+          "text": "Tim enjoys reading fantasy books to escape and feel free.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Fantasy literature forum",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:30"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature-forum#3",
+          "text": "Tim finds bliss in activities that make him happy and feel free.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Fantasy literature forum",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:32"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature-forum#4",
+          "text": "Tim found the opportunity to write articles on a fantasy literature forum.",
+          "date_label": "2 August, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Fantasy literature forum",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D4:3"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature-forum#5",
+          "text": "Tim hopes to attend a book conference next month.",
+          "date_label": "17 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Fantasy literature forum",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:6"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature-forum#6",
+          "text": "The book conference is a gathering of authors, publishers, and book lovers to discuss novels and new releases.",
+          "date_label": "17 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Fantasy literature forum",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Harry Potter reminders",
+      "type": "topic",
+      "slug": "harry-potter-reminders",
+      "path": "topics/harry-potter-reminders.md",
+      "facts": [
+        {
+          "fact_id": "harry-potter-reminders#1",
+          "text": "Tim has lots of reminders of the Harry Potter world, which help him escape reality.",
+          "date_label": "15 June, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Harry Potter reminders",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:11"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tim's bookshelf",
+      "type": "topic",
+      "slug": "tim-s-bookshelf",
+      "path": "topics/tim-s-bookshelf.md",
+      "facts": [
+        {
+          "fact_id": "tim-s-bookshelf#1",
+          "text": "Tim has a bookshelf with books and a picture on it.",
+          "date_label": "15 June, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:7"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#2",
+          "text": "The picture on Tim's bookshelf is from MinaLima, who created props for the Harry Potter films.",
+          "date_label": "15 June, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:9"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#3",
+          "text": "Tim is currently reading a fantasy book by Patrick Rothfuss that captivates him.",
+          "date_label": "9 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:13",
+            "D5:15"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#4",
+          "text": "Tim feels that the book he is reading takes him to another world where his imagination soars.",
+          "date_label": "9 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:13"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#5",
+          "text": "John plans to check out the book by Patrick Rothfuss that Tim recommended.",
+          "date_label": "9 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:16"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#6",
+          "text": "John has read and loved 'The Alchemist' and recommends it.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:27"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#7",
+          "text": "Tim shared a bookshelf filled with his favorite fantasy novels.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:15"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#8",
+          "text": "Tim recommended a pair of black and pink running shoes to John",
+          "date_label": "13 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:15"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#9",
+          "text": "Tim got the black and pink running shoes online and found them super comfy",
+          "date_label": "13 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:17"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#10",
+          "text": "Tim took a photo of a sunset over a mountain range with a few trees last summer.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:12",
+            "D14:14"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#11",
+          "text": "Tim captured a stunning view on his trip to the Smoky Mountains last year.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:16"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#12",
+          "text": "Tim is currently reading a book that he is totally hooked on.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:22"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#13",
+          "text": "Tim loves fantasy stories and books on growth, psychology, and self-improvement.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:17"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#14",
+          "text": "Tim recently read a book about how small changes can make big differences, which changed the way he does things.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:19"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#15",
+          "text": "Tim reorganized his bookshelf and shares a photo of it.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:17"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#16",
+          "text": "John is currently reading 'Dune' by Frank Herbert.",
+          "date_label": "8 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:12"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#17",
+          "text": "Tim recently finished reading 'A Dance with Dragons' and highly recommends it.",
+          "date_label": "8 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:13"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#18",
+          "text": "Tim has read the Game of Thrones series by George R. R. Martin.",
+          "date_label": "8 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:15"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#19",
+          "text": "Tim loves reading and has a collection of books",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:15",
+            "D27:17"
+          ]
+        },
+        {
+          "fact_id": "tim-s-bookshelf#20",
+          "text": "Tim is currently reading a fantasy novel called 'The Name of the Wind' by Patrick Rothfuss.",
+          "date_label": "7 January, 2024",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Tim's bookshelf",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:17"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seattle",
+      "type": "topic",
+      "slug": "seattle",
+      "path": "topics/seattle.md",
+      "facts": [
+        {
+          "fact_id": "seattle#1",
+          "text": "John loves the energy, diversity, and awesome food of Seattle.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Seattle",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:21"
+          ]
+        },
+        {
+          "fact_id": "seattle#2",
+          "text": "John loves trying local seafood in Seattle.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Seattle",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:21"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Surfing",
+      "type": "topic",
+      "slug": "surfing",
+      "path": "topics/surfing.md",
+      "facts": [
+        {
+          "fact_id": "surfing#1",
+          "text": "John started surfing five years ago and loves the connection to nature.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Surfing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:27"
+          ]
+        },
+        {
+          "fact_id": "surfing#2",
+          "text": "John had an awesome summer with friends surfing and riding the waves.",
+          "date_label": "16 July, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Surfing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:25"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fantasy literature",
+      "type": "topic",
+      "slug": "fantasy-literature",
+      "path": "topics/fantasy-literature.md",
+      "facts": [
+        {
+          "fact_id": "fantasy-literature#1",
+          "text": "Tim is writing articles about fantasy novels for an online magazine.",
+          "date_label": "2 August, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:1"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#2",
+          "text": "Tim is studying characters, themes, and making book recommendations in his articles.",
+          "date_label": "2 August, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:5"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#3",
+          "text": "Tim's favorite books to write about include Harry Potter and Game of Thrones.",
+          "date_label": "2 August, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:7"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#4",
+          "text": "Tim believes that books can inspire and help keep dreams alive.",
+          "date_label": "2 August, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:11"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#5",
+          "text": "Tim has found peace in reading fantasy books.",
+          "date_label": "9 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:12"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#6",
+          "text": "Tim recommended a fantasy novel by Patrick Rothfuss for John's trip.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:24"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#7",
+          "text": "John finished an amazing fantasy series recently that had many twists and featured awesome storylines and characters.",
+          "date_label": "11 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:9"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#8",
+          "text": "Tim and John both enjoy getting lost in fantasy worlds as a form of escape.",
+          "date_label": "11 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:10",
+            "D17:11"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#9",
+          "text": "John's favorite book is The Hobbit.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:20"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#10",
+          "text": "Tim and John both enjoy fantasy books and movies.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:17",
+            "D20:20"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#11",
+          "text": "Tim is reading a series about the power of friendship and loyalty.",
+          "date_label": "8 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:7"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#12",
+          "text": "Tim is excited about a new fantasy TV series called 'The Wheel of Time' coming out next month.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:36"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#13",
+          "text": "Tim's favorite fantasy movie is Star Wars",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:21"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#14",
+          "text": "John's favorite fantasy movie is Lord of the Rings and his favorite character is Aragorn",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:22",
+            "D27:24"
+          ]
+        },
+        {
+          "fact_id": "fantasy-literature#15",
+          "text": "Tim has a map of Middle-earth from Lord of the Rings",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Fantasy literature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:33"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "John",
+      "type": "person",
+      "slug": "john",
+      "path": "people/john.md",
+      "facts": [
+        {
+          "fact_id": "john#1",
+          "text": "John has been reading an inspiring book that reminds him to keep dreaming.",
+          "date_label": "2 August, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:10"
+          ]
+        },
+        {
+          "fact_id": "john#2",
+          "text": "John has the whole collection of 'Harry Potter' movies.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:17"
+          ]
+        },
+        {
+          "fact_id": "john#3",
+          "text": "John visited home last week and caught up with his family and old friends.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:2"
+          ]
+        },
+        {
+          "fact_id": "john#4",
+          "text": "John and his friends had a great time talking about their childhood.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:2"
+          ]
+        },
+        {
+          "fact_id": "john#5",
+          "text": "John loves discovering new cities.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:6"
+          ]
+        },
+        {
+          "fact_id": "john#6",
+          "text": "John offered to help Tim when he decides to visit New York City.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:12"
+          ]
+        },
+        {
+          "fact_id": "john#7",
+          "text": "John had an amazing and emotional wedding ceremony last week.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:2"
+          ]
+        },
+        {
+          "fact_id": "john#8",
+          "text": "John and his girlfriend had their wedding ceremony in a lovely greenhouse venue for a smaller, more intimate gathering.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:4"
+          ]
+        },
+        {
+          "fact_id": "john#9",
+          "text": "John's wedding ceremony followed necessary safety protocols to ensure everyone felt safe.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:4"
+          ]
+        },
+        {
+          "fact_id": "john#10",
+          "text": "John felt a lot of love and happiness during his wedding day.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:6"
+          ]
+        },
+        {
+          "fact_id": "john#11",
+          "text": "John's favorite memory from his wedding was seeing his bride walking down the aisle.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:8"
+          ]
+        },
+        {
+          "fact_id": "john#12",
+          "text": "John had his first dance with his bride at a cozy restaurant with music and candlelight.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:10"
+          ]
+        },
+        {
+          "fact_id": "john#13",
+          "text": "John likes to collect basketball jerseys.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:18"
+          ]
+        },
+        {
+          "fact_id": "john#14",
+          "text": "John has met LeBron James a few times and found him to be chill.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:24"
+          ]
+        },
+        {
+          "fact_id": "john#15",
+          "text": "Tim encouraged John to keep believing in himself",
+          "date_label": "13 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D13:11"
+          ]
+        },
+        {
+          "fact_id": "john#16",
+          "text": "John is feeling motivated and ready to keep pushing for his goals",
+          "date_label": "13 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D13:14"
+          ]
+        },
+        {
+          "fact_id": "john#17",
+          "text": "John picked up a book after talking to Tim and has been enjoying it.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:23"
+          ]
+        },
+        {
+          "fact_id": "john#18",
+          "text": "John is fascinated by learning about different cultures and seeing historical architecture.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D15:2"
+          ]
+        },
+        {
+          "fact_id": "john#19",
+          "text": "John and his wife went road tripping out on the European coastline on 11 November, 2023.",
+          "date_label": "11 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D17:3"
+          ]
+        },
+        {
+          "fact_id": "john#20",
+          "text": "John described the views on the European coastline as spectacular and mentioned bonding with his wife during the trip.",
+          "date_label": "11 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D17:3"
+          ]
+        },
+        {
+          "fact_id": "john#21",
+          "text": "John has an injury and is staying positive despite it being a tough week",
+          "date_label": "16 November, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:2"
+          ]
+        },
+        {
+          "fact_id": "john#22",
+          "text": "John is pushing on despite his injury",
+          "date_label": "16 November, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:14"
+          ]
+        },
+        {
+          "fact_id": "john#23",
+          "text": "The doctor told John that his injury is not too serious",
+          "date_label": "16 November, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:10"
+          ]
+        },
+        {
+          "fact_id": "john#24",
+          "text": "John hates not being on the court due to his injury",
+          "date_label": "16 November, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:12"
+          ]
+        },
+        {
+          "fact_id": "john#25",
+          "text": "John hurt his ankle last season, which required time off and physical therapy.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:6"
+          ]
+        },
+        {
+          "fact_id": "john#26",
+          "text": "John recently finished rereading 'The Alchemist', which inspired him to follow dreams and search for personal legends.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:20"
+          ]
+        },
+        {
+          "fact_id": "john#27",
+          "text": "John has been playing professional basketball for just under a year.",
+          "date_label": "6 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D21:4"
+          ]
+        },
+        {
+          "fact_id": "john#28",
+          "text": "John appreciates Tim's encouragement and believes they can make a difference by following their dreams.",
+          "date_label": "11 December, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:13"
+          ]
+        },
+        {
+          "fact_id": "john#29",
+          "text": "John started doing seminars to help people with their sports and marketing.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D26:1"
+          ]
+        },
+        {
+          "fact_id": "john#30",
+          "text": "John uses his influence and resources to help causes he believes in.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "John",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D26:19"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Basketball",
+      "type": "topic",
+      "slug": "basketball",
+      "path": "topics/basketball.md",
+      "facts": [
+        {
+          "fact_id": "basketball#1",
+          "text": "John has been playing basketball since he was a kid.",
+          "date_label": "11 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:13"
+          ]
+        },
+        {
+          "fact_id": "basketball#2",
+          "text": "John watched NBA games with his dad and dreamed of playing on big courts.",
+          "date_label": "11 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:13"
+          ]
+        },
+        {
+          "fact_id": "basketball#3",
+          "text": "John was signed up for a local basketball league when he turned ten.",
+          "date_label": "11 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:13"
+          ]
+        },
+        {
+          "fact_id": "basketball#4",
+          "text": "John earned a college scholarship for basketball.",
+          "date_label": "11 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:13"
+          ]
+        },
+        {
+          "fact_id": "basketball#5",
+          "text": "John was drafted by a basketball team after college.",
+          "date_label": "11 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:13"
+          ]
+        },
+        {
+          "fact_id": "basketball#6",
+          "text": "John's number one goal in basketball is to win a championship.",
+          "date_label": "11 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:15"
+          ]
+        },
+        {
+          "fact_id": "basketball#7",
+          "text": "John wants to make a difference away from the basketball court through charity.",
+          "date_label": "11 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:15"
+          ]
+        },
+        {
+          "fact_id": "basketball#8",
+          "text": "John met back up with his teammates on the 15th after his trip.",
+          "date_label": "17 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:1"
+          ]
+        },
+        {
+          "fact_id": "basketball#9",
+          "text": "John felt welcomed back by his teammates and described the atmosphere as electric.",
+          "date_label": "17 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:1"
+          ]
+        },
+        {
+          "fact_id": "basketball#10",
+          "text": "Tim felt like he belonged at an event last month where everyone shared the same love for it.",
+          "date_label": "17 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:4"
+          ]
+        },
+        {
+          "fact_id": "basketball#11",
+          "text": "John's teammates gave him a basketball signed by them as a sign of friendship and appreciation.",
+          "date_label": "17 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:7",
+            "D7:9"
+          ]
+        },
+        {
+          "fact_id": "basketball#12",
+          "text": "John finds comfort in having the signed basketball as a reminder of his bond and support from his teammates.",
+          "date_label": "17 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:11"
+          ]
+        },
+        {
+          "fact_id": "basketball#13",
+          "text": "John feels motivated by the support from his teammates and the reminder of why he started playing basketball.",
+          "date_label": "17 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:11",
+            "D7:13"
+          ]
+        },
+        {
+          "fact_id": "basketball#14",
+          "text": "Tim acknowledges that having supportive people can be a powerful source of strength.",
+          "date_label": "17 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:14"
+          ]
+        },
+        {
+          "fact_id": "basketball#15",
+          "text": "John found a new gym to stay on his basketball game.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:1"
+          ]
+        },
+        {
+          "fact_id": "basketball#16",
+          "text": "John had to overcome the hurdle of adapting and tweaking his routine at the new gym.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:3"
+          ]
+        },
+        {
+          "fact_id": "basketball#17",
+          "text": "John figured out a schedule with both basketball and strength training to balance his routine.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:5"
+          ]
+        },
+        {
+          "fact_id": "basketball#18",
+          "text": "John believes strength training is important for basketball because it builds muscle, increases power, and prevents injuries.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:7"
+          ]
+        },
+        {
+          "fact_id": "basketball#19",
+          "text": "John's strength training improved his shooting accuracy, agility, and speed.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:9"
+          ]
+        },
+        {
+          "fact_id": "basketball#20",
+          "text": "John and his friends were teammates for four years in high school.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:4"
+          ]
+        },
+        {
+          "fact_id": "basketball#21",
+          "text": "John attended a local restaurant with new teammates last week.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:3"
+          ]
+        },
+        {
+          "fact_id": "basketball#22",
+          "text": "John and his new teammates connected over their shared love for basketball.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:5"
+          ]
+        },
+        {
+          "fact_id": "basketball#23",
+          "text": "John is planning a team trip next month to explore a new city.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:7"
+          ]
+        },
+        {
+          "fact_id": "basketball#24",
+          "text": "Tim suggested Edinburgh, Scotland as a potential destination for John's team trip.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:10"
+          ]
+        },
+        {
+          "fact_id": "basketball#25",
+          "text": "John has not been to Edinburgh yet but is considering it for the trip.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:11"
+          ]
+        },
+        {
+          "fact_id": "basketball#26",
+          "text": "John loves playing professional basketball because it is a constant challenge and helps him grow.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:15"
+          ]
+        },
+        {
+          "fact_id": "basketball#27",
+          "text": "John wants to be known as a consistent performer and help his team.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:17"
+          ]
+        },
+        {
+          "fact_id": "basketball#28",
+          "text": "John admires LeBron James for his skills and leadership.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:20"
+          ]
+        },
+        {
+          "fact_id": "basketball#29",
+          "text": "John felt motivated after seeing top players play live.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:26"
+          ]
+        },
+        {
+          "fact_id": "basketball#30",
+          "text": "John's basketball team had an intense season with tough losses and great wins",
+          "date_label": "13 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:4"
+          ]
+        },
+        {
+          "fact_id": "basketball#31",
+          "text": "John's basketball team won a trophy",
+          "date_label": "13 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:8"
+          ]
+        },
+        {
+          "fact_id": "basketball#32",
+          "text": "John is mentoring younger players on his team.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:3"
+          ]
+        },
+        {
+          "fact_id": "basketball#33",
+          "text": "John finds mentoring younger players super rewarding.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:3"
+          ]
+        },
+        {
+          "fact_id": "basketball#34",
+          "text": "John enjoys sharing his skills and knowledge with younger players.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:3"
+          ]
+        },
+        {
+          "fact_id": "basketball#35",
+          "text": "John faces challenges while mentoring because everyone is different.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:5"
+          ]
+        },
+        {
+          "fact_id": "basketball#36",
+          "text": "John finds it rewarding to watch younger players develop and reach their goals.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:5"
+          ]
+        },
+        {
+          "fact_id": "basketball#37",
+          "text": "John feels fulfilled seeing the growth, improvement, and confidence of the younger players he mentors.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:7"
+          ]
+        },
+        {
+          "fact_id": "basketball#38",
+          "text": "Some younger players see John as a mentor.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:9"
+          ]
+        },
+        {
+          "fact_id": "basketball#39",
+          "text": "John provides younger players with advice and support on and off the court.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:9"
+          ]
+        },
+        {
+          "fact_id": "basketball#40",
+          "text": "John feels great to have the trust and admiration of the younger players he mentors.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:11"
+          ]
+        },
+        {
+          "fact_id": "basketball#41",
+          "text": "Tim has a prized possession, a basketball signed by his favorite player.",
+          "date_label": "6 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:7"
+          ]
+        },
+        {
+          "fact_id": "basketball#42",
+          "text": "Tim's favorite player is LeBron James.",
+          "date_label": "6 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:9"
+          ]
+        },
+        {
+          "fact_id": "basketball#43",
+          "text": "Tim was inspired by LeBron James during a Finals game a few years back when he made an epic block that changed the game.",
+          "date_label": "6 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:9"
+          ]
+        },
+        {
+          "fact_id": "basketball#44",
+          "text": "John remembers the epic block in Game 7 of the '16 Finals where LeBron chased down Iguodala and pinned the ball against the backboard.",
+          "date_label": "6 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:10"
+          ]
+        },
+        {
+          "fact_id": "basketball#45",
+          "text": "John stayed focused on his recovery and worked hard to strengthen his body after his ankle injury.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:6"
+          ]
+        },
+        {
+          "fact_id": "basketball#46",
+          "text": "John faced tough times while playing basketball, including messing up during a big game.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:10"
+          ]
+        },
+        {
+          "fact_id": "basketball#47",
+          "text": "John is experiencing challenges and growth in his professional basketball career.",
+          "date_label": "6 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:6"
+          ]
+        },
+        {
+          "fact_id": "basketball#48",
+          "text": "John values the camaraderie built with his basketball team both on and off the court.",
+          "date_label": "8 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:6"
+          ]
+        },
+        {
+          "fact_id": "basketball#49",
+          "text": "John's basketball team has team dinners, outings, and games to strengthen their unity.",
+          "date_label": "8 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:8"
+          ]
+        },
+        {
+          "fact_id": "basketball#50",
+          "text": "John loves seeing his teammates succeed because of the opportunities he creates for them.",
+          "date_label": "11 December, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:5"
+          ]
+        },
+        {
+          "fact_id": "basketball#51",
+          "text": "John's favorite game was when they were down 10 in the 4th and he hit a buzzer-beater shot to win.",
+          "date_label": "11 December, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:7"
+          ]
+        },
+        {
+          "fact_id": "basketball#52",
+          "text": "John practiced basketball outside for hours when he was younger, dreaming of playing in big games.",
+          "date_label": "11 December, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:9"
+          ]
+        },
+        {
+          "fact_id": "basketball#53",
+          "text": "Tim believes sports are a way to express ourselves and stay positive.",
+          "date_label": "11 December, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:10"
+          ]
+        },
+        {
+          "fact_id": "basketball#54",
+          "text": "John feels that basketball has been a significant part of his life and allows him to pursue his passions.",
+          "date_label": "11 December, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:11"
+          ]
+        },
+        {
+          "fact_id": "basketball#55",
+          "text": "John injured himself not too long ago and had to miss some games.",
+          "date_label": "16 December, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:10"
+          ]
+        },
+        {
+          "fact_id": "basketball#56",
+          "text": "John is trying to stay active and do his rehab by doing physical therapy exercises every day.",
+          "date_label": "16 December, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:12"
+          ]
+        },
+        {
+          "fact_id": "basketball#57",
+          "text": "John had a milestone moment at the gym last Friday when he was able to jog a bit with no pain.",
+          "date_label": "16 December, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:14"
+          ]
+        },
+        {
+          "fact_id": "basketball#58",
+          "text": "John's team has been putting in a lot of work and achieving their goals on the court",
+          "date_label": "19 December, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:10"
+          ]
+        },
+        {
+          "fact_id": "basketball#59",
+          "text": "John's team saw the most growth in communication and bonding during training",
+          "date_label": "19 December, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:14"
+          ]
+        },
+        {
+          "fact_id": "basketball#60",
+          "text": "John practices and trains in basketball every day to stay in shape and improve",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Basketball",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:14"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Charity work",
+      "type": "topic",
+      "slug": "charity-work",
+      "path": "topics/charity-work.md",
+      "facts": [
+        {
+          "fact_id": "charity-work#1",
+          "text": "John is teaming up with a local organization that helps disadvantaged kids with sports and school.",
+          "date_label": "11 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Charity work",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:17"
+          ]
+        },
+        {
+          "fact_id": "charity-work#2",
+          "text": "John wants to use his platform to make a positive difference and inspire others after basketball.",
+          "date_label": "21 September, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Charity work",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:19"
+          ]
+        },
+        {
+          "fact_id": "charity-work#3",
+          "text": "John attended a charity event with Harry Potter trivia in August 2023.",
+          "date_label": "8 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Charity work",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:2"
+          ]
+        },
+        {
+          "fact_id": "charity-work#4",
+          "text": "John has been working on supporting youth sports and fighting for fair chances in sports for underserved communities.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Charity work",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:21"
+          ]
+        },
+        {
+          "fact_id": "charity-work#5",
+          "text": "John organized a basketball camp for kids in his hometown last summer.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Charity work",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:23"
+          ]
+        },
+        {
+          "fact_id": "charity-work#6",
+          "text": "The benefit basketball game organized by John was a total success, raising money for charity.",
+          "date_label": "7 January, 2024",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Charity work",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:12"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chicago",
+      "type": "event",
+      "slug": "chicago",
+      "path": "events/chicago.md",
+      "facts": [
+        {
+          "fact_id": "chicago#1",
+          "text": "John took a trip to Chicago on 11 August 2023 and loved the energy there.",
+          "date_label": "11 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Chicago",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:1",
+            "D6:3"
+          ]
+        },
+        {
+          "fact_id": "chicago#2",
+          "text": "John experienced a lot of energy and friendly locals in Chicago.",
+          "date_label": "11 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Chicago",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Christmas",
+      "type": "event",
+      "slug": "christmas",
+      "path": "events/christmas.md",
+      "facts": [
+        {
+          "fact_id": "christmas#1",
+          "text": "Tim decorated a Christmas tree with a Harry Potter theme.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Christmas",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:32"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tim",
+      "type": "person",
+      "slug": "tim",
+      "path": "people/tim.md",
+      "facts": [
+        {
+          "fact_id": "tim#1",
+          "text": "Tim has been focusing on school and reading fantasy books.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:12"
+          ]
+        },
+        {
+          "fact_id": "tim#2",
+          "text": "Tim started learning how to play the piano.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:12"
+          ]
+        },
+        {
+          "fact_id": "tim#3",
+          "text": "Tim's favorite song to play on the piano is a theme from a movie he enjoys.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:14"
+          ]
+        },
+        {
+          "fact_id": "tim#4",
+          "text": "Tim's favorite movie is 'Harry Potter and the Philosopher's Stone'.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:16"
+          ]
+        },
+        {
+          "fact_id": "tim#5",
+          "text": "Tim's family enjoys prepping the Thanksgiving feast and talking about what they're thankful for.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:22"
+          ]
+        },
+        {
+          "fact_id": "tim#6",
+          "text": "Tim's family usually watches 'Home Alone' during Thanksgiving.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:24"
+          ]
+        },
+        {
+          "fact_id": "tim#7",
+          "text": "Tim's family also watches 'Elf' during the holidays.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:26"
+          ]
+        },
+        {
+          "fact_id": "tim#8",
+          "text": "Tim's family loves watching 'The Santa Clause' during the holidays.",
+          "date_label": "21 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:28"
+          ]
+        },
+        {
+          "fact_id": "tim#9",
+          "text": "Tim's week has been busy with overwhelming assignments and exams.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:1"
+          ]
+        },
+        {
+          "fact_id": "tim#10",
+          "text": "Tim is trying to juggle studying with his fantasy reading hobby.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:1"
+          ]
+        },
+        {
+          "fact_id": "tim#11",
+          "text": "Tim has never been part of a sports team.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:5"
+          ]
+        },
+        {
+          "fact_id": "tim#12",
+          "text": "Tim loves reading and fantasy novels, enjoying sinking into different magical worlds.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:5"
+          ]
+        },
+        {
+          "fact_id": "tim#13",
+          "text": "Tim loves traveling to new places to experience a different kind of magic.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:5"
+          ]
+        },
+        {
+          "fact_id": "tim#14",
+          "text": "Tim wants to visit New York City and is adding it to his travel list.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:9"
+          ]
+        },
+        {
+          "fact_id": "tim#15",
+          "text": "Tim is excited to experience New York City for himself.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:11"
+          ]
+        },
+        {
+          "fact_id": "tim#16",
+          "text": "Tim appreciates John's support and will let him know when he plans to visit New York City.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D9:13"
+          ]
+        },
+        {
+          "fact_id": "tim#17",
+          "text": "Tim enjoys fantasy novels because they fire up his imagination and take him to alternate realities.",
+          "date_label": "2 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:17"
+          ]
+        },
+        {
+          "fact_id": "tim#18",
+          "text": "Tim is busy with studies but finds time to relax with books.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:20"
+          ]
+        },
+        {
+          "fact_id": "tim#19",
+          "text": "Tim's week has been swamped with exams",
+          "date_label": "16 November, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:3"
+          ]
+        },
+        {
+          "fact_id": "tim#20",
+          "text": "Tim is putting in his best effort for his exams and feeling optimistic",
+          "date_label": "16 November, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:5"
+          ]
+        },
+        {
+          "fact_id": "tim#21",
+          "text": "Tim has been swamped with studies and projects.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:3"
+          ]
+        },
+        {
+          "fact_id": "tim#22",
+          "text": "Tim read 'The Alchemist' a while back and it changed his perspective on his goals.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:21"
+          ]
+        },
+        {
+          "fact_id": "tim#23",
+          "text": "Tim had a tough time with his English lit class and did an analysis on a series.",
+          "date_label": "11 December, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:2"
+          ]
+        },
+        {
+          "fact_id": "tim#24",
+          "text": "Tim thinks it's important to follow our dreams and encourages John to keep it up.",
+          "date_label": "11 December, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:12"
+          ]
+        },
+        {
+          "fact_id": "tim#25",
+          "text": "Tim loves to read good books in his downtime, and he enjoys a magical world to escape to.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D26:26"
+          ]
+        },
+        {
+          "fact_id": "tim#26",
+          "text": "Tim is a huge fan of epic adventures and magical worlds in movies.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D26:32"
+          ]
+        },
+        {
+          "fact_id": "tim#27",
+          "text": "Tim is in the study abroad program and will go to Ireland for a semester next month.",
+          "date_label": "7 January, 2024",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D28:1"
+          ]
+        },
+        {
+          "fact_id": "tim#28",
+          "text": "Tim will stay in Galway, Ireland, which is known for its arts and Irish music.",
+          "date_label": "7 January, 2024",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Tim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D28:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "New York City",
+      "type": "event",
+      "slug": "new-york-city",
+      "path": "events/new-york-city.md",
+      "facts": [
+        {
+          "fact_id": "new-york-city#1",
+          "text": "John shared a photo from one of his trips to New York City.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "New York City",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:6"
+          ]
+        },
+        {
+          "fact_id": "new-york-city#2",
+          "text": "John found exploring New York City and trying all the restaurants amazing.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "New York City",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:8"
+          ]
+        },
+        {
+          "fact_id": "new-york-city#3",
+          "text": "John believes that visiting New York City is an adventure you won't forget.",
+          "date_label": "26 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "New York City",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:10"
+          ]
+        },
+        {
+          "fact_id": "new-york-city#4",
+          "text": "John had trouble figuring out the subway during his NYC trip",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "New York City",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:2"
+          ]
+        },
+        {
+          "fact_id": "new-york-city#5",
+          "text": "John received help explaining the subway during his NYC trip",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "New York City",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:2"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cooking",
+      "type": "topic",
+      "slug": "cooking",
+      "path": "topics/cooking.md",
+      "facts": [
+        {
+          "fact_id": "cooking#1",
+          "text": "John has been trying out cooking recipes",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:4"
+          ]
+        },
+        {
+          "fact_id": "cooking#2",
+          "text": "John made a tasty soup recently",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:4"
+          ]
+        },
+        {
+          "fact_id": "cooking#3",
+          "text": "John added sage to the soup he made",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:8"
+          ]
+        },
+        {
+          "fact_id": "cooking#4",
+          "text": "John finds cooking therapeutic and enjoys experimenting with flavors.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:30"
+          ]
+        },
+        {
+          "fact_id": "cooking#5",
+          "text": "John makes honey garlic chicken with roasted vegetables often and is always trying out new recipes.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:32"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Job hunt",
+      "type": "topic",
+      "slug": "job-hunt",
+      "path": "topics/job-hunt.md",
+      "facts": [
+        {
+          "fact_id": "job-hunt#1",
+          "text": "Tim got a no for a summer job he wanted",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Job hunt",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:1"
+          ]
+        },
+        {
+          "fact_id": "job-hunt#2",
+          "text": "Tim is staying positive after receiving a no for a summer job",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Job hunt",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Presentation",
+      "type": "event",
+      "slug": "presentation",
+      "path": "events/presentation.md",
+      "facts": [
+        {
+          "fact_id": "presentation#1",
+          "text": "Tim gave a presentation in class yesterday",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Presentation",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:3"
+          ]
+        },
+        {
+          "fact_id": "presentation#2",
+          "text": "Tim was nervous while giving a presentation in class",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Presentation",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Universal Studios",
+      "type": "event",
+      "slug": "universal-studios",
+      "path": "events/universal-studios.md",
+      "facts": [
+        {
+          "fact_id": "universal-studios#1",
+          "text": "Tim is planning a trip to Universal Studios next month",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Universal Studios",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:9"
+          ]
+        },
+        {
+          "fact_id": "universal-studios#2",
+          "text": "Tim has not been to Universal Studios before",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Universal Studios",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:11"
+          ]
+        },
+        {
+          "fact_id": "universal-studios#3",
+          "text": "Tim is excited for the Harry Potter attractions at Universal Studios",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Universal Studios",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:11"
+          ]
+        },
+        {
+          "fact_id": "universal-studios#4",
+          "text": "John has not been to Universal Studios yet",
+          "date_label": "31 August, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Universal Studios",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Castles",
+      "type": "topic",
+      "slug": "castles",
+      "path": "topics/castles.md",
+      "facts": [
+        {
+          "fact_id": "castles#1",
+          "text": "Tim read an awesome book about castles in the UK and dreams of visiting them one day.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Castles",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:1"
+          ]
+        },
+        {
+          "fact_id": "castles#2",
+          "text": "Tim recommends visiting some castles in Europe as they are magical.",
+          "date_label": "6 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Castles",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:15"
+          ]
+        },
+        {
+          "fact_id": "castles#3",
+          "text": "Tim went to a castle during his trip to the UK last Friday and found the architecture and history amazing",
+          "date_label": "16 November, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Castles",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "type": "topic",
+      "slug": "family",
+      "path": "topics/family.md",
+      "facts": [
+        {
+          "fact_id": "family#1",
+          "text": "John enjoys hanging out with his family and considers his team like a second family.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:26"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fantasy writing",
+      "type": "topic",
+      "slug": "fantasy-writing",
+      "path": "topics/fantasy-writing.md",
+      "facts": [
+        {
+          "fact_id": "fantasy-writing#1",
+          "text": "Tim is in the middle of writing a fantasy novel, which is nerve-wracking but exciting.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Fantasy writing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:3"
+          ]
+        },
+        {
+          "fact_id": "fantasy-writing#2",
+          "text": "Tim finds inspiration for his writing from books, movies, and real-life experiences.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Fantasy writing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:5"
+          ]
+        },
+        {
+          "fact_id": "fantasy-writing#3",
+          "text": "Tim had a huge writing issue last week where he got stuck on a plot twist and couldn't find his way out.",
+          "date_label": "6 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Fantasy writing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:1"
+          ]
+        },
+        {
+          "fact_id": "fantasy-writing#4",
+          "text": "Tim eventually got the ideas flowing again after his writing issue.",
+          "date_label": "6 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Fantasy writing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:1"
+          ]
+        },
+        {
+          "fact_id": "fantasy-writing#5",
+          "text": "Tim tried writing a story based on his experiences in the UK but faced a setback.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Fantasy writing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fun activities",
+      "type": "topic",
+      "slug": "fun-activities",
+      "path": "topics/fun-activities.md",
+      "facts": [
+        {
+          "fact_id": "fun-activities#1",
+          "text": "Tim loves going on road trips, exploring, hiking, and playing board games with friends and family.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Fun activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:29"
+          ]
+        },
+        {
+          "fact_id": "fun-activities#2",
+          "text": "John and his wife just left for their European vacation.",
+          "date_label": "6 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Fun activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:14"
+          ]
+        },
+        {
+          "fact_id": "fun-activities#3",
+          "text": "John and his wife hosted a small get-together with friends and family to celebrate his jogging success.",
+          "date_label": "16 December, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Fun activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:16"
+          ]
+        },
+        {
+          "fact_id": "fun-activities#4",
+          "text": "Tim enjoys movie marathons with friends.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Fun activities",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "J.K. Rowling",
+      "type": "topic",
+      "slug": "j-k-rowling",
+      "path": "topics/j-k-rowling.md",
+      "facts": [
+        {
+          "fact_id": "j-k-rowling#1",
+          "text": "Tim is inspired by J.K. Rowling's captivating writing and storytelling.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "J.K. Rowling",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:7"
+          ]
+        },
+        {
+          "fact_id": "j-k-rowling#2",
+          "text": "Tim has been reading J.K. Rowling's works for a long time and finds them inspiring.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "J.K. Rowling",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:9"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "J.K. Rowling quotes",
+      "type": "topic",
+      "slug": "j-k-rowling-quotes",
+      "path": "topics/j-k-rowling-quotes.md",
+      "facts": [
+        {
+          "fact_id": "j-k-rowling-quotes#1",
+          "text": "Tim likes the quote by J.K. Rowling: 'Turn on the light - happiness hides in the darkest of times.'",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "J.K. Rowling quotes",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:11"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Motivation",
+      "type": "topic",
+      "slug": "motivation",
+      "path": "topics/motivation.md",
+      "facts": [
+        {
+          "fact_id": "motivation#1",
+          "text": "John's teammates and his love for improving his skills keep him motivated during challenging times.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:18"
+          ]
+        },
+        {
+          "fact_id": "motivation#2",
+          "text": "Tim believes that taking a break from life can help recharge and provide peace.",
+          "date_label": "11 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:16"
+          ]
+        },
+        {
+          "fact_id": "motivation#3",
+          "text": "John thinks that taking time for oneself is crucial for staying sharp and focused.",
+          "date_label": "11 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:17"
+          ]
+        },
+        {
+          "fact_id": "motivation#4",
+          "text": "Tim advised John to take care of himself both mentally and physically.",
+          "date_label": "11 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:18"
+          ]
+        },
+        {
+          "fact_id": "motivation#5",
+          "text": "John believes that difficult times are part of life and it's important how we handle them.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:8"
+          ]
+        },
+        {
+          "fact_id": "motivation#6",
+          "text": "Tim finds motivation in writing and reading.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:9"
+          ]
+        },
+        {
+          "fact_id": "motivation#7",
+          "text": "John believes that resilience and owning up to mistakes are important for growth.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:10"
+          ]
+        },
+        {
+          "fact_id": "motivation#8",
+          "text": "Tim and John share a love for reading and believe books can inspire and help us grow.",
+          "date_label": "21 November, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:23"
+          ]
+        },
+        {
+          "fact_id": "motivation#9",
+          "text": "Tim had a tough exam last week that made him doubt himself but he turned it into a learning experience.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:1"
+          ]
+        },
+        {
+          "fact_id": "motivation#10",
+          "text": "Tim studied hard for his exam and it showed him how resilient and determined he can be.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:1"
+          ]
+        },
+        {
+          "fact_id": "motivation#11",
+          "text": "Tim and John both believe they have a lot of potential and should support each other on their journey towards their dreams.",
+          "date_label": "11 December, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:14"
+          ]
+        },
+        {
+          "fact_id": "motivation#12",
+          "text": "John felt a huge success when he jogged without any pain after being out for so long.",
+          "date_label": "16 December, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Motivation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:16"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Motivational reminders",
+      "type": "topic",
+      "slug": "motivational-reminders",
+      "path": "topics/motivational-reminders.md",
+      "facts": [
+        {
+          "fact_id": "motivational-reminders#1",
+          "text": "John keeps a plaque on his desk as a reminder to believe in himself.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Motivational reminders",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:16"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Motivational strategies",
+      "type": "topic",
+      "slug": "motivational-strategies",
+      "path": "topics/motivational-strategies.md",
+      "facts": [
+        {
+          "fact_id": "motivational-strategies#1",
+          "text": "John wrote motivational quotes and strategies on a whiteboard to help him stay focused during workouts.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Motivational strategies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:14"
+          ]
+        },
+        {
+          "fact_id": "motivational-strategies#2",
+          "text": "John visualizes his goals and success for focus and motivation during tough studying",
+          "date_label": "16 November, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Motivational strategies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:6"
+          ]
+        },
+        {
+          "fact_id": "motivational-strategies#3",
+          "text": "Tim breaks up his studying into smaller parts, studying for 25 minutes and then taking 5 minutes off",
+          "date_label": "16 November, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Motivational strategies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:7"
+          ]
+        },
+        {
+          "fact_id": "motivational-strategies#4",
+          "text": "John believes that creating a positive environment and supporting teammates is important for motivation.",
+          "date_label": "6 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Motivational strategies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:16"
+          ]
+        },
+        {
+          "fact_id": "motivational-strategies#5",
+          "text": "Tim appreciates the advice on motivating others and believes in setting an example through hard work.",
+          "date_label": "6 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Motivational strategies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:17"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Support network",
+      "type": "topic",
+      "slug": "support-network",
+      "path": "topics/support-network.md",
+      "facts": [
+        {
+          "fact_id": "support-network#1",
+          "text": "John has supportive people outside of sports who are always there for him.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Support network",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:22"
+          ]
+        },
+        {
+          "fact_id": "support-network#2",
+          "text": "Tim is grateful for his friends and family who support him.",
+          "date_label": "21 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Support network",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:23"
+          ]
+        },
+        {
+          "fact_id": "support-network#3",
+          "text": "Tim appreciates John's support and encouragement during his journey.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Support network",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:13"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Camping",
+      "type": "event",
+      "slug": "camping",
+      "path": "events/camping.md",
+      "facts": [
+        {
+          "fact_id": "camping#1",
+          "text": "John went camping in the mountains last summer and found it stunning.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Camping",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D20:36"
+          ]
+        },
+        {
+          "fact_id": "camping#2",
+          "text": "John loved chilling and taking in the beauty of nature while camping.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Camping",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D20:38"
+          ]
+        },
+        {
+          "fact_id": "camping#3",
+          "text": "Tim shares a photo of a campfire with chairs and a lake in the background from his camping trip.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Camping",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D20:34"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nature",
+      "type": "topic",
+      "slug": "nature",
+      "path": "topics/nature.md",
+      "facts": [
+        {
+          "fact_id": "nature#1",
+          "text": "John took a photo of a forest near his hometown that he describes as tranquil.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:28"
+          ]
+        },
+        {
+          "fact_id": "nature#2",
+          "text": "John took a trip to the Rocky Mountains last year and found it stunning.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:40"
+          ]
+        },
+        {
+          "fact_id": "nature#3",
+          "text": "Tim shares a photo of a plane flying over a mountain range with snow on top.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:39"
+          ]
+        },
+        {
+          "fact_id": "nature#4",
+          "text": "Tim shares a photo of a mountain range with a sunset in the background.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:41"
+          ]
+        },
+        {
+          "fact_id": "nature#5",
+          "text": "Tim and John agree that nature has a calming effect and reminds us of the beauty around us.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:31",
+            "D20:32"
+          ]
+        },
+        {
+          "fact_id": "nature#6",
+          "text": "John shares a photo of a lake with a rock in the middle of it that looks peaceful.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:32"
+          ]
+        },
+        {
+          "fact_id": "nature#7",
+          "text": "John felt energized and in a great mood while in nature",
+          "date_label": "19 December, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:6"
+          ]
+        },
+        {
+          "fact_id": "nature#8",
+          "text": "John stumbled across a peaceful spot while hiking",
+          "date_label": "19 December, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:8"
+          ]
+        },
+        {
+          "fact_id": "nature#9",
+          "text": "Tim is excited to explore nature while in Galway.",
+          "date_label": "7 January, 2024",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yoga",
+      "type": "topic",
+      "slug": "yoga",
+      "path": "topics/yoga.md",
+      "facts": [
+        {
+          "fact_id": "yoga#1",
+          "text": "John is trying out yoga to gain extra strength and flexibility.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:2"
+          ]
+        },
+        {
+          "fact_id": "yoga#2",
+          "text": "John has noticed improvements in strength, flexibility, focus, and balance from practicing yoga.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:4"
+          ]
+        },
+        {
+          "fact_id": "yoga#3",
+          "text": "John enjoys practicing the Warrior II pose in yoga.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:6"
+          ]
+        },
+        {
+          "fact_id": "yoga#4",
+          "text": "John typically holds the Warrior II pose for 30-60 seconds.",
+          "date_label": "1 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Piano",
+      "type": "topic",
+      "slug": "piano",
+      "path": "topics/piano.md",
+      "facts": [
+        {
+          "fact_id": "piano#1",
+          "text": "Tim has been playing the piano for about four months.",
+          "date_label": "6 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Piano",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:13"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Travel club",
+      "type": "topic",
+      "slug": "travel-club",
+      "path": "topics/travel-club.md",
+      "facts": [
+        {
+          "fact_id": "travel-club#1",
+          "text": "Tim joined a travel club and is excited to check it out.",
+          "date_label": "6 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Travel club",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:1"
+          ]
+        },
+        {
+          "fact_id": "travel-club#2",
+          "text": "Tim is interested in different cultures and countries.",
+          "date_label": "6 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Travel club",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:1"
+          ]
+        },
+        {
+          "fact_id": "travel-club#3",
+          "text": "Tim has been reading stories from travelers to plan his next adventure.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Travel club",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:6"
+          ]
+        },
+        {
+          "fact_id": "travel-club#4",
+          "text": "Tim visited a travel agency to see the requirements for his next dream trip.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Travel club",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:12"
+          ]
+        },
+        {
+          "fact_id": "travel-club#5",
+          "text": "Tim joined a group of globetrotters who are into the same stuff as him",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Travel club",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Violin",
+      "type": "topic",
+      "slug": "violin",
+      "path": "topics/violin.md",
+      "facts": [
+        {
+          "fact_id": "violin#1",
+          "text": "Tim started learning how to play the violin.",
+          "date_label": "6 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Violin",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:11"
+          ]
+        },
+        {
+          "fact_id": "violin#2",
+          "text": "Tim is mostly into classical music but wants to try jazz and film scores.",
+          "date_label": "6 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Violin",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:11"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seminars",
+      "type": "event",
+      "slug": "seminars",
+      "path": "events/seminars.md",
+      "facts": [
+        {
+          "fact_id": "seminars#1",
+          "text": "John's seminars went really well, with eager and motivated aspiring professionals.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Seminars",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Travel stories",
+      "type": "topic",
+      "slug": "travel-stories",
+      "path": "topics/travel-stories.md",
+      "facts": [
+        {
+          "fact_id": "travel-stories#1",
+          "text": "Tim read a story about two hikers who trekked through the Himalayas.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Travel stories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:8"
+          ]
+        },
+        {
+          "fact_id": "travel-stories#2",
+          "text": "The trek through the Himalayas was tough but worth it, with challenging terrain, altitude sickness, and bad weather.",
+          "date_label": "26 December, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Travel stories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:10"
+          ]
+        },
+        {
+          "fact_id": "travel-stories#3",
+          "text": "John visited Italy last month and enjoyed the food, history, and architecture",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Travel stories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:2",
+            "D27:4"
+          ]
+        },
+        {
+          "fact_id": "travel-stories#4",
+          "text": "John has been to Paris and loved it",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Travel stories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:38"
+          ]
+        },
+        {
+          "fact_id": "travel-stories#5",
+          "text": "Tim wants to visit The Cliffs of Moher for its amazing ocean views and cliffs.",
+          "date_label": "7 January, 2024",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Travel stories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:7"
+          ]
+        },
+        {
+          "fact_id": "travel-stories#6",
+          "text": "Tim is researching visa requirements for countries he wants to visit.",
+          "date_label": "12 January, 2024",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Travel stories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:3"
+          ]
+        },
+        {
+          "fact_id": "travel-stories#7",
+          "text": "Tim feels proud of taking initiative in researching visa requirements for his travel plans.",
+          "date_label": "12 January, 2024",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Travel stories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:9"
+          ]
+        },
+        {
+          "fact_id": "travel-stories#8",
+          "text": "John recommends Barcelona as a must-visit city.",
+          "date_label": "12 January, 2024",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Travel stories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:12"
+          ]
+        },
+        {
+          "fact_id": "travel-stories#9",
+          "text": "Barcelona has great culture, architecture, food, and nearby beaches.",
+          "date_label": "12 January, 2024",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Travel stories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:12"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Language studies",
+      "type": "topic",
+      "slug": "language-studies",
+      "path": "topics/language-studies.md",
+      "facts": [
+        {
+          "fact_id": "language-studies#1",
+          "text": "Tim is learning German",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Language studies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:5"
+          ]
+        },
+        {
+          "fact_id": "language-studies#2",
+          "text": "John knows a bit of German and Spanish",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Language studies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:6"
+          ]
+        },
+        {
+          "fact_id": "language-studies#3",
+          "text": "Tim finds learning German tough but worth it",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Language studies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:7"
+          ]
+        },
+        {
+          "fact_id": "language-studies#4",
+          "text": "John just started learning Spanish for personal and professional opportunities",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Language studies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:8"
+          ]
+        },
+        {
+          "fact_id": "language-studies#5",
+          "text": "Tim has been using an app to learn a language",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Language studies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:9"
+          ]
+        },
+        {
+          "fact_id": "language-studies#6",
+          "text": "John has been using the same app on his phone to practice Spanish",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Language studies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Painting",
+      "type": "topic",
+      "slug": "painting",
+      "path": "topics/painting.md",
+      "facts": [
+        {
+          "fact_id": "painting#1",
+          "text": "John has a painting of Aragorn in his room to remind him to be a leader",
+          "date_label": "2 January, 2024",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:28"
+          ]
+        }
+      ]
+    }
+  ]
+}

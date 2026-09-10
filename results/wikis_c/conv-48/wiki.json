@@ -1,0 +1,4955 @@
+{
+  "conv_id": "conv-48",
+  "speakers": [
+    "Deborah",
+    "Jolene"
+  ],
+  "extraction_model": "gpt-4o-mini",
+  "build_fingerprint": "9884fea0ef28",
+  "compiler_version": "c1",
+  "built_utc": "2026-09-10T13:56:25.591332+00:00",
+  "sessions": [
+    {
+      "index": 1,
+      "session_id": "session_1",
+      "timestamp": "4:06 pm on 23 January, 2023",
+      "date_label": "23 January, 2023"
+    },
+    {
+      "index": 2,
+      "session_id": "session_2",
+      "timestamp": "9:49 am on 27 January, 2023",
+      "date_label": "27 January, 2023"
+    },
+    {
+      "index": 3,
+      "session_id": "session_3",
+      "timestamp": "7:03 pm on 1 February, 2023",
+      "date_label": "1 February, 2023"
+    },
+    {
+      "index": 4,
+      "session_id": "session_4",
+      "timestamp": "9:48 am on 4 February, 2023",
+      "date_label": "4 February, 2023"
+    },
+    {
+      "index": 5,
+      "session_id": "session_5",
+      "timestamp": "9:03 pm on 9 February, 2023",
+      "date_label": "9 February, 2023"
+    },
+    {
+      "index": 6,
+      "session_id": "session_6",
+      "timestamp": "4:12 pm on 22 February, 2023",
+      "date_label": "22 February, 2023"
+    },
+    {
+      "index": 7,
+      "session_id": "session_7",
+      "timestamp": "4:50 pm on 25 February, 2023",
+      "date_label": "25 February, 2023"
+    },
+    {
+      "index": 8,
+      "session_id": "session_8",
+      "timestamp": "7:18 pm on 2 March, 2023",
+      "date_label": "2 March, 2023"
+    },
+    {
+      "index": 9,
+      "session_id": "session_9",
+      "timestamp": "11:22 am on 13 March, 2023",
+      "date_label": "13 March, 2023"
+    },
+    {
+      "index": 10,
+      "session_id": "session_10",
+      "timestamp": "5:35 pm on 22 March, 2023",
+      "date_label": "22 March, 2023"
+    },
+    {
+      "index": 11,
+      "session_id": "session_11",
+      "timestamp": "4:03 pm on 28 March, 2023",
+      "date_label": "28 March, 2023"
+    },
+    {
+      "index": 12,
+      "session_id": "session_12",
+      "timestamp": "4:30 pm on 9 April, 2023",
+      "date_label": "9 April, 2023"
+    },
+    {
+      "index": 13,
+      "session_id": "session_13",
+      "timestamp": "3:56 pm on 6 June, 2023",
+      "date_label": "6 June, 2023"
+    },
+    {
+      "index": 14,
+      "session_id": "session_14",
+      "timestamp": "9:17 am on 26 June, 2023",
+      "date_label": "26 June, 2023"
+    },
+    {
+      "index": 15,
+      "session_id": "session_15",
+      "timestamp": "7:37 pm on 9 July, 2023",
+      "date_label": "9 July, 2023"
+    },
+    {
+      "index": 16,
+      "session_id": "session_16",
+      "timestamp": "9:26 am on 1 August, 2023",
+      "date_label": "1 August, 2023"
+    },
+    {
+      "index": 17,
+      "session_id": "session_17",
+      "timestamp": "8:50 pm on 12 August, 2023",
+      "date_label": "12 August, 2023"
+    },
+    {
+      "index": 18,
+      "session_id": "session_18",
+      "timestamp": "2:58 pm on 16 August, 2023",
+      "date_label": "16 August, 2023"
+    },
+    {
+      "index": 19,
+      "session_id": "session_19",
+      "timestamp": "12:52 am on 19 August, 2023",
+      "date_label": "19 August, 2023"
+    },
+    {
+      "index": 20,
+      "session_id": "session_20",
+      "timestamp": "9:11 am on 21 August, 2023",
+      "date_label": "21 August, 2023"
+    },
+    {
+      "index": 21,
+      "session_id": "session_21",
+      "timestamp": "9:34 am on 24 August, 2023",
+      "date_label": "24 August, 2023"
+    },
+    {
+      "index": 22,
+      "session_id": "session_22",
+      "timestamp": "5:33 pm on 26 August, 2023",
+      "date_label": "26 August, 2023"
+    },
+    {
+      "index": 23,
+      "session_id": "session_23",
+      "timestamp": "11:46 am on 30 August, 2023",
+      "date_label": "30 August, 2023"
+    },
+    {
+      "index": 24,
+      "session_id": "session_24",
+      "timestamp": "2:14 pm on 3 September, 2023",
+      "date_label": "3 September, 2023"
+    },
+    {
+      "index": 25,
+      "session_id": "session_25",
+      "timestamp": "8:31 pm on 6 September, 2023",
+      "date_label": "6 September, 2023"
+    },
+    {
+      "index": 26,
+      "session_id": "session_26",
+      "timestamp": "7:39 pm on 8 September, 2023",
+      "date_label": "8 September, 2023"
+    },
+    {
+      "index": 27,
+      "session_id": "session_27",
+      "timestamp": "2:18 pm on 12 September, 2023",
+      "date_label": "12 September, 2023"
+    },
+    {
+      "index": 28,
+      "session_id": "session_28",
+      "timestamp": "3:09 pm on 15 September, 2023",
+      "date_label": "15 September, 2023"
+    },
+    {
+      "index": 29,
+      "session_id": "session_29",
+      "timestamp": "1:24 pm on 17 September, 2023",
+      "date_label": "17 September, 2023"
+    },
+    {
+      "index": 30,
+      "session_id": "session_30",
+      "timestamp": "10:17 am on 20 September, 2023",
+      "date_label": "20 September, 2023"
+    }
+  ],
+  "stats": {
+    "compile_prompt_tokens": 51685,
+    "compile_completion_tokens": 16427,
+    "compile_cost_usd": 0.017608949999999998,
+    "compile_latency_s": 135.12921969918534,
+    "compile_calls": 30,
+    "compile_cached_calls": 0,
+    "sessions_compiled": 30,
+    "truncated_sessions": 0,
+    "duplicate_facts_dropped": 0,
+    "generic_page_titles": 2,
+    "salvaged_sessions": 0,
+    "unparsable_sessions": 0,
+    "empty_sessions": 0,
+    "citations_total": 371,
+    "citations_resolvable": 371,
+    "citations_unresolvable": 0,
+    "citations_other_session": 0,
+    "citations_nonexistent": 0,
+    "facts_with_no_citation": 0,
+    "citation_resolvability": 1.0,
+    "citation_session_consistency": 1.0,
+    "n_pages": 46,
+    "n_facts": 363,
+    "wiki_tokens": 12510,
+    "raw_conversation_tokens": 21003,
+    "compression_ratio": 0.5956
+  },
+  "pages": [
+    {
+      "title": "Deborah",
+      "type": "person",
+      "slug": "deborah",
+      "path": "people/deborah.md",
+      "facts": [
+        {
+          "fact_id": "deborah#1",
+          "text": "Deborah visited her mother's old house last week.",
+          "date_label": "23 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:3"
+          ]
+        },
+        {
+          "fact_id": "deborah#2",
+          "text": "Deborah's mother passed away a few years ago.",
+          "date_label": "23 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:5"
+          ]
+        },
+        {
+          "fact_id": "deborah#3",
+          "text": "Deborah's mother's house had a special bench near the window.",
+          "date_label": "23 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:7"
+          ]
+        },
+        {
+          "fact_id": "deborah#4",
+          "text": "Deborah's dad passed away two days ago.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:1"
+          ]
+        },
+        {
+          "fact_id": "deborah#5",
+          "text": "Deborah is trying to channel her grief by spending more time with family and cherishing memories.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:1"
+          ]
+        },
+        {
+          "fact_id": "deborah#6",
+          "text": "Deborah looked at the family album and found comfort in great memories.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:3"
+          ]
+        },
+        {
+          "fact_id": "deborah#7",
+          "text": "Deborah's parents were married in 1993.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:3"
+          ]
+        },
+        {
+          "fact_id": "deborah#8",
+          "text": "Deborah and her husband are trying to be as good a family as Deborah's parents were.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:5"
+          ]
+        },
+        {
+          "fact_id": "deborah#9",
+          "text": "Deborah values love and openness in her relationship with her husband.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:7"
+          ]
+        },
+        {
+          "fact_id": "deborah#10",
+          "text": "Deborah received a letter from group members thanking her for the positive influence she had on them.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:9"
+          ]
+        },
+        {
+          "fact_id": "deborah#11",
+          "text": "Deborah feels her mother's presence and comfort when sitting in a special spot by the window in her old home.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:15"
+          ]
+        },
+        {
+          "fact_id": "deborah#12",
+          "text": "Deborah's mother enjoyed reading as one of her hobbies.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:17"
+          ]
+        },
+        {
+          "fact_id": "deborah#13",
+          "text": "Deborah's mother had a great passion for travel.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:19"
+          ]
+        },
+        {
+          "fact_id": "deborah#14",
+          "text": "Deborah teaches yoga.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:12"
+          ]
+        },
+        {
+          "fact_id": "deborah#15",
+          "text": "Deborah received a bouquet of flowers from a friend when she was struggling.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:28"
+          ]
+        },
+        {
+          "fact_id": "deborah#16",
+          "text": "Deborah has a tradition of bringing an amulet to a spot by the water to reflect on her mother.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:36"
+          ]
+        },
+        {
+          "fact_id": "deborah#17",
+          "text": "Deborah visited a calming place on 22 February 2023 that was nostalgic for her.",
+          "date_label": "22 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:2"
+          ]
+        },
+        {
+          "fact_id": "deborah#18",
+          "text": "Deborah lost a friend last week and has been spending time in the garden for comfort.",
+          "date_label": "22 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:4"
+          ]
+        },
+        {
+          "fact_id": "deborah#19",
+          "text": "Deborah remembers her time with her lost friend, which reminds her of how special life is.",
+          "date_label": "22 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:6"
+          ]
+        },
+        {
+          "fact_id": "deborah#20",
+          "text": "Deborah shared a photo of her last hike with her friend Karlie, taken last summer.",
+          "date_label": "22 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:8"
+          ]
+        },
+        {
+          "fact_id": "deborah#21",
+          "text": "Deborah traveled to Bali last year, which she found to be a gorgeous island great for yoga.",
+          "date_label": "22 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:10"
+          ]
+        },
+        {
+          "fact_id": "deborah#22",
+          "text": "Deborah meditates, does yoga, and teaches classes in the morning.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:18"
+          ]
+        },
+        {
+          "fact_id": "deborah#23",
+          "text": "Deborah went for a morning jog for the first time in a nearby park yesterday.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:18"
+          ]
+        },
+        {
+          "fact_id": "deborah#24",
+          "text": "Deborah spends time with loved ones in the evenings.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:18"
+          ]
+        },
+        {
+          "fact_id": "deborah#25",
+          "text": "Deborah believes exercise is key for feeling connected to her body.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:20"
+          ]
+        },
+        {
+          "fact_id": "deborah#26",
+          "text": "Deborah emphasizes the importance of self-care.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:22"
+          ]
+        },
+        {
+          "fact_id": "deborah#27",
+          "text": "Deborah had a vegan stir-fry with tofu and vegetables, ginger, and soy sauce.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:1"
+          ]
+        },
+        {
+          "fact_id": "deborah#28",
+          "text": "Deborah enjoys the sound of birds chirping and the breeze when outdoors.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:11"
+          ]
+        },
+        {
+          "fact_id": "deborah#29",
+          "text": "Deborah suggests breaking study material into smaller pieces and setting goals for time management.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:19"
+          ]
+        },
+        {
+          "fact_id": "deborah#30",
+          "text": "Deborah offers to help Jolene with a study plan.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:19"
+          ]
+        },
+        {
+          "fact_id": "deborah#31",
+          "text": "Deborah plans to give Jolene a mug that encourages her.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:21"
+          ]
+        },
+        {
+          "fact_id": "deborah#32",
+          "text": "Deborah's mom was interested in art and believed it could give out strong emotions and uniquely connect people.",
+          "date_label": "9 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:3"
+          ]
+        },
+        {
+          "fact_id": "deborah#33",
+          "text": "Deborah believes finding ways to restore balance is important and suggests taking time for oneself.",
+          "date_label": "16 August, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:2"
+          ]
+        },
+        {
+          "fact_id": "deborah#34",
+          "text": "Deborah's mom really loved flowers and they made her happy.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D20:6"
+          ]
+        },
+        {
+          "fact_id": "deborah#35",
+          "text": "Deborah visited her mom's house last month, which holds a special place in her heart.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:4"
+          ]
+        },
+        {
+          "fact_id": "deborah#36",
+          "text": "Deborah's mom had good and bad times at her house, which symbolizes her strength and love.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:4"
+          ]
+        },
+        {
+          "fact_id": "deborah#37",
+          "text": "Deborah relaxed outside her mom's house, which brought back fond memories.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:6"
+          ]
+        },
+        {
+          "fact_id": "deborah#38",
+          "text": "Deborah encourages Jolene to take care of herself and embrace new beginnings.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D23:30"
+          ]
+        },
+        {
+          "fact_id": "deborah#39",
+          "text": "Deborah had a tough week because a storm forced her to cancel her yoga getaway.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D26:1"
+          ]
+        },
+        {
+          "fact_id": "deborah#40",
+          "text": "Deborah found comfort in her work and spending time at home after the cancellation.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D26:3"
+          ]
+        },
+        {
+          "fact_id": "deborah#41",
+          "text": "Deborah wants to learn more about Jolene's time management strategies.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D26:7"
+          ]
+        },
+        {
+          "fact_id": "deborah#42",
+          "text": "Deborah suggested setting up a coffee date to talk about time management strategies.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D26:9"
+          ]
+        },
+        {
+          "fact_id": "deborah#43",
+          "text": "Deborah expressed enthusiasm about the cafe Jolene suggested.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D26:11"
+          ]
+        },
+        {
+          "fact_id": "deborah#44",
+          "text": "Deborah reconnected with her mom's old friends, which made her tear up and reminded her how lucky she is to have had her mom.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D28:1"
+          ]
+        },
+        {
+          "fact_id": "deborah#45",
+          "text": "Hearing stories about Deborah's mom was emotional for her, as it was both happy and sad to hear things she hadn't heard before.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D28:3"
+          ]
+        },
+        {
+          "fact_id": "deborah#46",
+          "text": "Deborah found it comforting to reconnect with her mom's friends.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D28:3"
+          ]
+        },
+        {
+          "fact_id": "deborah#47",
+          "text": "Deborah appreciated her mom more through the stories shared by her friends.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Deborah",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D28:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Electrical engineering",
+      "type": "topic",
+      "slug": "electrical-engineering",
+      "path": "topics/electrical-engineering.md",
+      "facts": [
+        {
+          "fact_id": "electrical-engineering#1",
+          "text": "Jolene finished an electrical engineering project last week.",
+          "date_label": "23 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Electrical engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:2"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jolene",
+      "type": "person",
+      "slug": "jolene",
+      "path": "people/jolene.md",
+      "facts": [
+        {
+          "fact_id": "jolene#1",
+          "text": "Jolene's mother passed away last year.",
+          "date_label": "23 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:6"
+          ]
+        },
+        {
+          "fact_id": "jolene#2",
+          "text": "Jolene has a pendant that reminds her of her mother, which she received in 2010 in Paris.",
+          "date_label": "23 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:8"
+          ]
+        },
+        {
+          "fact_id": "jolene#3",
+          "text": "Jolene's pendant has a special symbol that represents freedom for her.",
+          "date_label": "23 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:10"
+          ]
+        },
+        {
+          "fact_id": "jolene#4",
+          "text": "Jolene has a pet snake named Susie that brings her comfort and happiness.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:20"
+          ]
+        },
+        {
+          "fact_id": "jolene#5",
+          "text": "Jolene's second snake is named Seraphim, and she has fun moments with her pets.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:22"
+          ]
+        },
+        {
+          "fact_id": "jolene#6",
+          "text": "Jolene bought her snake a year ago in Paris.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:24"
+          ]
+        },
+        {
+          "fact_id": "jolene#7",
+          "text": "Jolene enjoys gaming with her partner and played the game 'Detroit' last week.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:26"
+          ]
+        },
+        {
+          "fact_id": "jolene#8",
+          "text": "Jolene learned to play video games on her own as a child.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:28"
+          ]
+        },
+        {
+          "fact_id": "jolene#9",
+          "text": "Jolene and her partner are planning to play 'Walking Dead' next Saturday.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:30"
+          ]
+        },
+        {
+          "fact_id": "jolene#10",
+          "text": "Jolene had a major milestone last week as an engineer.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:3"
+          ]
+        },
+        {
+          "fact_id": "jolene#11",
+          "text": "Jolene is reading a book called 'Sapiens' which looks at human history and technology.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:21"
+          ]
+        },
+        {
+          "fact_id": "jolene#12",
+          "text": "Jolene read 'Avalanche' by Neal Stephenson in one sitting two weeks ago.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:23"
+          ]
+        },
+        {
+          "fact_id": "jolene#13",
+          "text": "Jolene did a mini retreat on 1 February 2023 to assess where she's at in life.",
+          "date_label": "9 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D5:1"
+          ]
+        },
+        {
+          "fact_id": "jolene#14",
+          "text": "Jolene achieved more than she imagined during the mini retreat, which was a confidence boost.",
+          "date_label": "9 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D5:3"
+          ]
+        },
+        {
+          "fact_id": "jolene#15",
+          "text": "Jolene had a great night out on 22 February 2023, including dinner and drinks with friends.",
+          "date_label": "22 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:1"
+          ]
+        },
+        {
+          "fact_id": "jolene#16",
+          "text": "Jolene is balancing engineering school with her partner's video games.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:1"
+          ]
+        },
+        {
+          "fact_id": "jolene#17",
+          "text": "Jolene's partner sometimes joins her for yoga, which has brought them closer.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:5"
+          ]
+        },
+        {
+          "fact_id": "jolene#18",
+          "text": "Jolene and her partner have been together for three years and are not married.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:7"
+          ]
+        },
+        {
+          "fact_id": "jolene#19",
+          "text": "Jolene and her partner met in an engineering class in college.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:9"
+          ]
+        },
+        {
+          "fact_id": "jolene#20",
+          "text": "Jolene's favorite comfort food is lasagna.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:2"
+          ]
+        },
+        {
+          "fact_id": "jolene#21",
+          "text": "Jolene has been trying to find time for herself amidst her studies and exams.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:4"
+          ]
+        },
+        {
+          "fact_id": "jolene#22",
+          "text": "Jolene took Seraphim to the park last Sunday.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:8"
+          ]
+        },
+        {
+          "fact_id": "jolene#23",
+          "text": "Jolene has a tamed snake that surprises people when they see it.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:10"
+          ]
+        },
+        {
+          "fact_id": "jolene#24",
+          "text": "Jolene wants to be more mindful of her stress levels and prioritize self-care.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:14"
+          ]
+        },
+        {
+          "fact_id": "jolene#25",
+          "text": "Jolene feels overwhelmed by exams and deadlines.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:16"
+          ]
+        },
+        {
+          "fact_id": "jolene#26",
+          "text": "Jolene is currently dealing with exams and deadlines, which she finds stressful.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D10:1",
+            "D10:2"
+          ]
+        },
+        {
+          "fact_id": "jolene#27",
+          "text": "Jolene finds value in spending time with her snakes, even though they can't chat or understand her feelings.",
+          "date_label": "9 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:6"
+          ]
+        },
+        {
+          "fact_id": "jolene#28",
+          "text": "Deborah encourages Jolene to make time for the things that bring her joy.",
+          "date_label": "9 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:15"
+          ]
+        },
+        {
+          "fact_id": "jolene#29",
+          "text": "Jolene has been busy with her internship.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:2"
+          ]
+        },
+        {
+          "fact_id": "jolene#30",
+          "text": "Jolene has been stressed since she lost her work files",
+          "date_label": "12 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D17:2"
+          ]
+        },
+        {
+          "fact_id": "jolene#31",
+          "text": "Jolene has been thinking a lot about her plans lately, especially after checking in with her boyfriend.",
+          "date_label": "16 August, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:1"
+          ]
+        },
+        {
+          "fact_id": "jolene#32",
+          "text": "Jolene feels like she is trying to juggle her engineering, relationship, and personal growth.",
+          "date_label": "16 August, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D18:1"
+          ]
+        },
+        {
+          "fact_id": "jolene#33",
+          "text": "Jolene's life has been hectic, but she is making strides toward her goals.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D21:4"
+          ]
+        },
+        {
+          "fact_id": "jolene#34",
+          "text": "Jolene's goal is to be successful in her field and make a positive impact.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D21:6"
+          ]
+        },
+        {
+          "fact_id": "jolene#35",
+          "text": "Jolene has been studying, attending workshops, and networking to achieve her goals.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D21:6"
+          ]
+        },
+        {
+          "fact_id": "jolene#36",
+          "text": "Jolene presented at a virtual conference and received positive feedback.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D21:6"
+          ]
+        },
+        {
+          "fact_id": "jolene#37",
+          "text": "Jolene felt thrilled and rewarded by the positive feedback she received.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D21:8"
+          ]
+        },
+        {
+          "fact_id": "jolene#38",
+          "text": "Jolene is focusing on studying and gaining more experience.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D21:8"
+          ]
+        },
+        {
+          "fact_id": "jolene#39",
+          "text": "Jolene plans to keep pushing forward and remember to enjoy every step of the way.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D21:14"
+          ]
+        },
+        {
+          "fact_id": "jolene#40",
+          "text": "Jolene agrees to take Deborah's advice and find joy along the way.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D21:16"
+          ]
+        },
+        {
+          "fact_id": "jolene#41",
+          "text": "Jolene has been focusing on studying and her relationship with her partner, taking little trips to the beach to relax.",
+          "date_label": "3 September, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D24:2"
+          ]
+        },
+        {
+          "fact_id": "jolene#42",
+          "text": "Jolene is thankful for her significant other who encourages her goals.",
+          "date_label": "3 September, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D24:4"
+          ]
+        },
+        {
+          "fact_id": "jolene#43",
+          "text": "Jolene has a lot of finals coming up this month and has been studying hard.",
+          "date_label": "3 September, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D24:14"
+          ]
+        },
+        {
+          "fact_id": "jolene#44",
+          "text": "Jolene is thinking about taking a trip somewhere to relax and recharge after her finals.",
+          "date_label": "3 September, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D24:14"
+          ]
+        },
+        {
+          "fact_id": "jolene#45",
+          "text": "Jolene goes to her room to relax and feel at ease after a busy day.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Jolene",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D28:22"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yoga",
+      "type": "topic",
+      "slug": "yoga",
+      "path": "topics/yoga.md",
+      "facts": [
+        {
+          "fact_id": "yoga#1",
+          "text": "Deborah's goal is to keep teaching yoga and supporting her community.",
+          "date_label": "23 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:13"
+          ]
+        },
+        {
+          "fact_id": "yoga#2",
+          "text": "Deborah was inspired to teach yoga because it helped her find peace during a rough time.",
+          "date_label": "23 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:15"
+          ]
+        },
+        {
+          "fact_id": "yoga#3",
+          "text": "Deborah practices yoga in her old home, which she visits for her mom who passed away.",
+          "date_label": "27 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:11",
+            "D2:13"
+          ]
+        },
+        {
+          "fact_id": "yoga#4",
+          "text": "Deborah and Anna talked about how yoga has improved their lives and the sense of community it gives.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:8"
+          ]
+        },
+        {
+          "fact_id": "yoga#5",
+          "text": "Deborah bonded with Anna during a yoga class.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:12"
+          ]
+        },
+        {
+          "fact_id": "yoga#6",
+          "text": "Deborah and Anna tried out different dance poses, including Warrior II, in yoga class.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:14"
+          ]
+        },
+        {
+          "fact_id": "yoga#7",
+          "text": "Deborah explained how to do a modified yoga pose while sitting on a chair.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:18"
+          ]
+        },
+        {
+          "fact_id": "yoga#8",
+          "text": "Deborah enjoys the sound of the waves and fresh air while doing yoga on the beach.",
+          "date_label": "22 February, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:12"
+          ]
+        },
+        {
+          "fact_id": "yoga#9",
+          "text": "Jolene practices yoga and meditation to help her feel calm.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:1"
+          ]
+        },
+        {
+          "fact_id": "yoga#10",
+          "text": "Jolene uses breathing and meditation to feel calmer when overwhelmed.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:13"
+          ]
+        },
+        {
+          "fact_id": "yoga#11",
+          "text": "Jolene did yoga and meditation last Friday to relax.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:4"
+          ]
+        },
+        {
+          "fact_id": "yoga#12",
+          "text": "Deborah also did yoga and meditation to reset her mind.",
+          "date_label": "2 March, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:5"
+          ]
+        },
+        {
+          "fact_id": "yoga#13",
+          "text": "Deborah started a yoga class in the neighborhood.",
+          "date_label": "13 March, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:3"
+          ]
+        },
+        {
+          "fact_id": "yoga#14",
+          "text": "Deborah hosted a yoga class for her neighbors on Friday.",
+          "date_label": "13 March, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:5"
+          ]
+        },
+        {
+          "fact_id": "yoga#15",
+          "text": "Deborah finds yoga calming and wanted to share that with others.",
+          "date_label": "13 March, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:7"
+          ]
+        },
+        {
+          "fact_id": "yoga#16",
+          "text": "Deborah enjoys giving people peace and awareness through yoga.",
+          "date_label": "13 March, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:7"
+          ]
+        },
+        {
+          "fact_id": "yoga#17",
+          "text": "Deborah has made great friends through teaching yoga.",
+          "date_label": "13 March, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:9"
+          ]
+        },
+        {
+          "fact_id": "yoga#18",
+          "text": "Deborah bought new props for her yoga class.",
+          "date_label": "28 March, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:2"
+          ]
+        },
+        {
+          "fact_id": "yoga#19",
+          "text": "Deborah bought a candle to improve her yoga practice.",
+          "date_label": "28 March, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:4"
+          ]
+        },
+        {
+          "fact_id": "yoga#20",
+          "text": "Jolene feels relaxed during yoga and loves creating a serene space with soothing scents like lavender and rosemary.",
+          "date_label": "28 March, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:5"
+          ]
+        },
+        {
+          "fact_id": "yoga#21",
+          "text": "Deborah enjoys scents like candles and essential oils during her yoga sessions.",
+          "date_label": "28 March, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:6"
+          ]
+        },
+        {
+          "fact_id": "yoga#22",
+          "text": "Jolene finds music helps her during yoga practice.",
+          "date_label": "28 March, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:7"
+          ]
+        },
+        {
+          "fact_id": "yoga#23",
+          "text": "Deborah likes instrumental tracks with mellow melodies and rhythms for a peaceful vibe during yoga.",
+          "date_label": "28 March, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:8"
+          ]
+        },
+        {
+          "fact_id": "yoga#24",
+          "text": "Deborah's favorite track for yoga is called 'Savana.'",
+          "date_label": "28 March, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:8"
+          ]
+        },
+        {
+          "fact_id": "yoga#25",
+          "text": "Jolene loves listening to Nils Frahm and Olafur Arnalds during her yoga practice.",
+          "date_label": "28 March, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:9"
+          ]
+        },
+        {
+          "fact_id": "yoga#26",
+          "text": "Deborah is listening to an album called 'Sleep,' which is great for meditation and deep relaxation.",
+          "date_label": "28 March, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:10"
+          ]
+        },
+        {
+          "fact_id": "yoga#27",
+          "text": "Jolene has been doing yoga sporadically for about 3 years.",
+          "date_label": "6 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:17"
+          ]
+        },
+        {
+          "fact_id": "yoga#28",
+          "text": "Yoga has helped Jolene with stress and kept her centered.",
+          "date_label": "6 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:19"
+          ]
+        },
+        {
+          "fact_id": "yoga#29",
+          "text": "Deborah recommends practicing mindful breathing for yoga.",
+          "date_label": "6 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:24"
+          ]
+        },
+        {
+          "fact_id": "yoga#30",
+          "text": "Deborah tried a new yoga pose called Dancer Pose (Natarajasana).",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:3"
+          ]
+        },
+        {
+          "fact_id": "yoga#31",
+          "text": "Deborah shared a photo of a tree pose during her yoga retreat.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:15"
+          ]
+        },
+        {
+          "fact_id": "yoga#32",
+          "text": "Deborah does running and yoga/meditation with others",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:11"
+          ]
+        },
+        {
+          "fact_id": "yoga#33",
+          "text": "Deborah organizes workshops and events to practice mindfulness and self-care",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:11"
+          ]
+        },
+        {
+          "fact_id": "yoga#34",
+          "text": "Deborah's workshops involve yoga, meditation, and self-reflection",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:13"
+          ]
+        },
+        {
+          "fact_id": "yoga#35",
+          "text": "Deborah's workshops aim to cultivate self-awareness and promote mental well-being",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:13"
+          ]
+        },
+        {
+          "fact_id": "yoga#36",
+          "text": "Jolene is trying to prioritize self-care, including yoga and meditation, to stay balanced and grounded.",
+          "date_label": "1 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:10"
+          ]
+        },
+        {
+          "fact_id": "yoga#37",
+          "text": "Deborah has a favorite yoga routine that is a gentle flow focused on breathing and grounding.",
+          "date_label": "1 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:15"
+          ]
+        },
+        {
+          "fact_id": "yoga#38",
+          "text": "Deborah led a meditation yoga session for the elderly at a local care home last week during sunset.",
+          "date_label": "16 August, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:8"
+          ]
+        },
+        {
+          "fact_id": "yoga#39",
+          "text": "Deborah has been focusing on teaching yoga and spending time with the community.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:3"
+          ]
+        },
+        {
+          "fact_id": "yoga#40",
+          "text": "Deborah organized a yoga event last month.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:3"
+          ]
+        },
+        {
+          "fact_id": "yoga#41",
+          "text": "Deborah reached out to different nearby businesses and places to organize the yoga event.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:5"
+          ]
+        },
+        {
+          "fact_id": "yoga#42",
+          "text": "The yoga event included yoga, food stalls, and live music.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:5"
+          ]
+        },
+        {
+          "fact_id": "yoga#43",
+          "text": "Deborah practices yoga and meditation to find balance and inner peace.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:12"
+          ]
+        },
+        {
+          "fact_id": "yoga#44",
+          "text": "Jolene practices yoga and meditation to help relax and stay focused.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:11"
+          ]
+        },
+        {
+          "fact_id": "yoga#45",
+          "text": "Jolene has been doing yoga for 3 years.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:21"
+          ]
+        },
+        {
+          "fact_id": "yoga#46",
+          "text": "Jolene's favorite yoga pose for rest is savasana, also known as the corpse pose.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:19"
+          ]
+        },
+        {
+          "fact_id": "yoga#47",
+          "text": "Jolene finds yoga to be a great way to escape studying and work stress.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:21"
+          ]
+        },
+        {
+          "fact_id": "yoga#48",
+          "text": "Jolene has been into yoga and meditation lately, which helps her recharge.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:16"
+          ]
+        },
+        {
+          "fact_id": "yoga#49",
+          "text": "Jolene checked out yoga classes during her trip to Rio de Janeiro.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:1"
+          ]
+        },
+        {
+          "fact_id": "yoga#50",
+          "text": "Jolene learned about different kinds of yoga and their backgrounds during her trip to Rio de Janeiro.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:3"
+          ]
+        },
+        {
+          "fact_id": "yoga#51",
+          "text": "Jolene and her partner plan a camping trip to connect with nature and practice yoga.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:4"
+          ]
+        },
+        {
+          "fact_id": "yoga#52",
+          "text": "Deborah finds doing yoga on the beach peaceful, as the ocean, sand, and fresh air create a relaxing atmosphere.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:15"
+          ]
+        },
+        {
+          "fact_id": "yoga#53",
+          "text": "Jolene creates her own serene yoga space with candles and oils for extra chill vibes.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:16"
+          ]
+        },
+        {
+          "fact_id": "yoga#54",
+          "text": "Jolene felt connected to nature and herself while doing yoga at the retreat.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Yoga",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Anna",
+      "type": "person",
+      "slug": "anna",
+      "path": "people/anna.md",
+      "facts": [
+        {
+          "fact_id": "anna#1",
+          "text": "Deborah met her new neighbor Anna at yoga in the park.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Anna",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:6"
+          ]
+        },
+        {
+          "fact_id": "anna#2",
+          "text": "Anna has a pendant that she wears in memory of her mother.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Anna",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:40"
+          ]
+        },
+        {
+          "fact_id": "anna#3",
+          "text": "Deborah and Anna were sitting by the sea, watching the sunset and talking about each other, realizing they inspire each other.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Anna",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D10:17"
+          ]
+        },
+        {
+          "fact_id": "anna#4",
+          "text": "Deborah told Anna the story of her life last Friday and they were super kind about it.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Anna",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Console gaming",
+      "type": "topic",
+      "slug": "console-gaming",
+      "path": "topics/console-gaming.md",
+      "facts": [
+        {
+          "fact_id": "console-gaming#1",
+          "text": "Jolene planned to play the console with her partner.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:11"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#2",
+          "text": "Jolene enjoys playing video games with her partner after a long day as a way to relax.",
+          "date_label": "9 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:6"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#3",
+          "text": "Jolene's partner helps her stay focused on gaming goals",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:6"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#4",
+          "text": "Jolene and her partner enjoy tackling challenges together in gaming",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:8"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#5",
+          "text": "Jolene and her partner love playing 'It takes two' together",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:10"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#6",
+          "text": "Jolene bought a console for her partner as a gift on the 17th.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:2"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#7",
+          "text": "Deborah used to play video games, but it's been a while.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:7"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#8",
+          "text": "Jolene recommends Zelda BOTW for Switch and Animal Crossing: New Horizons as video games.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:8"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#9",
+          "text": "Jolene often plays Overcooked 2 with her partner for bets.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:10"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#10",
+          "text": "Deborah and her husband used to play detective games together.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:13"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#11",
+          "text": "Jolene was given a new game for the console called Battlefield 1 last week.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:1"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#12",
+          "text": "Jolene's parents got her a Nintendo game console when she was 10, which started her passion for video games.",
+          "date_label": "3 September, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:6"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#13",
+          "text": "Jolene taught herself to play video games, but her dad was supportive and her mom would play games with her.",
+          "date_label": "3 September, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:8"
+          ]
+        },
+        {
+          "fact_id": "console-gaming#14",
+          "text": "Jolene's favorite game to play with her mom was 'Monster Hunter: World'.",
+          "date_label": "3 September, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Console gaming",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Robotics project",
+      "type": "topic",
+      "slug": "robotics-project",
+      "path": "topics/robotics-project.md",
+      "facts": [
+        {
+          "fact_id": "robotics-project#1",
+          "text": "Jolene's engineering professor gave her a huge robotics project that is tough but fun, making her get creative and problem-solve.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Robotics project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:1"
+          ]
+        },
+        {
+          "fact_id": "robotics-project#2",
+          "text": "Jolene felt a mix of emotions - excited and nervous - when she first received the robotics project.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Robotics project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:3"
+          ]
+        },
+        {
+          "fact_id": "robotics-project#3",
+          "text": "Jolene is really enjoying working on the robotics project and finds it like trying to solve a puzzle.",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Robotics project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Engineering",
+      "type": "topic",
+      "slug": "engineering",
+      "path": "topics/engineering.md",
+      "facts": [
+        {
+          "fact_id": "engineering#1",
+          "text": "Jolene designed and built a sustainable water purifier for a rural community in need.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:5"
+          ]
+        },
+        {
+          "fact_id": "engineering#2",
+          "text": "Jolene wants to continue working in engineering to make a positive impact on communities in need.",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:9"
+          ]
+        },
+        {
+          "fact_id": "engineering#3",
+          "text": "Jolene accomplished something with her engineering project during the mini retreat and came up with neat solutions.",
+          "date_label": "9 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:5"
+          ]
+        },
+        {
+          "fact_id": "engineering#4",
+          "text": "Jolene enjoys working on engineering projects with her partner.",
+          "date_label": "25 February, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:11"
+          ]
+        },
+        {
+          "fact_id": "engineering#5",
+          "text": "Jolene is having a hard time dealing with her Engineering assignments.",
+          "date_label": "13 March, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:14"
+          ]
+        },
+        {
+          "fact_id": "engineering#6",
+          "text": "Jolene is struggling to keep up with her Engineering assignments.",
+          "date_label": "13 March, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:14"
+          ]
+        },
+        {
+          "fact_id": "engineering#7",
+          "text": "Deborah is willing to talk about time management with Jolene.",
+          "date_label": "13 March, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:15"
+          ]
+        },
+        {
+          "fact_id": "engineering#8",
+          "text": "Jolene had a breakthrough with her engineering project on Friday.",
+          "date_label": "28 March, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:1"
+          ]
+        },
+        {
+          "fact_id": "engineering#9",
+          "text": "Jolene found a solution to a problem that had been bothering her.",
+          "date_label": "28 March, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:1"
+          ]
+        },
+        {
+          "fact_id": "engineering#10",
+          "text": "Jolene wrapped up a tough engineering project last month.",
+          "date_label": "6 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:1"
+          ]
+        },
+        {
+          "fact_id": "engineering#11",
+          "text": "Jolene is interning at a well-known engineering firm.",
+          "date_label": "6 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:5"
+          ]
+        },
+        {
+          "fact_id": "engineering#12",
+          "text": "Jolene has been able to apply what she learned in school to real projects during her internship.",
+          "date_label": "6 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:7"
+          ]
+        },
+        {
+          "fact_id": "engineering#13",
+          "text": "Jolene's internship has had a positive impact on her life and has stoked her love of engineering.",
+          "date_label": "6 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:9"
+          ]
+        },
+        {
+          "fact_id": "engineering#14",
+          "text": "Jolene's engineering studies are still going strong.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:2"
+          ]
+        },
+        {
+          "fact_id": "engineering#15",
+          "text": "Jolene is pursuing engineering and her partner is pursuing creative endeavors, influenced by their loved ones' values.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:4"
+          ]
+        },
+        {
+          "fact_id": "engineering#16",
+          "text": "Jolene wants to use her talents in engineering to do good and help solve important problems.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Green tech",
+      "type": "topic",
+      "slug": "green-tech",
+      "path": "topics/green-tech.md",
+      "facts": [
+        {
+          "fact_id": "green-tech#1",
+          "text": "Jolene wants to look into green tech to see how she can contribute to disadvantaged areas.",
+          "date_label": "9 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Green tech",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:7"
+          ]
+        },
+        {
+          "fact_id": "green-tech#2",
+          "text": "Jolene aims to work on projects that make a real difference to communities, focusing on sustainable initiatives and innovative solutions for environmental issues.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Green tech",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:8"
+          ]
+        },
+        {
+          "fact_id": "green-tech#3",
+          "text": "Jolene is particularly interested in developing renewable energy projects, like solar energy, to help communities.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Green tech",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:10"
+          ]
+        },
+        {
+          "fact_id": "green-tech#4",
+          "text": "Jolene is also interested in finding ways to supply clean water to those with limited access.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Green tech",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:12"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Volunteer program",
+      "type": "topic",
+      "slug": "volunteer-program",
+      "path": "topics/volunteer-program.md",
+      "facts": [
+        {
+          "fact_id": "volunteer-program#1",
+          "text": "Jolene had an idea for a volunteer program where engineers teach STEM to underprivileged kids.",
+          "date_label": "9 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Volunteer program",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:7"
+          ]
+        },
+        {
+          "fact_id": "volunteer-program#2",
+          "text": "Jolene is thinking of teaming up with local schools/centers to do workshops for the volunteer program.",
+          "date_label": "9 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Volunteer program",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:9"
+          ]
+        },
+        {
+          "fact_id": "volunteer-program#3",
+          "text": "Jolene plans to invite engineers as guest speakers to show kids their career options in the volunteer program.",
+          "date_label": "9 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Volunteer program",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:9"
+          ]
+        },
+        {
+          "fact_id": "volunteer-program#4",
+          "text": "Jolene has not yet reached out to any schools or centers for the volunteer program because she wants to solidify the plan first.",
+          "date_label": "9 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Volunteer program",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:11"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Surfing",
+      "type": "topic",
+      "slug": "surfing",
+      "path": "topics/surfing.md",
+      "facts": [
+        {
+          "fact_id": "surfing#1",
+          "text": "Jolene is interested in learning to surf and is gathering information, watching videos, and has a beginners' guide to surfing.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Surfing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:20"
+          ]
+        },
+        {
+          "fact_id": "surfing#2",
+          "text": "Deborah encourages Jolene to believe in herself and keep going with her surfing aspirations.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Surfing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:21"
+          ]
+        },
+        {
+          "fact_id": "surfing#3",
+          "text": "Jolene is motivated to try surfing and is determined to make it happen.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Surfing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:22"
+          ]
+        },
+        {
+          "fact_id": "surfing#4",
+          "text": "Deborah shares a photo of a person walking on the beach with a surfboard.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Surfing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:17"
+          ]
+        },
+        {
+          "fact_id": "surfing#5",
+          "text": "Deborah got married at a beach that is super special to her and discovered her love for surfing there.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Surfing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:11"
+          ]
+        },
+        {
+          "fact_id": "surfing#6",
+          "text": "Deborah has tried surfing.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Surfing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:25"
+          ]
+        },
+        {
+          "fact_id": "surfing#7",
+          "text": "Jolene has just started learning about surfing but hasn't gone yet.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Surfing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:30"
+          ]
+        },
+        {
+          "fact_id": "surfing#8",
+          "text": "Deborah and Jolene plan to try surfing together next month.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Surfing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:31",
+            "D29:34"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Time management",
+      "type": "topic",
+      "slug": "time-management",
+      "path": "topics/time-management.md",
+      "facts": [
+        {
+          "fact_id": "time-management#1",
+          "text": "Jolene is using the Pomodoro Technique to manage her time, working for 25 minutes followed by a 5-minute break.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:4"
+          ]
+        },
+        {
+          "fact_id": "time-management#2",
+          "text": "Deborah creates a daily schedule or to-do list to manage her time.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:5"
+          ]
+        },
+        {
+          "fact_id": "time-management#3",
+          "text": "Jolene finds making a to-do list overwhelming when it contains a large number of tasks.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:6"
+          ]
+        },
+        {
+          "fact_id": "time-management#4",
+          "text": "Deborah uses a method to organize tasks based on their importance and urgency.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:9"
+          ]
+        },
+        {
+          "fact_id": "time-management#5",
+          "text": "Deborah explains the Eisenhower Matrix, which sorts tasks into four boxes based on urgency and importance.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:13"
+          ]
+        },
+        {
+          "fact_id": "time-management#6",
+          "text": "Deborah shares a photo of a pair of scissors sitting on top of a piece of paper to illustrate the Eisenhower Matrix.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:13"
+          ]
+        },
+        {
+          "fact_id": "time-management#7",
+          "text": "Deborah shares a photo of a notepad with a list of things to do.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:5"
+          ]
+        },
+        {
+          "fact_id": "time-management#8",
+          "text": "Jolene shares a photo of a notepad with notes on it on a counter from last Friday.",
+          "date_label": "22 March, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:6"
+          ]
+        },
+        {
+          "fact_id": "time-management#9",
+          "text": "Jolene has been struggling to find a good work-life balance during her internship.",
+          "date_label": "6 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:13"
+          ]
+        },
+        {
+          "fact_id": "time-management#10",
+          "text": "Jolene is trying to add workouts into her studying schedule",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:2"
+          ]
+        },
+        {
+          "fact_id": "time-management#11",
+          "text": "Jolene has been trying out time management strategies and started using a bullet journal.",
+          "date_label": "16 August, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:3"
+          ]
+        },
+        {
+          "fact_id": "time-management#12",
+          "text": "Jolene finds her bullet journal helpful for tracking tasks and staying organized.",
+          "date_label": "16 August, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:3"
+          ]
+        },
+        {
+          "fact_id": "time-management#13",
+          "text": "Jolene feels satisfaction when she crosses tasks off her list in her bullet journal.",
+          "date_label": "16 August, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:5"
+          ]
+        },
+        {
+          "fact_id": "time-management#14",
+          "text": "Jolene has a favorite quote in her bullet journal that serves as a reminder to stick to her goals.",
+          "date_label": "16 August, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:5",
+            "D18:7"
+          ]
+        },
+        {
+          "fact_id": "time-management#15",
+          "text": "Deborah finds it helpful to prioritize and manage her time effectively to balance hobbies and studies.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:5"
+          ]
+        },
+        {
+          "fact_id": "time-management#16",
+          "text": "Jolene has a routine that helps her stay on top of her schedule for classes, studying, and personal time.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:6"
+          ]
+        },
+        {
+          "fact_id": "time-management#17",
+          "text": "Jolene offered to share her time management strategies with Deborah.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Time management",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:8"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Art show",
+      "type": "event",
+      "slug": "art-show",
+      "path": "events/art-show.md",
+      "facts": [
+        {
+          "fact_id": "art-show#1",
+          "text": "Deborah checked out an art show with a friend on 9 April, 2023.",
+          "date_label": "9 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Art show",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "art-show#2",
+          "text": "Deborah finds comfort in experiencing art shows as a way to keep her mom's memory alive.",
+          "date_label": "9 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Art show",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:3",
+            "D12:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Biking",
+      "type": "topic",
+      "slug": "biking",
+      "path": "topics/biking.md",
+      "facts": [
+        {
+          "fact_id": "biking#1",
+          "text": "Deborah had a blast biking nearby with her neighbor last week.",
+          "date_label": "9 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Biking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Project",
+      "type": "topic",
+      "slug": "project",
+      "path": "topics/project.md",
+      "facts": [
+        {
+          "fact_id": "project#1",
+          "text": "Jolene has been working on a big project that has been tough but also cool to watch take shape.",
+          "date_label": "9 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:10"
+          ]
+        },
+        {
+          "fact_id": "project#2",
+          "text": "Deborah supports Jolene in her project and is waiting to hear how everything turns out.",
+          "date_label": "9 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:11"
+          ]
+        },
+        {
+          "fact_id": "project#3",
+          "text": "Jolene appreciates Deborah's support and will keep her updated on the progress of the project.",
+          "date_label": "9 April, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:12"
+          ]
+        },
+        {
+          "fact_id": "project#4",
+          "text": "Jolene had a big breakthrough with her project.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:12"
+          ]
+        },
+        {
+          "fact_id": "project#5",
+          "text": "Deborah started a project for a cleanup in her community and is trying to raise funds for it.",
+          "date_label": "1 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:1"
+          ]
+        },
+        {
+          "fact_id": "project#6",
+          "text": "Jolene experienced a huge setback with her project last week, losing everything she worked on.",
+          "date_label": "1 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:2"
+          ]
+        },
+        {
+          "fact_id": "project#7",
+          "text": "Jolene is working on a prototype that could revolutionize aerial surveillance",
+          "date_label": "12 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:10"
+          ]
+        },
+        {
+          "fact_id": "project#8",
+          "text": "Jolene aims to devise a more productive and affordable aerial surveillance system",
+          "date_label": "12 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:12"
+          ]
+        },
+        {
+          "fact_id": "project#9",
+          "text": "Jolene's aerial surveillance system will help with responding to emergencies and monitoring the environment",
+          "date_label": "12 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:12"
+          ]
+        },
+        {
+          "fact_id": "project#10",
+          "text": "Jolene is currently working on a tough project",
+          "date_label": "6 September, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Project",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:7"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Aquarium",
+      "type": "event",
+      "slug": "aquarium",
+      "path": "events/aquarium.md",
+      "facts": [
+        {
+          "fact_id": "aquarium#1",
+          "text": "Jolene bought a new aquarium two days before this conversation.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Aquarium",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:4"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Internship",
+      "type": "topic",
+      "slug": "internship",
+      "path": "topics/internship.md",
+      "facts": [
+        {
+          "fact_id": "internship#1",
+          "text": "Jolene feels overwhelmed but is determined to overcome obstacles and achieve her goals.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Internship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:10"
+          ]
+        },
+        {
+          "fact_id": "internship#2",
+          "text": "Jolene is considering more internships to enhance her skills.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Internship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:8"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pets",
+      "type": "topic",
+      "slug": "pets",
+      "path": "topics/pets.md",
+      "facts": [
+        {
+          "fact_id": "pets#1",
+          "text": "Deborah believes pets make life more enjoyable and bright.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:7"
+          ]
+        },
+        {
+          "fact_id": "pets#2",
+          "text": "Jolene has a pet snake",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:18"
+          ]
+        },
+        {
+          "fact_id": "pets#3",
+          "text": "Jolene finds taking care of her snake calming",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:18"
+          ]
+        },
+        {
+          "fact_id": "pets#4",
+          "text": "Jolene has a favorite memory of her snake adventure when she found her snake snuggling under the bed",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:20"
+          ]
+        },
+        {
+          "fact_id": "pets#5",
+          "text": "Deborah has cats as pets and does not like dogs",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:25"
+          ]
+        },
+        {
+          "fact_id": "pets#6",
+          "text": "Deborah takes her cats out for a run in the park every morning and evening",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:27"
+          ]
+        },
+        {
+          "fact_id": "pets#7",
+          "text": "Jolene would love to take her snakes out for runs",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:30"
+          ]
+        },
+        {
+          "fact_id": "pets#8",
+          "text": "Jolene adopted her pet, Susie, two years ago when she was feeling lonely and wanted some company.",
+          "date_label": "1 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:6"
+          ]
+        },
+        {
+          "fact_id": "pets#9",
+          "text": "Jolene's snakes enjoy watching her practice yoga and bring her a sense of calm.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:18"
+          ]
+        },
+        {
+          "fact_id": "pets#10",
+          "text": "Deborah has two cats named Luna and Max.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:19",
+            "D22:21"
+          ]
+        },
+        {
+          "fact_id": "pets#11",
+          "text": "Max is 8 years old and was taken by Deborah after her mother passed away.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:23",
+            "D22:27"
+          ]
+        },
+        {
+          "fact_id": "pets#12",
+          "text": "Luna is 5 years old and was taken by Deborah from the shelter.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:25",
+            "D22:29"
+          ]
+        },
+        {
+          "fact_id": "pets#13",
+          "text": "Jolene has a pet snake named Susie, whom she has had for two years.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:26"
+          ]
+        },
+        {
+          "fact_id": "pets#14",
+          "text": "Jolene believes pets bring comfort and peace when needed.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:27"
+          ]
+        },
+        {
+          "fact_id": "pets#15",
+          "text": "Jolene thinks pets make life a lot brighter.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Pets",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:30"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seraphim",
+      "type": "person",
+      "slug": "seraphim",
+      "path": "people/seraphim.md",
+      "facts": [
+        {
+          "fact_id": "seraphim#1",
+          "text": "Jolene has a pet snake named Seraphim.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Seraphim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:6"
+          ]
+        },
+        {
+          "fact_id": "seraphim#2",
+          "text": "Jolene finds spending time with her pet snake comforting.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Seraphim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:6"
+          ]
+        },
+        {
+          "fact_id": "seraphim#3",
+          "text": "Jolene is thankful for having a calm creature around.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Seraphim",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:8"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Statue",
+      "type": "topic",
+      "slug": "statue",
+      "path": "topics/statue.md",
+      "facts": [
+        {
+          "fact_id": "statue#1",
+          "text": "The statue in Deborah's photo is a symbol of peace and enlightenment.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Statue",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:17"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sunset",
+      "type": "event",
+      "slug": "sunset",
+      "path": "events/sunset.md",
+      "facts": [
+        {
+          "fact_id": "sunset#1",
+          "text": "Deborah shared a photo of a sunset reflecting in a lake with a boat.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Sunset",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:23"
+          ]
+        },
+        {
+          "fact_id": "sunset#2",
+          "text": "Jolene shared a photo of a sunset over a body of water",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Sunset",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:32"
+          ]
+        },
+        {
+          "fact_id": "sunset#3",
+          "text": "Deborah recently saw a wonderful sunrise",
+          "date_label": "6 September, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Sunset",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D25:12"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yoga retreat",
+      "type": "event",
+      "slug": "yoga-retreat",
+      "path": "events/yoga-retreat.md",
+      "facts": [
+        {
+          "fact_id": "yoga-retreat#1",
+          "text": "Deborah is getting ready for a yoga retreat with some buddies.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Yoga retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:1"
+          ]
+        },
+        {
+          "fact_id": "yoga-retreat#2",
+          "text": "Jolene would love to visit a yoga retreat like Deborah's.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Yoga retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:18"
+          ]
+        },
+        {
+          "fact_id": "yoga-retreat#3",
+          "text": "Deborah believes the retreat is perfect for reflecting and getting centered.",
+          "date_label": "26 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Yoga retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:19"
+          ]
+        },
+        {
+          "fact_id": "yoga-retreat#4",
+          "text": "Deborah made a meditation guide for her yoga retreat",
+          "date_label": "12 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Yoga retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:1"
+          ]
+        },
+        {
+          "fact_id": "yoga-retreat#5",
+          "text": "Deborah attended a yoga retreat near her mom's place last week.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Yoga retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D21:1"
+          ]
+        },
+        {
+          "fact_id": "yoga-retreat#6",
+          "text": "Deborah found the yoga retreat life-changing and enjoyed connecting with nature.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Yoga retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D21:1"
+          ]
+        },
+        {
+          "fact_id": "yoga-retreat#7",
+          "text": "Jolene and her partner are planning to go on a meditation retreat together to enhance their practice.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Yoga retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D22:16"
+          ]
+        },
+        {
+          "fact_id": "yoga-retreat#8",
+          "text": "Jolene and her partner attended a yoga retreat last year.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Yoga retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D30:4"
+          ]
+        },
+        {
+          "fact_id": "yoga-retreat#9",
+          "text": "Jolene found the yoga retreat peaceful and the view during yoga was amazing.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Yoga retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D30:4"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nature",
+      "type": "topic",
+      "slug": "nature",
+      "path": "topics/nature.md",
+      "facts": [
+        {
+          "fact_id": "nature#1",
+          "text": "Jolene enjoys going for walks to take in nature",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:32"
+          ]
+        },
+        {
+          "fact_id": "nature#2",
+          "text": "Jolene shared a photo of a dock on a lake surrounded by trees",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:34"
+          ]
+        },
+        {
+          "fact_id": "nature#3",
+          "text": "Jolene finds the hidden gem of a spot by the lake peaceful and tranquil",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:36"
+          ]
+        },
+        {
+          "fact_id": "nature#4",
+          "text": "Deborah and her husband enjoyed spending time outdoors and exploring nature.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:15"
+          ]
+        },
+        {
+          "fact_id": "nature#5",
+          "text": "Deborah loves going to a park near her house that has a nice forest trail and a beach.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:17"
+          ]
+        },
+        {
+          "fact_id": "nature#6",
+          "text": "Deborah has a special bench in the park that holds special meaning to her.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:17"
+          ]
+        },
+        {
+          "fact_id": "nature#7",
+          "text": "The bench in the park holds a lot of special memories for Deborah and her mom.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:19"
+          ]
+        },
+        {
+          "fact_id": "nature#8",
+          "text": "Deborah cherishes memories of watching a beautiful sunset with her mom at the park.",
+          "date_label": "19 August, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:21"
+          ]
+        },
+        {
+          "fact_id": "nature#9",
+          "text": "Deborah believes that nature and self-reflection have helped her see the beauty in every moment.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:3"
+          ]
+        },
+        {
+          "fact_id": "nature#10",
+          "text": "Deborah has a favorite spot by a lake where she ponders and lets things go.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:12"
+          ]
+        },
+        {
+          "fact_id": "nature#11",
+          "text": "Deborah enjoys the soothing vibes and nice views at her favorite spot for reflecting and letting go.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:14"
+          ]
+        },
+        {
+          "fact_id": "nature#12",
+          "text": "Jolene finds beach walks relaxing",
+          "date_label": "6 September, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:13"
+          ]
+        },
+        {
+          "fact_id": "nature#13",
+          "text": "Jolene took a hike with her partner and came across a waterfall oasis.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:8"
+          ]
+        },
+        {
+          "fact_id": "nature#14",
+          "text": "Jolene is planning to get out in nature again next month.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:10"
+          ]
+        },
+        {
+          "fact_id": "nature#15",
+          "text": "Deborah feels that watching the blossom tree bloom is like admiring nature's artwork.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:13"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Running group",
+      "type": "topic",
+      "slug": "running-group",
+      "path": "topics/running-group.md",
+      "facts": [
+        {
+          "fact_id": "running-group#1",
+          "text": "Deborah started a running group with Anna",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Running group",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:1"
+          ]
+        },
+        {
+          "fact_id": "running-group#2",
+          "text": "Deborah enjoys connecting with people who care about fitness",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Running group",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:1"
+          ]
+        },
+        {
+          "fact_id": "running-group#3",
+          "text": "Deborah helps and pushes others during her runs",
+          "date_label": "9 July, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Running group",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Art",
+      "type": "topic",
+      "slug": "art",
+      "path": "topics/art.md",
+      "facts": [
+        {
+          "fact_id": "art#1",
+          "text": "Jolene designed notebooks inspired by her love for space and engines",
+          "date_label": "12 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Art",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:6"
+          ]
+        },
+        {
+          "fact_id": "art#2",
+          "text": "Jolene's notebooks feature elements like galaxies and circuitry",
+          "date_label": "12 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Art",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Meditation",
+      "type": "topic",
+      "slug": "meditation",
+      "path": "topics/meditation.md",
+      "facts": [
+        {
+          "fact_id": "meditation#1",
+          "text": "Jolene used meditation to regain clarity after losing her work files",
+          "date_label": "12 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:2"
+          ]
+        },
+        {
+          "fact_id": "meditation#2",
+          "text": "Jolene is interested in destressing and trying mindfulness.",
+          "date_label": "16 August, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:9"
+          ]
+        },
+        {
+          "fact_id": "meditation#3",
+          "text": "Deborah started with workshops and books, and now mindfulness is a huge part of her life.",
+          "date_label": "16 August, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:10"
+          ]
+        },
+        {
+          "fact_id": "meditation#4",
+          "text": "Deborah is happy to assist Jolene with her journey into mindfulness.",
+          "date_label": "16 August, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:12"
+          ]
+        },
+        {
+          "fact_id": "meditation#5",
+          "text": "Jolene meditates by a tranquil spot at a nearby place.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:9"
+          ]
+        },
+        {
+          "fact_id": "meditation#6",
+          "text": "Meditating helps Jolene make sense of everything and relieves stress.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:11"
+          ]
+        },
+        {
+          "fact_id": "meditation#7",
+          "text": "Jolene signed up for a meditation course at a retreat near a lake",
+          "date_label": "6 September, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:1"
+          ]
+        },
+        {
+          "fact_id": "meditation#8",
+          "text": "Jolene is excited to share the meditation experience with her partner",
+          "date_label": "6 September, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:1"
+          ]
+        },
+        {
+          "fact_id": "meditation#9",
+          "text": "Deborah has incorporated meditation into her routine",
+          "date_label": "6 September, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:4"
+          ]
+        },
+        {
+          "fact_id": "meditation#10",
+          "text": "Jolene finds meditation helps her stay balanced during her studies",
+          "date_label": "6 September, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:5"
+          ]
+        },
+        {
+          "fact_id": "meditation#11",
+          "text": "Jolene tried a new style of meditation in Thailand that involved flowers.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:16"
+          ]
+        },
+        {
+          "fact_id": "meditation#12",
+          "text": "Jolene finds calm when she does yoga or meditates, using essential oils and soft music to create a peaceful atmosphere.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Meditation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:18"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Appreciation",
+      "type": "topic",
+      "slug": "appreciation",
+      "path": "topics/appreciation.md",
+      "facts": [
+        {
+          "fact_id": "appreciation#1",
+          "text": "Deborah learned to appreciate flowers by taking it slow, seeing beauty in them, and finding joy.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Appreciation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:8"
+          ]
+        },
+        {
+          "fact_id": "appreciation#2",
+          "text": "Jolene believes that appreciating small things helps her remember that there's always something positive to hang onto.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Appreciation",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:16"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Memories",
+      "type": "topic",
+      "slug": "memories",
+      "path": "topics/memories.md",
+      "facts": [
+        {
+          "fact_id": "memories#1",
+          "text": "Deborah went to a place that held a lot of memories for her and sat on a bench where she used to chat.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:2"
+          ]
+        },
+        {
+          "fact_id": "memories#2",
+          "text": "Deborah felt nostalgia, longing, and gratitude for the memories at the place she visited.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:4"
+          ]
+        },
+        {
+          "fact_id": "memories#3",
+          "text": "Deborah brought flowers to the place that held memories for her.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:4"
+          ]
+        },
+        {
+          "fact_id": "memories#4",
+          "text": "Deborah has been thinking about her mom's influence and believes that remembering those we love is important.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:1"
+          ]
+        },
+        {
+          "fact_id": "memories#5",
+          "text": "Jolene and her partner talked about how their loved ones have influenced them and what their values meant to them last Friday.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:2"
+          ]
+        },
+        {
+          "fact_id": "memories#6",
+          "text": "Deborah found an old photo from when she first started doing yoga, where her mum was her biggest fan and source of motivation.",
+          "date_label": "3 September, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:5"
+          ]
+        },
+        {
+          "fact_id": "memories#7",
+          "text": "Jolene's last beach getaway was chill and nice",
+          "date_label": "6 September, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:15"
+          ]
+        },
+        {
+          "fact_id": "memories#8",
+          "text": "Jolene hopes to watch the sunrise with Deborah one day",
+          "date_label": "6 September, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:17"
+          ]
+        },
+        {
+          "fact_id": "memories#9",
+          "text": "Deborah and her mom's friends reminisced and looked through her mom's photos.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:7"
+          ]
+        },
+        {
+          "fact_id": "memories#10",
+          "text": "Deborah believes pictures bring back memories and help appreciate the special bond with loved ones.",
+          "date_label": "15 September, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:9"
+          ]
+        },
+        {
+          "fact_id": "memories#11",
+          "text": "Deborah visited her mom's old house on 10 September 2023.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:5"
+          ]
+        },
+        {
+          "fact_id": "memories#12",
+          "text": "Deborah felt her mom's presence guide her during the visit to her old house.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:5"
+          ]
+        },
+        {
+          "fact_id": "memories#13",
+          "text": "Deborah has memories of her mom singing lullabies to her.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Memories",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mindfulness",
+      "type": "topic",
+      "slug": "mindfulness",
+      "path": "topics/mindfulness.md",
+      "facts": [
+        {
+          "fact_id": "mindfulness#1",
+          "text": "Deborah goes out for walks and stays mindful to keep herself grounded.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Mindfulness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:12"
+          ]
+        },
+        {
+          "fact_id": "mindfulness#2",
+          "text": "Jolene is trying to be more mindful and grateful to appreciate the small moments in life.",
+          "date_label": "12 September, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Mindfulness",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:7"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "type": "topic",
+      "slug": "support",
+      "path": "topics/support.md",
+      "facts": [
+        {
+          "fact_id": "support#1",
+          "text": "Deborah encourages Jolene to keep finding her zen.",
+          "date_label": "21 August, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Support",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:24"
+          ]
+        },
+        {
+          "fact_id": "support#2",
+          "text": "Deborah expressed pride in Jolene's achievements and offered her support.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Support",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:9"
+          ]
+        },
+        {
+          "fact_id": "support#3",
+          "text": "Jolene appreciates Deborah's support.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Support",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:10"
+          ]
+        },
+        {
+          "fact_id": "support#4",
+          "text": "Deborah encouraged Jolene to reach for her goals and enjoy the journey.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Support",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:13"
+          ]
+        },
+        {
+          "fact_id": "support#5",
+          "text": "Deborah believes the journey is as important as the destination and encourages taking time for oneself.",
+          "date_label": "24 August, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Support",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:15"
+          ]
+        },
+        {
+          "fact_id": "support#6",
+          "text": "Deborah received a quote from a friend that says, 'Let go of what no longer serves you.'",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Support",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:22"
+          ]
+        },
+        {
+          "fact_id": "support#7",
+          "text": "Jolene has a quote in her notebook that inspires her to stay focused and let go of negativity.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Support",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:23"
+          ]
+        },
+        {
+          "fact_id": "support#8",
+          "text": "Jolene came across a quote that reminds her to focus on growing and being positive.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Support",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:25"
+          ]
+        },
+        {
+          "fact_id": "support#9",
+          "text": "Deborah's yoga pals have been her second family and they have supported each other through a lot.",
+          "date_label": "3 September, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Support",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:5"
+          ]
+        },
+        {
+          "fact_id": "support#10",
+          "text": "Deborah supports Jolene in handling her challenges",
+          "date_label": "6 September, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Support",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:8"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Values",
+      "type": "topic",
+      "slug": "values",
+      "path": "topics/values.md",
+      "facts": [
+        {
+          "fact_id": "values#1",
+          "text": "Jolene's mom taught her to persevere and stay resilient, and her partner's dad showed them to stay determined.",
+          "date_label": "26 August, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Values",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:4"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Plants",
+      "type": "topic",
+      "slug": "plants",
+      "path": "topics/plants.md",
+      "facts": [
+        {
+          "fact_id": "plants#1",
+          "text": "Jolene has a new plant as a reminder to nurture herself and embrace fresh starts.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Plants",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:27"
+          ]
+        },
+        {
+          "fact_id": "plants#2",
+          "text": "Jolene shared a photo of a plant growing out of a corner of a building.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Plants",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:14"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rio de Janeiro trip",
+      "type": "event",
+      "slug": "rio-de-janeiro-trip",
+      "path": "events/rio-de-janeiro-trip.md",
+      "facts": [
+        {
+          "fact_id": "rio-de-janeiro-trip#1",
+          "text": "Jolene and her partner went on a trip to Rio de Janeiro on 29 August 2023.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Rio de Janeiro trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D23:1"
+          ]
+        },
+        {
+          "fact_id": "rio-de-janeiro-trip#2",
+          "text": "Jolene visited an old temple during her trip to Rio de Janeiro.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Rio de Janeiro trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D23:17"
+          ]
+        },
+        {
+          "fact_id": "rio-de-janeiro-trip#3",
+          "text": "Deborah was in Rio de Janeiro three years ago and took a beautiful photo on one of her excursions.",
+          "date_label": "30 August, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Rio de Janeiro trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D23:18"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Community meetup",
+      "type": "event",
+      "slug": "community-meetup",
+      "path": "events/community-meetup.md",
+      "facts": [
+        {
+          "fact_id": "community-meetup#1",
+          "text": "Deborah attended a community meetup last Friday where they shared stories and felt connected.",
+          "date_label": "3 September, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Community meetup",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Books",
+      "type": "topic",
+      "slug": "books",
+      "path": "topics/books.md",
+      "facts": [
+        {
+          "fact_id": "books#1",
+          "text": "Deborah asked Jolene to grab her some interesting books.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:21"
+          ]
+        },
+        {
+          "fact_id": "books#2",
+          "text": "Deborah has a big bookshelf.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:19"
+          ]
+        },
+        {
+          "fact_id": "books#3",
+          "text": "Jolene read a self-discovery book in her bathroom that resonated with her.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Books",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:22"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coffee date",
+      "type": "event",
+      "slug": "coffee-date",
+      "path": "events/coffee-date.md",
+      "facts": [
+        {
+          "fact_id": "coffee-date#1",
+          "text": "Jolene proposed meeting at a cafe next Monday to try fresh pastries.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Coffee date",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:10"
+          ]
+        },
+        {
+          "fact_id": "coffee-date#2",
+          "text": "Jolene suggested meeting on Wednesday at 4 for coffee.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Coffee date",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:12"
+          ]
+        },
+        {
+          "fact_id": "coffee-date#3",
+          "text": "Deborah had to cancel the coffee date on Wednesday due to prior plans.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Coffee date",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:15"
+          ]
+        },
+        {
+          "fact_id": "coffee-date#4",
+          "text": "Jolene will check her schedule for a more convenient time to meet.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Coffee date",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:16"
+          ]
+        },
+        {
+          "fact_id": "coffee-date#5",
+          "text": "Jolene proposed meeting on Friday at 5 for coffee after sorting out books from her bookcase.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Coffee date",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:18"
+          ]
+        },
+        {
+          "fact_id": "coffee-date#6",
+          "text": "Deborah agreed to meet Jolene for coffee on Friday at 5.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Coffee date",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:19"
+          ]
+        },
+        {
+          "fact_id": "coffee-date#7",
+          "text": "Jolene expressed excitement for their upcoming coffee date.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Coffee date",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coffee shop",
+      "type": "topic",
+      "slug": "coffee-shop",
+      "path": "topics/coffee-shop.md",
+      "facts": [
+        {
+          "fact_id": "coffee-shop#1",
+          "text": "Deborah mentioned a cool hidden coffee shop near her and asked Jolene to rate it.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Coffee shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:13"
+          ]
+        },
+        {
+          "fact_id": "coffee-shop#2",
+          "text": "Jolene asked Deborah to tell her more about the hidden coffee shop when they meet.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Coffee shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:14"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Self-care",
+      "type": "topic",
+      "slug": "self-care",
+      "path": "topics/self-care.md",
+      "facts": [
+        {
+          "fact_id": "self-care#1",
+          "text": "Jolene engages in self-care activities like yoga and meditation to stay balanced and relax.",
+          "date_label": "8 September, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Card game",
+      "type": "topic",
+      "slug": "card-game",
+      "path": "topics/card-game.md",
+      "facts": [
+        {
+          "fact_id": "card-game#1",
+          "text": "Deborah played a card game about cats that involves taking cards from a deck and attacking opponents with them.",
+          "date_label": "12 September, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Card game",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:12"
+          ]
+        },
+        {
+          "fact_id": "card-game#2",
+          "text": "Deborah plans to play the card game with Jolene.",
+          "date_label": "12 September, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Card game",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:12"
+          ]
+        },
+        {
+          "fact_id": "card-game#3",
+          "text": "Jolene looks forward to meeting Deborah and playing the card game.",
+          "date_label": "12 September, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Card game",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:13"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Meditation retreat",
+      "type": "event",
+      "slug": "meditation-retreat",
+      "path": "events/meditation-retreat.md",
+      "facts": [
+        {
+          "fact_id": "meditation-retreat#1",
+          "text": "Jolene and her partner traveled to a meditation retreat for a few weeks in Phuket last weekend.",
+          "date_label": "12 September, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Meditation retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:1"
+          ]
+        },
+        {
+          "fact_id": "meditation-retreat#2",
+          "text": "Jolene found the meditation retreat to be an amazing experience that helped her find inner peace.",
+          "date_label": "12 September, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Meditation retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:1"
+          ]
+        },
+        {
+          "fact_id": "meditation-retreat#3",
+          "text": "At the meditation retreat, Jolene reflected on what makes her happy and realized the importance of incorporating relaxation, self-care, and balance in life alongside her engineering studies.",
+          "date_label": "12 September, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Meditation retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:3"
+          ]
+        },
+        {
+          "fact_id": "meditation-retreat#4",
+          "text": "A session at the meditation retreat that stood out to Jolene was about releasing expectations and judgments and savoring the present.",
+          "date_label": "12 September, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Meditation retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:5"
+          ]
+        },
+        {
+          "fact_id": "meditation-retreat#5",
+          "text": "Jolene usually gets too consumed with hitting her goals and forgets to appreciate the journey.",
+          "date_label": "12 September, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Meditation retreat",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cooking",
+      "type": "topic",
+      "slug": "cooking",
+      "path": "topics/cooking.md",
+      "facts": [
+        {
+          "fact_id": "cooking#1",
+          "text": "Deborah's mom had a big passion for cooking.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:7"
+          ]
+        },
+        {
+          "fact_id": "cooking#2",
+          "text": "Deborah remembers the smell of her mom's special dish filling the house.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:7"
+          ]
+        },
+        {
+          "fact_id": "cooking#3",
+          "text": "Deborah loved when her mom baked pineapple birthday cakes for her when she was a kid.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:9"
+          ]
+        },
+        {
+          "fact_id": "cooking#4",
+          "text": "Jolene used to bake cookies with someone close to her.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:12"
+          ]
+        },
+        {
+          "fact_id": "cooking#5",
+          "text": "Jolene's favorite cookie to make is a warm, gooey chocolate and soft, buttery cookie.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:14"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gardening",
+      "type": "event",
+      "slug": "gardening",
+      "path": "events/gardening.md",
+      "facts": [
+        {
+          "fact_id": "gardening#1",
+          "text": "Deborah and her neighbor ran a free gardening class for the community on 16 September 2023.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Gardening",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:1"
+          ]
+        },
+        {
+          "fact_id": "gardening#2",
+          "text": "People of any age joined in the gardening class.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Gardening",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Scuba diving",
+      "type": "event",
+      "slug": "scuba-diving",
+      "path": "events/scuba-diving.md",
+      "facts": [
+        {
+          "fact_id": "scuba-diving#1",
+          "text": "Jolene tried a scuba diving lesson on 15 September 2023.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Scuba diving",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:4"
+          ]
+        },
+        {
+          "fact_id": "scuba-diving#2",
+          "text": "Jolene found a cool dive spot to explore.",
+          "date_label": "17 September, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Scuba diving",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:4"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Blossom tree",
+      "type": "topic",
+      "slug": "blossom-tree",
+      "path": "topics/blossom-tree.md",
+      "facts": [
+        {
+          "fact_id": "blossom-tree#1",
+          "text": "Deborah admires a blossom tree near her home that blooms every spring.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Blossom tree",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:11"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Music",
+      "type": "topic",
+      "slug": "music",
+      "path": "topics/music.md",
+      "facts": [
+        {
+          "fact_id": "music#1",
+          "text": "Deborah feels that music brings people together and helps express feelings.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Music festival",
+      "type": "event",
+      "slug": "music-festival",
+      "path": "events/music-festival.md",
+      "facts": [
+        {
+          "fact_id": "music-festival#1",
+          "text": "Deborah had a great time at a music festival with her pals on 20 September 2023.",
+          "date_label": "20 September, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D30:1"
+          ]
+        }
+      ]
+    }
+  ]
+}

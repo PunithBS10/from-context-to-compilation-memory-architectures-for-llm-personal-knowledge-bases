@@ -82,7 +82,16 @@ EXTRACTION_SYSTEM = (
     "not say. Reply with JSON only."
 )
 
-EXTRACTION_TEMPLATE = """Conversation between {speakers}.
+# --- System B's compiler, frozen --------------------------------------------
+# System B is complete, published and committed, and the wikis in
+# results/wikis/ are the artefact both its results and its fidelity audit rest
+# on. Its prompt and version are therefore pinned here verbatim rather than
+# left in git history. System C changes the compiler; if B's own prompt were
+# the thing that changed, B's wikis would look stale to B's reuse check and the
+# next `--system b` run would silently recompile over the published artefact.
+B_COMPILER_VERSION = "b2"
+
+B_EXTRACTION_TEMPLATE = """Conversation between {speakers}.
 This is session {session_number}, which took place on {date}.
 
 Transcript of this session:
@@ -129,18 +138,103 @@ Reply with JSON only, in this form:
   {{"fact": "Caroline painted a sunrise over the harbour", "page": "Painting", "page_type": "topic"}}
 ]}}"""
 
-# Bump when the compiler's behaviour changes in a way the prompt text does not
-# capture -- parsing, page assignment, fact repair. Wikis built by an older
-# compiler are then rebuilt instead of being silently reused.
-COMPILER_VERSION = "b2"
 
-# A prompt edit or a compiler change makes every wiki built before it a
-# different artefact. This fingerprint goes into each wiki's manifest and into
-# the results config snapshot, and a wiki on disk is reused only when it
-# matches the build in force now.
-BUILD_FINGERPRINT = hashlib.sha256(
-    (EXTRACTION_SYSTEM + EXTRACTION_TEMPLATE + COMPILER_VERSION).encode("utf-8")
-).hexdigest()[:12]
+# --- System C's compiler ----------------------------------------------------
+# Identical to B's in shape - one call per session, incremental, page
+# assignment by subject matter - with one addition: the transcript is rendered
+# with each turn's id, and every fact must name the turn or turns it came from.
+# That citation is the whole of System C. A model cannot cite an id it was
+# never shown, so the two changes are a pair and neither works alone.
+COMPILER_VERSION = "c1"
+
+EXTRACTION_TEMPLATE = """Conversation between {speakers}.
+This is session {session_number}, which took place on {date}.
+
+Transcript of this session. Every turn is prefixed with its id in square
+brackets, like [D7:11]:
+{transcript}
+
+Pages that already exist in the knowledge base:
+{page_list}
+
+Write down the facts this session states.
+
+Rules:
+1. Only facts stated in THIS session. Never infer, embellish, or add outside
+   knowledge. If the session does not say it, it does not go in.
+2. Name the subject explicitly in every fact: write "Melanie ran a charity
+   race", never "She ran a charity race". Take care to attribute each fact to
+   the right person - the two speakers must never be mixed up.
+3. One fact per entry, short and self-contained. Prefer several small facts to
+   one long compound sentence.
+4. Keep any time reference the speaker gave inside the fact text ("last year",
+   "in 2019", "two weeks ago", "when she was a child"). Do NOT write the
+   session date into the fact - it is attached automatically.
+5. File each fact on a page chosen by SUBJECT MATTER, not by who said it:
+   - page_type "person": who someone IS - their job, family, home, health,
+     identity, where they live. One page per person, titled with their name.
+   - page_type "event": something that happened at a particular time - a race,
+     a trip, a performance, a hospital visit, a party.
+   - page_type "topic": an interest, project or recurring thread - painting,
+     adoption research, marathon training, a job hunt.
+   Most facts belong on an event or topic page. A person page must NOT become a
+   diary of everything someone did: if a fact is about an activity, it goes on
+   that activity's page even though a person is its subject. Reuse an existing
+   page title EXACTLY where one fits; otherwise name a new page. Keep titles
+   short and general enough to be reused later ("Painting", not "Melanie's
+   painting of a sunrise").
+   The page value is a TITLE - "Painting", "Charity race", "Melanie" - never
+   the words "Person", "Event", "Topic", "Misc" or "General". A fact that fits
+   no existing page gets a specific new title of its own.
+6. Skip greetings, pleasantries and pure reactions ("that's great!").
+7. Every fact must list the turn ids it came from, exactly as shown in square
+   brackets in the transcript. Most facts come from one turn. List more than
+   one only when the fact genuinely needs them (a question in one turn and its
+   answer in the next).
+8. Cite only ids from THIS session's transcript. Never invent an id, never
+   cite a turn you were not shown.
+
+Reply with JSON only, in this form:
+{{"facts": [
+  {{"fact": "Melanie ran a charity race raising awareness for mental health", "page": "Charity race", "page_type": "event", "sources": ["D7:4"]}},
+  {{"fact": "Melanie works night shifts at the hospital", "page": "Melanie", "page_type": "person", "sources": ["D7:6"]}},
+  {{"fact": "Caroline painted a sunrise over the harbour", "page": "Painting", "page_type": "topic", "sources": ["D7:9", "D7:10"]}}
+]}}"""
+
+
+@dataclass(frozen=True)
+class CompilerProfile:
+    """One compiler's behaviour, and the fingerprint that identifies it.
+
+    A wiki on disk is reused only when the profile that built it matches the
+    one in force now, so each system carries its own profile rather than
+    sharing a single module-level constant that a later system can move. B's
+    profile reproduces its published fingerprint exactly (9ad622199c7e); if
+    that ever stops being true, B's committed wikis will be treated as stale,
+    which is precisely what must not happen.
+    """
+    name: str
+    system_prompt: str
+    template: str
+    version: str
+    show_dia_ids: bool
+
+    @property
+    def fingerprint(self) -> str:
+        return hashlib.sha256(
+            (self.system_prompt + self.template + self.version).encode("utf-8")
+        ).hexdigest()[:12]
+
+
+B_PROFILE = CompilerProfile("B", EXTRACTION_SYSTEM, B_EXTRACTION_TEMPLATE,
+                            B_COMPILER_VERSION, show_dia_ids=False)
+C_PROFILE = CompilerProfile("C", EXTRACTION_SYSTEM, EXTRACTION_TEMPLATE,
+                            COMPILER_VERSION, show_dia_ids=True)
+
+# The build in force now. Recorded in every results file and in every wiki
+# manifest, so a results file always says which compiler produced the memory
+# it was measuring.
+BUILD_FINGERPRINT = C_PROFILE.fingerprint
 
 
 # --- data model -------------------------------------------------------------
@@ -154,15 +248,25 @@ class Fact:
     page_title: str
     page_type: str
     fact_id: str = ""        # "charity-race#1" - stable handle for the audit
+    # System C: the raw turns this fact was extracted from, validated at
+    # compile time against the ids that session actually contains. Empty for
+    # System B, whose compiler was never asked for them - which is also why
+    # render() appends a tag only when there is one, so B's wikis still render
+    # exactly as they did when its results were published.
+    source_dia_ids: list[str] = field(default_factory=list)
 
     def render(self) -> str:
-        return f"- {self.text}{FACT_SEPARATOR}{self.date_label}"
+        line = f"- {self.text}{FACT_SEPARATOR}{self.date_label}"
+        if self.source_dia_ids:
+            line += " [" + ", ".join(self.source_dia_ids) + "]"
+        return line
 
     def as_dict(self) -> dict:
         return {"fact_id": self.fact_id, "text": self.text,
                 "date_label": self.date_label, "session_index": self.session_index,
                 "session_id": self.session_id, "page_title": self.page_title,
-                "page_type": self.page_type}
+                "page_type": self.page_type,
+                "source_dia_ids": list(self.source_dia_ids)}
 
 
 @dataclass
@@ -180,9 +284,20 @@ class WikiPage:
     def first_session(self) -> int:
         return min((f.session_index for f in self.facts), default=0)
 
+    @property
+    def sources(self) -> list[str]:
+        """The sessions this page draws on, in conversation order.
+
+        Page-level provenance, and the natural OKF home for it: the frontmatter
+        is where a reader - or a later system - looks to see where a page came
+        from without reading every line of it.
+        """
+        return [f"session_{i}" for i in sorted({f.session_index for f in self.facts})]
+
     def render(self) -> str:
         """The markdown file: YAML frontmatter, then one fact per line."""
-        front = f"---\ntitle: {_yaml_scalar(self.title)}\ntype: {self.type}\n---\n\n"
+        front = (f"---\ntitle: {_yaml_scalar(self.title)}\ntype: {self.type}\n"
+                 f"sources: [{', '.join(self.sources)}]\n---\n\n")
         return front + "\n".join(f.render() for f in self.facts) + "\n"
 
 
@@ -194,6 +309,7 @@ class Wiki:
     stats: dict = field(default_factory=dict)
     extraction_model: str = config.WIKI_EXTRACTION_MODEL
     build_fingerprint: str = BUILD_FINGERPRINT
+    compiler_version: str = COMPILER_VERSION
     built_utc: str = ""
     sessions: list[dict] = field(default_factory=list)   # index/id/date_label
     from_disk: bool = False
@@ -203,7 +319,8 @@ class Wiki:
 
     # -- building ------------------------------------------------------
     def add_fact(self, title: str, page_type: str, text: str, date_label: str,
-                 session_index: int, session_id: str) -> Fact | None:
+                 session_index: int, session_id: str,
+                 source_dia_ids: list[str] | None = None) -> Fact | None:
         """File one fact, creating its page if needed.
 
         Pages are matched on the SLUG of the title alone, not on (title, type):
@@ -219,12 +336,18 @@ class Wiki:
             self.pages.append(page)
 
         # Exact repeats of a line already on the page are noise, not memory.
+        # A repeat's citations are dropped with it rather than merged into the
+        # fact already on the page: that fact is dated to the session it was
+        # first compiled from, and hanging a later session's turn on it would
+        # make its citations cross-session - which System C measures as a
+        # compiler defect. A duplicate is dropped whole or not at all.
         if any(f.text.strip().lower() == text.strip().lower() for f in page.facts):
             return None
 
         fact = Fact(text=text.strip(), date_label=date_label, session_index=session_index,
                     session_id=session_id, page_title=page.title, page_type=page.type,
-                    fact_id=f"{slug}#{len(page.facts) + 1}")
+                    fact_id=f"{slug}#{len(page.facts) + 1}",
+                    source_dia_ids=list(source_dia_ids or []))
         page.facts.append(fact)
         return fact
 
@@ -274,6 +397,7 @@ class Wiki:
             "speakers": self.speakers,
             "extraction_model": self.extraction_model,
             "build_fingerprint": self.build_fingerprint,
+            "compiler_version": self.compiler_version,
             "built_utc": self.built_utc or datetime.now(timezone.utc).isoformat(),
             "sessions": self.sessions,
             "stats": self.stats,
@@ -303,7 +427,10 @@ class Wiki:
                 facts=[Fact(text=f["text"], date_label=f["date_label"],
                             session_index=f["session_index"], session_id=f["session_id"],
                             page_title=f["page_title"], page_type=f["page_type"],
-                            fact_id=f["fact_id"])
+                            fact_id=f["fact_id"],
+                            # Absent from every System B manifest, which is
+                            # exactly right: B's facts have no citations.
+                            source_dia_ids=list(f.get("source_dia_ids") or []))
                        for f in p["facts"]],
             )
             for p in manifest["pages"]
@@ -313,6 +440,7 @@ class Wiki:
             pages=pages, stats=manifest.get("stats", {}),
             extraction_model=manifest.get("extraction_model", ""),
             build_fingerprint=manifest.get("build_fingerprint", ""),
+            compiler_version=manifest.get("compiler_version", ""),
             built_utc=manifest.get("built_utc", ""),
             sessions=manifest.get("sessions", []), from_disk=True,
         )
@@ -323,14 +451,20 @@ class WikiCompiler:
     """Turns a conversation into a Wiki, one session per LLM call."""
 
     def __init__(self, client: LLMClient, model: str = config.WIKI_EXTRACTION_MODEL,
-                 verbose: bool = False):
+                 verbose: bool = False, profile: CompilerProfile = C_PROFILE):
         self.client = client
         self.model = model
         self.verbose = verbose
+        # Which compiler this is. System B passes B_PROFILE, which reproduces
+        # the prompt and fingerprint its published wikis were built with, so a
+        # change made for C can never make B's own artefact look stale.
+        self.profile = profile
 
     def compile(self, conversation) -> Wiki:
         wiki = Wiki(conv_id=conversation.conv_id, speakers=list(conversation.speakers),
                     extraction_model=self.model,
+                    build_fingerprint=self.profile.fingerprint,
+                    compiler_version=self.profile.version,
                     built_utc=datetime.now(timezone.utc).isoformat())
         speakers = (" and ".join(conversation.speakers)
                     if conversation.speakers else "two people")
@@ -339,10 +473,20 @@ class WikiCompiler:
         duplicates = generic_titles = salvaged = unparsable = empty = 0
         cost = latency = 0.0
 
+        # System C's citation validation, all of it deterministic and free.
+        citations_total = citations_unresolvable = 0
+        citations_other_session = citations_nonexistent = facts_with_no_citation = 0
+        # Every turn id anywhere in this conversation. An id the extractor
+        # cites that lives here but not in the session it was shown is a
+        # different, and milder, defect from one that names no turn at all, and
+        # the two are counted apart.
+        conversation_dia_ids = {t.dia_id for t in conversation.turns if t.dia_id}
+
         sessions = [s for s in conversation.sessions if s.turns]
         for session in tqdm(sessions, desc=f"{conversation.conv_id} wiki",
                             unit="session", leave=False):
             date_label = date_of(session.timestamp)
+            session_dia_ids = [t.dia_id for t in session.turns if t.dia_id]
             wiki.sessions.append({"index": session.index, "session_id": session.session_id,
                                   "timestamp": session.timestamp, "date_label": date_label})
 
@@ -350,7 +494,7 @@ class WikiCompiler:
                 speakers=speakers,
                 session_number=session.index,
                 date=session.timestamp or date_label,
-                transcript="\n".join(t.render() for t in session.turns),
+                transcript=render_transcript(session.turns, self.profile.show_dia_ids),
                 page_list=wiki.page_list_for_prompt(),
             )
             response = self.client.complete(
@@ -392,12 +536,25 @@ class WikiCompiler:
             for item in items:
                 generic_titles += slugify(item["page"]) in GENERIC_TITLES
                 title = repair_title(item["fact"], item["page"], conversation.speakers)
+                # Unresolvable ids are dropped and the FACT IS KEPT. A fact
+                # with no usable citation is still a fact; dropping it would
+                # silently shrink C's wiki relative to B's and turn a citation
+                # problem into an incomparable memory.
+                resolvable, foreign, invented = validate_citations(
+                    item["sources"], session_dia_ids, conversation_dia_ids)
                 added = wiki.add_fact(
                     title=title, page_type=item["page_type"], text=item["fact"],
                     date_label=date_label, session_index=session.index,
-                    session_id=session.session_id,
+                    session_id=session.session_id, source_dia_ids=resolvable,
                 )
-                duplicates += added is None
+                if added is None:
+                    duplicates += 1
+                    continue      # a dropped duplicate contributes no citations
+                citations_total += len(resolvable) + len(foreign) + len(invented)
+                citations_unresolvable += len(foreign) + len(invented)
+                citations_other_session += len(foreign)
+                citations_nonexistent += len(invented)
+                facts_with_no_citation += not resolvable
 
             if self.verbose:
                 print(f"  [wiki] {conversation.conv_id} session {session.index:>2}: "
@@ -426,6 +583,27 @@ class WikiCompiler:
             "salvaged_sessions": salvaged,
             "unparsable_sessions": unparsable,
             "empty_sessions": empty,
+            # --- citation validation (System C) -------------------------
+            # The first result System C produces, and it costs nothing. Two
+            # levels, both exact:
+            #   resolvability       - the id names a turn that exists at all
+            #   session consistency - it names a turn in the session the fact
+            #                         was compiled from, which is the only
+            #                         thing the extractor was shown
+            # Anything else is a compiler defect, visible here before a cent is
+            # spent on a run.
+            "citations_total": citations_total,
+            "citations_resolvable": citations_total - citations_unresolvable,
+            "citations_unresolvable": citations_unresolvable,
+            "citations_other_session": citations_other_session,
+            "citations_nonexistent": citations_nonexistent,
+            "facts_with_no_citation": facts_with_no_citation,
+            "citation_resolvability": (
+                round((citations_total - citations_nonexistent) / citations_total, 4)
+                if citations_total else None),
+            "citation_session_consistency": (
+                round((citations_total - citations_unresolvable) / citations_total, 4)
+                if citations_total else None),
             "n_pages": len(wiki.pages),
             "n_facts": len(wiki.facts),
             "wiki_tokens": wiki_tokens,
@@ -433,6 +611,45 @@ class WikiCompiler:
             "compression_ratio": round(wiki_tokens / raw_tokens, 4) if raw_tokens else None,
         }
         return wiki
+
+
+def load_or_compile(client: LLMClient, conversation, wiki_dir,
+                    profile: CompilerProfile = C_PROFILE,
+                    model: str = config.WIKI_EXTRACTION_MODEL,
+                    reuse: bool = True, verbose: bool = False) -> Wiki:
+    """Reuse the wiki on disk when it was built the same way, else compile it.
+
+    Same principle as the response cache: a wiki built by a different model,
+    extraction prompt or compiler version is a different experiment, so it is
+    rebuilt rather than silently reused. A reused wiki reports the cost of the
+    ORIGINAL compilation, recorded in its manifest and flagged `from_disk`, so
+    nothing is reported as free that was not free.
+
+    Shared by System B, System C and the build script for the same reason
+    retrieval is shared: three copies of this rule would drift, and the one
+    that drifted would be the one that quietly recompiled over a published
+    wiki.
+    """
+    if reuse:
+        existing = Wiki.load(wiki_dir, conversation.conv_id)
+        if existing is not None:
+            fresh_enough = (
+                existing.extraction_model == model
+                and existing.build_fingerprint == profile.fingerprint
+                and existing.stats.get("sessions_compiled") == len(
+                    [s for s in conversation.sessions if s.turns])
+            )
+            if fresh_enough:
+                if verbose:
+                    print(f"  [wiki] {conversation.conv_id}: reusing "
+                          f"{existing.stats.get('n_facts')} facts on "
+                          f"{existing.stats.get('n_pages')} pages from disk")
+                return existing
+            print(f"  [wiki] {conversation.conv_id}: on-disk wiki was built with a "
+                  f"different model or prompt - recompiling")
+
+    compiler = WikiCompiler(client, model=model, verbose=verbose, profile=profile)
+    return compiler.compile(conversation)
 
 
 def parse_facts(text: str) -> tuple[list[dict], str]:
@@ -467,7 +684,8 @@ def parse_facts(text: str) -> tuple[list[dict], str]:
         page_type = str(item.get("page_type") or item.get("type") or "topic").strip()
         if not fact:
             continue
-        facts.append({"fact": fact, "page": page or "Miscellaneous", "page_type": page_type})
+        facts.append({"fact": fact, "page": page or "Miscellaneous",
+                      "page_type": page_type, "sources": _claimed_sources(item)})
 
     if not facts and status == "salvaged":
         status = "unparsable"
@@ -529,6 +747,68 @@ def parse_json(text: str):
             except json.JSONDecodeError:
                 continue
     return None
+
+
+def _claimed_sources(item: dict) -> list[str]:
+    """The turn ids one extracted fact claims, however the model shaped them.
+
+    Asked for a list, `gpt-4o-mini` mostly returns one, sometimes a bare
+    string, occasionally under a different key. Nothing is judged here - this
+    only gets the claim out of the reply. Whether the ids are real is decided
+    against the session's own ids in `validate_citations`.
+    """
+    raw = item.get("sources") or item.get("source") or item.get("dia_ids") or []
+    if isinstance(raw, str):
+        raw = re.split(r"[,;\s]+", raw)
+    if not isinstance(raw, (list, tuple)):
+        return []
+    return [str(x).strip() for x in raw if str(x).strip()]
+
+
+def render_transcript(turns: list, show_dia_ids: bool) -> str:
+    """The session exactly as the extractor sees it.
+
+    System C prefixes every turn with its id, because a model cannot cite an id
+    it was never shown - the prefix and the `sources` field are a pair and
+    neither works alone. System B's transcript is left as it was.
+    """
+    if not show_dia_ids:
+        return "\n".join(t.render() for t in turns)
+    return "\n".join(
+        f"[{t.dia_id}] {t.render()}" if t.dia_id else t.render() for t in turns)
+
+
+def validate_citations(claimed: list[str], session_dia_ids: list[str],
+                       conversation_dia_ids: set[str]
+                       ) -> tuple[list[str], list[str], list[str]]:
+    """Split the ids one fact claims into resolvable, other-session, invented.
+
+    Forgiving about FORM, strict about EXISTENCE: surrounding brackets, stray
+    whitespace and case are normalised away, because "d7:11" is a formatting
+    variant of a real citation rather than a wrong one, while an id naming no
+    turn is never rescued. Resolvable ids come back in the session's own
+    spelling, so what lands in the wiki is exactly the form LoCoMo's `evidence`
+    field is later compared against.
+    """
+    canonical = {str(c).strip().lower(): c for c in session_dia_ids}
+    elsewhere = {str(c).strip().lower() for c in conversation_dia_ids}
+
+    resolvable: list[str] = []
+    foreign: list[str] = []
+    invented: list[str] = []
+    seen: set[str] = set()
+    for raw in claimed:
+        key = str(raw).strip().strip("[]()").strip().lower()
+        if not key or key in seen:
+            continue                    # a repeated id is one citation, not two
+        seen.add(key)
+        if key in canonical:
+            resolvable.append(canonical[key])
+        elif key in elsewhere:
+            foreign.append(key)
+        else:
+            invented.append(key)
+    return resolvable, foreign, invented
 
 
 # --- chunking ---------------------------------------------------------------

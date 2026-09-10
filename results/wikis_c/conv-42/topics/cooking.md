@@ -1,0 +1,31 @@
+---
+title: Cooking
+type: topic
+sources: [session_10, session_16, session_18, session_19, session_20, session_21, session_22, session_24, session_26]
+---
+
+- Joanna has been testing out dairy-free dessert recipes for friends and family — 2 May, 2022 [D10:9]
+- Joanna made a dairy-free vanilla cake with strawberry filling and coconut cream frosting — 2 May, 2022 [D10:11]
+- Joanna enjoys experimenting in the kitchen and finds it a rewarding challenge — 2 May, 2022 [D10:13]
+- Joanna's family loves it when she makes them new things. — 24 June, 2022 [D16:13]
+- Nate has started teaching people how to make dairy-free desserts. — 14 August, 2022 [D18:8]
+- Joanna is excited to surprise her family with something delicious using Nate's recipe. — 14 August, 2022 [D18:13]
+- Joanna celebrated receiving feedback on her writing by making a delicious treat. — 22 August, 2022 [D19:8]
+- Joanna revised one of her old recipes and made a cake with strawberries and chocolate — 5 September, 2022 [D20:2]
+- Joanna has been tinkering with recipes to find comfort and get creative — 5 September, 2022 [D20:4]
+- Joanna is tweaking a dessert recipe to make it yummier and more accessible — 5 September, 2022 [D20:6]
+- Joanna is experimenting with different flavors like chocolate, raspberry, and coconut — 5 September, 2022 [D20:8]
+- Joanna made dairy-free chocolate coconut cupcakes with raspberry frosting — 5 September, 2022 [D20:10]
+- Joanna has been making all sorts of desserts that work for everyone's diets, including cookies, pies, and cakes — 5 September, 2022 [D20:12]
+- Nate suggested using dairy-free margarine or coconut oil instead of butter for dairy-free baking — 5 September, 2022 [D20:15]
+- Nate taught people vegan ice cream recipes on his own cooking show last Monday. — 14 September, 2022 [D21:4]
+- Joanna made a dessert with almond milk last Friday. — 14 September, 2022 [D21:9]
+- Nate's favorite dairy-free dessert is a dairy-free chocolate mousse. — 14 September, 2022 [D21:10]
+- Joanna's favorite dairy-free treat is a chocolate raspberry tart with an almond flour crust, chocolate ganache, and fresh raspberries. — 14 September, 2022 [D21:11]
+- Joanna loves making a dairy-free chocolate cake with raspberries. — 14 September, 2022 [D21:13]
+- Joanna makes her chocolate cake with almond flour, coconut oil, chocolate, and raspberries. — 14 September, 2022 [D21:15]
+- Joanna has a dessert recipe made with blueberries, coconut milk, and a gluten-free crust. — 14 September, 2022 [D21:17]
+- Joanna tried a new dairy-free recipe yesterday and it was a winner with her family. — 6 October, 2022 [D22:1]
+- Joanna has been revising and perfecting a recipe for her family. — 21 October, 2022 [D24:2]
+- Joanna plans to bring some of her recipes when she visits Nate. — 4 November, 2022 [D26:21]
+- Nate wants to try Joanna's chocolate and raspberry cake. — 4 November, 2022 [D26:22]

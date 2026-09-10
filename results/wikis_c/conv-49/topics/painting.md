@@ -1,0 +1,32 @@
+---
+title: Painting
+type: topic
+sources: [session_1, session_2, session_8, session_10, session_11, session_13, session_20, session_21, session_25]
+---
+
+- Sam has been thinking about trying painting — 18 May, 2023 [D1:11]
+- Evan started watercolor painting a few years back — 18 May, 2023 [D1:14]
+- Evan's friend got him into watercolor painting and gave him some advice — 18 May, 2023 [D1:16]
+- Sam is keen to try painting as a way to chill and get creative — 18 May, 2023 [D1:13]
+- Sam is thinking about trying painting as a hobby to stay motivated. — 24 May, 2023 [D2:10]
+- Evan believes painting is a great way to relieve stress and be creative. — 24 May, 2023 [D2:11]
+- Evan has been painting for a few years and finds it helps him find peace. — 24 May, 2023 [D2:11]
+- Evan is learning about watercolors in his painting classes. — 19 August, 2023 [D8:18]
+- Evan enjoys painting landscapes. — 19 August, 2023 [D8:20]
+- Evan shared a photo of a painting of a sunset over a body of water — 11 September, 2023 [D10:1]
+- Evan suggested that Sam try painting as a calming hobby — 11 September, 2023 [D10:9]
+- Sam wants to give painting a try to see if it relaxes him — 11 September, 2023 [D10:10]
+- Evan recommended that Sam get acrylic paints, brushes, a canvas/paper, and a palette to mix colors for painting — 11 September, 2023 [D10:11]
+- Evan and Sam plan to have a painting session next Saturday — 11 September, 2023 [D10:13]
+- Evan enjoys watercolor painting as a way to relax and express himself. — 6 October, 2023 [D11:6, D11:12]
+- Evan's sunset painting was inspired by a vacation a few years back. — 6 October, 2023 [D11:10]
+- Evan's cactus painting came from a road trip last month. — 6 October, 2023 [D11:10]
+- Evan finished a painting of a sunset — 14 October, 2023 [D13:3]
+- Evan finished a contemporary figurative painting a few days ago. — 17 December, 2023 [D20:15]
+- Evan's painting emphasizes the emotional state through expressive brushwork and vibrant color choices. — 17 December, 2023 [D20:15]
+- Evan's painting captures a moment of introspection where the subject is deeply immersed in thought. — 17 December, 2023 [D20:15]
+- The girl standing next to Evan's painting is a close friend of his who helped him get the painting published in the exhibition. — 17 December, 2023 [D20:17]
+- Evan created a painting when he was a mix of emotions - sad, mad, and hopeful — 26 December, 2023 [D21:12]
+- Evan painted a second painting with a sense of joy and freedom — 26 December, 2023 [D21:16]
+- Evan took a photo of a kayak seen from the front of the boat during a camping trip last summer. — 11 January, 2024 [D25:8]
+- Evan shared a photo of a tree with pink flowers in a park that reminded him of last spring when he was feeling down. — 11 January, 2024 [D25:14]

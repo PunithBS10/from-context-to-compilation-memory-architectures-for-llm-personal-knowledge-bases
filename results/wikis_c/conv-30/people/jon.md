@@ -1,0 +1,33 @@
+---
+title: Jon
+type: person
+sources: [session_1, session_2, session_4, session_6, session_8, session_9, session_12, session_14, session_15, session_16]
+---
+
+- Jon lost his job as a banker on 19 January 2023. — 20 January, 2023 [D1:2]
+- Jon has been into dancing since he was a kid. — 20 January, 2023 [D1:6]
+- Jon's favorite dance style is contemporary. — 20 January, 2023 [D1:8]
+- Jon has been to Paris — 29 January, 2023 [D2:4]
+- Jon appreciates Gina's support — 29 January, 2023 [D2:12]
+- Jon is putting in a lot of work on his business even with obstacles. — 4 February, 2023 [D4:3]
+- Jon started hitting the gym last week to stay on track with his venture. — 16 March, 2023 [D6:1]
+- Jon is starting his own business after losing his job. — 16 March, 2023 [D6:11]
+- Jon is facing new challenges in starting his business. — 16 March, 2023 [D6:11]
+- Jon finds Gina's success inspiring and it motivates him to keep pushing forward. — 16 March, 2023 [D6:13]
+- Jon shared an image of two glasses of champagne with a bottle of wine in the background. — 16 March, 2023 [D6:19]
+- Jon shut down his bank account for his business. — 3 April, 2023 [D8:1]
+- Jon is motivated by Gina's words and is determined to pursue his dreams. — 3 April, 2023 [D8:25]
+- Losing his job was tough for Jon, but it gave him the push he needed to pursue his passion for dance. — 9 April, 2023 [D9:3]
+- Jon used to be scared of what people thought about him dancing, but he learned that his own happiness is the most important thing. — 9 April, 2023 [D9:7]
+- Jon is currently reading 'The Lean Startup' — 27 May, 2023 [D12:6]
+- Jon is hoping 'The Lean Startup' will give him tips for his business — 27 May, 2023 [D12:6]
+- Jon is wrapping up the business plan and looking for investors — 27 May, 2023 [D12:12]
+- Jon is passionate about his project and believes in its success — 27 May, 2023 [D12:12]
+- Searching for investors has been tough for Jon, but he is staying hopeful — 27 May, 2023 [D12:14]
+- Jon got mentored by an amazing business dude on 15 June 2023. — 16 June, 2023 [D14:1]
+- Jon has been doing promotion for his business. — 16 June, 2023 [D14:3]
+- Jon took a short trip to Rome last week to clear his mind. — 19 June, 2023 [D15:1]
+- Jon is excited and ready to give his best for the opening of the dance studio. — 19 June, 2023 [D15:7]
+- Jon wants to savor all the good vibes during the opening night. — 19 June, 2023 [D15:9]
+- Jon lost his job. — 21 June, 2023 [D16:8]
+- Jon feels confident and appreciates Gina's support. — 21 June, 2023 [D16:16]

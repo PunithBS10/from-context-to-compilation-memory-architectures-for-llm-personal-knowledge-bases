@@ -1,0 +1,31 @@
+---
+title: James
+type: person
+sources: [session_1, session_2, session_6, session_14, session_18, session_21, session_22, session_23, session_25, session_29]
+---
+
+- James finds joy and excitement in video games, which motivate him. — 17 March, 2022 [D1:2]
+- James tried programming in college and it is now a significant part of his life. — 17 March, 2022 [D1:6]
+- James has two dogs named Max and Daisy. — 17 March, 2022 [D1:14]
+- James writes down all his goals in a notebook and finds it satisfying to check them off when completed. — 17 March, 2022 [D1:18]
+- James has two dogs that he considers his best pals. — 20 March, 2022 [D2:15]
+- James visited Italy last year. — 20 April, 2022 [D6:12]
+- James has also visited Turkey and Mexico. — 20 April, 2022 [D6:14]
+- James has a support system of at least two people who help him when he's struggling. — 16 June, 2022 [D14:1]
+- James has a dog named Max. — 16 June, 2022 [D14:13]
+- Max brings James joy, especially in tough times. — 16 June, 2022 [D14:13]
+- James took his puppy to the clinic yesterday. — 6 August, 2022 [D18:14]
+- James's puppy had a routine examination at the clinic. — 6 August, 2022 [D18:16]
+- James's puppy was vaccinated to prevent him from catching the seasonal canine disease. — 6 August, 2022 [D18:16]
+- James cares a lot about his pets. — 6 August, 2022 [D18:17]
+- James considers his pets to be the source of his joy. — 6 August, 2022 [D18:18]
+- James has a dog named Ned, whom he adopted. — 26 August, 2022 [D21:3]
+- James offered to be there for John if he needs someone to talk or vent to — 1 September, 2022 [D22:19]
+- James asked Samantha to become his girlfriend, and she agreed. — 4 September, 2022 [D23:1]
+- James and Samantha went to the theater together. — 4 September, 2022 [D23:1]
+- James and Samantha went to McGee's bar, where Samantha loves a good lager beer. — 4 September, 2022 [D23:3]
+- James's week has been good, and he is trying to find a balance between work and other activities. — 20 September, 2022 [D25:20]
+- James encourages John to take time for himself and take care during his busy week. — 20 September, 2022 [D25:22]
+- James and Samantha decided to move in together. — 31 October, 2022 [D29:8]
+- James and Samantha rented an apartment not far from McGee's bar. — 31 October, 2022 [D29:10]
+- One of the criteria for James and Samantha's choice of apartment was its proximity to McGee's bar. — 31 October, 2022 [D29:12]

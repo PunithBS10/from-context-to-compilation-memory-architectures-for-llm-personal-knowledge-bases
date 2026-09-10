@@ -32,6 +32,8 @@ python -m src.runner --system b --dry-run               # compiles the wikis, no
 python -m src.runner --system b --k 5                   # compiled-wiki memory
 python scripts/audit_wiki.py stats                      # wiki size and compression
 python scripts/audit_wiki.py check -n 100               # wiki fidelity, LLM pass
+python scripts/compile_wikis.py --system c              # build System C's wikis
+python scripts/compile_wikis.py --system c --print conv-26   # read one end to end
 ```
 
 Useful flags: `--limit N` (first N conversations), `--max-questions N`,
@@ -39,6 +41,13 @@ Useful flags: `--limit N` (first N conversations), `--max-questions N`,
 (retrieval depth), `--dump-prompts N` (print raw prompts before sending),
 `--note "..."` (label the run in its results file), `--no-cache`,
 `--rebuild-wiki` (System B: recompile rather than reuse `results/wikis/`).
+
+Compilation is built and inspected on its own, before any run, by
+`scripts/compile_wikis.py`. Whatever the compiler writes down *becomes* the
+memory, and three System B compiler defects were found by reading the compiled
+output rather than by any accuracy number. System C's citation validation is
+deterministic and free, so how well the compiler cites is known before a cent
+is spent answering questions with it.
 
 ## What it does
 
@@ -326,6 +335,42 @@ than assumed. The hand-verified subset is still outstanding.
 and at the end of every run. B's total cost of ownership is compile-once plus
 retrieve-many, and folding the two together would hide the trade-off against A.
 
+## System C notes
+
+System C is System B with one thing added: every compiled fact carries the raw
+turn or turns it was extracted from.
+
+```
+System B   - Caroline loved the book 'Becoming Nicole' by Amy Ellis Nutt — 12 July 2023
+System C   - Caroline loved the book 'Becoming Nicole' by Amy Ellis Nutt — 12 July 2023 [D7:11]
+```
+
+The extraction prompt renders each turn with its `dia_id` and requires a
+`sources` field on every fact — a model cannot cite an id it was never shown,
+so the two changes are a pair. Page frontmatter gains `sources:`, the sessions
+that page draws on.
+
+**Two compilers, pinned apart.** `wiki.py` holds `B_PROFILE` and `C_PROFILE`:
+prompt, version and the fingerprint that identifies them. System B is complete
+and its wikis are committed, so it pins its own profile rather than following
+whatever the module's current compiler is — otherwise a change made for C would
+make B's published wikis look stale to B's own reuse check and the next
+`--system b` run would recompile over the artefact its results and fidelity
+audit rest on. B's fingerprint is `9ad622199c7e` and must stay that way.
+
+**Citation validation is deterministic and free.** Every id the extractor emits
+is checked at compile time against the ids that session actually contains:
+
+* *resolvable* — the id names a turn that exists
+* *session consistency* — it names a turn in the session the fact came from,
+  which is the only text the extractor was shown
+
+Unresolvable ids are dropped from the fact and **the fact is kept**: a fact with
+no usable citation is still a fact, and discarding it would silently shrink C's
+wiki relative to B's and turn a citation problem into an incomparable memory.
+Both rates and the raw counts go into every wiki manifest, so a compiler that
+cites badly shows up before any money is spent on a run.
+
 ## Cost and caching
 
 Every API response is cached on disk under `.cache/`, keyed by model, messages,
@@ -357,8 +402,10 @@ src/runner.py                  run(system, dataset) -> results file
 scripts/inspect_locomo.py      prints the real dataset schema
 scripts/validate_judge.py      judge vs. hand labels, agreement + kappa
 scripts/audit_wiki.py          wiki size, fidelity audit, hand-verification sheet
+scripts/compile_wikis.py       build the wikis and validate their citations
 scripts/compare_runs.py        side-by-side table of finished runs
-results/wikis/<conv_id>/       every compiled wiki, committed as evidence
+results/wikis/<conv_id>/       System B's compiled wikis, committed as evidence
+results/wikis_c/<conv_id>/     System C's compiled wikis, facts carrying source turns
 results/                       committed — thesis evidence
 ```
 
