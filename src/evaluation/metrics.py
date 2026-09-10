@@ -30,6 +30,29 @@ _STEMMER = PorterStemmer()
 # The exact phrases the reference scorer accepts as abstention.
 ABSTENTION_PHRASES = ("no information available", "not mentioned")
 
+# A provenance tag the answering model copied out of its context and into its
+# answer, e.g. "A fantasy novel by Patrick Rothfuss [D11:24]".
+#
+# System C's prompt explains what the [D7:11] tags on its facts are, and the
+# model responded by citing its sources unprompted: on 712 of the 713 answers
+# the judge marked correct in the C-cite run, and 808 of 809 in C-hydrate. The
+# judge reads through it; token-overlap F1 cannot, and counts every tag token
+# as a wrong token. Left alone, that depresses C's F1 by ~0.05 for a reason
+# that has nothing to do with whether the answer is right, and makes C's F1
+# incomparable with L, A, B and with published LoCoMo results.
+#
+# So the tag is stripped before F1 is computed, for EVERY system. Applying it
+# uniformly is the point: for L, A and B it removes nothing at all (they emit
+# no tags and their published F1 figures are unchanged to the last decimal),
+# so one scorer is applied to every run rather than a special case to one.
+# What is scored is the answer, not the citation formatting.
+CITATION_TAG = re.compile(r"\s*\[\s*D\d+:\d+(?:\s*,\s*D\d+:\d+)*\s*\]")
+
+
+def strip_citation_tags(text: str) -> str:
+    """Remove trailing provenance tags from an answer before scoring it."""
+    return CITATION_TAG.sub(" ", text or "").strip()
+
 
 def normalize_answer(text: str) -> str:
     """Lowercase, drop punctuation and the articles a/an/the/and."""
@@ -71,8 +94,16 @@ def is_abstention(prediction: str) -> bool:
     return any(phrase in prediction.lower() for phrase in ABSTENTION_PHRASES)
 
 
-def locomo_f1(prediction: str, qa) -> float:
-    """Reference-compatible F1 for one QA item."""
+def locomo_f1(prediction: str, qa, strip_citations: bool = True) -> float:
+    """Reference-compatible F1 for one QA item.
+
+    `strip_citations` removes provenance tags the model copied into its answer
+    (see CITATION_TAG). It is on by default and applied to every system; pass
+    False for the raw figure, which the runner also records so both are
+    reported and the size of the correction stays visible.
+    """
+    if strip_citations:
+        prediction = strip_citation_tags(prediction)
     if not prediction:
         return 0.0
     code = qa.category_code
@@ -122,6 +153,11 @@ def summarise(records: list[dict]) -> dict:
             "n": len(subset),
             "judge_accuracy": _mean(r["judge_correct"] for r in subset),
             "f1": _mean(r["f1"] for r in subset),
+            # The same answers scored without stripping provenance tags. Equal
+            # to `f1` for every system that does not cite; the gap is the
+            # measure of how much a citation habit costs on a token-overlap
+            # metric.
+            "f1_raw": _mean_or_none(r.get("f1_raw") for r in subset),
             "abstention_rate": _mean(r["abstained"] for r in subset),
             "context_overflow": sum(r["context_overflow"] for r in subset),
             "mean_prompt_tokens": _mean(r["prompt_tokens"] for r in subset_answered),
@@ -180,7 +216,7 @@ def summarise(records: list[dict]) -> dict:
 
 
 SUMMARY_COLUMNS = [
-    "scope", "n", "judge_accuracy", "f1", "abstention_rate", "context_overflow",
+    "scope", "n", "judge_accuracy", "f1", "f1_raw", "abstention_rate", "context_overflow",
     "mean_prompt_tokens", "mean_completion_tokens", "mean_cost_usd", "mean_latency_s",
     "evidence_recall", "evidence_recall_turn", "evidence_recall_session",
     "evidence_recall_hydrated", "mean_retrieval_cost_usd",

@@ -12,17 +12,51 @@ figures the summary block in the results file does not carry:
   real answer, and they are excluded here.
 * **ingest cost**, summed over conversations, so compile-once-retrieve-many
   systems are not compared on answer cost alone.
+* **F1 both ways** - as the model emitted the answer, and with provenance tags
+  stripped. System C's answers cite their sources unprompted, and token-overlap
+  F1 counts every "[D7:11]" as wrong tokens. Both figures are RECOMPUTED here
+  from each run's stored predictions rather than read from its summary block,
+  so runs finished before the scorer changed are scored by the same rule as
+  runs finished after it - without rewriting a single results file, which are
+  thesis evidence and are never overwritten.
 """
 from __future__ import annotations
 
 import argparse
 import json
+import statistics
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
+from src.evaluation import metrics
+
 CATEGORIES = ["single_hop", "multi_hop", "temporal", "open_domain", "adversarial"]
+
+
+class _QA:
+    """The handful of fields `metrics.locomo_f1` needs, rebuilt from a record.
+
+    Rescoring reads the stored prediction and gold answer, so it needs no API
+    call and no re-run: F1 is a pure function of text the results file already
+    holds.
+    """
+
+    def __init__(self, record: dict):
+        self.category_code = record["category_code"]
+        self.answer = record["gold_answer"]
+        self.abstention_expected = record["abstention_expected"]
+
+
+def _rescore(records: list[dict]) -> tuple[float, float]:
+    """(stripped, raw) mean F1, recomputed for every run by one rule."""
+    stripped = statistics.fmean(
+        metrics.locomo_f1(r["prediction"], _QA(r)) for r in records)
+    raw = statistics.fmean(
+        metrics.locomo_f1(r["prediction"], _QA(r), strip_citations=False)
+        for r in records)
+    return stripped, raw
 
 
 def summarise(path: Path) -> dict:
@@ -32,16 +66,24 @@ def summarise(path: Path) -> dict:
     answered_anyway = sum(1 for r in unanswerable if not r["abstained"])
     ingest = payload.get("ingest") or []
     overall = summary["overall"]
+    f1, f1_raw = _rescore(records)
+    variant = payload["run"].get("variant") or ""
     return {
-        "label": f"{payload['run']['system']} k={payload['config'].get('rag_k')}",
+        "label": (f"{payload['run']['system']}{'-' + variant if variant else ''} "
+                  f"k={payload['config'].get('rag_k')}"),
         "path": path.name,
         "note": payload["run"].get("note", ""),
         "n": overall["n"],
         "accuracy": overall["judge_accuracy"],
-        "f1": overall["f1"],
+        "f1": f1,
+        "f1_raw": f1_raw,
+        "tagged": sum(1 for r in records
+                      if metrics.CITATION_TAG.search(r["prediction"] or "")),
         "tokens": overall["mean_prompt_tokens"],
         "latency": overall["mean_latency_s"],
-        "recall": overall["evidence_recall"],
+        # System L predates the field: it does not retrieve, so recall is
+        # undefined rather than zero.
+        "recall": overall.get("evidence_recall"),
         "recall_granularity": next(
             (r.get("evidence_recall_granularity") for r in records
              if r.get("evidence_recall_granularity")), None),
@@ -70,7 +112,9 @@ def main(argv=None) -> int:
     print("-" * (26 + width * len(runs)))
     row("questions", [r["n"] for r in runs])
     row("judge accuracy", [f"{r['accuracy']:.3f}" for r in runs])
-    row("F1", [f"{r['f1']:.3f}" for r in runs])
+    row("F1 (tags stripped)", [f"{r['f1']:.3f}" for r in runs])
+    row("F1 (raw, as emitted)", [f"{r['f1_raw']:.3f}" for r in runs])
+    row("  answers carrying a tag", [f"{r['tagged']}/{r['n']}" for r in runs])
     row("mean prompt tokens", [f"{r['tokens']:,.0f}" for r in runs])
     row("mean latency s", [f"{r['latency']:.2f}" if r["latency"] else "-" for r in runs])
     row("evidence recall", [f"{r['recall']:.3f}" if r["recall"] is not None else "-"

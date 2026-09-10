@@ -120,7 +120,11 @@ def run(system_key: str, dataset_key: str, limit: int | None, max_questions: int
                 "judge_reason": verdict["reason"],
                 "judge_error": verdict["judge_error"],
                 "judge_cost_usd": verdict["judge_cost_usd"],
+                # Scored with provenance tags stripped, for every system.
+                # `f1_raw` is the same answer scored as emitted, so the
+                # correction is always visible rather than assumed.
                 "f1": metrics.locomo_f1(answer.text, qa),
+                "f1_raw": metrics.locomo_f1(answer.text, qa, strip_citations=False),
                 "abstained": metrics.is_abstention(answer.text),
                 "prompt_tokens": answer.prompt_tokens,
                 "completion_tokens": answer.completion_tokens,
