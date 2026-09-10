@@ -490,7 +490,7 @@ class WikiCompiler:
             wiki.sessions.append({"index": session.index, "session_id": session.session_id,
                                   "timestamp": session.timestamp, "date_label": date_label})
 
-            user_prompt = EXTRACTION_TEMPLATE.format(
+            user_prompt = self.profile.template.format(
                 speakers=speakers,
                 session_number=session.index,
                 date=session.timestamp or date_label,
@@ -499,7 +499,7 @@ class WikiCompiler:
             )
             response = self.client.complete(
                 model=self.model,
-                system_prompt=EXTRACTION_SYSTEM,
+                system_prompt=self.profile.system_prompt,
                 user_prompt=user_prompt,
                 max_tokens=config.MAX_EXTRACTION_TOKENS,
             )
