@@ -27,12 +27,16 @@ from src.evaluation.judge import LLMJudge
 from src.llm import LLMClient
 from src.systems.system_a import SystemA
 from src.systems.system_b import SystemB
+from src.systems.system_c import SystemC
 from src.systems.system_l import SystemL
 
 SYSTEMS = {
     "l": lambda client, model: SystemL(client, model),
     "a": lambda client, model: SystemA(client, model, k=config.RAG_K),
     "b": lambda client, model: SystemB(client, model, k=config.RAG_K),
+    # The arm comes from config, not from a second factory entry: C-cite and
+    # C-hydrate are one system in two configurations, not two systems.
+    "c": lambda client, model: SystemC(client, model, k=config.RAG_K),
 }
 
 DATASETS = {
@@ -76,12 +80,14 @@ def run(system_key: str, dataset_key: str, limit: int | None, max_questions: int
 
     records: list[dict] = []
     ingest_stats: list[dict] = []
+    run_variant = ""          # set by a system that runs in more than one shape
     prompts_dumped = 0
     started = datetime.now(timezone.utc)
 
     for conversation in conversations:
         system = SYSTEMS[system_key](client, config.ANSWER_MODEL)
         system.ingest(conversation)
+        run_variant = getattr(system, "variant", "") or ""
 
         qa_items = select_questions(conversation.qa, max_questions, stratify)
         overflow_note = " [CONTEXT OVERFLOW]" if getattr(system, "overflow", False) else ""
@@ -128,6 +134,15 @@ def run(system_key: str, dataset_key: str, limit: int | None, max_questions: int
                 "retrieval_cost_usd": answer.meta.get("retrieval_cost_usd"),
                 "retrieved_dia_ids": answer.meta.get("retrieved_dia_ids"),
                 "evidence_recall": _evidence_recall(qa, answer.meta.get("retrieved_dia_ids")),
+                # A system that can measure recall at more than one
+                # granularity reports each of them, and the headline
+                # `evidence_recall` above is whichever one
+                # `evidence_recall_granularity` names. System C is the first:
+                # per-fact citations make TURN-level recall exact, so C is
+                # directly comparable with System A, while the session-level
+                # figure keeps it comparable with System B's published
+                # numbers. None for systems that report only one.
+                **_recall_by_granularity(qa, answer.meta.get("evidence_recall_sets")),
                 # "turn" (System A retrieves raw turns) or "session" (System B
                 # retrieves compiled facts, which map back only as far as the
                 # session they came from). The two are NOT the same measure and
@@ -143,6 +158,7 @@ def run(system_key: str, dataset_key: str, limit: int | None, max_questions: int
     payload = {
         "run": {
             "system": system_key.upper(),
+            "variant": run_variant,
             "dataset": dataset_key,
             "started_utc": started.isoformat(),
             "finished_utc": finished.isoformat(),
@@ -162,7 +178,23 @@ def run(system_key: str, dataset_key: str, limit: int | None, max_questions: int
         "summary": summary,
         "records": records,
     }
-    return _write_results(system_key, dataset_key, payload, started)
+    return _write_results(system_key, dataset_key, payload, started, run_variant)
+
+
+RECALL_GRANULARITIES = ("turn", "session", "hydrated")
+
+
+def _recall_by_granularity(qa, sets: dict | None) -> dict:
+    """Evidence recall at every granularity the system can measure.
+
+    Kept generic so the runner never learns what a granularity means: a system
+    hands over {name: dia_ids} and each becomes an `evidence_recall_<name>`
+    column. Absent names stay None rather than 0.0, so "this system cannot
+    measure that" never reads as "it scored zero".
+    """
+    sets = sets or {}
+    return {f"evidence_recall_{name}": _evidence_recall(qa, sets.get(name))
+            for name in RECALL_GRANULARITIES}
 
 
 def _evidence_recall(qa, retrieved_dia_ids) -> float | None:
@@ -195,10 +227,14 @@ def _dump_prompt(system, qa, index: int) -> None:
     print("=" * 70 + "\n")
 
 
-def _write_results(system_key: str, dataset_key: str, payload: dict, started) -> Path:
+def _write_results(system_key: str, dataset_key: str, payload: dict, started,
+                   variant: str = "") -> Path:
     config.RESULTS_DIR.mkdir(parents=True, exist_ok=True)
     stamp = started.strftime("%Y%m%d_%H%M%S")
-    stem = f"system_{system_key}_{dataset_key}_{stamp}"   # never overwrites: the thesis needs the history
+    # The variant is in the stem so two configurations of one system are told
+    # apart by filename rather than by opening the config snapshot.
+    label = f"{system_key}_{variant}" if variant else system_key
+    stem = f"system_{label}_{dataset_key}_{stamp}"   # never overwrites: the thesis needs the history
 
     json_path = config.RESULTS_DIR / f"{stem}.json"
     json_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -219,7 +255,9 @@ def _print_summary(payload: dict) -> None:
     summary, totals = payload["summary"], payload["summary"]["totals"]
     overall = summary["overall"]
     print("\n" + "=" * 78)
-    print(f"System {payload['run']['system']} on {payload['run']['dataset']} "
+    variant = payload["run"].get("variant") or ""
+    print(f"System {payload['run']['system']}{'-' + variant if variant else ''} on "
+          f"{payload['run']['dataset']} "
           f"({config.ANSWER_MODEL}, judge {config.JUDGE_MODEL})")
     print("=" * 78)
     rows = metrics.summary_rows(summary)
@@ -293,6 +331,10 @@ def main(argv=None) -> int:
     parser.add_argument("--rebuild-wiki", action="store_true",
                         help="System B: recompile every wiki instead of reusing the "
                              "one in results/wikis/")
+    parser.add_argument("--arm", default=None, choices=["cite", "hydrate"],
+                        help="System C: show the retrieved facts with their citation "
+                             "tags (cite) or also pull in the turns those tags name "
+                             "(hydrate); overrides config.C_ARM for this run")
     parser.add_argument("--k", type=int, default=None,
                         help="retrieval depth for RAG systems; overrides config.RAG_K "
                              "for this run and is recorded in the results snapshot")
@@ -310,6 +352,8 @@ def main(argv=None) -> int:
         config.RAG_K = args.k
     if args.rebuild_wiki:
         config.WIKI_REUSE = False
+    if args.arm is not None:
+        config.C_ARM = args.arm
 
     if args.dry_run:
         return dry_run(args)

@@ -137,6 +137,18 @@ def summarise(records: list[dict]) -> dict:
             # from "not applicable" -- `or None` would silently conflate them.
             "evidence_recall": _mean_or_none(
                 r.get("evidence_recall") for r in subset),
+            # System C measures recall at more than one granularity. These are
+            # DIFFERENT measurements of the same run and must never be read as
+            # one number: turn-level is exact and comparable with System A,
+            # session-level is an upper bound and comparable with System B,
+            # and hydrated is the subset the hydrate arm actually showed the
+            # model as raw text.
+            "evidence_recall_turn": _mean_or_none(
+                r.get("evidence_recall_turn") for r in subset),
+            "evidence_recall_session": _mean_or_none(
+                r.get("evidence_recall_session") for r in subset),
+            "evidence_recall_hydrated": _mean_or_none(
+                r.get("evidence_recall_hydrated") for r in subset),
             "mean_retrieval_cost_usd": _mean_or_none(
                 r.get("retrieval_cost_usd") for r in subset_answered),
         }
@@ -170,7 +182,8 @@ def summarise(records: list[dict]) -> dict:
 SUMMARY_COLUMNS = [
     "scope", "n", "judge_accuracy", "f1", "abstention_rate", "context_overflow",
     "mean_prompt_tokens", "mean_completion_tokens", "mean_cost_usd", "mean_latency_s",
-    "evidence_recall", "mean_retrieval_cost_usd",
+    "evidence_recall", "evidence_recall_turn", "evidence_recall_session",
+    "evidence_recall_hydrated", "mean_retrieval_cost_usd",
 ]
 
 

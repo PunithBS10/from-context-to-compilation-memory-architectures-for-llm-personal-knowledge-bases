@@ -82,6 +82,21 @@ WIKI_AUDIT_SAMPLE = 100    # facts sampled for the fidelity audit, ~100 per the 
 # silently invalidate both.
 WIKI_C_DIR = RESULTS_DIR / "wikis_c"
 
+# Which arm of System C to run. "cite" shows the retrieved facts with their
+# [D7:11] tags and changes nothing else; "hydrate" also pulls in the source
+# turns those tags name. Storing provenance and USING it are different claims,
+# so both are run and reported. The arm is configuration rather than a second
+# class: two classes would share a wiki and an index right up until they
+# quietly stopped.
+C_ARM = "cite"
+
+# Source turns pulled in per fact in the hydrate arm. A cap is needed because
+# one over-cited fact would otherwise flood the prompt and the arm would stop
+# being a memory system and start being System L. Turns are also deduplicated
+# across the whole prompt, since several retrieved facts often cite the same
+# one.
+HYDRATE_MAX_TURNS = 2
+
 TEMPERATURE = 0.0
 MAX_ANSWER_TOKENS = 256
 MAX_JUDGE_TOKENS = 200
@@ -140,6 +155,12 @@ def as_dict() -> dict:
         "wiki_chunk_max_tokens": WIKI_CHUNK_MAX_TOKENS,
         "max_extraction_tokens": MAX_EXTRACTION_TOKENS,
         "wiki_c_dir": str(WIKI_C_DIR),
+        "c_arm": C_ARM,
+        "hydrate_max_turns": HYDRATE_MAX_TURNS,
+        # The single sentence System C adds to System L's answering prompt.
+        # It is the one prompt difference between B and C and belongs in the
+        # snapshot, not only in the log. Imported lazily, as the fingerprint is.
+        "c_citation_note": _c_citation_note(),
         # Fingerprint of the extraction prompt and compiler that built the
         # wikis this run read. A prompt edit changes the wiki, so the results
         # file has to record which one. Imported lazily: src.systems.wiki
@@ -147,6 +168,14 @@ def as_dict() -> dict:
         "wiki_build_fingerprint": _wiki_build_fingerprint(),
         "prices_usd_per_1m": PRICES,
     }
+
+
+def _c_citation_note() -> str | None:
+    try:
+        from src.systems.system_c import CITATION_NOTE
+    except Exception:          # config must stay importable on its own
+        return None
+    return CITATION_NOTE
 
 
 def _wiki_build_fingerprint() -> str | None:

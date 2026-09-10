@@ -26,6 +26,11 @@ class MemorySystem(ABC):
     """One conversation's worth of memory."""
 
     name: str = "base"
+    # A system run in more than one configuration labels its results with it,
+    # so the runner can keep the runs apart without knowing what the
+    # configurations are. System C sets it to its arm; everything else leaves
+    # it empty.
+    variant: str = ""
 
     @abstractmethod
     def ingest(self, conversation) -> None:

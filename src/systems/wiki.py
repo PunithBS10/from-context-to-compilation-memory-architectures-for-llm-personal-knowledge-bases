@@ -827,12 +827,22 @@ class WikiChunk:
     part: int = 1
     n_parts: int = 1
 
-    def render(self) -> str:
+    @property
+    def header(self) -> str:
+        """The chunk's first line, on its own.
+
+        System C's hydrate arm rebuilds a chunk fact by fact so it can slot
+        source turns underneath each one, and it must reproduce EXACTLY the
+        header the cite arm emits - otherwise the two arms would differ by more
+        than the thing under test.
+        """
         header = f"[Wiki page: {self.page_title} ({self.page_type})"
         if self.n_parts > 1:
             header += f" - part {self.part} of {self.n_parts}"
-        header += "]"
-        return header + "\n" + "\n".join(f.render() for f in self.facts)
+        return header + "]"
+
+    def render(self) -> str:
+        return self.header + "\n" + "\n".join(f.render() for f in self.facts)
 
     @property
     def session_indices(self) -> list[int]:
