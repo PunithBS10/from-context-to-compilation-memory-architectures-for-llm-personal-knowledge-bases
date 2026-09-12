@@ -1,0 +1,308 @@
+{
+  "report": {
+    "policy": "recency",
+    "forgetting_version": "d1",
+    "facts_before": 193,
+    "facts_after": 185,
+    "facts_removed": 8,
+    "facts_removed_pct": 0.0415,
+    "verdicts": {
+      "supported": 188,
+      "partially": 3,
+      "unsupported": 2,
+      "unreadable": 0
+    },
+    "unsupported_dropped": 2,
+    "contradictions_detected": 6,
+    "contradictions_by_kind": {
+      "incompatible": 3,
+      "update": 3
+    },
+    "contradictions_resolved": 6,
+    "contradictions_moot": 0,
+    "decided_by_trust": 0,
+    "decided_by_recency": 6,
+    "pages_before": 11,
+    "pages_after": 11,
+    "wiki_tokens_before": 6045,
+    "wiki_tokens_after": 5830,
+    "passes": {
+      "verify_calls": 19,
+      "verify_cached_calls": 0,
+      "verify_prompt_tokens": 28390,
+      "verify_completion_tokens": 7772,
+      "verify_cost_usd": 0.023791200000000002,
+      "verify_latency_s": 79.75175510114059,
+      "verify_unreadable": 0,
+      "detect_calls": 9,
+      "detect_cached_calls": 0,
+      "detect_pages_checked": 9,
+      "detect_prompt_tokens": 9858,
+      "detect_completion_tokens": 351,
+      "detect_cost_usd": 0.004504800000000001,
+      "detect_latency_s": 8.156112999655306,
+      "detect_unreadable_pages": 0,
+      "passes_cost_usd": 0.028296
+    }
+  },
+  "decisions": [
+    {
+      "policy": "recency",
+      "page_slug": "adoption-research",
+      "kind": "update",
+      "reason": "Caroline attended a council meeting for adoption before passing the adoption agency interviews later.",
+      "fact_a": "adoption-research#11",
+      "fact_b": "adoption-research#6",
+      "text_a": "Caroline passed the adoption agency interviews last Friday.",
+      "text_b": "Caroline attended a council meeting for adoption last Friday",
+      "signals_a": {
+        "verified": "supported",
+        "subject": "Caroline",
+        "cited_turns": [
+          "D19:1"
+        ],
+        "cited_speakers": [
+          "Caroline"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 19,
+        "date_label": "22 October, 2023"
+      },
+      "signals_b": {
+        "verified": "supported",
+        "subject": "Caroline",
+        "cited_turns": [
+          "D8:9"
+        ],
+        "cited_speakers": [
+          "Caroline"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 8,
+        "date_label": "15 July, 2023"
+      },
+      "trust_a": 3.0,
+      "trust_b": 3.0,
+      "winner": "adoption-research#11",
+      "loser": "adoption-research#6",
+      "decided_by": "recency"
+    },
+    {
+      "policy": "recency",
+      "page_slug": "caroline",
+      "kind": "incompatible",
+      "reason": "Caroline cannot both have attended and missed the pride parade that took place last weekend in her city.",
+      "fact_a": "caroline#19",
+      "fact_b": "caroline#23",
+      "text_a": "Caroline attended a pride parade a few weeks ago",
+      "text_b": "Caroline missed the pride parade that took place last weekend in her city.",
+      "signals_a": {
+        "verified": "supported",
+        "subject": "Caroline",
+        "cited_turns": [
+          "D8:17"
+        ],
+        "cited_speakers": [
+          "Caroline"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 8,
+        "date_label": "15 July, 2023"
+      },
+      "signals_b": {
+        "verified": "supported",
+        "subject": "Caroline",
+        "cited_turns": [
+          "D10:7"
+        ],
+        "cited_speakers": [
+          "Caroline"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 10,
+        "date_label": "20 July, 2023"
+      },
+      "trust_a": 3.0,
+      "trust_b": 3.0,
+      "winner": "caroline#23",
+      "loser": "caroline#19",
+      "decided_by": "recency"
+    },
+    {
+      "policy": "recency",
+      "page_slug": "lgbtq-support-group",
+      "kind": "update",
+      "reason": "Caroline's LGBTQ art show was planned for next month in July and then again in August, indicating the event was postponed or rescheduled.",
+      "fact_a": "lgbtq-support-group#16",
+      "fact_b": "lgbtq-support-group#21",
+      "text_a": "Caroline is having an LGBTQ art show next month featuring her paintings.",
+      "text_b": "Caroline is putting together an LGBTQ art show next month to showcase her paintings.",
+      "signals_a": {
+        "verified": "supported",
+        "subject": "Caroline",
+        "cited_turns": [
+          "D9:12"
+        ],
+        "cited_speakers": [
+          "Caroline"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 9,
+        "date_label": "17 July, 2023"
+      },
+      "signals_b": {
+        "verified": "supported",
+        "subject": "Caroline",
+        "cited_turns": [
+          "D14:33"
+        ],
+        "cited_speakers": [
+          "Caroline"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 14,
+        "date_label": "25 August, 2023"
+      },
+      "trust_a": 3.0,
+      "trust_b": 3.0,
+      "winner": "lgbtq-support-group#21",
+      "loser": "lgbtq-support-group#16",
+      "decided_by": "recency"
+    },
+    {
+      "policy": "recency",
+      "page_slug": "melanie",
+      "kind": "incompatible",
+      "reason": "Melanie's cat is named Luna in one entry and Bailey in another.",
+      "fact_a": "melanie#11",
+      "fact_b": "melanie#29",
+      "text_a": "Melanie has a dog named Oliver and a cat named Luna",
+      "text_b": "Melanie has a cat named Bailey",
+      "signals_a": {
+        "verified": "supported",
+        "subject": "Melanie",
+        "cited_turns": [
+          "D7:18"
+        ],
+        "cited_speakers": [
+          "Melanie"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 7,
+        "date_label": "12 July, 2023"
+      },
+      "signals_b": {
+        "verified": "supported",
+        "subject": "Melanie",
+        "cited_turns": [
+          "D13:4"
+        ],
+        "cited_speakers": [
+          "Melanie"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 13,
+        "date_label": "23 August, 2023"
+      },
+      "trust_a": 3.0,
+      "trust_b": 3.0,
+      "winner": "melanie#29",
+      "loser": "melanie#11",
+      "decided_by": "recency"
+    },
+    {
+      "policy": "recency",
+      "page_slug": "painting",
+      "kind": "incompatible",
+      "reason": "The stained glass window is described as a general reminder of potential in one entry and specifically for a local church showing her transgender journey in the other.",
+      "fact_a": "painting#18",
+      "fact_b": "painting#19",
+      "text_a": "Caroline created a stained glass window to remind people of their true potential.",
+      "text_b": "Caroline made a stained glass window for a local church to show her journey as a transgender woman.",
+      "signals_a": {
+        "verified": "supported",
+        "subject": "Caroline",
+        "cited_turns": [
+          "D14:17"
+        ],
+        "cited_speakers": [
+          "Caroline"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 14,
+        "date_label": "25 August, 2023"
+      },
+      "signals_b": {
+        "verified": "supported",
+        "subject": "Caroline",
+        "cited_turns": [
+          "D14:19"
+        ],
+        "cited_speakers": [
+          "Caroline"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 14,
+        "date_label": "25 August, 2023"
+      },
+      "trust_a": 3.0,
+      "trust_b": 3.0,
+      "winner": "painting#19",
+      "loser": "painting#18",
+      "decided_by": "recency"
+    },
+    {
+      "policy": "recency",
+      "page_slug": "pottery",
+      "kind": "update",
+      "reason": "Melanie finished a pottery project before she had to take a break due to injury.",
+      "fact_a": "pottery#5",
+      "fact_b": "pottery#9",
+      "text_a": "Melanie finished another pottery project.",
+      "text_b": "Melanie had a setback last month when she got hurt and had to take a break from pottery.",
+      "signals_a": {
+        "verified": "supported",
+        "subject": "Melanie",
+        "cited_turns": [
+          "D12:2"
+        ],
+        "cited_speakers": [
+          "Melanie"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 12,
+        "date_label": "17 August, 2023"
+      },
+      "signals_b": {
+        "verified": "supported",
+        "subject": "Melanie",
+        "cited_turns": [
+          "D17:8"
+        ],
+        "cited_speakers": [
+          "Melanie"
+        ],
+        "first_hand": true,
+        "n_cited_turns": 1,
+        "session_index": 17,
+        "date_label": "13 October, 2023"
+      },
+      "trust_a": 3.0,
+      "trust_b": 3.0,
+      "winner": "pottery#9",
+      "loser": "pottery#5",
+      "decided_by": "recency"
+    }
+  ]
+}

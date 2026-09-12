@@ -97,6 +97,31 @@ C_ARM = "cite"
 # one.
 HYDRATE_MAX_TURNS = 2
 
+# --- System D (provenance-driven forgetting) --------------------------------
+# D reads System C's wikis, runs a forgetting pass over them and answers over
+# the pruned result with C-hydrate's machinery unchanged. The only variable is
+# that facts have been removed. Two policies are run over the SAME verified
+# facts and the SAME detected contradictions:
+#   provenance  trust score from provenance signals; recency breaks ties only
+#   recency     later fact wins, always - the ablation, i.e. what the existing
+#               literature already does
+# If the two produce the same pruned wiki, the contribution collapses into
+# prior work, and that is reported.
+D_POLICY = "provenance"
+WIKI_D_DIRS = {
+    "provenance": RESULTS_DIR / "wikis_d_provenance",
+    "recency": RESULTS_DIR / "wikis_d_recency",
+}
+# The two LLM passes - verification and contradiction detection - are shared
+# by both policies and written here once, so the ablation isolates the rule.
+FORGETTING_DIR = RESULTS_DIR / "forgetting"
+
+# Verification and detection use the audit model, not the compiler: a model
+# checking its own facts is not evidence, and this is the same model and the
+# same rubric the citation audit used, so the pass and the audit agree.
+FORGET_MODEL = JUDGE_MODEL
+MAX_FORGET_TOKENS = 1_500
+
 TEMPERATURE = 0.0
 MAX_ANSWER_TOKENS = 256
 MAX_JUDGE_TOKENS = 200
@@ -161,6 +186,9 @@ def as_dict() -> dict:
         # It is the one prompt difference between B and C and belongs in the
         # snapshot, not only in the log. Imported lazily, as the fingerprint is.
         "c_citation_note": _c_citation_note(),
+        "d_policy": D_POLICY,
+        "forget_model": FORGET_MODEL,
+        "forgetting_version": _forgetting_version(),
         # Fingerprint of the extraction prompt and compiler that built the
         # wikis this run read. A prompt edit changes the wiki, so the results
         # file has to record which one. Imported lazily: src.systems.wiki
@@ -168,6 +196,14 @@ def as_dict() -> dict:
         "wiki_build_fingerprint": _wiki_build_fingerprint(),
         "prices_usd_per_1m": PRICES,
     }
+
+
+def _forgetting_version() -> str | None:
+    try:
+        from src.systems.forgetting import FORGETTING_VERSION
+    except Exception:          # config must stay importable on its own
+        return None
+    return FORGETTING_VERSION
 
 
 def _c_citation_note() -> str | None:

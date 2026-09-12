@@ -1,0 +1,1037 @@
+{
+  "conv_id": "conv-26",
+  "model": "gpt-4.1-mini",
+  "forgetting_version": "d1",
+  "wiki_fingerprint": "9884fea0ef28",
+  "n_facts": 193,
+  "run_utc": "2026-09-12T17:58:32.765349+00:00",
+  "stats": {
+    "verify_calls": 19,
+    "verify_cached_calls": 0,
+    "verify_prompt_tokens": 28390,
+    "verify_completion_tokens": 7772,
+    "verify_cost_usd": 0.023791200000000002,
+    "verify_latency_s": 79.75175510114059,
+    "verify_unreadable": 0,
+    "detect_calls": 9,
+    "detect_cached_calls": 0,
+    "detect_pages_checked": 9,
+    "detect_prompt_tokens": 9858,
+    "detect_completion_tokens": 351,
+    "detect_cost_usd": 0.004504800000000001,
+    "detect_latency_s": 8.156112999655306,
+    "detect_unreadable_pages": 0,
+    "passes_cost_usd": 0.028296
+  },
+  "verdicts": [
+    {
+      "fact_id": "career-options#1",
+      "verdict": "supported",
+      "reason": "D1:9 states Caroline will continue education and explore career options."
+    },
+    {
+      "fact_id": "career-options#2",
+      "verdict": "supported",
+      "reason": "D1:11 states Caroline is interested in counseling or mental health work."
+    },
+    {
+      "fact_id": "lgbtq-support-group#1",
+      "verdict": "unsupported",
+      "reason": "D1:3 mentions attending an LGBTQ support group but does not specify the date."
+    },
+    {
+      "fact_id": "lgbtq-support-group#2",
+      "verdict": "supported",
+      "reason": "D1:5 states Caroline found transgender stories inspiring."
+    },
+    {
+      "fact_id": "lgbtq-support-group#3",
+      "verdict": "supported",
+      "reason": "D1:7 states Caroline feels accepted and gained courage from the support group."
+    },
+    {
+      "fact_id": "painting#1",
+      "verdict": "supported",
+      "reason": "D1:14 states Melanie painted a lake sunrise last year."
+    },
+    {
+      "fact_id": "painting#2",
+      "verdict": "supported",
+      "reason": "D1:16 states Melanie finds painting fun for expressing feelings and relaxing."
+    },
+    {
+      "fact_id": "adoption-research#1",
+      "verdict": "supported",
+      "reason": "Turn D2:8 explicitly states Caroline is researching adoption agencies."
+    },
+    {
+      "fact_id": "adoption-research#2",
+      "verdict": "supported",
+      "reason": "Turn D2:10 states Caroline's goal to give kids a loving home through adoption."
+    },
+    {
+      "fact_id": "adoption-research#3",
+      "verdict": "supported",
+      "reason": "Turn D2:12 states Caroline chose the agency because they help LGBTQ+ folks with adoption."
+    },
+    {
+      "fact_id": "adoption-research#4",
+      "verdict": "supported",
+      "reason": "Turn D2:14 states Caroline is thrilled to make a family for kids who need one through adoption."
+    },
+    {
+      "fact_id": "adoption-research#5",
+      "verdict": "supported",
+      "reason": "Turn D2:16 states Caroline aims to provide a safe and loving home for the kids she will adopt."
+    },
+    {
+      "fact_id": "charity-race#1",
+      "verdict": "supported",
+      "reason": "Turn D2:1 states Melanie ran a charity race raising awareness for mental health last Saturday."
+    },
+    {
+      "fact_id": "melanie#1",
+      "verdict": "supported",
+      "reason": "Turn D2:7 states Melanie's kids are excited about summer break and they are thinking about going camping next month."
+    },
+    {
+      "fact_id": "self-care#1",
+      "verdict": "supported",
+      "reason": "Turn D2:3 states Melanie is realizing that self-care is really important."
+    },
+    {
+      "fact_id": "self-care#2",
+      "verdict": "supported",
+      "reason": "Turn D2:5 states Melanie is carving out some me-time each day by running, reading, or playing her violin."
+    },
+    {
+      "fact_id": "lgbtq-support-group#4",
+      "verdict": "supported",
+      "reason": "D3:1 explicitly states Caroline talked about her transgender journey and encouraged LGBTQ involvement."
+    },
+    {
+      "fact_id": "lgbtq-support-group#5",
+      "verdict": "supported",
+      "reason": "D3:3 clearly mentions Caroline shared her struggles and development since coming out."
+    },
+    {
+      "fact_id": "lgbtq-support-group#6",
+      "verdict": "supported",
+      "reason": "D3:5 states Caroline feels sharing experiences promotes understanding and acceptance."
+    },
+    {
+      "fact_id": "melanie#2",
+      "verdict": "supported",
+      "reason": "D3:16 states Melanie has been married for 5 years."
+    },
+    {
+      "fact_id": "melanie#3",
+      "verdict": "supported",
+      "reason": "D3:14 states Melanie has a husband and kids who keep her motivated."
+    },
+    {
+      "fact_id": "melanie#4",
+      "verdict": "supported",
+      "reason": "D3:20 describes Melanie enjoying a family day with games, food, and hanging out."
+    },
+    {
+      "fact_id": "caroline#1",
+      "verdict": "supported",
+      "reason": "D3:1 states Caroline has been transitioning for three years."
+    },
+    {
+      "fact_id": "caroline#2",
+      "verdict": "supported",
+      "reason": "D3:13 states Caroline has known her friends for 4 years since moving from her home country."
+    },
+    {
+      "fact_id": "caroline#3",
+      "verdict": "supported",
+      "reason": "D3:13 states Caroline's friends have been important for support after a tough breakup."
+    },
+    {
+      "fact_id": "melanie#5",
+      "verdict": "supported",
+      "reason": "D4:6 explicitly states Melanie took her family camping in the mountains last week."
+    },
+    {
+      "fact_id": "caroline#4",
+      "verdict": "supported",
+      "reason": "D4:3 clearly states Caroline received a necklace with a cross and a heart as a gift from her grandma in Sweden."
+    },
+    {
+      "fact_id": "caroline#5",
+      "verdict": "supported",
+      "reason": "D4:3 states the necklace stands for love, faith, and strength."
+    },
+    {
+      "fact_id": "caroline#6",
+      "verdict": "supported",
+      "reason": "D4:5 states Caroline has a hand-painted bowl made by a friend for her 18th birthday ten years ago."
+    },
+    {
+      "fact_id": "caroline#7",
+      "verdict": "supported",
+      "reason": "D4:5 states the bowl reminds Caroline of art and self-expression."
+    },
+    {
+      "fact_id": "caroline#8",
+      "verdict": "supported",
+      "reason": "D4:11 states Caroline is looking into counseling and mental health as a career."
+    },
+    {
+      "fact_id": "caroline#9",
+      "verdict": "supported",
+      "reason": "D4:13 states Caroline is considering working with trans people to help them accept themselves and support their mental health."
+    },
+    {
+      "fact_id": "caroline#10",
+      "verdict": "supported",
+      "reason": "D4:13 states Caroline attended an LGBTQ+ counseling workshop last Friday."
+    },
+    {
+      "fact_id": "caroline#11",
+      "verdict": "supported",
+      "reason": "D4:15 states Caroline wants to create a safe, inviting place for people to grow based on her own experiences."
+    },
+    {
+      "fact_id": "miscellaneous#1",
+      "verdict": "supported",
+      "reason": "D4:8 states Melanie's family explored nature, roasted marshmallows, and went on a hike during the camping trip."
+    },
+    {
+      "fact_id": "career-options#3",
+      "verdict": "supported",
+      "reason": "D5:3 explicitly states Caroline wants to use her story to help others and is considering counseling and mental health."
+    },
+    {
+      "fact_id": "lgbtq-support-group#7",
+      "verdict": "supported",
+      "reason": "D5:1 clearly states Caroline attended an LGBTQ+ pride parade last week."
+    },
+    {
+      "fact_id": "lgbtq-support-group#8",
+      "verdict": "supported",
+      "reason": "D5:1 states Caroline felt a sense of belonging at the parade."
+    },
+    {
+      "fact_id": "lgbtq-support-group#9",
+      "verdict": "supported",
+      "reason": "D5:13 states Caroline is going to a transgender conference this month."
+    },
+    {
+      "fact_id": "melanie#6",
+      "verdict": "supported",
+      "reason": "D5:4 states Melanie signed up for a pottery class yesterday."
+    },
+    {
+      "fact_id": "caroline#12",
+      "verdict": "supported",
+      "reason": "D5:5 states Caroline is learning the piano."
+    },
+    {
+      "fact_id": "pottery#1",
+      "verdict": "supported",
+      "reason": "D5:6 and D5:10 state Melanie finds pottery calming and a way to express herself creatively."
+    },
+    {
+      "fact_id": "pottery#2",
+      "verdict": "supported",
+      "reason": "D5:8 states Melanie made a bowl with a black and white flower design in her pottery class."
+    },
+    {
+      "fact_id": "career-options#4",
+      "verdict": "supported",
+      "reason": "D6:3 states Caroline has been looking into counseling or mental health work since last chat."
+    },
+    {
+      "fact_id": "career-options#5",
+      "verdict": "supported",
+      "reason": "D6:3 states Caroline is passionate about helping people and making a positive impact."
+    },
+    {
+      "fact_id": "lgbtq-support-group#10",
+      "verdict": "supported",
+      "reason": "D6:11 and D6:15 show Caroline appreciates friends and family support during her transition."
+    },
+    {
+      "fact_id": "lgbtq-support-group#11",
+      "verdict": "supported",
+      "reason": "D6:13 states Caroline's support network has been there every step with love, guidance, and acceptance."
+    },
+    {
+      "fact_id": "melanie#7",
+      "verdict": "supported",
+      "reason": "D6:4 states Melanie took her kids to the museum yesterday."
+    },
+    {
+      "fact_id": "melanie#8",
+      "verdict": "supported",
+      "reason": "D6:6 states Melanie's kids were excited about the dinosaur exhibit at the museum."
+    },
+    {
+      "fact_id": "melanie#9",
+      "verdict": "supported",
+      "reason": "D6:10 states Melanie loved reading 'Charlotte's Web' as a kid."
+    },
+    {
+      "fact_id": "melanie#10",
+      "verdict": "supported",
+      "reason": "D6:16 states Melanie's family enjoys camping at the beach, which brings them closer."
+    },
+    {
+      "fact_id": "caroline#13",
+      "verdict": "supported",
+      "reason": "D6:7 states Caroline is creating a library for when she has kids."
+    },
+    {
+      "fact_id": "caroline#14",
+      "verdict": "supported",
+      "reason": "D6:9 states Caroline has lots of kids' books including classics, stories from different cultures, and educational books."
+    },
+    {
+      "fact_id": "career-options#6",
+      "verdict": "supported",
+      "reason": "D7:5 explicitly states Caroline is looking into counseling and mental health jobs."
+    },
+    {
+      "fact_id": "lgbtq-support-group#12",
+      "verdict": "supported",
+      "reason": "D7:1 shows Caroline felt accepted and thankful for the LGBTQ community."
+    },
+    {
+      "fact_id": "melanie#11",
+      "verdict": "supported",
+      "reason": "D7:18 states Melanie has a dog named Oliver and a cat named Luna."
+    },
+    {
+      "fact_id": "melanie#12",
+      "verdict": "supported",
+      "reason": "D7:22 states Melanie has been running longer to de-stress."
+    },
+    {
+      "fact_id": "melanie#13",
+      "verdict": "supported",
+      "reason": "D7:20 states Melanie's new shoes are for running."
+    },
+    {
+      "fact_id": "self-care#3",
+      "verdict": "supported",
+      "reason": "D7:26 states Melanie's mental health has improved from running."
+    },
+    {
+      "fact_id": "caroline#15",
+      "verdict": "supported",
+      "reason": "D7:1 states Caroline attended an LGBTQ conference two days ago."
+    },
+    {
+      "fact_id": "caroline#16",
+      "verdict": "supported",
+      "reason": "D7:7 states Caroline struggled with mental health and found support helpful."
+    },
+    {
+      "fact_id": "caroline#17",
+      "verdict": "supported",
+      "reason": "D7:11 states Caroline's favorite book is 'Becoming Nicole' by Amy Ellis Nutt."
+    },
+    {
+      "fact_id": "caroline#18",
+      "verdict": "supported",
+      "reason": "D7:13 states Caroline learned self-acceptance and the importance of support from 'Becoming Nicole'."
+    },
+    {
+      "fact_id": "painting#3",
+      "verdict": "supported",
+      "reason": "D8:6 states Melanie and her kids enjoy painting together, especially nature-inspired ones."
+    },
+    {
+      "fact_id": "painting#4",
+      "verdict": "supported",
+      "reason": "D8:8 states they bonded over painting and chatting about nature."
+    },
+    {
+      "fact_id": "adoption-research#6",
+      "verdict": "supported",
+      "reason": "D8:9 states Caroline attended a council meeting for adoption last Friday."
+    },
+    {
+      "fact_id": "melanie#14",
+      "verdict": "unsupported",
+      "reason": "D8:10 is Melanie sharing a photo of a blue vase with flowers, but the entry incorrectly attributes it to Melanie; it was Caroline who commented on the vase in D8:11."
+    },
+    {
+      "fact_id": "melanie#15",
+      "verdict": "supported",
+      "reason": "D8:12 states Melanie believes flowers bring joy and represent growth and beauty."
+    },
+    {
+      "fact_id": "melanie#16",
+      "verdict": "supported",
+      "reason": "D8:12 states flowers were part of Melanie's wedding decor and remind her of that day."
+    },
+    {
+      "fact_id": "melanie#17",
+      "verdict": "supported",
+      "reason": "D8:16 states Melanie's favorite part of her wedding was marrying her partner and promising to be together forever."
+    },
+    {
+      "fact_id": "melanie#18",
+      "verdict": "supported",
+      "reason": "D8:30 states Melanie's family has been supportive and showed lots of love during her move."
+    },
+    {
+      "fact_id": "melanie#19",
+      "verdict": "supported",
+      "reason": "D8:34 states Melanie and her family enjoy hiking in the mountains and exploring forests."
+    },
+    {
+      "fact_id": "self-care#4",
+      "verdict": "supported",
+      "reason": "D8:28 states Melanie finds creativity and family keep her at peace."
+    },
+    {
+      "fact_id": "caroline#19",
+      "verdict": "supported",
+      "reason": "D8:17 states Caroline attended a pride parade a few weeks ago."
+    },
+    {
+      "fact_id": "caroline#20",
+      "verdict": "supported",
+      "reason": "D8:19 states Caroline felt accepted and happy at the pride parade."
+    },
+    {
+      "fact_id": "caroline#21",
+      "verdict": "supported",
+      "reason": "D8:21 states Caroline felt proud and grateful being around a supportive community at the pride parade."
+    },
+    {
+      "fact_id": "caroline#22",
+      "verdict": "supported",
+      "reason": "D8:25 states Caroline found the courage to transition and express herself authentically."
+    },
+    {
+      "fact_id": "pottery#3",
+      "verdict": "supported",
+      "reason": "D8:2 states Melanie took her kids to a pottery workshop last Friday where they made their own pots."
+    },
+    {
+      "fact_id": "pottery#4",
+      "verdict": "supported",
+      "reason": "D8:4 states Melanie's kids loved the pottery workshop and were excited to make something with clay."
+    },
+    {
+      "fact_id": "lgbtq-support-group#13",
+      "verdict": "supported",
+      "reason": "D9:2 states Caroline joined a mentorship program for LGBTQ youth last weekend."
+    },
+    {
+      "fact_id": "lgbtq-support-group#14",
+      "verdict": "supported",
+      "reason": "D9:6 states Caroline mentors a transgender teen."
+    },
+    {
+      "fact_id": "lgbtq-support-group#15",
+      "verdict": "supported",
+      "reason": "D9:6 states Caroline and her mentee attended an LGBT pride event last month."
+    },
+    {
+      "fact_id": "lgbtq-support-group#16",
+      "verdict": "supported",
+      "reason": "D9:12 states Caroline is having an LGBTQ art show next month featuring her paintings."
+    },
+    {
+      "fact_id": "painting#5",
+      "verdict": "supported",
+      "reason": "D9:16 states Caroline painted a piece inspired by her visit to an LGBTQ center to capture unity and strength."
+    },
+    {
+      "fact_id": "melanie#20",
+      "verdict": "supported",
+      "reason": "D9:1 states Melanie had a quiet weekend after camping with her family two weekends ago."
+    },
+    {
+      "fact_id": "lgbtq-support-group#17",
+      "verdict": "partially",
+      "reason": "D10:3 mentions Caroline joined a new LGBTQ activist group last Tuesday but does not specify the date 13 July 2023; D10:5 names the group."
+    },
+    {
+      "fact_id": "lgbtq-support-group#18",
+      "verdict": "supported",
+      "reason": "D10:5 states the group has regular meetings, plans events and campaigns to support each other."
+    },
+    {
+      "fact_id": "melanie#21",
+      "verdict": "supported",
+      "reason": "D10:10 states Melanie's family usually goes to the beach only once or twice a year."
+    },
+    {
+      "fact_id": "melanie#22",
+      "verdict": "supported",
+      "reason": "D10:12 states the family camping trip is the highlight of their summer."
+    },
+    {
+      "fact_id": "melanie#23",
+      "verdict": "supported",
+      "reason": "D10:14 describes Melanie's memory of the camping trip last year when they saw the Perseid meteor shower."
+    },
+    {
+      "fact_id": "melanie#24",
+      "verdict": "supported",
+      "reason": "D10:20 states Melanie's youngest child took her first steps, which Melanie considers special."
+    },
+    {
+      "fact_id": "melanie#25",
+      "verdict": "supported",
+      "reason": "D10:22 states Melanie appreciates life and feels lucky to be with her family."
+    },
+    {
+      "fact_id": "caroline#23",
+      "verdict": "supported",
+      "reason": "D10:7 states Caroline missed the pride parade that took place last weekend in her city."
+    },
+    {
+      "fact_id": "painting#6",
+      "verdict": "supported",
+      "reason": "D11:8 explicitly states Caroline uses her art to represent inclusivity and diversity."
+    },
+    {
+      "fact_id": "painting#7",
+      "verdict": "supported",
+      "reason": "D11:10 clearly says Caroline's art expresses her trans experience and helps understanding."
+    },
+    {
+      "fact_id": "painting#8",
+      "verdict": "supported",
+      "reason": "D11:12 describes the painting 'Embracing Identity' as about comfort and love in being oneself."
+    },
+    {
+      "fact_id": "painting#9",
+      "verdict": "supported",
+      "reason": "D11:14 states Caroline uses art to explore her transition and changing body."
+    },
+    {
+      "fact_id": "painting#10",
+      "verdict": "supported",
+      "reason": "D11:14 includes Caroline appreciating beauty in imperfections."
+    },
+    {
+      "fact_id": "melanie#26",
+      "verdict": "partially",
+      "reason": "D11:1 mentions Melanie's daughter's birthday concert but does not specify the date 14 August 2023."
+    },
+    {
+      "fact_id": "caroline#24",
+      "verdict": "partially",
+      "reason": "D11:4 mentions Caroline attended a pride parade last Friday but does not specify the date 11 August 2023."
+    },
+    {
+      "fact_id": "caroline#25",
+      "verdict": "supported",
+      "reason": "D11:4 states Caroline found the pride parade inspiring and felt proud to stand up for equality."
+    },
+    {
+      "fact_id": "miscellaneous#2",
+      "verdict": "supported",
+      "reason": "D11:3 states Matt Patterson is talented and his voice and songs were amazing."
+    },
+    {
+      "fact_id": "lgbtq-support-group#19",
+      "verdict": "supported",
+      "reason": "D12:1 explicitly states Caroline's thoughts on LGBTQ rights work."
+    },
+    {
+      "fact_id": "painting#11",
+      "verdict": "supported",
+      "reason": "D12:6 clearly says Melanie uses painting to express feelings and creativity."
+    },
+    {
+      "fact_id": "painting#12",
+      "verdict": "supported",
+      "reason": "D12:8 states Melanie's strong connection to art and learning experience."
+    },
+    {
+      "fact_id": "melanie#27",
+      "verdict": "supported",
+      "reason": "D12:16 mentions planning a family outing this summer."
+    },
+    {
+      "fact_id": "melanie#28",
+      "verdict": "supported",
+      "reason": "D12:20 shows Melanie starting to think about summer plans."
+    },
+    {
+      "fact_id": "self-care#5",
+      "verdict": "supported",
+      "reason": "D12:9 states Caroline's belief about surrounding with joy-bringing things."
+    },
+    {
+      "fact_id": "caroline#26",
+      "verdict": "supported",
+      "reason": "D12:1 describes Caroline's negative hike experience with religious conservatives."
+    },
+    {
+      "fact_id": "caroline#27",
+      "verdict": "supported",
+      "reason": "D12:15 references their fun at last year's Pride fest."
+    },
+    {
+      "fact_id": "caroline#28",
+      "verdict": "supported",
+      "reason": "D12:17 shows Caroline suggesting a special plan for just the two of them."
+    },
+    {
+      "fact_id": "pottery#5",
+      "verdict": "supported",
+      "reason": "D12:2 states Melanie finished another pottery project."
+    },
+    {
+      "fact_id": "pottery#6",
+      "verdict": "supported",
+      "reason": "D12:4 includes Melanie sharing a photo of a colorful bowl."
+    },
+    {
+      "fact_id": "pottery#7",
+      "verdict": "supported",
+      "reason": "D12:6 states Melanie is obsessed with colors and patterns in pottery."
+    },
+    {
+      "fact_id": "friendship#1",
+      "verdict": "supported",
+      "reason": "D12:11 shows Caroline appreciating Melanie reminding her of happy moments."
+    },
+    {
+      "fact_id": "lgbtq-support-group#20",
+      "verdict": "supported",
+      "reason": "D13:15 explicitly states Caroline values supportive people and promoting LGBTQ rights."
+    },
+    {
+      "fact_id": "painting#13",
+      "verdict": "supported",
+      "reason": "D13:8 states Melanie painted a horse recently."
+    },
+    {
+      "fact_id": "painting#14",
+      "verdict": "supported",
+      "reason": "D13:11 states Caroline created a self-portrait last week."
+    },
+    {
+      "fact_id": "painting#15",
+      "verdict": "supported",
+      "reason": "D13:13 states Caroline felt liberated and empowered while painting her self-portrait."
+    },
+    {
+      "fact_id": "adoption-research#7",
+      "verdict": "supported",
+      "reason": "D13:1 states Caroline applied to adoption agencies as a first step to becoming a mom."
+    },
+    {
+      "fact_id": "adoption-research#8",
+      "verdict": "supported",
+      "reason": "D13:1 states Caroline attended an adoption advice/assistance group for help."
+    },
+    {
+      "fact_id": "melanie#29",
+      "verdict": "supported",
+      "reason": "D13:4 states Melanie has a cat named Bailey."
+    },
+    {
+      "fact_id": "melanie#30",
+      "verdict": "supported",
+      "reason": "D13:6 states Melanie's cat Oliver hid his bone in her slipper."
+    },
+    {
+      "fact_id": "caroline#29",
+      "verdict": "supported",
+      "reason": "D13:3 states Caroline has a guinea pig named Oscar."
+    },
+    {
+      "fact_id": "caroline#30",
+      "verdict": "supported",
+      "reason": "D13:7 states Caroline used to go horseback riding with her dad when she was a kid."
+    },
+    {
+      "fact_id": "lgbtq-support-group#21",
+      "verdict": "supported",
+      "reason": "D14:33 explicitly states Caroline is putting together an LGBTQ art show next month to showcase her paintings."
+    },
+    {
+      "fact_id": "painting#16",
+      "verdict": "supported",
+      "reason": "D14:5 states Caroline has been busy painting."
+    },
+    {
+      "fact_id": "painting#17",
+      "verdict": "supported",
+      "reason": "D14:7 states Caroline painted a sunset after visiting the beach last week."
+    },
+    {
+      "fact_id": "painting#18",
+      "verdict": "supported",
+      "reason": "D14:17 states Caroline created a stained glass window to remind people of their true potential."
+    },
+    {
+      "fact_id": "painting#19",
+      "verdict": "supported",
+      "reason": "D14:19 states Caroline made a stained glass window for a local church to show her journey as a transgender woman."
+    },
+    {
+      "fact_id": "melanie#31",
+      "verdict": "supported",
+      "reason": "D14:10 states Melanie volunteered at a homeless shelter yesterday."
+    },
+    {
+      "fact_id": "caroline#31",
+      "verdict": "supported",
+      "reason": "D14:1 states Caroline went hiking last week and got into a bad spot with some people."
+    },
+    {
+      "fact_id": "caroline#32",
+      "verdict": "supported",
+      "reason": "D14:13 and D14:19 together state Caroline is a transgender woman."
+    },
+    {
+      "fact_id": "pottery#8",
+      "verdict": "supported",
+      "reason": "D14:4 states Melanie made a plate in pottery class yesterday."
+    },
+    {
+      "fact_id": "lgbtq-support-group#22",
+      "verdict": "supported",
+      "reason": "D15:3 states Caroline volunteered at an LGBTQ+ youth center and found it gratifying."
+    },
+    {
+      "fact_id": "lgbtq-support-group#23",
+      "verdict": "supported",
+      "reason": "D15:5 and D15:7 describe Caroline feeling fulfilled guiding and supporting young people at the center."
+    },
+    {
+      "fact_id": "lgbtq-support-group#24",
+      "verdict": "supported",
+      "reason": "D15:9 clearly states Caroline plans to continue volunteering at the center."
+    },
+    {
+      "fact_id": "lgbtq-support-group#25",
+      "verdict": "supported",
+      "reason": "D15:11 mentions Caroline looking forward to a talent show for the kids next month."
+    },
+    {
+      "fact_id": "melanie#32",
+      "verdict": "supported",
+      "reason": "D15:2 states Melanie took her kids to a park yesterday where they had fun exploring and playing."
+    },
+    {
+      "fact_id": "melanie#33",
+      "verdict": "supported",
+      "reason": "D15:14 and D15:16 confirm Melanie attended a concert where 'Summer Sounds' played."
+    },
+    {
+      "fact_id": "melanie#34",
+      "verdict": "supported",
+      "reason": "D15:26 states Melanie plays clarinet and started when she was young."
+    },
+    {
+      "fact_id": "melanie#35",
+      "verdict": "supported",
+      "reason": "D15:28 states Melanie enjoys classical music like Bach and Mozart and modern music like Ed Sheeran's 'Perfect'."
+    },
+    {
+      "fact_id": "caroline#33",
+      "verdict": "supported",
+      "reason": "D15:19 states Caroline plays guitar which helps her express emotions."
+    },
+    {
+      "fact_id": "caroline#34",
+      "verdict": "supported",
+      "reason": "D15:21 states Caroline started playing acoustic guitar about five years ago."
+    },
+    {
+      "fact_id": "caroline#35",
+      "verdict": "supported",
+      "reason": "D15:23 states Caroline finds 'Brave' by Sara Bareilles significant for her journey."
+    },
+    {
+      "fact_id": "lgbtq-support-group#26",
+      "verdict": "supported",
+      "reason": "D16:5 states Caroline is inspired by her work making a difference for the LGBTQ+ community."
+    },
+    {
+      "fact_id": "painting#20",
+      "verdict": "supported",
+      "reason": "D16:7 states Caroline has been creating art since she was 17."
+    },
+    {
+      "fact_id": "painting#21",
+      "verdict": "supported",
+      "reason": "D16:8 states Melanie has been into art for seven years focusing on painting and pottery."
+    },
+    {
+      "fact_id": "painting#22",
+      "verdict": "supported",
+      "reason": "D16:9 states Caroline uses painting and drawing to express feelings and explore gender identity."
+    },
+    {
+      "fact_id": "painting#23",
+      "verdict": "supported",
+      "reason": "D16:13 states Caroline created a painting showing her path as a trans woman using red and blue for the binary gender system."
+    },
+    {
+      "fact_id": "painting#24",
+      "verdict": "supported",
+      "reason": "D16:13 states the painting serves as a reminder to love her authentic self."
+    },
+    {
+      "fact_id": "melanie#36",
+      "verdict": "supported",
+      "reason": "D16:2 states Melanie went camping with kids a few weeks ago and had a blast exploring the forest and hiking."
+    },
+    {
+      "fact_id": "melanie#37",
+      "verdict": "supported",
+      "reason": "D16:4 states Melanie enjoys seeing her kids get excited learning about nature."
+    },
+    {
+      "fact_id": "melanie#38",
+      "verdict": "supported",
+      "reason": "D16:16 states Melanie had a good time at the café last weekend which had thoughtful signs."
+    },
+    {
+      "fact_id": "caroline#36",
+      "verdict": "supported",
+      "reason": "D16:1 states Caroline went biking with friends last weekend and saw cool stuff."
+    },
+    {
+      "fact_id": "caroline#37",
+      "verdict": "supported",
+      "reason": "D16:1 states Caroline finds biking refreshing."
+    },
+    {
+      "fact_id": "caroline#38",
+      "verdict": "supported",
+      "reason": "D16:5 states Caroline is thankful for support from friends, family, and mentors."
+    },
+    {
+      "fact_id": "caroline#39",
+      "verdict": "supported",
+      "reason": "D16:15 states Caroline's relationships changed with some friends supporting and others not handling it."
+    },
+    {
+      "fact_id": "miscellaneous#3",
+      "verdict": "supported",
+      "reason": "D16:18 states the sign at the café was a precaution and nothing serious happened."
+    },
+    {
+      "fact_id": "painting#25",
+      "verdict": "supported",
+      "reason": "D17:12 states Melanie painted a sunset inspired piece last week that makes her feel calm."
+    },
+    {
+      "fact_id": "painting#26",
+      "verdict": "supported",
+      "reason": "D17:13 states Caroline has been trying abstract painting recently as self-expression."
+    },
+    {
+      "fact_id": "painting#27",
+      "verdict": "supported",
+      "reason": "D17:14 and D17:16 describe Melanie's abstract painting with peaceful blue streaks showing tranquility."
+    },
+    {
+      "fact_id": "painting#28",
+      "verdict": "supported",
+      "reason": "D17:23 states Caroline drew a piece representing freedom, being real, and her womanhood."
+    },
+    {
+      "fact_id": "adoption-research#9",
+      "verdict": "supported",
+      "reason": "D17:1 states Caroline contacted her mentor for adoption advice."
+    },
+    {
+      "fact_id": "adoption-research#10",
+      "verdict": "supported",
+      "reason": "D17:4 states Melanie knows someone who adopted last year."
+    },
+    {
+      "fact_id": "melanie#39",
+      "verdict": "supported",
+      "reason": "D17:10 states Melanie has been reading a book Caroline recommended and painting to keep busy."
+    },
+    {
+      "fact_id": "caroline#40",
+      "verdict": "supported",
+      "reason": "D17:1 states Caroline is ready to be a mom and share her love and family."
+    },
+    {
+      "fact_id": "caroline#41",
+      "verdict": "supported",
+      "reason": "D17:17 states Caroline attended a transgender poetry reading last Friday."
+    },
+    {
+      "fact_id": "miscellaneous#4",
+      "verdict": "supported",
+      "reason": "D17:19 states the transgender poetry reading was a safe place for self-expression and empowerment."
+    },
+    {
+      "fact_id": "pottery#9",
+      "verdict": "supported",
+      "reason": "D17:8 states Melanie had a setback last month, got hurt, and had to take a break from pottery."
+    },
+    {
+      "fact_id": "melanie#40",
+      "verdict": "supported",
+      "reason": "D18:1 explicitly mentions Melanie's son got into an accident during the road trip."
+    },
+    {
+      "fact_id": "melanie#41",
+      "verdict": "supported",
+      "reason": "D18:1 and D18:3 both confirm Melanie's son is okay after the accident."
+    },
+    {
+      "fact_id": "melanie#42",
+      "verdict": "supported",
+      "reason": "D18:5 states Melanie has thought a lot about how much she needs her family after the accident."
+    },
+    {
+      "fact_id": "melanie#43",
+      "verdict": "supported",
+      "reason": "D18:5 mentions the family enjoyed the Grand Canyon."
+    },
+    {
+      "fact_id": "melanie#44",
+      "verdict": "supported",
+      "reason": "D18:7 states Melanie's children were scared but reassured their brother would be okay."
+    },
+    {
+      "fact_id": "melanie#45",
+      "verdict": "supported",
+      "reason": "D18:9 says Melanie's children give her strength to keep going."
+    },
+    {
+      "fact_id": "melanie#46",
+      "verdict": "supported",
+      "reason": "D18:13 shows Melanie appreciates her family and considers them a real support."
+    },
+    {
+      "fact_id": "melanie#47",
+      "verdict": "supported",
+      "reason": "D18:15 and D18:17 confirm Melanie and family went for a walk on a trail the day before 20 October 2023."
+    },
+    {
+      "fact_id": "melanie#48",
+      "verdict": "supported",
+      "reason": "D18:19 states Melanie loves camping trips with family because nature brings peace and serenity."
+    },
+    {
+      "fact_id": "melanie#49",
+      "verdict": "supported",
+      "reason": "D18:21 describes bonding over stories, campfires, and nature during camping trips."
+    },
+    {
+      "fact_id": "adoption-research#11",
+      "verdict": "supported",
+      "reason": "D19:1 explicitly states Caroline passed the adoption agency interviews last Friday."
+    },
+    {
+      "fact_id": "adoption-research#12",
+      "verdict": "supported",
+      "reason": "D19:3 clearly states Caroline hopes to build her own family and provide a home for kids who haven't had one before."
+    },
+    {
+      "fact_id": "adoption-research#13",
+      "verdict": "supported",
+      "reason": "D19:3 states Caroline believes adoption is a way of giving back and showing love and acceptance."
+    },
+    {
+      "fact_id": "adoption-research#14",
+      "verdict": "supported",
+      "reason": "D19:5 states Caroline's dream is to create a safe and loving home for kids."
+    },
+    {
+      "fact_id": "adoption-research#15",
+      "verdict": "supported",
+      "reason": "D19:5 states Caroline wants kids to experience love and acceptance as a right."
+    },
+    {
+      "fact_id": "melanie#50",
+      "verdict": "supported",
+      "reason": "D19:10 shows Melanie is happy for Caroline and finds her inspiring."
+    },
+    {
+      "fact_id": "caroline#42",
+      "verdict": "supported",
+      "reason": "D19:7 states Caroline found self-acceptance to be a long process."
+    },
+    {
+      "fact_id": "caroline#43",
+      "verdict": "supported",
+      "reason": "D19:7 states Caroline wants to offer love and support to those who need it."
+    },
+    {
+      "fact_id": "caroline#44",
+      "verdict": "supported",
+      "reason": "D19:9 states Caroline received invaluable help from friends, family, and role models during her transition."
+    },
+    {
+      "fact_id": "caroline#45",
+      "verdict": "supported",
+      "reason": "D19:9 states Caroline wants to pass the support she received to anyone who needs it."
+    },
+    {
+      "fact_id": "caroline#46",
+      "verdict": "supported",
+      "reason": "D19:9 states Caroline finds joy in bringing comfort and helping others grow."
+    },
+    {
+      "fact_id": "caroline#47",
+      "verdict": "supported",
+      "reason": "D19:13 states Caroline appreciates the support of those close to her."
+    },
+    {
+      "fact_id": "caroline#48",
+      "verdict": "supported",
+      "reason": "D19:15 states Caroline believes being oneself is freeing and leads to contentment."
+    }
+  ],
+  "contradictions": [
+    {
+      "page_slug": "lgbtq-support-group",
+      "fact_a": "lgbtq-support-group#16",
+      "fact_b": "lgbtq-support-group#21",
+      "kind": "update",
+      "reason": "Caroline's LGBTQ art show was planned for next month in July and then again in August, indicating the event was postponed or rescheduled."
+    },
+    {
+      "page_slug": "painting",
+      "fact_a": "painting#18",
+      "fact_b": "painting#19",
+      "kind": "incompatible",
+      "reason": "The stained glass window is described as a general reminder of potential in one entry and specifically for a local church showing her transgender journey in the other."
+    },
+    {
+      "page_slug": "adoption-research",
+      "fact_a": "adoption-research#11",
+      "fact_b": "adoption-research#6",
+      "kind": "update",
+      "reason": "Caroline attended a council meeting for adoption before passing the adoption agency interviews later."
+    },
+    {
+      "page_slug": "melanie",
+      "fact_a": "melanie#11",
+      "fact_b": "melanie#29",
+      "kind": "incompatible",
+      "reason": "Melanie's cat is named Luna in one entry and Bailey in another."
+    },
+    {
+      "page_slug": "caroline",
+      "fact_a": "caroline#19",
+      "fact_b": "caroline#23",
+      "kind": "incompatible",
+      "reason": "Caroline cannot both have attended and missed the pride parade that took place last weekend in her city."
+    },
+    {
+      "page_slug": "pottery",
+      "fact_a": "pottery#5",
+      "fact_b": "pottery#9",
+      "kind": "update",
+      "reason": "Melanie finished a pottery project before she had to take a break due to injury."
+    }
+  ]
+}

@@ -60,6 +60,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 import config
 from src.datasets.locomo import load_locomo
 from src.llm import LLMClient
+from src.systems.forgetting import SUPPORT_RUBRIC
 from src.systems.wiki import Wiki, parse_json
 
 VERDICTS = ("supported", "distorted", "unsupported")
@@ -88,12 +89,7 @@ The entry cites these turns as its source:
 
 Decide whether the CITED TURNS support the entry:
 
-- "supported"   - the cited turns state this, allowing for rewording and summary
-- "partially"   - the cited turns state part of it, but some of the entry rests
-                  on a different turn of the session that the entry does not cite
-- "unsupported" - the cited turns do not state this at all: it is somewhere else
-                  in the session entirely, it is altered (wrong person, wrong
-                  date, wrong detail), or nothing in the session says it
+""" + SUPPORT_RUBRIC + """
 
 Also decide whether the entry attributes something to the WRONG PERSON compared
 with what the cited turns actually say.
