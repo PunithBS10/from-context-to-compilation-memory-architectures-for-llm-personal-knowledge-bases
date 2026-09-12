@@ -24,8 +24,18 @@ compiler, for the same reason the judge is not the answerer. A subset is then
 hand-verified: a claim about hallucination rates that rests entirely on a model
 checking a model will not survive a viva.
 
+System C sharpens the question. Where `check` asks "is this fact faithful to
+its session?", `citations` asks "is it faithful to the *turn it names*?" -- a
+stricter test that only a wiki carrying per-fact provenance can be given, and
+the one that catches a fact which is locally plausible but pinned to the wrong
+line. It adds a verdict `check` has no way to express:
+
+    partially   the cited turns state part of it; the rest is in the session
+                but on a turn the fact does not cite
+
     python scripts/audit_wiki.py stats                       # size + compression
     python scripts/audit_wiki.py check -n 100                # the LLM pass
+    python scripts/audit_wiki.py citations -n 100            # System C: per-TURN
     python scripts/audit_wiki.py score results/wiki_fidelity_<stamp>.csv
 
 `check` also writes a `_sheet.md` review sheet: each sampled fact printed above
@@ -53,6 +63,49 @@ from src.llm import LLMClient
 from src.systems.wiki import Wiki, parse_json
 
 VERDICTS = ("supported", "distorted", "unsupported")
+
+# The citation audit's classes. "partially" is the one the per-session audit
+# cannot express: the fact is true of the session but the turn it names does
+# not carry all of it, which is a provenance defect rather than a fidelity one.
+CITATION_VERDICTS = ("supported", "partially", "unsupported")
+
+CITATION_SYSTEM = (
+    "You check whether a compiled fact is supported by the specific conversation "
+    "turns it cites. You are strict about WHICH turn says what. Reply with JSON only."
+)
+
+CITATION_TEMPLATE = """Below is one session of a conversation between {speakers}, which took place on {date}.
+
+{transcript}
+
+A knowledge base compiled from this conversation contains this entry:
+
+    "{fact}"   (filed on the page "{page}", dated {date_label})
+
+The entry cites these turns as its source:
+
+{cited}
+
+Decide whether the CITED TURNS support the entry:
+
+- "supported"   - the cited turns state this, allowing for rewording and summary
+- "partially"   - the cited turns state part of it, but some of the entry rests
+                  on a different turn of the session that the entry does not cite
+- "unsupported" - the cited turns do not state this at all: it is somewhere else
+                  in the session entirely, it is altered (wrong person, wrong
+                  date, wrong detail), or nothing in the session says it
+
+Also decide whether the entry attributes something to the WRONG PERSON compared
+with what the cited turns actually say.
+
+Reply with JSON only:
+{{"verdict": "supported|partially|unsupported", "misattribution": true|false, "reason": "<one short sentence>"}}"""
+
+CITATION_COLUMNS = [
+    "conv_id", "fact_id", "page_title", "page_type", "session_index", "date_label",
+    "cited_dia_ids", "fact", "verdict", "misattribution", "reason",
+    "human_verdict", "human_misattribution",
+]
 
 CHECK_SYSTEM = (
     "You verify a compiled knowledge base against its source. You are strict: "
@@ -120,6 +173,14 @@ def load_sessions(conv_ids: set[str]) -> dict[tuple[str, str], dict]:
                 "speakers": speakers,
                 "timestamp": session.timestamp or "an unrecorded date",
                 "transcript": "\n".join(t.render() for t in session.turns),
+                # The citation audit shows the transcript with ids, exactly as
+                # the compiler saw it, plus the individual cited turns quoted
+                # on their own. Checking a citation against a session with the
+                # ids hidden would be checking something else.
+                "transcript_ids": "\n".join(
+                    f"[{t.dia_id}] {t.render()}" if t.dia_id else t.render()
+                    for t in session.turns),
+                "turns": {t.dia_id: t.render() for t in session.turns if t.dia_id},
             }
     return sessions
 
@@ -328,7 +389,102 @@ def cmd_check(args) -> int:
     return 0
 
 
-def _write_review_sheet(csv_path: Path, rows: list[dict], sources: dict) -> Path:
+def check_citation(client: LLMClient, model: str, fact, source: dict) -> dict:
+    """Does the turn this fact NAMES actually say it?"""
+    cited = "\n".join(f"[{d}] {source['turns'].get(d, '(turn not found)')}"
+                      for d in fact.source_dia_ids)
+    prompt = CITATION_TEMPLATE.format(
+        speakers=source["speakers"], date=source["timestamp"],
+        transcript=source["transcript_ids"], fact=fact.text,
+        page=fact.page_title, date_label=fact.date_label, cited=cited,
+    )
+    response = client.complete(model=model, system_prompt=CITATION_SYSTEM,
+                               user_prompt=prompt, max_tokens=config.MAX_AUDIT_TOKENS)
+    parsed = parse_json(response.text)
+    if not isinstance(parsed, dict) or parsed.get("verdict") not in CITATION_VERDICTS:
+        return {"verdict": "unreadable", "misattribution": False,
+                "reason": f"unparsable check output: {response.text[:120]}",
+                "cost_usd": response.cost_usd}
+    return {"verdict": parsed["verdict"],
+            "misattribution": bool(parsed.get("misattribution", False)),
+            "reason": str(parsed.get("reason", ""))[:300],
+            "cost_usd": response.cost_usd}
+
+
+def cmd_citations(args) -> int:
+    """System C's measurement: is a fact faithful to the turn it cites?
+
+    Levels 1 and 2 of the citation check -- does the id name a real turn, and
+    a turn of the right session -- are deterministic and already reported by
+    `stats`. This is level 3, the only one that needs a model, and it is the
+    only one that can catch a fact whose citation points at the wrong line.
+    """
+    from tqdm import tqdm
+
+    wiki_dir = Path(args.wiki_dir if args.wiki_dir != str(config.WIKI_DIR)
+                    else config.WIKI_C_DIR)
+    wikis = load_wikis(wiki_dir)
+    cited_only = [w for w in wikis if any(f.source_dia_ids for f in w.facts)]
+    if not cited_only:
+        raise SystemExit(
+            f"No facts in {wiki_dir} carry citations. This mode audits System C's "
+            f"wikis; build them with:\n  python scripts/compile_wikis.py --system c")
+
+    chosen = [(w, f) for w, f in sample_facts(cited_only, args.n, args.seed)
+              if f.source_dia_ids]
+    sources = load_sessions({w.conv_id for w in cited_only})
+    client = LLMClient(use_cache=not args.no_cache)
+
+    rows, cost = [], 0.0
+    for wiki, fact in tqdm(chosen, desc="checking citations", unit="fact"):
+        source = sources.get((wiki.conv_id, fact.session_id))
+        if source is None:
+            continue
+        result = check_citation(client, args.model, fact, source)
+        cost += result["cost_usd"]
+        rows.append({
+            "conv_id": wiki.conv_id, "fact_id": fact.fact_id,
+            "page_title": fact.page_title, "page_type": fact.page_type,
+            "session_index": fact.session_index, "date_label": fact.date_label,
+            "cited_dia_ids": " ".join(fact.source_dia_ids),
+            "fact": fact.text, "verdict": result["verdict"],
+            "misattribution": int(result["misattribution"]), "reason": result["reason"],
+            "human_verdict": "", "human_misattribution": "",
+        })
+
+    stamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
+    csv_path = Path(args.out) if args.out else config.RESULTS_DIR / f"wiki_citations_{stamp}.csv"
+    with csv_path.open("w", newline="", encoding="utf-8") as fh:
+        writer = csv.DictWriter(fh, fieldnames=CITATION_COLUMNS)
+        writer.writeheader()
+        writer.writerows(rows)
+
+    json_path = csv_path.with_suffix(".json")
+    json_path.write_text(json.dumps({
+        "audit": {"mode": "citations", "checked_utc": stamp, "checker_model": args.model,
+                  "compiler_model": cited_only[0].extraction_model,
+                  "compiler_version": cited_only[0].compiler_version,
+                  "build_fingerprint": cited_only[0].build_fingerprint,
+                  "wiki_dir": str(wiki_dir), "n_sampled": len(rows), "seed": args.seed,
+                  "wikis": [w.conv_id for w in cited_only], "cost_usd": cost},
+        "rows": rows,
+    }, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    sheet_path = _write_review_sheet(csv_path, rows, sources, mode="citations")
+
+    print(f"\n{len(rows)} citations checked by {args.model} for ${cost:.4f}")
+    _report(rows, verdicts=CITATION_VERDICTS)
+    print(f"\ncsv   : {csv_path}")
+    print(f"json  : {json_path}")
+    print(f"sheet : {sheet_path}")
+    print("\nHand-verify 30 rows: read the sheet, fill in human_verdict "
+          "(supported/partially/unsupported) and human_misattribution (1/0) in the "
+          f"CSV, then run:\n  python scripts/audit_wiki.py score {csv_path}")
+    return 0
+
+
+def _write_review_sheet(csv_path: Path, rows: list[dict], sources: dict,
+                        mode: str = "fidelity") -> Path:
     """Fact plus its source session, in reading order, for hand-verification.
 
     The model's verdict is deliberately NOT printed: an anchored hand label is
@@ -336,12 +492,23 @@ def _write_review_sheet(csv_path: Path, rows: list[dict], sources: dict) -> Path
     independent of the model being validated.
     """
     path = csv_path.with_name(csv_path.stem + "_sheet.md")
-    lines = [f"# Wiki fidelity - hand verification sheet ({csv_path.name})", "",
-             "For each entry, decide from the session below it whether the fact is",
-             "**supported**, **distorted** (related but altered) or **unsupported**,",
-             "and whether it is pinned on the wrong person. Write your labels into the",
-             "`human_verdict` and `human_misattribution` columns of the CSV, matching",
-             "on `fact_id`. The model's verdict is not shown here on purpose.", ""]
+    if mode == "citations":
+        lines = [f"# Citation audit - hand verification sheet ({csv_path.name})", "",
+                 "For each entry, decide whether **the turns it cites** support it:",
+                 "**supported** (the cited turns say it), **partially** (the cited turns",
+                 "say part, and the rest is on another turn of the session that is not",
+                 "cited) or **unsupported** (the cited turns do not say it at all).",
+                 "Also flag whether it is pinned on the wrong person. Write your labels",
+                 "into the `human_verdict` and `human_misattribution` columns of the CSV,",
+                 "matching on `fact_id`. The model's verdict is not shown here on",
+                 "purpose - an anchored label is not independent evidence.", ""]
+    else:
+        lines = [f"# Wiki fidelity - hand verification sheet ({csv_path.name})", "",
+                 "For each entry, decide from the session below it whether the fact is",
+                 "**supported**, **distorted** (related but altered) or **unsupported**,",
+                 "and whether it is pinned on the wrong person. Write your labels into the",
+                 "`human_verdict` and `human_misattribution` columns of the CSV, matching",
+                 "on `fact_id`. The model's verdict is not shown here on purpose.", ""]
     for number, row in enumerate(rows, start=1):
         source = sources.get((row["conv_id"], f"session_{row['session_index']}"), {})
         lines += [
@@ -349,38 +516,52 @@ def _write_review_sheet(csv_path: Path, rows: list[dict], sources: dict) -> Path
             f"## {number}. {row['conv_id']} · {row['fact_id']} · page "
             f"*{row['page_title']}* ({row['page_type']})", "",
             f"**Compiled fact:** {row['fact']} — {row['date_label']}", "",
-            f"**Source, session {row['session_index']} ({source.get('timestamp', '?')}):**", "",
-            "```", source.get("transcript", "(session not found)"), "```", "",
-            "`human_verdict:` ____________   `human_misattribution:` ____", "",
         ]
+        if mode == "citations":
+            turns = source.get("turns", {})
+            cited = (row.get("cited_dia_ids") or "").split()
+            lines += [f"**It cites:** {', '.join(cited) or '(none)'}", "", "```"]
+            lines += [f"[{d}] {turns.get(d, '(turn not found)')}" for d in cited]
+            lines += ["```", "",
+                      f"**Whole session {row['session_index']} "
+                      f"({source.get('timestamp', '?')}), for context:**", "",
+                      "```", source.get("transcript_ids", "(session not found)"), "```", ""]
+        else:
+            lines += [
+                f"**Source, session {row['session_index']} "
+                f"({source.get('timestamp', '?')}):**", "",
+                "```", source.get("transcript", "(session not found)"), "```", ""]
+        lines += ["`human_verdict:` ____________   `human_misattribution:` ____", ""]
     path.write_text("\n".join(lines), encoding="utf-8")
     return path
 
 
 # --- reporting --------------------------------------------------------------
-def _rates(rows: list[dict], key: str) -> dict:
+def _rates(rows: list[dict], key: str, verdicts=VERDICTS) -> dict:
     counts = Counter(r[key] for r in rows)
     n = len(rows) or 1
-    return {v: counts.get(v, 0) / n for v in VERDICTS} | {
+    return {v: counts.get(v, 0) / n for v in verdicts} | {
         "unreadable": counts.get("unreadable", 0) / n, "n": len(rows)}
 
 
-def _report(rows: list[dict], key: str = "verdict", mis_key: str = "misattribution") -> None:
+def _report(rows: list[dict], key: str = "verdict", mis_key: str = "misattribution",
+            verdicts=VERDICTS) -> None:
     if not rows:
         print("nothing to report")
         return
-    overall = _rates(rows, key)
+    overall = _rates(rows, key, verdicts)
     misattributed = sum(1 for r in rows if str(r[mis_key]) in ("1", "True", "true"))
 
-    print(f"\n{'scope':<16}{'n':>5}{'supported':>12}{'distorted':>12}"
+    middle = verdicts[1]        # "distorted" for fidelity, "partially" for citations
+    print(f"\n{'scope':<16}{'n':>5}{'supported':>12}{middle:>12}"
           f"{'unsupported':>13}{'misattrib':>11}")
     print("-" * 69)
 
     def line(scope: str, subset: list[dict]) -> None:
-        rates = _rates(subset, key)
+        rates = _rates(subset, key, verdicts)
         mis = sum(1 for r in subset if str(r[mis_key]) in ("1", "True", "true"))
         print(f"{scope:<16}{rates['n']:>5}{rates['supported']:>12.3f}"
-              f"{rates['distorted']:>12.3f}{rates['unsupported']:>13.3f}"
+              f"{rates[middle]:>12.3f}{rates['unsupported']:>13.3f}"
               f"{mis / (len(subset) or 1):>11.3f}")
 
     line("overall", rows)
@@ -388,15 +569,15 @@ def _report(rows: list[dict], key: str = "verdict", mis_key: str = "misattributi
         line(page_type, [r for r in rows if r["page_type"] == page_type])
     print("-" * 69)
 
-    error_rate = overall["distorted"] + overall["unsupported"]
-    print(f"fact error rate (distorted + unsupported): {error_rate:.1%}")
+    error_rate = overall[middle] + overall["unsupported"]
+    print(f"fact error rate ({middle} + unsupported): {error_rate:.1%}")
     print(f"misattribution: {misattributed}/{len(rows)} facts "
           f"({misattributed / len(rows):.1%}) name the wrong person")
     if overall["unreadable"]:
         print(f"WARNING: {overall['unreadable']:.1%} of checks returned an "
               f"unreadable verdict and are counted in n but in no class")
 
-    worst = [r for r in rows if r[key] in ("distorted", "unsupported")]
+    worst = [r for r in rows if r[key] in (middle, "unsupported")]
     if worst:
         print(f"\n--- {min(len(worst), 10)} of {len(worst)} failures ---")
         for row in worst[:10]:
@@ -412,17 +593,21 @@ def cmd_score(args) -> int:
         print("empty audit file")
         return 1
 
-    print(f"=== automated pass: {args.audit} ===")
-    _report(rows)
+    # Which audit this is, taken from the file rather than a flag: the citation
+    # audit is the one that records which turns each fact cited.
+    verdicts = CITATION_VERDICTS if "cited_dia_ids" in rows[0] else VERDICTS
+    print(f"=== automated pass: {args.audit} ({'citations' if verdicts is CITATION_VERDICTS else 'fidelity'}) ===")
+    _report(rows, verdicts=verdicts)
 
-    labelled = [r for r in rows if r.get("human_verdict", "").strip().lower() in VERDICTS]
+    labelled = [r for r in rows if r.get("human_verdict", "").strip().lower() in verdicts]
     if not labelled:
         print("\nNo hand labels yet. Fill in human_verdict (and human_misattribution) "
               "for a subset -- the LLM pass alone is not evidence.")
         return 0
 
     print(f"\n=== hand-verified subset: {len(labelled)} facts ===")
-    _report(labelled, key="human_verdict", mis_key="human_misattribution")
+    _report(labelled, key="human_verdict", mis_key="human_misattribution",
+            verdicts=verdicts)
 
     agree = sum(1 for r in labelled
                 if r["verdict"] == r["human_verdict"].strip().lower())
@@ -481,6 +666,17 @@ def main(argv=None) -> int:
     p_check.add_argument("-o", "--out", default=None)
     p_check.add_argument("--no-cache", action="store_true")
     p_check.set_defaults(func=cmd_check)
+
+    p_cites = sub.add_parser(
+        "citations",
+        help="System C: is each fact faithful to the TURN it cites? (defaults to "
+             "the System C wikis in results/wikis_c)")
+    p_cites.add_argument("-n", type=int, default=config.WIKI_AUDIT_SAMPLE)
+    p_cites.add_argument("--seed", type=int, default=0)
+    p_cites.add_argument("--model", default=config.WIKI_AUDIT_MODEL)
+    p_cites.add_argument("-o", "--out", default=None)
+    p_cites.add_argument("--no-cache", action="store_true")
+    p_cites.set_defaults(func=cmd_citations)
 
     p_score = sub.add_parser("score", help="report rates, and agreement on hand labels")
     p_score.add_argument("audit", help="a results/wiki_fidelity_*.csv")
