@@ -164,16 +164,23 @@ figure in the thesis.
 
 Full LoCoMo, 1,986 questions, `gpt-4o-mini`, judge `gpt-4.1-mini`:
 
-| | L | A (k=5) | A (k=10) | B (k=5) | B (k=10) |
+| | L | A (k=10) | B (k=10) | C-cite (k=10) | C-hydrate (k=10) |
 |---|---|---|---|---|---|
-| Judge accuracy | 0.579 | 0.609 | **0.624** | 0.529 | 0.540 |
-| Mean prompt tokens | 20,849 | **958** | 1,748 | 1,232 | 2,248 |
-| Mean latency | 5.71 s | 0.95 s | 0.68 s | 0.66 s | **0.63 s** |
-| Total cost of ownership | $6.43 | **$0.50** | $0.74 | $0.70 | $1.00 |
-| Hallucination on unanswerable | 28.3% | 12.8% | 18.5% | **5.6%** | 7.9% |
-| Evidence recall | n/a | 0.755 | 0.837 | 0.900* | 0.970* |
+| Judge accuracy | 0.579 | **0.624** | 0.540 | 0.563 | 0.600 |
+| F1 (tags stripped) | 0.533 | **0.578** | 0.522 | 0.535 | 0.569 |
+| Mean prompt tokens | 20,849 | **1,748** | 2,248 | 2,369 | 5,240 |
+| Mean latency | 5.71 s | 0.68 s | **0.63 s** | 0.82 s | 1.07 s |
+| Total cost of ownership | $6.43 | **$0.74** | $1.00 | $1.08 | $1.94 |
+| Hallucination on unanswerable | 28.4% | 18.5% | **7.9%** | 8.8% | 13.7% |
+| Decline on answerable | 19.3% | 17.8% | 26.4% | 24.7% | **17.3%** |
+| Evidence recall, turn-level | n/a | **0.837** | n/a | 0.782 | 0.782 |
+| Evidence recall, session-level | n/a | n/a | 0.970 | 0.949 | 0.949 |
 
-\* session-level, not turn-level — not comparable with A's. See "System B notes".
+Session-level recall is an upper bound and is **not** comparable with
+turn-level. System B can only report the former; System C reports both, which
+is the first time in this project a compiled system is directly comparable with
+System A. A k=5 sweep exists for A and B (see the research log); C was run at
+k=10 only.
 
 Retrieval beats brute-force context on this dataset, and does it roughly 13x
 cheaper. **Compiling first loses accuracy and buys safety:** System B is the
@@ -181,6 +188,15 @@ least accurate retrieval system and by a wide margin the least likely to
 fabricate an answer to a question nothing supports. Its losses are compilation
 loss, not retrieval failure — session-level recall is 0.90–0.97, and 141 of the
 164 questions B declined but A answered had recall 1.0.
+
+**Provenance recovers most of that loss and does not close it.** C-hydrate is
+the best compiled-memory result here at 0.600, but spends 3.0x System A's
+tokens to land 0.024 below it. The mechanism is over-abstention: hydration cuts
+declining on answerable questions from B's 26.4% to 17.3% and pays for it in
+hallucination, 7.9% to 13.7% — **B's safety and B's over-abstention were the
+same property.** C-cite, which stores provenance and merely shows it, is +0.023
+over B: close to a null result, and the reason the contribution has to live in
+what provenance lets you *forget* rather than in what it lets you display.
 
 See `../00_RESEARCH_LOG.md` for the per-category breakdown and the caveats —
 judge leniency on temporal questions, where System A's advantage is largest,
@@ -358,6 +374,23 @@ make B's published wikis look stale to B's own reuse check and the next
 `--system b` run would recompile over the artefact its results and fidelity
 audit rest on. B's fingerprint is `9ad622199c7e` and must stay that way.
 
+**Results.** Full LoCoMo at k=10, both arms: C-cite 0.563 and C-hydrate 0.600
+against B's 0.540 and A's 0.624. Compilation of all ten wikis cost $0.148 and
+produced 2,925 facts carrying 3,035 citations. The sampled per-turn citation
+audit reports 0.930 supported, 0.070 partially supported, 0.000 unsupported and
+zero misattribution.
+
+**A declared difference from System B.** Asking the extractor for citations
+cost it adherence to the page-assignment rule: 233 pages against B's 287, with
+27.3% of facts on person pages against B's 15.4% and the fact count essentially
+unchanged. A minimal prompt fix was tested and did not restore B's shape
+reliably, so the drift is reported rather than tuned away. It has a real cost —
+the *Becoming Nicole* worked example moved from a 2-fact "Books" page
+(retrieval rank 1) into part 3 of the 48-fact "Caroline" page (rank 12) and was
+no longer retrieved at k=10. Forcing that chunk into context, the hydrate arm
+answers it correctly and the cite arm still declines, so hydration works as
+designed and retrieval denied it.
+
 **Citation validation is deterministic and free.** Every id the extractor emits
 is checked at compile time against the ids that session actually contains:
 
@@ -403,6 +436,7 @@ scripts/inspect_locomo.py      prints the real dataset schema
 scripts/validate_judge.py      judge vs. hand labels, agreement + kappa
 scripts/audit_wiki.py          wiki size, fidelity audit, hand-verification sheet
 scripts/compile_wikis.py       build the wikis and validate their citations
+src/systems/system_c.py        System C (wiki + provenance; cite and hydrate arms)
 scripts/compare_runs.py        side-by-side table of finished runs
 results/wikis/<conv_id>/       System B's compiled wikis, committed as evidence
 results/wikis_c/<conv_id>/     System C's compiled wikis, facts carrying source turns
