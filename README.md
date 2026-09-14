@@ -54,8 +54,8 @@ provenance and following it back to the source turn (C-hydrate) recovers most
 of the lost accuracy, at a token cost. Whether forgetting adds anything is what
 System D is testing.
 
-Full numbers, interpretation and everything that went wrong are in
-`../00_RESEARCH_LOG.md`. Current state is in `../00_PROJECT_STATUS.md`.
+Full numbers, interpretation and everything that went wrong are in the
+research log kept alongside this repository.
 
 ## Run it
 
