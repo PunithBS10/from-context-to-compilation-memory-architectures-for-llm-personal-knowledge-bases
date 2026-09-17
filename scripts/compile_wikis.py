@@ -19,6 +19,7 @@ the hard way:
     python scripts/compile_wikis.py --system c --limit 1  # prove it on one first
     python scripts/compile_wikis.py --system c --rebuild  # ignore what is on disk
     python scripts/compile_wikis.py --system c --print conv-26   # read one by eye
+    python scripts/compile_wikis.py --system c --model luna     # Luna's own wikis
 
 System B's wikis are published and committed. `--system b` is available so the
 script is honest about which compiler it is running, but it reuses what is on
@@ -37,17 +38,23 @@ from src.datasets.locomo import load_locomo
 from src.llm import LLMClient
 from src.systems.wiki import B_PROFILE, C_PROFILE, Wiki, load_or_compile
 
-PROFILES = {"b": (B_PROFILE, config.WIKI_DIR), "c": (C_PROFILE, config.WIKI_C_DIR)}
+PROFILES = {"b": B_PROFILE, "c": C_PROFILE}
+
+
+def _default_dir(system: str) -> Path:
+    """Read at call time, not import time: `--model` moves these."""
+    return config.WIKI_DIR if system == "b" else config.WIKI_C_DIR
 
 
 def cmd_compile(args) -> int:
-    profile, default_dir = PROFILES[args.system]
+    profile, default_dir = PROFILES[args.system], _default_dir(args.system)
     wiki_dir = Path(args.out) if args.out else default_dir
     conversations = load_locomo(config.LOCOMO_PATH, limit=args.limit)
     client = LLMClient(use_cache=not args.no_cache)
 
+    effort = f" (reasoning {config.REASONING_EFFORT})" if config.REASONING_EFFORT else ""
     print(f"compiler {profile.name} (version {profile.version}, fingerprint "
-          f"{profile.fingerprint}), model {config.WIKI_EXTRACTION_MODEL}")
+          f"{profile.fingerprint}), model {config.WIKI_EXTRACTION_MODEL}{effort}")
     print(f"writing to {wiki_dir}\n")
 
     wikis: list[Wiki] = []
@@ -149,8 +156,7 @@ def _print_totals(wikis: list[Wiki]) -> None:
 
 def cmd_print(args) -> int:
     """One wiki, whole, to be read end to end by eye before any run."""
-    _, default_dir = PROFILES[args.system]
-    wiki_dir = Path(args.out) if args.out else default_dir
+    wiki_dir = Path(args.out) if args.out else _default_dir(args.system)
     wiki = Wiki.load(wiki_dir, args.conv_id)
     if wiki is None:
         raise SystemExit(f"no wiki for {args.conv_id} in {wiki_dir}")
@@ -177,6 +183,10 @@ def main(argv=None) -> int:
                         help="which compiler to run (default: c)")
     parser.add_argument("--out", default=None,
                         help="write to this directory instead of the system's default")
+    parser.add_argument("--model", default=None, choices=sorted(config.MODEL_VARIANTS),
+                        help="compile with this answer-model variant; its wikis go in "
+                             "that variant's own directory (results/wikis_<tag>), never "
+                             "over the published gpt-4o-mini ones")
     parser.add_argument("--limit", type=int, default=None,
                         help="only the first N conversations")
     parser.add_argument("--rebuild", action="store_true",
@@ -186,6 +196,8 @@ def main(argv=None) -> int:
     parser.add_argument("--print", dest="conv_id", default=None,
                         help="print one compiled wiki end to end and exit")
     args = parser.parse_args(argv)
+    if args.model is not None:
+        config.select_model(args.model)
 
     if args.conv_id:
         return cmd_print(args)

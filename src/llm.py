@@ -54,6 +54,9 @@ class LLMResponse:
     latency_s: float = 0.0
     cost_usd: float = 0.0
     cached: bool = False
+    # Part of `completion_tokens` a reasoning model spent thinking. Zero for
+    # a model that does not reason, or one told not to.
+    reasoning_tokens: int = 0
     meta: dict = field(default_factory=dict)
 
 
@@ -82,13 +85,19 @@ class LLMClient:
         self.cache_hits = 0
 
     # --- cache ------------------------------------------------------------
-    def _cache_key(self, model: str, messages: list, temperature: float, max_tokens: int) -> str:
-        payload = json.dumps(
-            {"model": model, "messages": messages, "temperature": temperature,
-             "max_tokens": max_tokens},
-            sort_keys=True,
-        )
-        return hashlib.sha256(payload.encode("utf-8")).hexdigest()
+    def _cache_key(self, model: str, messages: list, temperature: float, max_tokens: int,
+                   reasoning_effort: str | None = None) -> str:
+        # The payload for the gpt-4o/4.1 generation is byte-identical to what
+        # it always was, so every cached response behind the published runs
+        # still hits. A reasoning effort is added to the key only when one is
+        # sent, because the same prompt with reasoning on and off are two
+        # different experiments.
+        payload = {"model": model, "messages": messages, "temperature": temperature,
+                   "max_tokens": max_tokens}
+        if reasoning_effort is not None:
+            payload["reasoning_effort"] = reasoning_effort
+        return hashlib.sha256(
+            json.dumps(payload, sort_keys=True).encode("utf-8")).hexdigest()
 
     def _cache_read(self, key: str) -> dict | None:
         path = self.cache_dir / f"{key}.json"
@@ -117,7 +126,12 @@ class LLMClient:
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ]
-        key = self._cache_key(model, messages, temperature, max_tokens)
+        # What this model is actually sent. The gpt-4o/4.1 generation gets
+        # temperature + max_tokens as before; a newer model gets whatever its
+        # API accepts (see config.api_params), and the cache key reflects it.
+        params = config.api_params(model, max_tokens, temperature)
+        key = self._cache_key(model, messages, params.get("temperature"), max_tokens,
+                              params.get("reasoning_effort"))
 
         if self.use_cache:
             hit = self._cache_read(key)
@@ -133,9 +147,11 @@ class LLMClient:
                     latency_s=hit.get("latency_s", 0.0),
                     cost_usd=hit.get("cost_usd", 0.0),
                     cached=True,
+                    reasoning_tokens=hit.get("reasoning_tokens", 0),
                     # Carried through so a truncated reply stays visible on a
                     # cached rerun: System B counts those.
-                    meta={"finish_reason": hit.get("finish_reason")},
+                    meta={"finish_reason": hit.get("finish_reason"),
+                          "reasoning_tokens": hit.get("reasoning_tokens", 0)},
                 )
 
         last_error: Exception | None = None
@@ -145,8 +161,7 @@ class LLMClient:
                 completion = self.client.chat.completions.create(
                     model=model,
                     messages=messages,
-                    temperature=temperature,
-                    max_tokens=max_tokens,
+                    **params,
                 )
                 latency = time.perf_counter() - started
                 break
@@ -167,12 +182,18 @@ class LLMClient:
         usage = completion.usage
         prompt_tokens = usage.prompt_tokens if usage else 0
         completion_tokens = usage.completion_tokens if usage else 0
+        # Reasoning tokens are inside completion_tokens (and so inside the
+        # cost); they are pulled out separately so a run can say how much of
+        # its output budget went on thinking rather than answering.
+        details = getattr(usage, "completion_tokens_details", None) if usage else None
+        reasoning_tokens = getattr(details, "reasoning_tokens", 0) or 0
         cost = config.price_of(model, prompt_tokens, completion_tokens)
 
         record = {
             "text": text,
             "prompt_tokens": prompt_tokens,
             "completion_tokens": completion_tokens,
+            "reasoning_tokens": reasoning_tokens,
             "latency_s": latency,
             "cost_usd": cost,
             "finish_reason": completion.choices[0].finish_reason,
@@ -188,7 +209,9 @@ class LLMClient:
             latency_s=latency,
             cost_usd=cost,
             cached=False,
-            meta={"finish_reason": record["finish_reason"]},
+            reasoning_tokens=reasoning_tokens,
+            meta={"finish_reason": record["finish_reason"],
+                  "reasoning_tokens": reasoning_tokens},
         )
 
     # --- embeddings -------------------------------------------------------

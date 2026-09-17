@@ -30,13 +30,21 @@ from src.systems.system_b import SystemB
 from src.systems.system_c import SystemC
 from src.systems.system_l import SystemL
 
+# The compiler model and wiki directory are passed explicitly rather than left
+# to the classes' defaults: those defaults were bound at import time, and
+# `--model` changes config after that. Read here, at construction, they follow
+# whatever `config.select_model` put in force.
 SYSTEMS = {
     "l": lambda client, model: SystemL(client, model),
     "a": lambda client, model: SystemA(client, model, k=config.RAG_K),
-    "b": lambda client, model: SystemB(client, model, k=config.RAG_K),
+    "b": lambda client, model: SystemB(client, model, k=config.RAG_K,
+                                       extraction_model=config.WIKI_EXTRACTION_MODEL,
+                                       wiki_dir=config.WIKI_DIR),
     # The arm comes from config, not from a second factory entry: C-cite and
     # C-hydrate are one system in two configurations, not two systems.
-    "c": lambda client, model: SystemC(client, model, k=config.RAG_K),
+    "c": lambda client, model: SystemC(client, model, k=config.RAG_K,
+                                       extraction_model=config.WIKI_EXTRACTION_MODEL,
+                                       wiki_dir=config.WIKI_C_DIR),
 }
 
 DATASETS = {
@@ -128,6 +136,13 @@ def run(system_key: str, dataset_key: str, limit: int | None, max_questions: int
                 "abstained": metrics.is_abstention(answer.text),
                 "prompt_tokens": answer.prompt_tokens,
                 "completion_tokens": answer.completion_tokens,
+                # A reasoning model's thinking, part of completion_tokens.
+                # Zero for gpt-4o-mini and for Luna with reasoning off.
+                "reasoning_tokens": answer.meta.get("reasoning_tokens", 0) or 0,
+                # "length" means the completion budget ran out. On a reasoning
+                # model that can leave an EMPTY visible answer, which the judge
+                # scores wrong, so the count has to be visible per record.
+                "finish_reason": answer.meta.get("finish_reason"),
                 "latency_s": answer.latency_s,
                 "cost_usd": answer.cost_usd,
                 "cached": answer.cached,
@@ -236,9 +251,16 @@ def _write_results(system_key: str, dataset_key: str, payload: dict, started,
     config.RESULTS_DIR.mkdir(parents=True, exist_ok=True)
     stamp = started.strftime("%Y%m%d_%H%M%S")
     # The variant is in the stem so two configurations of one system are told
-    # apart by filename rather than by opening the config snapshot.
+    # apart by filename rather than by opening the config snapshot. So is the
+    # answer-model variant, when it is not the original gpt-4o-mini: a Luna
+    # run must never be mistaken for a published one by its name.
     label = f"{system_key}_{variant}" if variant else system_key
-    stem = f"system_{label}_{dataset_key}_{stamp}"   # never overwrites: the thesis needs the history
+    model_tag = config.MODEL_VARIANTS[config.MODEL_VARIANT]["tag"]
+    if model_tag:
+        label = f"{label}_{dataset_key}_{model_tag}"
+    else:
+        label = f"{label}_{dataset_key}"
+    stem = f"system_{label}_{stamp}"   # never overwrites: the thesis needs the history
 
     json_path = config.RESULTS_DIR / f"{stem}.json"
     json_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -260,9 +282,10 @@ def _print_summary(payload: dict) -> None:
     overall = summary["overall"]
     print("\n" + "=" * 78)
     variant = payload["run"].get("variant") or ""
+    effort = f", reasoning {config.REASONING_EFFORT}" if config.REASONING_EFFORT else ""
     print(f"System {payload['run']['system']}{'-' + variant if variant else ''} on "
           f"{payload['run']['dataset']} "
-          f"({config.ANSWER_MODEL}, judge {config.JUDGE_MODEL})")
+          f"({config.ANSWER_MODEL}{effort}, judge {config.JUDGE_MODEL})")
     print("=" * 78)
     rows = metrics.summary_rows(summary)
     shows_recall = any(row.get("evidence_recall") is not None for row in rows)
@@ -286,6 +309,13 @@ def _print_summary(payload: dict) -> None:
     print(f"questions {totals['questions']}  |  context overflows {totals['context_overflows']}"
           f"  |  live calls {payload['run']['live_api_calls']}"
           f"  |  cache hits {payload['run']['cache_hits']}")
+    records = payload["records"]
+    truncated = sum(1 for r in records if r.get("finish_reason") == "length")
+    reasoning = sum(r.get("reasoning_tokens") or 0 for r in records)
+    if truncated or reasoning:
+        print(f"completion budget hit on {truncated} answers  |  "
+              f"reasoning tokens {reasoning:,} "
+              f"({reasoning / max(len(records), 1):,.0f} per question)")
     print(f"cost of this result set: answers ${totals['total_answer_cost_usd']:.4f} + "
           f"judge ${totals['total_judge_cost_usd']:.4f} = "
           f"${totals['total_cost_usd']:.4f}")
@@ -342,6 +372,10 @@ def main(argv=None) -> int:
     parser.add_argument("--k", type=int, default=None,
                         help="retrieval depth for RAG systems; overrides config.RAG_K "
                              "for this run and is recorded in the results snapshot")
+    parser.add_argument("--model", default=None, choices=sorted(config.MODEL_VARIANTS),
+                        help="answer-model variant (default: the original gpt-4o-mini). "
+                             "Changes the answering AND compiling model, the wiki "
+                             "directories and the results filename; never the judge")
     parser.add_argument("--note", default="",
                         help="free-text label recorded in the results file, e.g. why this run exists")
     parser.add_argument("--dump-prompts", type=int, default=0,
@@ -352,6 +386,8 @@ def main(argv=None) -> int:
 
     # Mutate config, not the factory, so the results snapshot records the k
     # actually used rather than the default.
+    if args.model is not None:
+        config.select_model(args.model)
     if args.k is not None:
         config.RAG_K = args.k
     if args.rebuild_wiki:

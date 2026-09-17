@@ -68,9 +68,28 @@ def summarise(path: Path) -> dict:
     overall = summary["overall"]
     f1, f1_raw = _rescore(records)
     variant = payload["run"].get("variant") or ""
+    cfg = payload["config"]
+    answerable = [r for r in records if not r["abstention_expected"]]
+    declined = sum(1 for r in answerable if r["abstained"])
+    system = payload["run"]["system"]
+    # System L does not retrieve; the k its snapshot carries is config's
+    # default and means nothing for it.
+    label = f"{system}{'-' + variant if variant else ''}"
+    if system != "L":
+        label += f" k={cfg.get('rag_k')}"
     return {
-        "label": (f"{payload['run']['system']}{'-' + variant if variant else ''} "
-                  f"k={payload['config'].get('rag_k')}"),
+        "label": label,
+        # The mirror of hallucination: answerable questions the system
+        # declined anyway. B's safety and B's uselessness were the same
+        # property, and only both rows together show it.
+        "decline": declined / len(answerable) if answerable else None,
+        "decline_n": f"{declined}/{len(answerable)}",
+        # Runs before the Luna re-run carry no variant field: they are all
+        # the original gpt-4o-mini configuration.
+        "model": cfg.get("model_variant") or cfg.get("answer_model", "?"),
+        "reasoning": cfg.get("reasoning_effort") or "-",
+        "truncated": sum(1 for r in records if r.get("finish_reason") == "length"),
+        "reasoning_tokens": sum(r.get("reasoning_tokens") or 0 for r in records),
         "path": path.name,
         "note": payload["run"].get("note", ""),
         "n": overall["n"],
@@ -109,6 +128,8 @@ def main(argv=None) -> int:
 
     print("=" * (26 + width * len(runs)))
     row("", [r["label"] for r in runs])
+    row("answer model", [r["model"] for r in runs])
+    row("reasoning effort", [r["reasoning"] for r in runs])
     print("-" * (26 + width * len(runs)))
     row("questions", [r["n"] for r in runs])
     row("judge accuracy", [f"{r['accuracy']:.3f}" for r in runs])
@@ -116,6 +137,8 @@ def main(argv=None) -> int:
     row("F1 (raw, as emitted)", [f"{r['f1_raw']:.3f}" for r in runs])
     row("  answers carrying a tag", [f"{r['tagged']}/{r['n']}" for r in runs])
     row("mean prompt tokens", [f"{r['tokens']:,.0f}" for r in runs])
+    row("reasoning tokens / q", [f"{r['reasoning_tokens'] / r['n']:,.0f}" for r in runs])
+    row("budget-truncated answers", [r["truncated"] for r in runs])
     row("mean latency s", [f"{r['latency']:.2f}" if r["latency"] else "-" for r in runs])
     row("evidence recall", [f"{r['recall']:.3f}" if r["recall"] is not None else "-"
                             for r in runs])
@@ -123,6 +146,9 @@ def main(argv=None) -> int:
     row("hallucination rate", [f"{r['hallucination']:.3f}" if r["hallucination"] is not None
                                else "-" for r in runs])
     row("  (answered/unanswerable)", [r["hallucination_n"] for r in runs])
+    row("decline on answerable", [f"{r['decline']:.3f}" if r["decline"] is not None
+                                  else "-" for r in runs])
+    row("  (declined/answerable)", [r["decline_n"] for r in runs])
     print("-" * (26 + width * len(runs)))
     row("answer cost $", [f"{r['answer_cost']:.2f}" for r in runs])
     row("judge cost $", [f"{r['judge_cost']:.2f}" for r in runs])

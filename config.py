@@ -21,7 +21,9 @@ CACHE_DIR = ROOT / ".cache"
 ANSWER_MODEL = "gpt-4o-mini"
 
 # Judge is deliberately a DIFFERENT (and stronger) model than the answerer, to
-# avoid a model preferring its own outputs.
+# avoid a model preferring its own outputs. It is NEVER changed by
+# `select_model`: scores stay comparable across model generations only if the
+# same judge scored all of them.
 JUDGE_MODEL = "gpt-4.1-mini"
 
 # Context window of ANSWER_MODEL, in tokens. Used to detect overflow BEFORE
@@ -29,6 +31,53 @@ JUDGE_MODEL = "gpt-4.1-mini"
 # gpt-4o-mini = 128k. Largest LoCoMo transcript is ~27k tokens, so no overflow
 # is expected; the check stays in place to prove that rather than assume it.
 MODEL_CONTEXT_LIMIT = 128_000
+
+# --- Answer-model variants (Sep 2026: the GPT-5.6 Luna re-run) ---------------
+# Meeting 4 agreed to re-run every published configuration on a current
+# frontier model, with the judge fixed, and report the two generations side by
+# side. A variant is everything that has to change together when the answering
+# model changes -- and nothing else. `select_model(name)` applies one; the
+# default is the original gpt-4o-mini configuration, untouched.
+#
+# Two things Luna's API forced, both recorded in every results snapshot:
+#   * It rejects `temperature` (only the default, 1, is allowed) and wants
+#     `max_completion_tokens` rather than `max_tokens`. So Luna's answers are
+#     sampled at temperature 1 where gpt-4o-mini's were fixed at 0. Handled per
+#     model in `api_params`, so the judge keeps its exact original call.
+#   * It is a reasoning model (default effort "medium"). Reasoning tokens
+#     count against the completion budget and bill as output. Two variants
+#     are run: "luna" with reasoning off, which is the like-for-like
+#     comparison with gpt-4o-mini under the same 256/1,200-token budgets and
+#     is the headline; "luna-reasoning" with the default effort, whose
+#     budgets are raised so reasoning cannot truncate the visible answer --
+#     that is a second variable and it is declared, not hidden.
+# Compiled wikis are per variant and go in their own directories: the
+# published gpt-4o-mini wikis are an artefact and are never rewritten.
+MODEL_VARIANTS = {
+    "gpt-4o-mini": {
+        "model": "gpt-4o-mini", "context": 128_000, "tag": "",
+        "reasoning_effort": None, "max_answer_tokens": 256,
+        "max_extraction_tokens": 1_200, "request_timeout": 60.0,
+    },
+    "luna": {
+        "model": "gpt-5.6-luna", "context": 1_050_000, "tag": "luna",
+        "reasoning_effort": "none", "max_answer_tokens": 256,
+        "max_extraction_tokens": 1_200, "request_timeout": 120.0,
+    },
+    "luna-reasoning": {
+        "model": "gpt-5.6-luna", "context": 1_050_000, "tag": "luna-reasoning",
+        "reasoning_effort": "medium", "max_answer_tokens": 4_096,
+        "max_extraction_tokens": 8_000, "request_timeout": 300.0,
+    },
+}
+MODEL_VARIANT = "gpt-4o-mini"
+
+# Models whose chat API differs from the gpt-4o/4.1 generation. Anything not
+# listed here is called exactly as it always was, cache key included.
+NEW_API_MODELS = {"gpt-5.6-luna"}
+
+# Effort passed to a reasoning model; None means "do not send the parameter".
+REASONING_EFFORT = None
 
 # --- System A (RAG) ---------------------------------------------------------
 # Conventional settings, fixed deliberately and NOT hand-tuned. The strongest
@@ -138,13 +187,20 @@ PRICES = {
     "gpt-4.1-nano": {"input": 0.10, "output": 0.40},
     "gpt-4o":       {"input": 2.50, "output": 10.00},
     "gpt-4o-mini":  {"input": 0.15, "output": 0.60},
+    # Verified on the OpenAI pricing page, 16 Sep 2026. The meeting-4 note
+    # said $0.10 / $0.60; that was wrong, and the published figure is used.
+    "gpt-5.6-luna": {"input": 0.20, "output": 1.20},
     # Embeddings bill input only; output stays 0 so the same helper works.
     "text-embedding-3-small": {"input": 0.02, "output": 0.0},
     "text-embedding-3-large": {"input": 0.13, "output": 0.0},
 }
 
 # --- API behaviour ----------------------------------------------------------
-MAX_RETRIES = 5
+# Eight, not five: with exponential backoff that is ~8 minutes of patience
+# rather than ~1. A short network drop on 16 Sep 2026 exhausted five retries
+# and killed three full runs at once; the cache saved the work, but a run
+# that survives the blip is better than one that has to be restarted.
+MAX_RETRIES = 8
 RETRY_BASE_DELAY = 2.0
 REQUEST_TIMEOUT = 60.0
 USE_CACHE = True
@@ -162,10 +218,59 @@ def is_priced(model: str) -> bool:
     return model in PRICES
 
 
+def select_model(variant: str) -> dict:
+    """Switch the answering model (and only what must move with it).
+
+    Mutates this module, like `--k` does, so the results snapshot records what
+    was actually used. The judge, retrieval, prompts and chunking are untouched.
+    Call it before constructing any system: several classes read their wiki
+    directory and extraction model from here at construction time.
+    """
+    global ANSWER_MODEL, WIKI_EXTRACTION_MODEL, MODEL_CONTEXT_LIMIT, MODEL_VARIANT
+    global WIKI_DIR, WIKI_C_DIR, REASONING_EFFORT, MAX_ANSWER_TOKENS
+    global MAX_EXTRACTION_TOKENS, REQUEST_TIMEOUT
+    if variant not in MODEL_VARIANTS:
+        raise ValueError(f"unknown model variant {variant!r}; "
+                         f"choose from {sorted(MODEL_VARIANTS)}")
+    spec = MODEL_VARIANTS[variant]
+    MODEL_VARIANT = variant
+    ANSWER_MODEL = spec["model"]
+    WIKI_EXTRACTION_MODEL = spec["model"]   # the compiler is the answerer, as for B
+    MODEL_CONTEXT_LIMIT = spec["context"]
+    REASONING_EFFORT = spec["reasoning_effort"]
+    MAX_ANSWER_TOKENS = spec["max_answer_tokens"]
+    MAX_EXTRACTION_TOKENS = spec["max_extraction_tokens"]
+    REQUEST_TIMEOUT = spec["request_timeout"]
+    suffix = f"_{spec['tag']}" if spec["tag"] else ""
+    WIKI_DIR = RESULTS_DIR / f"wikis{suffix}"
+    WIKI_C_DIR = RESULTS_DIR / f"wikis_c{suffix}"
+    return dict(spec)
+
+
+def api_params(model: str, max_tokens: int, temperature: float) -> dict:
+    """The generation kwargs one model accepts.
+
+    The gpt-4o/4.1 generation gets exactly the call it always got. A model in
+    NEW_API_MODELS gets `max_completion_tokens`, no temperature (the API
+    refuses any value but its default), and the reasoning effort in force.
+    """
+    if model not in NEW_API_MODELS:
+        return {"temperature": temperature, "max_tokens": max_tokens}
+    params = {"max_completion_tokens": max_tokens}
+    if REASONING_EFFORT is not None:
+        params["reasoning_effort"] = REASONING_EFFORT
+    return params
+
+
 def as_dict() -> dict:
     """Config snapshot recorded in every results file."""
     return {
         "answer_model": ANSWER_MODEL,
+        "model_variant": MODEL_VARIANT,
+        "reasoning_effort": REASONING_EFFORT,
+        # What the answering model was actually sent: temperature is only
+        # sent to models that accept it (see `api_params`).
+        "answer_api_params": api_params(ANSWER_MODEL, MAX_ANSWER_TOKENS, TEMPERATURE),
         "judge_model": JUDGE_MODEL,
         "model_context_limit": MODEL_CONTEXT_LIMIT,
         "temperature": TEMPERATURE,
@@ -179,6 +284,7 @@ def as_dict() -> dict:
         "wiki_extraction_model": WIKI_EXTRACTION_MODEL,
         "wiki_chunk_max_tokens": WIKI_CHUNK_MAX_TOKENS,
         "max_extraction_tokens": MAX_EXTRACTION_TOKENS,
+        "wiki_dir": str(WIKI_DIR),
         "wiki_c_dir": str(WIKI_C_DIR),
         "c_arm": C_ARM,
         "hydrate_max_turns": HYDRATE_MAX_TURNS,
