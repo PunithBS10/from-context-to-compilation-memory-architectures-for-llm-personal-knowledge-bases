@@ -21,16 +21,14 @@ the system answers a question the conversation cannot answer.
 | **L** | Long-context baseline: the whole conversation in the prompt | done |
 | **A** | Plain RAG baseline: chunk, embed, retrieve top-k | done |
 | **B** | Compiled wiki memory, retrieved over with A's retrieval | done |
-| **C** | B + provenance: every fact carries its source turn (two arms: *cite* shows the tags, *hydrate* also pulls in the cited turns) | done |
-| **D** | C + provenance-driven forgetting | built, run on one conversation, moved to future work |
+| **C** | B + provenance: every fact carries its source turn. Run in two arms — *cite* shows the tags, *hydrate* also pulls in the cited turns | done |
+| **D** | C + provenance-driven forgetting | future work |
 
-System D is the thesis's original contribution and it did not survive contact
-with the data: forgetting by source trust needs sources that differ in
-reliability, and a two-person conversation benchmark has none — 96% of facts
-are first-hand, and on the first conversation tested the trust score tied on
-every contradiction it found. That is reported as a scoping finding, with the
-code and the one-conversation run kept as evidence (`src/systems/forgetting.py`,
-`results/forgetting/`).
+Systems L, A, B and C are built and benchmarked in full. System D is future
+work: the forgetting pass is implemented (`src/systems/forgetting.py`) and was
+run on one conversation (`results/forgetting/`), and evaluating it properly
+needs a dataset whose sources differ in reliability — which conversational
+memory benchmarks like LoCoMo do not provide.
 
 ## Benchmark
 
