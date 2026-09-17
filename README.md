@@ -54,6 +54,25 @@ provenance and following it back to the source turn (C-hydrate) recovers most
 of the lost accuracy, at a token cost. Whether forgetting adds anything is what
 System D is testing.
 
+### The same seven configurations on a 2026 frontier model
+
+Everything above was re-run on `gpt-5.6-luna` (reasoning off, judge unchanged),
+with the wikis recompiled by Luna into `results/wikis_luna/` and
+`results/wikis_c_luna/`:
+
+| | L | A k=10 | B k=10 | C-cite | C-hydrate |
+|---|---|---|---|---|---|
+| Accuracy: gpt-4o-mini / Luna / Luna+reasoning | 0.579 / **0.663** / **0.675** | 0.624 / 0.637 / 0.620 | 0.540 / 0.562 / 0.576 | 0.563 / 0.567 / 0.582 | 0.600 / 0.618 / 0.624 |
+| Hallucination: gpt-4o-mini / Luna / Luna+reasoning | 28.4 / 26.6 / **44.6%** | 18.5 / 23.2 / 38.5% | 7.9 / 11.7 / 20.5% | 8.8 / 13.3 / 18.0% | 13.7 / 16.2 / 22.5% |
+
+On the frontier model, full context is the most accurate configuration — at
+12× retrieval's tokens and 9× its cost — so the accuracy case for retrieval
+over context does not survive the model change. The hallucination ordering
+does, on all three answering configurations: more context still means more
+hallucination, and compiling to a wiki still roughly halves it. The more
+capable the model, the less it declines: with reasoning on, full context is
+both the most accurate and the least safe configuration in the project.
+
 Full numbers, interpretation and everything that went wrong are in the
 research log kept alongside this repository.
 
@@ -67,7 +86,10 @@ curl -L -o data/locomo/locomo10.json https://raw.githubusercontent.com/snap-rese
 python -m src.runner --system a --k 10                 # run one system
 python -m src.runner --system c --arm hydrate --k 10   # System C, hydrate arm
 python -m src.runner --system l --limit 1 --dry-run    # no API calls, check prompts
+python -m src.runner --system b --k 10 --model luna    # same system, frontier model
+python scripts/compile_wikis.py --system c --model luna          # compile Luna's wikis first
 python scripts/compare_runs.py results/system_*.json   # side-by-side table
+python scripts/compare_wikis.py results/wikis results/wikis_luna  # compiler vs compiler
 ```
 
 Results go to `results/` as JSON plus a summary CSV. Responses are cached in
