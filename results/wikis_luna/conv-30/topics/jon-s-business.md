@@ -1,0 +1,73 @@
+---
+title: Jon's business
+type: topic
+sources: [session_1, session_3, session_4, session_5, session_6, session_7, session_8, session_9, session_10, session_11, session_12, session_14, session_16, session_17, session_18, session_19]
+---
+
+- Jon plans to start his own business — 20 January, 2023
+- Jon and Gina are pursuing their business dreams — 1 February, 2023
+- Jon is putting substantial effort into his business despite obstacles — 4 February, 2023
+- Jon is determined to achieve his business goals — 4 February, 2023
+- Gina supports Jon's business efforts — 4 February, 2023
+- Jon is aiming to turn his dancing passion into a business. — 8 February, 2023
+- Jon finds starting his dance business difficult. — 8 February, 2023
+- Jon intends to remain optimistic while developing his dance studio and business ventures. — 8 February, 2023
+- Jon finds balancing dancing and running his business difficult but rewarding. — 8 February, 2023
+- Jon's dancing gives him energy for his business goals. — 8 February, 2023
+- Jon's business successes increase his drive to keep pursuing dance. — 8 February, 2023
+- Jon is determined not to give up on his dance studio and business ventures. — 8 February, 2023
+- Jon started going to the gym last week to stay on track with his venture — 16 March, 2023
+- Jon started his own business — 16 March, 2023
+- Jon's business has been challenging — 16 March, 2023
+- Jon is determined to make his business succeed — 16 March, 2023
+- Jon and Gina support each other's business goals — 16 March, 2023
+- Gina supports Jon's business dreams — 23 March, 2023
+- Gina encourages Jon to keep pursuing his business — 23 March, 2023
+- Jon shut down his bank account to help his business grow — 3 April, 2023
+- Jon found handling the changes from shutting down his bank account difficult — 3 April, 2023
+- Jon is turning his love of dance into a business — 9 April, 2023
+- Jon went to a fair yesterday to show off his studio — 25 April, 2023
+- Jon got some possible leads at the fair — 25 April, 2023
+- Jon has learned that running his business is difficult — 25 April, 2023
+- Jon believes confidence in himself is important for making his business successful — 25 April, 2023
+- Jon has been having trouble with his business project — 25 April, 2023
+- Jon has been feeling low on confidence — 25 April, 2023
+- Jon finds it hard to run a business without faith in himself — 25 April, 2023
+- Jon intends to keep going and reach his dreams — 25 April, 2023
+- Jon and Gina support each other on their paths — 25 April, 2023
+- Jon started his dance studio after losing his job. — 11 May, 2023
+- Jon is reading "The Lean Startup" — 27 May, 2023
+- Jon hopes "The Lean Startup" will give him tips for his business — 27 May, 2023
+- Jon wants to build a focused and efficient business — 27 May, 2023
+- Jon believes adapting and tweaking his business based on customer feedback is important — 27 May, 2023
+- Jon uses a whiteboard to track ideas and milestones — 27 May, 2023
+- Jon is wrapping up his business plan — 27 May, 2023
+- Jon is looking for investors for his project — 27 May, 2023
+- Jon's search for investors has been tough — 27 May, 2023
+- Jon is learning through the process of searching for investors — 27 May, 2023
+- Jon is committed to his project and believes in its success — 27 May, 2023
+- Jon was mentored by an amazing business person yesterday — 16 June, 2023
+- Jon has been promoting his business — 16 June, 2023
+- Gina advises using social media channels for marketing — 16 June, 2023
+- Gina advises working with influencers for greater marketing reach — 16 June, 2023
+- Jon has started using social media to promote his business — 16 June, 2023
+- Gina advises new entrepreneurs to stay passionate, focused, and resilient — 16 June, 2023
+- Gina advises entrepreneurs to stay open to learning and improving — 16 June, 2023
+- Gina says failures lead people closer to success — 16 June, 2023
+- Jon chose to attend networking events yesterday to make things happen — 21 June, 2023
+- Jon has been staying determined and focused while attending networking events — 21 June, 2023
+- Jon lost his job — 21 June, 2023
+- Jon is investing his time in his business — 21 June, 2023
+- Jon is writing all his plans down — 21 June, 2023
+- Jon finds that seeing his goals written on paper helps keep him motivated and focused — 21 June, 2023
+- Jon believes that his business efforts will eventually pay off — 21 June, 2023
+- Jon is feeling confident and will not give up — 21 June, 2023
+- Jon plans to pursue his business idea full-time — 9 July, 2023
+- Jon started learning marketing tools to advance his business — 9 July, 2023
+- Jon started learning analytics tools to advance his business — 9 July, 2023
+- Jon got a temporary job to help cover expenses while looking for investors — 21 July, 2023
+- Jon has been networking recently — 21 July, 2023
+- Jon is sprucing up his business plan — 21 July, 2023
+- Jon is tweaking his pitch to investors — 21 July, 2023
+- Jon has been working on business plans — 23 July, 2023
+- Jon finds his recent rehearsing and business planning stressful — 23 July, 2023

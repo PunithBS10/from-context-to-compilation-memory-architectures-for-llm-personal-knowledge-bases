@@ -1,0 +1,5123 @@
+{
+  "conv_id": "conv-26",
+  "speakers": [
+    "Caroline",
+    "Melanie"
+  ],
+  "extraction_model": "gpt-5.6-luna",
+  "build_fingerprint": "9884fea0ef28",
+  "compiler_version": "c1",
+  "built_utc": "2026-09-16T18:16:40.334041+00:00",
+  "sessions": [
+    {
+      "index": 1,
+      "session_id": "session_1",
+      "timestamp": "1:56 pm on 8 May, 2023",
+      "date_label": "8 May, 2023"
+    },
+    {
+      "index": 2,
+      "session_id": "session_2",
+      "timestamp": "1:14 pm on 25 May, 2023",
+      "date_label": "25 May, 2023"
+    },
+    {
+      "index": 3,
+      "session_id": "session_3",
+      "timestamp": "7:55 pm on 9 June, 2023",
+      "date_label": "9 June, 2023"
+    },
+    {
+      "index": 4,
+      "session_id": "session_4",
+      "timestamp": "10:37 am on 27 June, 2023",
+      "date_label": "27 June, 2023"
+    },
+    {
+      "index": 5,
+      "session_id": "session_5",
+      "timestamp": "1:36 pm on 3 July, 2023",
+      "date_label": "3 July, 2023"
+    },
+    {
+      "index": 6,
+      "session_id": "session_6",
+      "timestamp": "8:18 pm on 6 July, 2023",
+      "date_label": "6 July, 2023"
+    },
+    {
+      "index": 7,
+      "session_id": "session_7",
+      "timestamp": "4:33 pm on 12 July, 2023",
+      "date_label": "12 July, 2023"
+    },
+    {
+      "index": 8,
+      "session_id": "session_8",
+      "timestamp": "1:51 pm on 15 July, 2023",
+      "date_label": "15 July, 2023"
+    },
+    {
+      "index": 9,
+      "session_id": "session_9",
+      "timestamp": "2:31 pm on 17 July, 2023",
+      "date_label": "17 July, 2023"
+    },
+    {
+      "index": 10,
+      "session_id": "session_10",
+      "timestamp": "8:56 pm on 20 July, 2023",
+      "date_label": "20 July, 2023"
+    },
+    {
+      "index": 11,
+      "session_id": "session_11",
+      "timestamp": "2:24 pm on 14 August, 2023",
+      "date_label": "14 August, 2023"
+    },
+    {
+      "index": 12,
+      "session_id": "session_12",
+      "timestamp": "1:50 pm on 17 August, 2023",
+      "date_label": "17 August, 2023"
+    },
+    {
+      "index": 13,
+      "session_id": "session_13",
+      "timestamp": "3:31 pm on 23 August, 2023",
+      "date_label": "23 August, 2023"
+    },
+    {
+      "index": 14,
+      "session_id": "session_14",
+      "timestamp": "1:33 pm on 25 August, 2023",
+      "date_label": "25 August, 2023"
+    },
+    {
+      "index": 15,
+      "session_id": "session_15",
+      "timestamp": "3:19 pm on 28 August, 2023",
+      "date_label": "28 August, 2023"
+    },
+    {
+      "index": 16,
+      "session_id": "session_16",
+      "timestamp": "12:09 am on 13 September, 2023",
+      "date_label": "13 September, 2023"
+    },
+    {
+      "index": 17,
+      "session_id": "session_17",
+      "timestamp": "10:31 am on 13 October, 2023",
+      "date_label": "13 October, 2023"
+    },
+    {
+      "index": 18,
+      "session_id": "session_18",
+      "timestamp": "6:55 pm on 20 October, 2023",
+      "date_label": "20 October, 2023"
+    },
+    {
+      "index": 19,
+      "session_id": "session_19",
+      "timestamp": "9:55 am on 22 October, 2023",
+      "date_label": "22 October, 2023"
+    }
+  ],
+  "stats": {
+    "compile_prompt_tokens": 35235,
+    "compile_completion_tokens": 12856,
+    "compile_cost_usd": 0.0224742,
+    "compile_latency_s": 83.34639639919624,
+    "compile_calls": 19,
+    "compile_cached_calls": 0,
+    "sessions_compiled": 19,
+    "truncated_sessions": 1,
+    "duplicate_facts_dropped": 1,
+    "generic_page_titles": 0,
+    "salvaged_sessions": 1,
+    "unparsable_sessions": 0,
+    "empty_sessions": 0,
+    "citations_total": 415,
+    "citations_resolvable": 415,
+    "citations_unresolvable": 0,
+    "citations_other_session": 0,
+    "citations_nonexistent": 0,
+    "facts_with_no_citation": 0,
+    "citation_resolvability": 1.0,
+    "citation_session_consistency": 1.0,
+    "n_pages": 34,
+    "n_facts": 389,
+    "wiki_tokens": 11392,
+    "raw_conversation_tokens": 15971,
+    "compression_ratio": 0.7133
+  },
+  "pages": [
+    {
+      "title": "Career options",
+      "type": "topic",
+      "slug": "career-options",
+      "path": "topics/career-options.md",
+      "facts": [
+        {
+          "fact_id": "career-options#1",
+          "text": "Caroline plans to explore career options.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Career options",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:9"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "type": "topic",
+      "slug": "education",
+      "path": "topics/education.md",
+      "facts": [
+        {
+          "fact_id": "education#1",
+          "text": "Caroline plans to continue her education.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:9"
+          ]
+        },
+        {
+          "fact_id": "education#2",
+          "text": "Caroline is creating a library for when she has kids.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:7"
+          ]
+        },
+        {
+          "fact_id": "education#3",
+          "text": "Caroline wants to read to her future children and open up their minds.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:7"
+          ]
+        },
+        {
+          "fact_id": "education#4",
+          "text": "Caroline's library includes children's classics, stories from different cultures, and educational books.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:9"
+          ]
+        },
+        {
+          "fact_id": "education#5",
+          "text": "Melanie loved reading \"Charlotte's Web\" as a child.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:10"
+          ]
+        },
+        {
+          "fact_id": "education#6",
+          "text": "Caroline loves reading.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:9"
+          ]
+        },
+        {
+          "fact_id": "education#7",
+          "text": "Caroline says books guide and motivate her and help her discover who she is.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:9"
+          ]
+        },
+        {
+          "fact_id": "education#8",
+          "text": "Caroline's favorite book is \"Becoming Nicole\" by Amy Ellis Nutt.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:11"
+          ]
+        },
+        {
+          "fact_id": "education#9",
+          "text": "Caroline found hope and connection for her own path in \"Becoming Nicole\".",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:11"
+          ]
+        },
+        {
+          "fact_id": "education#10",
+          "text": "Caroline learned self-acceptance and how to find support from \"Becoming Nicole\".",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Education",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:13"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "LGBTQ support group",
+      "type": "event",
+      "slug": "lgbtq-support-group",
+      "path": "events/lgbtq-support-group.md",
+      "facts": [
+        {
+          "fact_id": "lgbtq-support-group#1",
+          "text": "Caroline attended an LGBTQ support group yesterday.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:3"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#2",
+          "text": "Caroline found the transgender stories at the LGBTQ support group inspiring.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:5"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#3",
+          "text": "Caroline felt happy and thankful for the support at the LGBTQ support group.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:5"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#4",
+          "text": "The LGBTQ support group made Caroline feel accepted.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:7"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#5",
+          "text": "The LGBTQ support group gave Caroline courage to embrace herself.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:7"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#6",
+          "text": "Caroline spoke at a school event last week about her transgender journey.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:1"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#7",
+          "text": "Caroline encouraged students to get involved in the LGBTQ community at the school event.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:1"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#8",
+          "text": "Caroline shared her struggles and personal development after coming out in her talk.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:3"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#9",
+          "text": "Caroline's talk inspired audience members to become better allies.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:3"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#10",
+          "text": "Caroline advocates for conversations about gender identity and inclusion.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:3"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#11",
+          "text": "Caroline wants to promote understanding and acceptance by sharing her experiences.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:5"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#12",
+          "text": "Caroline wants to pass that support on to others.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:5"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#13",
+          "text": "Caroline plans to keep using her voice to create change and support others.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:7"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#14",
+          "text": "Caroline attended an LGBTQ+ counseling workshop last Friday",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D4:13"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#15",
+          "text": "The LGBTQ+ counseling workshop covered different therapeutic methods and ways to work with trans people",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D4:13"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#16",
+          "text": "Caroline was inspired by the safe space created by professionals at the LGBTQ+ counseling workshop",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D4:13"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#17",
+          "text": "Caroline attended an LGBTQ+ pride parade last week.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:1"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#18",
+          "text": "Caroline felt like she belonged at the LGBTQ+ pride parade.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:1"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#19",
+          "text": "Caroline was motivated by talking to the LGBTQ+ community to use her story to help others.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:3"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#20",
+          "text": "Caroline wants to fight for trans rights and spread awareness.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:1"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#21",
+          "text": "Caroline wants to help make progress on LGBTQ rights.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:3"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#22",
+          "text": "Caroline felt comforted by the community at the pride parade.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:21"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#23",
+          "text": "Caroline was inspired by the love and acceptance at the pride parade.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:23"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#24",
+          "text": "Caroline joined the LGBTQ activist group Connected LGBTQ Activists last Tues",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:3",
+            "D10:5"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#25",
+          "text": "Caroline's LGBTQ activist group Connected LGBTQ Activists includes people who work toward positive changes",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:5"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#26",
+          "text": "Caroline's LGBTQ activist group Connected LGBTQ Activists holds regular meetings",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:5"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#27",
+          "text": "Caroline's LGBTQ activist group Connected LGBTQ Activists plans events and campaigns",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:5"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#28",
+          "text": "Caroline supports equality and LGBTQ rights.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:4",
+            "D11:6"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#29",
+          "text": "Caroline finds accepting and supportive people helpful",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#30",
+          "text": "Caroline feels supported by people who promote LGBTQ rights",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D13:15"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#31",
+          "text": "Caroline found a community where she is accepted, loved, and supported.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:13"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#32",
+          "text": "Caroline says having people who understand what she is going through has made a huge difference.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:13"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-support-group#33",
+          "text": "Caroline volunteers with the LGBTQ+ community.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "LGBTQ support group",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Melanie",
+      "type": "person",
+      "slug": "melanie",
+      "path": "people/melanie.md",
+      "facts": [
+        {
+          "fact_id": "melanie#1",
+          "text": "Melanie has children.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:2"
+          ]
+        },
+        {
+          "fact_id": "melanie#2",
+          "text": "Melanie has children",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:7"
+          ]
+        },
+        {
+          "fact_id": "melanie#3",
+          "text": "Melanie's children are excited about summer break",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:7"
+          ]
+        },
+        {
+          "fact_id": "melanie#4",
+          "text": "Melanie wants to be courageous for her family.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:10"
+          ]
+        },
+        {
+          "fact_id": "melanie#5",
+          "text": "Melanie's family motivates her and gives her love.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:10"
+          ]
+        },
+        {
+          "fact_id": "melanie#6",
+          "text": "Melanie is married.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:14"
+          ]
+        },
+        {
+          "fact_id": "melanie#7",
+          "text": "Melanie's husband and children motivate her.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:14"
+          ]
+        },
+        {
+          "fact_id": "melanie#8",
+          "text": "Melanie has been married for five years.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:16"
+          ]
+        },
+        {
+          "fact_id": "melanie#9",
+          "text": "Melanie feels alive and happy when she spends time with her family.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:22"
+          ]
+        },
+        {
+          "fact_id": "melanie#10",
+          "text": "The two younger children in Melanie's family love nature",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:8"
+          ]
+        },
+        {
+          "fact_id": "melanie#11",
+          "text": "Melanie's kids love learning about animals.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:6"
+          ]
+        },
+        {
+          "fact_id": "melanie#12",
+          "text": "Melanie loves being a mom.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:6"
+          ]
+        },
+        {
+          "fact_id": "melanie#13",
+          "text": "Melanie has a dog and a cat.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:16"
+          ]
+        },
+        {
+          "fact_id": "melanie#14",
+          "text": "Melanie's pets are named Luna and Oliver.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:18"
+          ]
+        },
+        {
+          "fact_id": "melanie#15",
+          "text": "Melanie's pets brighten her day and make her smile.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:16"
+          ]
+        },
+        {
+          "fact_id": "melanie#16",
+          "text": "Melanie's family supported her during her move.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:29",
+            "D8:30"
+          ]
+        },
+        {
+          "fact_id": "melanie#17",
+          "text": "Melanie's family helped her during her move.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:30"
+          ]
+        },
+        {
+          "fact_id": "melanie#18",
+          "text": "Melanie's family showed her love and support during her move.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:30"
+          ]
+        },
+        {
+          "fact_id": "melanie#19",
+          "text": "Melanie values Caroline's friendship and support.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:38"
+          ]
+        },
+        {
+          "fact_id": "melanie#20",
+          "text": "Melanie feels lucky to be with her family and have their love",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D10:22",
+            "D10:24"
+          ]
+        },
+        {
+          "fact_id": "melanie#21",
+          "text": "Melanie's family brings her joy and love",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D10:24"
+          ]
+        },
+        {
+          "fact_id": "melanie#22",
+          "text": "Melanie has a cat named Oliver",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D13:4"
+          ]
+        },
+        {
+          "fact_id": "melanie#23",
+          "text": "Melanie has another cat named Bailey",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D13:4"
+          ]
+        },
+        {
+          "fact_id": "melanie#24",
+          "text": "Melanie has a horse",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Melanie",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D13:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mental health career",
+      "type": "topic",
+      "slug": "mental-health-career",
+      "path": "topics/mental-health-career.md",
+      "facts": [
+        {
+          "fact_id": "mental-health-career#1",
+          "text": "Caroline is interested in counseling work.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:11"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#2",
+          "text": "Caroline is interested in working in mental health.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:11"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#3",
+          "text": "Caroline would like to support people with similar issues.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:11"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#4",
+          "text": "Caroline is looking into counseling and mental health as a career",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:11"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#5",
+          "text": "Caroline is considering working with trans people in counseling",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:13"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#6",
+          "text": "Caroline wants to help trans people accept themselves and support their mental health",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:13"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#7",
+          "text": "Caroline's own journey and the support Caroline received motivated Caroline to pursue counseling",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:15"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#8",
+          "text": "Counseling and support groups improved Caroline's life",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:15"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#9",
+          "text": "Caroline wants to create a safe, inviting place for people to grow",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:15"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#10",
+          "text": "Caroline is considering counseling and mental health as a career path.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:3"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#11",
+          "text": "Caroline is looking into counseling or mental health work.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:3"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#12",
+          "text": "Caroline is passionate about helping people and making a positive impact.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:3"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#13",
+          "text": "Caroline is looking into counseling and mental health jobs.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:5"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#14",
+          "text": "Caroline wants to help people have someone to talk to.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:5"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#15",
+          "text": "Caroline is exploring counseling and mental health career options to help other people.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:7"
+          ]
+        },
+        {
+          "fact_id": "mental-health-career#16",
+          "text": "Melanie finds peace through creativity and family.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Mental health career",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:28"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Painting",
+      "type": "topic",
+      "slug": "painting",
+      "path": "topics/painting.md",
+      "facts": [
+        {
+          "fact_id": "painting#1",
+          "text": "Melanie painted a lake sunrise last year.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:14"
+          ]
+        },
+        {
+          "fact_id": "painting#2",
+          "text": "Melanie considers her lake sunrise painting special to her.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:14"
+          ]
+        },
+        {
+          "fact_id": "painting#3",
+          "text": "Melanie uses painting to express her feelings.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:16"
+          ]
+        },
+        {
+          "fact_id": "painting#4",
+          "text": "Melanie uses painting to be creative.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:16"
+          ]
+        },
+        {
+          "fact_id": "painting#5",
+          "text": "Melanie uses painting to relax after a long day.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:16"
+          ]
+        },
+        {
+          "fact_id": "painting#6",
+          "text": "Caroline owns a hand-painted bowl made by a friend for Caroline's 18th birthday ten years ago",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:5"
+          ]
+        },
+        {
+          "fact_id": "painting#7",
+          "text": "Caroline's hand-painted bowl reminds Caroline of art and self-expression",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:5"
+          ]
+        },
+        {
+          "fact_id": "painting#8",
+          "text": "Melanie paints with her children, especially nature-inspired paintings.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:6"
+          ]
+        },
+        {
+          "fact_id": "painting#9",
+          "text": "Melanie and her children painted a sunset with a palm tree last weekend.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:6"
+          ]
+        },
+        {
+          "fact_id": "painting#10",
+          "text": "Melanie and her children bonded and chatted about nature while painting.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:8"
+          ]
+        },
+        {
+          "fact_id": "painting#11",
+          "text": "Caroline is having an LGBTQ art show with her paintings next month.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:12"
+          ]
+        },
+        {
+          "fact_id": "painting#12",
+          "text": "Melanie shared a preview image of a painting with a blue and yellow design.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:13"
+          ]
+        },
+        {
+          "fact_id": "painting#13",
+          "text": "Caroline painted a tree with a bright sun in the background for the art show.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:14"
+          ]
+        },
+        {
+          "fact_id": "painting#14",
+          "text": "Caroline painted the artwork after visiting an LGBTQ center.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:16"
+          ]
+        },
+        {
+          "fact_id": "painting#15",
+          "text": "Caroline wanted her painting to capture everyone's unity and strength.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:16"
+          ]
+        },
+        {
+          "fact_id": "painting#16",
+          "text": "Melanie and her children finished another painting like their last one.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:17"
+          ]
+        },
+        {
+          "fact_id": "painting#17",
+          "text": "Caroline represents inclusivity and diversity in her art.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:8"
+          ]
+        },
+        {
+          "fact_id": "painting#18",
+          "text": "Caroline uses her art to speak up for the LGBTQ+ community and promote acceptance.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:8"
+          ]
+        },
+        {
+          "fact_id": "painting#19",
+          "text": "Caroline's art expresses her trans experience.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:10"
+          ]
+        },
+        {
+          "fact_id": "painting#20",
+          "text": "Caroline uses her art to tell her story and help people understand the trans community.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:10"
+          ]
+        },
+        {
+          "fact_id": "painting#21",
+          "text": "Caroline created a painting titled “Embracing Identity.”",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:12"
+          ]
+        },
+        {
+          "fact_id": "painting#22",
+          "text": "Caroline's painting “Embracing Identity” explores comfort and love in being yourself.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:12"
+          ]
+        },
+        {
+          "fact_id": "painting#23",
+          "text": "Caroline's painting “Embracing Identity” depicts a woman's journey of acceptance.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:12"
+          ]
+        },
+        {
+          "fact_id": "painting#24",
+          "text": "Caroline's art explores her transition and changing body.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:14"
+          ]
+        },
+        {
+          "fact_id": "painting#25",
+          "text": "Caroline uses art to work through what she is going through.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:14"
+          ]
+        },
+        {
+          "fact_id": "painting#26",
+          "text": "Caroline's art has taught her to accept the beauty of imperfections.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:14"
+          ]
+        },
+        {
+          "fact_id": "painting#27",
+          "text": "Melanie is obsessed with colors and patterns",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:6"
+          ]
+        },
+        {
+          "fact_id": "painting#28",
+          "text": "Melanie uses painting to express her feelings",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:6"
+          ]
+        },
+        {
+          "fact_id": "painting#29",
+          "text": "Melanie uses painting to be creative",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:6"
+          ]
+        },
+        {
+          "fact_id": "painting#30",
+          "text": "Melanie has a strong connection to art",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:8"
+          ]
+        },
+        {
+          "fact_id": "painting#31",
+          "text": "Art is a sanctuary and source of comfort for Melanie",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:8"
+          ]
+        },
+        {
+          "fact_id": "painting#32",
+          "text": "Melanie painted a horse on a wooden wall recently",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:8"
+          ]
+        },
+        {
+          "fact_id": "painting#33",
+          "text": "Melanie loves painting animals",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:10"
+          ]
+        },
+        {
+          "fact_id": "painting#34",
+          "text": "Caroline loves creating art",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:11"
+          ]
+        },
+        {
+          "fact_id": "painting#35",
+          "text": "Caroline made a self-portrait last week",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:11"
+          ]
+        },
+        {
+          "fact_id": "painting#36",
+          "text": "Caroline felt liberated and empowered while painting her self-portrait",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:13"
+          ]
+        },
+        {
+          "fact_id": "painting#37",
+          "text": "Caroline uses painting to explore her identity and be true to herself",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:13"
+          ]
+        },
+        {
+          "fact_id": "painting#38",
+          "text": "Caroline finds painting therapeutic",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:13"
+          ]
+        },
+        {
+          "fact_id": "painting#39",
+          "text": "Caroline has been busy painting.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:5"
+          ]
+        },
+        {
+          "fact_id": "painting#40",
+          "text": "Caroline painted a sunset after visiting the beach last week.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:5",
+            "D14:7"
+          ]
+        },
+        {
+          "fact_id": "painting#41",
+          "text": "Caroline found watching the sun dip below the horizon at the beach amazing and calming.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:7"
+          ]
+        },
+        {
+          "fact_id": "painting#42",
+          "text": "Caroline made a stained glass window to remind herself and others that everyone has a key to discovering their true potential and living their best life.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:16",
+            "D14:17"
+          ]
+        },
+        {
+          "fact_id": "painting#43",
+          "text": "Caroline made a stained glass window for a local church showing time changing people's lives.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:17",
+            "D14:19"
+          ]
+        },
+        {
+          "fact_id": "painting#44",
+          "text": "Caroline made the church stained glass window to show her journey as a transgender woman.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:19"
+          ]
+        },
+        {
+          "fact_id": "painting#45",
+          "text": "Caroline made the church stained glass window to express acceptance of growth and change.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:19"
+          ]
+        },
+        {
+          "fact_id": "painting#46",
+          "text": "Caroline sees art as a symbol of togetherness that celebrates differences.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:21"
+          ]
+        },
+        {
+          "fact_id": "painting#47",
+          "text": "Caroline saw someone drawing on the ground the other day, which made her happy.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:25"
+          ]
+        },
+        {
+          "fact_id": "painting#48",
+          "text": "Caroline says art can boost her mood and lighten someone's day.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:25"
+          ]
+        },
+        {
+          "fact_id": "painting#49",
+          "text": "Caroline says art gives her joy and helps her show her feelings.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:27"
+          ]
+        },
+        {
+          "fact_id": "painting#50",
+          "text": "Caroline likes drawing flowers.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:27",
+            "D14:29"
+          ]
+        },
+        {
+          "fact_id": "painting#51",
+          "text": "Caroline appreciates and enjoys sharing nature through art.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:29"
+          ]
+        },
+        {
+          "fact_id": "painting#52",
+          "text": "Melanie's favorite types of art are landscape and still-life painting.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:30"
+          ]
+        },
+        {
+          "fact_id": "painting#53",
+          "text": "Melanie is planning several paintings inspired by autumn.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:32"
+          ]
+        },
+        {
+          "fact_id": "painting#54",
+          "text": "Caroline creates art.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:5"
+          ]
+        },
+        {
+          "fact_id": "painting#55",
+          "text": "Caroline has been creating art since she was about 17.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:7"
+          ]
+        },
+        {
+          "fact_id": "painting#56",
+          "text": "Caroline finds creating art empowering and cathartic.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:7"
+          ]
+        },
+        {
+          "fact_id": "painting#57",
+          "text": "Melanie has been involved in art for seven years.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:8"
+          ]
+        },
+        {
+          "fact_id": "painting#58",
+          "text": "Melanie's artistic muses are painting and pottery.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:8"
+          ]
+        },
+        {
+          "fact_id": "painting#59",
+          "text": "Caroline uses painting and drawing to express her feelings and explore her gender identity.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:9"
+          ]
+        },
+        {
+          "fact_id": "painting#60",
+          "text": "Creating art was important to Caroline during her transition.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:9"
+          ]
+        },
+        {
+          "fact_id": "painting#61",
+          "text": "Caroline made a painting about her path as a trans woman.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:13"
+          ]
+        },
+        {
+          "fact_id": "painting#62",
+          "text": "In Caroline's painting, red and blue represent the binary gender system.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:13"
+          ]
+        },
+        {
+          "fact_id": "painting#63",
+          "text": "In Caroline's painting, mixed colors represent rejecting rigid gender thinking.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:13"
+          ]
+        },
+        {
+          "fact_id": "painting#64",
+          "text": "Caroline's painting reminds her to love her authentic self.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:13"
+          ]
+        },
+        {
+          "fact_id": "painting#65",
+          "text": "Melanie has been painting to keep busy while taking a break from pottery.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:10"
+          ]
+        },
+        {
+          "fact_id": "painting#66",
+          "text": "Melanie painted a sunset-inspired painting last week.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:12"
+          ]
+        },
+        {
+          "fact_id": "painting#67",
+          "text": "Melanie's sunset painting has a pink sky.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:12"
+          ]
+        },
+        {
+          "fact_id": "painting#68",
+          "text": "Melanie painted the sunset because it was calming.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:14"
+          ]
+        },
+        {
+          "fact_id": "painting#69",
+          "text": "Melanie painted an abstract painting with a blue background.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:14"
+          ]
+        },
+        {
+          "fact_id": "painting#70",
+          "text": "Melanie uses art to express her emotions.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:14"
+          ]
+        },
+        {
+          "fact_id": "painting#71",
+          "text": "Caroline has been trying abstract painting.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:13"
+          ]
+        },
+        {
+          "fact_id": "painting#72",
+          "text": "Caroline uses abstract painting as a form of self-expression.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:13"
+          ]
+        },
+        {
+          "fact_id": "painting#73",
+          "text": "Melanie wanted peaceful blue streaks in her abstract painting to show tranquility.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:16"
+          ]
+        },
+        {
+          "fact_id": "painting#74",
+          "text": "Blue calms Melanie.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:16"
+          ]
+        },
+        {
+          "fact_id": "painting#75",
+          "text": "Melanie wanted her abstract painting to have a serene vibe with vibrant colors.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:16"
+          ]
+        },
+        {
+          "fact_id": "painting#76",
+          "text": "Caroline drew a woman in a dress.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:21",
+            "D17:23"
+          ]
+        },
+        {
+          "fact_id": "painting#77",
+          "text": "Caroline's drawing stands for freedom and being real.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:23"
+          ]
+        },
+        {
+          "fact_id": "painting#78",
+          "text": "Caroline's drawing reminds her to stay true to herself and embrace her womanhood.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:23"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Swimming",
+      "type": "event",
+      "slug": "swimming",
+      "path": "events/swimming.md",
+      "facts": [
+        {
+          "fact_id": "swimming#1",
+          "text": "Melanie planned to go swimming with her children.",
+          "date_label": "8 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Swimming",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:18"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Adoption",
+      "type": "topic",
+      "slug": "adoption",
+      "path": "topics/adoption.md",
+      "facts": [
+        {
+          "fact_id": "adoption#1",
+          "text": "Caroline is researching adoption agencies",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:8"
+          ]
+        },
+        {
+          "fact_id": "adoption#2",
+          "text": "Caroline dreams of having a family and giving a loving home to children who need it",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:8"
+          ]
+        },
+        {
+          "fact_id": "adoption#3",
+          "text": "Caroline's goal is to give children a loving home",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:10"
+          ]
+        },
+        {
+          "fact_id": "adoption#4",
+          "text": "Caroline is looking into an adoption agency that helps LGBTQ+ people with adoption",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:10",
+            "D2:12"
+          ]
+        },
+        {
+          "fact_id": "adoption#5",
+          "text": "Caroline values the adoption agency's inclusivity and support",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:12"
+          ]
+        },
+        {
+          "fact_id": "adoption#6",
+          "text": "Caroline is excited to create a family for children who need one",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:14"
+          ]
+        },
+        {
+          "fact_id": "adoption#7",
+          "text": "Caroline intends to provide children with a safe and loving home",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:16"
+          ]
+        },
+        {
+          "fact_id": "adoption#8",
+          "text": "Caroline attended a council meeting for adoption last Friday.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:9"
+          ]
+        },
+        {
+          "fact_id": "adoption#9",
+          "text": "Caroline became more determined to adopt after attending the adoption council meeting.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:9"
+          ]
+        },
+        {
+          "fact_id": "adoption#10",
+          "text": "Caroline applied to adoption agencies as a first step toward becoming a mom",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:1"
+          ]
+        },
+        {
+          "fact_id": "adoption#11",
+          "text": "Caroline attended an adoption advice and assistance group",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:1"
+          ]
+        },
+        {
+          "fact_id": "adoption#12",
+          "text": "Caroline contacted her mentor for adoption advice.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:1"
+          ]
+        },
+        {
+          "fact_id": "adoption#13",
+          "text": "Caroline is ready to become a mother through adoption.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:1"
+          ]
+        },
+        {
+          "fact_id": "adoption#14",
+          "text": "Caroline wants to provide a safe, loving home for children who need it.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:3"
+          ]
+        },
+        {
+          "fact_id": "adoption#15",
+          "text": "Melanie's buddy adopted a child last year.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:4"
+          ]
+        },
+        {
+          "fact_id": "adoption#16",
+          "text": "Melanie's buddy's adoption process was long.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:4"
+          ]
+        },
+        {
+          "fact_id": "adoption#17",
+          "text": "Melanie's buddy is very happy with their new child.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:4"
+          ]
+        },
+        {
+          "fact_id": "adoption#18",
+          "text": "Melanie is considering adoption.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:4"
+          ]
+        },
+        {
+          "fact_id": "adoption#19",
+          "text": "Caroline advised Melanie to research adoption.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:7"
+          ]
+        },
+        {
+          "fact_id": "adoption#20",
+          "text": "Caroline advised Melanie to find an adoption agency or lawyer.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:7"
+          ]
+        },
+        {
+          "fact_id": "adoption#21",
+          "text": "Caroline advised Melanie to gather references, financial information, and medical checks for adoption.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:7"
+          ]
+        },
+        {
+          "fact_id": "adoption#22",
+          "text": "Caroline advised Melanie to prepare emotionally for the adoption wait.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:7"
+          ]
+        },
+        {
+          "fact_id": "adoption#23",
+          "text": "Caroline passed the adoption agency interviews last Friday.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:1"
+          ]
+        },
+        {
+          "fact_id": "adoption#24",
+          "text": "Caroline wants to have a family.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:1"
+          ]
+        },
+        {
+          "fact_id": "adoption#25",
+          "text": "Caroline hopes to build her own family through adoption.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:3"
+          ]
+        },
+        {
+          "fact_id": "adoption#26",
+          "text": "Caroline wants to provide a home for children who have not had one before.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:3"
+          ]
+        },
+        {
+          "fact_id": "adoption#27",
+          "text": "Caroline sees adoption as a way of giving back and showing love and acceptance.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:3"
+          ]
+        },
+        {
+          "fact_id": "adoption#28",
+          "text": "Caroline dreams of creating a safe and loving home for children.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:5"
+          ]
+        },
+        {
+          "fact_id": "adoption#29",
+          "text": "Caroline believes love and acceptance should be everyone's right.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:5"
+          ]
+        },
+        {
+          "fact_id": "adoption#30",
+          "text": "Caroline is ready to offer love and support to people who need it.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:7"
+          ]
+        },
+        {
+          "fact_id": "adoption#31",
+          "text": "Caroline wants to provide the same support to anyone who needs it.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Adoption",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:9"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Camping",
+      "type": "topic",
+      "slug": "camping",
+      "path": "topics/camping.md",
+      "facts": [
+        {
+          "fact_id": "camping#1",
+          "text": "Melanie is considering going camping next month with her family",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:7"
+          ]
+        },
+        {
+          "fact_id": "camping#2",
+          "text": "Melanie took her family camping in the mountains last week",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:6"
+          ]
+        },
+        {
+          "fact_id": "camping#3",
+          "text": "Melanie's family explored nature during their camping trip last week",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:8"
+          ]
+        },
+        {
+          "fact_id": "camping#4",
+          "text": "Melanie's family roasted marshmallows around a campfire during their camping trip last week",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:8"
+          ]
+        },
+        {
+          "fact_id": "camping#5",
+          "text": "Melanie's family went on a hike during their camping trip last week",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:8"
+          ]
+        },
+        {
+          "fact_id": "camping#6",
+          "text": "Melanie's family camps at the beach.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:16"
+          ]
+        },
+        {
+          "fact_id": "camping#7",
+          "text": "Melanie's family enjoys camping at the beach because it brings them closer.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:16"
+          ]
+        },
+        {
+          "fact_id": "camping#8",
+          "text": "Melanie went on another camping trip in the forest with her family.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:32"
+          ]
+        },
+        {
+          "fact_id": "camping#9",
+          "text": "Melanie went camping with her family two weekends ago.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:1"
+          ]
+        },
+        {
+          "fact_id": "camping#10",
+          "text": "Melanie's family has a camping trip tradition each summer",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:12"
+          ]
+        },
+        {
+          "fact_id": "camping#11",
+          "text": "Melanie's family roasts marshmallows, tells stories around a campfire, and spends time together during their camping trip",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:12"
+          ]
+        },
+        {
+          "fact_id": "camping#12",
+          "text": "Melanie's family saw the Perseid meteor shower during their camping trip last year",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:14"
+          ]
+        },
+        {
+          "fact_id": "camping#13",
+          "text": "Melanie's family made wishes while watching the Perseid meteor shower last year",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:14"
+          ]
+        },
+        {
+          "fact_id": "camping#14",
+          "text": "Caroline and Melanie want to explore nature on their special summer outing",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:17"
+          ]
+        },
+        {
+          "fact_id": "camping#15",
+          "text": "Melanie went camping with her children a few weeks ago.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:2"
+          ]
+        },
+        {
+          "fact_id": "camping#16",
+          "text": "Melanie and her children roasted marshmallows and shared stories around a campfire while camping.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:4"
+          ]
+        },
+        {
+          "fact_id": "camping#17",
+          "text": "Melanie enjoys camping trips with her family.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:19"
+          ]
+        },
+        {
+          "fact_id": "camping#18",
+          "text": "Nature brings Melanie peace and serenity.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:19"
+          ]
+        },
+        {
+          "fact_id": "camping#19",
+          "text": "Melanie bonds with her family over stories, campfires, and nature while camping.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:21"
+          ]
+        },
+        {
+          "fact_id": "camping#20",
+          "text": "Waking up to birds and fresh air while camping refreshes Melanie's soul.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Camping",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:21"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Caroline",
+      "type": "person",
+      "slug": "caroline",
+      "path": "people/caroline.md",
+      "facts": [
+        {
+          "fact_id": "caroline#1",
+          "text": "Caroline expects to be a single parent",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D2:14"
+          ]
+        },
+        {
+          "fact_id": "caroline#2",
+          "text": "Caroline started transitioning three years ago.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:1"
+          ]
+        },
+        {
+          "fact_id": "caroline#3",
+          "text": "Caroline has received substantial love and support during her transition.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:5"
+          ]
+        },
+        {
+          "fact_id": "caroline#4",
+          "text": "Caroline's friends, family, and mentors motivate her and give her strength.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:11"
+          ]
+        },
+        {
+          "fact_id": "caroline#5",
+          "text": "Caroline's friends have been in her life for four years.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:13"
+          ]
+        },
+        {
+          "fact_id": "caroline#6",
+          "text": "Caroline has known her friends since she moved from her home country.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:13"
+          ]
+        },
+        {
+          "fact_id": "caroline#7",
+          "text": "Caroline's friends have supported her since she moved from her home country.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:13"
+          ]
+        },
+        {
+          "fact_id": "caroline#8",
+          "text": "Caroline experienced a tough breakup.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:13"
+          ]
+        },
+        {
+          "fact_id": "caroline#9",
+          "text": "Caroline feels that family is everything.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D3:23"
+          ]
+        },
+        {
+          "fact_id": "caroline#10",
+          "text": "Caroline received a necklace from her grandmother in Sweden when Caroline was young",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:3"
+          ]
+        },
+        {
+          "fact_id": "caroline#11",
+          "text": "Caroline's necklace represents love, faith and strength",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:3"
+          ]
+        },
+        {
+          "fact_id": "caroline#12",
+          "text": "Caroline's necklace reminds Caroline of her roots and her family's love and support",
+          "date_label": "27 June, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:3"
+          ]
+        },
+        {
+          "fact_id": "caroline#13",
+          "text": "Caroline appreciates having friends and family help with her transition.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:11"
+          ]
+        },
+        {
+          "fact_id": "caroline#14",
+          "text": "Caroline's friends and family have supported her through her transition with love, guidance, and acceptance.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:13"
+          ]
+        },
+        {
+          "fact_id": "caroline#15",
+          "text": "Caroline's support system has helped her accept and grow into her true self.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:15"
+          ]
+        },
+        {
+          "fact_id": "caroline#16",
+          "text": "Caroline's friends and family have been instrumental in her transition.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D6:15"
+          ]
+        },
+        {
+          "fact_id": "caroline#17",
+          "text": "Caroline struggled with mental health.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D7:7"
+          ]
+        },
+        {
+          "fact_id": "caroline#18",
+          "text": "Caroline found the courage to transition.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:25"
+          ]
+        },
+        {
+          "fact_id": "caroline#19",
+          "text": "Caroline feels free to express herself authentically.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:25"
+          ]
+        },
+        {
+          "fact_id": "caroline#20",
+          "text": "Caroline values Melanie's friendship.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D8:37",
+            "D8:39"
+          ]
+        },
+        {
+          "fact_id": "caroline#21",
+          "text": "Caroline is LGBTQ",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "caroline#22",
+          "text": "Caroline and Melanie are friends",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D12:13",
+            "D12:14"
+          ]
+        },
+        {
+          "fact_id": "caroline#23",
+          "text": "Caroline has a guinea pig named Oscar",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D13:3"
+          ]
+        },
+        {
+          "fact_id": "caroline#24",
+          "text": "Caroline is a transgender woman.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D14:19"
+          ]
+        },
+        {
+          "fact_id": "caroline#25",
+          "text": "Caroline is proud of who she is.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:13"
+          ]
+        },
+        {
+          "fact_id": "caroline#26",
+          "text": "Some of Caroline's close friends continued supporting her during her transition.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:15"
+          ]
+        },
+        {
+          "fact_id": "caroline#27",
+          "text": "Some of Caroline's friends were unable to handle her transition.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:15"
+          ]
+        },
+        {
+          "fact_id": "caroline#28",
+          "text": "Caroline is happier around people who accept and love her.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:15"
+          ]
+        },
+        {
+          "fact_id": "caroline#29",
+          "text": "Caroline's relationships feel more genuine now.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D16:15"
+          ]
+        },
+        {
+          "fact_id": "caroline#30",
+          "text": "Caroline says finding self-acceptance was a long process.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:7"
+          ]
+        },
+        {
+          "fact_id": "caroline#31",
+          "text": "Caroline transitioned, and transitioning was not easy for her.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:9"
+          ]
+        },
+        {
+          "fact_id": "caroline#32",
+          "text": "Caroline received invaluable help from friends, family, and people she looked up to during tough times.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:9"
+          ]
+        },
+        {
+          "fact_id": "caroline#33",
+          "text": "Caroline's friends, family, and role models helped her find out who she really is.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:9"
+          ]
+        },
+        {
+          "fact_id": "caroline#34",
+          "text": "Caroline finds joy in bringing others comfort and helping them grow.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:9"
+          ]
+        },
+        {
+          "fact_id": "caroline#35",
+          "text": "Caroline is grateful to share her journey and help others with theirs.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:11"
+          ]
+        },
+        {
+          "fact_id": "caroline#36",
+          "text": "Caroline believes it is freeing to be oneself and live honestly.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:15"
+          ]
+        },
+        {
+          "fact_id": "caroline#37",
+          "text": "Caroline believes people can accept who they are and be content.",
+          "date_label": "22 October, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Caroline",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D19:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Charity race",
+      "type": "event",
+      "slug": "charity-race",
+      "path": "events/charity-race.md",
+      "facts": [
+        {
+          "fact_id": "charity-race#1",
+          "text": "Melanie ran a charity race for mental health last Saturday",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Charity race",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D2:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Self-care",
+      "type": "topic",
+      "slug": "self-care",
+      "path": "topics/self-care.md",
+      "facts": [
+        {
+          "fact_id": "self-care#1",
+          "text": "Melanie is realizing that self-care is important",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:3"
+          ]
+        },
+        {
+          "fact_id": "self-care#2",
+          "text": "Melanie believes looking after herself helps her better look after her family",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:3"
+          ]
+        },
+        {
+          "fact_id": "self-care#3",
+          "text": "Melanie carves out me-time each day",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:5"
+          ]
+        },
+        {
+          "fact_id": "self-care#4",
+          "text": "Melanie uses running, reading, and playing her violin as me-time activities",
+          "date_label": "25 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:5"
+          ]
+        },
+        {
+          "fact_id": "self-care#5",
+          "text": "Caroline found the mental health support she received helpful.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:7"
+          ]
+        },
+        {
+          "fact_id": "self-care#6",
+          "text": "Caroline believes tough times do not last and that hope and love exist.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:13"
+          ]
+        },
+        {
+          "fact_id": "self-care#7",
+          "text": "Melanie considers mental health important.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:26"
+          ]
+        },
+        {
+          "fact_id": "self-care#8",
+          "text": "Melanie has been reading a book Caroline recommended previously.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Self-care",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Family time",
+      "type": "event",
+      "slug": "family-time",
+      "path": "events/family-time.md",
+      "facts": [
+        {
+          "fact_id": "family-time#1",
+          "text": "Melanie celebrated a family day with games, good food, and time together.",
+          "date_label": "9 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:18",
+            "D3:20"
+          ]
+        },
+        {
+          "fact_id": "family-time#2",
+          "text": "Melanie took her kids to the museum yesterday.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:4"
+          ]
+        },
+        {
+          "fact_id": "family-time#3",
+          "text": "Melanie's kids were excited about the dinosaur exhibit.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:6"
+          ]
+        },
+        {
+          "fact_id": "family-time#4",
+          "text": "Caroline had a picnic last week with a group of women.",
+          "date_label": "6 July, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:11"
+          ]
+        },
+        {
+          "fact_id": "family-time#5",
+          "text": "Melanie and her children found a field of purple flowers with green leaves.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:8"
+          ]
+        },
+        {
+          "fact_id": "family-time#6",
+          "text": "Melanie enjoys hiking in the mountains with her family.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:34"
+          ]
+        },
+        {
+          "fact_id": "family-time#7",
+          "text": "Melanie enjoys exploring forests with her family.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:34"
+          ]
+        },
+        {
+          "fact_id": "family-time#8",
+          "text": "Melanie's family activities in nature bring her happiness.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:36"
+          ]
+        },
+        {
+          "fact_id": "family-time#9",
+          "text": "Melanie spent a quiet weekend with her children after camping.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:1"
+          ]
+        },
+        {
+          "fact_id": "family-time#10",
+          "text": "Melanie went to the beach with her children recently",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:8",
+            "D10:10"
+          ]
+        },
+        {
+          "fact_id": "family-time#11",
+          "text": "Melanie usually goes to the beach with her children once or twice a year",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:10"
+          ]
+        },
+        {
+          "fact_id": "family-time#12",
+          "text": "Melanie's youngest took her first steps",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:20"
+          ]
+        },
+        {
+          "fact_id": "family-time#13",
+          "text": "Melanie celebrated her daughter's birthday with a concert last night.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:1"
+          ]
+        },
+        {
+          "fact_id": "family-time#14",
+          "text": "Melanie suggested a family outing this summer",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:16"
+          ]
+        },
+        {
+          "fact_id": "family-time#15",
+          "text": "Caroline and Melanie agreed to plan something special for this summer",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:17",
+            "D12:18"
+          ]
+        },
+        {
+          "fact_id": "family-time#16",
+          "text": "Caroline and Melanie plan to create memories on their summer trip",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:21"
+          ]
+        },
+        {
+          "fact_id": "family-time#17",
+          "text": "Melanie spent yesterday volunteering with her family at a homeless shelter.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:10"
+          ]
+        },
+        {
+          "fact_id": "family-time#18",
+          "text": "Melanie found it hard to see how neglected some people are at the homeless shelter.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:10"
+          ]
+        },
+        {
+          "fact_id": "family-time#19",
+          "text": "Melanie felt volunteering at the homeless shelter allowed her family to make a difference.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:10"
+          ]
+        },
+        {
+          "fact_id": "family-time#20",
+          "text": "Melanie took her kids to a park yesterday.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:2"
+          ]
+        },
+        {
+          "fact_id": "family-time#21",
+          "text": "Melanie's kids explored and played at the park yesterday.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Family time",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:2"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Piano",
+      "type": "topic",
+      "slug": "piano",
+      "path": "topics/piano.md",
+      "facts": [
+        {
+          "fact_id": "piano#1",
+          "text": "Caroline is learning to play the piano.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Piano",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pottery",
+      "type": "topic",
+      "slug": "pottery",
+      "path": "topics/pottery.md",
+      "facts": [
+        {
+          "fact_id": "pottery#1",
+          "text": "Melanie signed up for a pottery class yesterday.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:4"
+          ]
+        },
+        {
+          "fact_id": "pottery#2",
+          "text": "Melanie finds pottery therapeutic.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:4"
+          ]
+        },
+        {
+          "fact_id": "pottery#3",
+          "text": "Melanie uses pottery to express herself and be creative.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:4"
+          ]
+        },
+        {
+          "fact_id": "pottery#4",
+          "text": "Melanie finds making pottery calming.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:6"
+          ]
+        },
+        {
+          "fact_id": "pottery#5",
+          "text": "Melanie made a bowl with a black and white flower design in her pottery class.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:6",
+            "D5:8"
+          ]
+        },
+        {
+          "fact_id": "pottery#6",
+          "text": "Melanie is proud of the bowl she made in her pottery class.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:8"
+          ]
+        },
+        {
+          "fact_id": "pottery#7",
+          "text": "Pottery is a huge part of Melanie's life, not just a hobby.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:10"
+          ]
+        },
+        {
+          "fact_id": "pottery#8",
+          "text": "Melanie uses pottery to express her emotions.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:10"
+          ]
+        },
+        {
+          "fact_id": "pottery#9",
+          "text": "Pottery brings Melanie joy.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:10"
+          ]
+        },
+        {
+          "fact_id": "pottery#10",
+          "text": "Melanie took her children to a pottery workshop last Friday.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:2"
+          ]
+        },
+        {
+          "fact_id": "pottery#11",
+          "text": "Melanie and her children made their own pots at a pottery workshop last Friday.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:2"
+          ]
+        },
+        {
+          "fact_id": "pottery#12",
+          "text": "Melanie's children loved making things with clay at the pottery workshop.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:4"
+          ]
+        },
+        {
+          "fact_id": "pottery#13",
+          "text": "Melanie and her children made a cup with a dog face on it.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:4"
+          ]
+        },
+        {
+          "fact_id": "pottery#14",
+          "text": "Melanie completed another pottery project",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:2"
+          ]
+        },
+        {
+          "fact_id": "pottery#15",
+          "text": "Melanie made a bowl with a colorful design",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:4",
+            "D12:6"
+          ]
+        },
+        {
+          "fact_id": "pottery#16",
+          "text": "Melanie made a plate with flowers in pottery class yesterday.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:2",
+            "D14:4"
+          ]
+        },
+        {
+          "fact_id": "pottery#17",
+          "text": "Melanie finds pottery relaxing and creative.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:4"
+          ]
+        },
+        {
+          "fact_id": "pottery#18",
+          "text": "Caroline has not tried pottery.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:5"
+          ]
+        },
+        {
+          "fact_id": "pottery#19",
+          "text": "Melanie finds painting and pottery calming and satisfying.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:8"
+          ]
+        },
+        {
+          "fact_id": "pottery#20",
+          "text": "Caroline has not tried pottery yet but might try it.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:11"
+          ]
+        },
+        {
+          "fact_id": "pottery#21",
+          "text": "Melanie hurt herself last month and had to take a break from pottery.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:8"
+          ]
+        },
+        {
+          "fact_id": "pottery#22",
+          "text": "Melanie uses pottery for self-expression and peace.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Pottery",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:8"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Transgender conference",
+      "type": "event",
+      "slug": "transgender-conference",
+      "path": "events/transgender-conference.md",
+      "facts": [
+        {
+          "fact_id": "transgender-conference#1",
+          "text": "Caroline is going to a transgender conference this month.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Transgender conference",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:13"
+          ]
+        },
+        {
+          "fact_id": "transgender-conference#2",
+          "text": "Caroline is looking forward to meeting people in the transgender community at the conference.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Transgender conference",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:13"
+          ]
+        },
+        {
+          "fact_id": "transgender-conference#3",
+          "text": "Caroline is looking forward to learning more about advocacy at the transgender conference.",
+          "date_label": "3 July, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Transgender conference",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D5:13"
+          ]
+        },
+        {
+          "fact_id": "transgender-conference#4",
+          "text": "Caroline attended an LGBTQ conference two days ago.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Transgender conference",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:1"
+          ]
+        },
+        {
+          "fact_id": "transgender-conference#5",
+          "text": "Caroline felt accepted at the LGBTQ conference.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Transgender conference",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Running",
+      "type": "topic",
+      "slug": "running",
+      "path": "topics/running.md",
+      "facts": [
+        {
+          "fact_id": "running#1",
+          "text": "Melanie bought new running shoes.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Running",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:18"
+          ]
+        },
+        {
+          "fact_id": "running#2",
+          "text": "Melanie has been running longer since the previous chat.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Running",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:20"
+          ]
+        },
+        {
+          "fact_id": "running#3",
+          "text": "Melanie runs to destress and clear her mind.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Running",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:20"
+          ]
+        },
+        {
+          "fact_id": "running#4",
+          "text": "Running has improved Melanie's mental health.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Running",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:24"
+          ]
+        },
+        {
+          "fact_id": "running#5",
+          "text": "Melanie plans to keep running.",
+          "date_label": "12 July, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Running",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:24"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pride parade",
+      "type": "event",
+      "slug": "pride-parade",
+      "path": "events/pride-parade.md",
+      "facts": [
+        {
+          "fact_id": "pride-parade#1",
+          "text": "Caroline attended a pride parade a few weeks ago.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:17"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#2",
+          "text": "Caroline joined the pride parade.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:19"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#3",
+          "text": "Caroline felt accepted and happy at the pride parade.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:19"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#4",
+          "text": "Caroline felt proud and grateful at the pride parade.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:21"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#5",
+          "text": "Caroline and her mentee attended an LGBTQ pride event last month.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:6"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#6",
+          "text": "Caroline felt encouraged by the love and acceptance at the pride event.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:8"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#7",
+          "text": "Caroline was especially moved when her mentee reacted to the support at the pride event.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:10"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#8",
+          "text": "Caroline missed her city's Pride parade last weekend",
+          "date_label": "20 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:7"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#9",
+          "text": "Caroline attended a pride parade last Friday.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:4"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#10",
+          "text": "Caroline and Melanie attended a Pride fest last year",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:15"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#11",
+          "text": "Caroline and Melanie had fun with their group at the Pride fest last year",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:15",
+            "D12:16"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#12",
+          "text": "Caroline found a rainbow sidewalk for Pride Month while walking in her neighborhood.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:23"
+          ]
+        },
+        {
+          "fact_id": "pride-parade#13",
+          "text": "Caroline found the rainbow sidewalk vibrant and welcoming.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Pride parade",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:23"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wedding",
+      "type": "event",
+      "slug": "wedding",
+      "path": "events/wedding.md",
+      "facts": [
+        {
+          "fact_id": "wedding#1",
+          "text": "Melanie had flowers as an important part of her wedding decor.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Wedding",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:12"
+          ]
+        },
+        {
+          "fact_id": "wedding#2",
+          "text": "Melanie's wedding day was full of love and joy.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Wedding",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:14"
+          ]
+        },
+        {
+          "fact_id": "wedding#3",
+          "text": "Everyone Melanie and her partner loved attended their wedding.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Wedding",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:14"
+          ]
+        },
+        {
+          "fact_id": "wedding#4",
+          "text": "Melanie married her partner and promised to be together forever.",
+          "date_label": "15 July, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Wedding",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:16"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "LGBTQ youth mentorship",
+      "type": "topic",
+      "slug": "lgbtq-youth-mentorship",
+      "path": "topics/lgbtq-youth-mentorship.md",
+      "facts": [
+        {
+          "fact_id": "lgbtq-youth-mentorship#1",
+          "text": "Caroline joined a mentorship program for LGBTQ youth last weekend.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "LGBTQ youth mentorship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:2"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-youth-mentorship#2",
+          "text": "Caroline finds helping the LGBTQ community rewarding.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "LGBTQ youth mentorship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:2"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-youth-mentorship#3",
+          "text": "Caroline mentors a transgender teen like herself.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "LGBTQ youth mentorship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:6"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-youth-mentorship#4",
+          "text": "Caroline and her mentee have been working on building confidence and finding positive strategies.",
+          "date_label": "17 July, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "LGBTQ youth mentorship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:6"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-youth-mentorship#5",
+          "text": "Caroline volunteered at an LGBTQ+ youth center.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "LGBTQ youth mentorship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:3"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-youth-mentorship#6",
+          "text": "Caroline talked with young people at an LGBTQ+ youth center.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "LGBTQ youth mentorship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:3"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-youth-mentorship#7",
+          "text": "Caroline guided and supported young people at an LGBTQ+ youth center.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "LGBTQ youth mentorship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:5"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-youth-mentorship#8",
+          "text": "Caroline shared her story with young people at an LGBTQ+ youth center.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "LGBTQ youth mentorship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:5"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-youth-mentorship#9",
+          "text": "Caroline plans to continue volunteering at the youth center.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "LGBTQ youth mentorship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:9"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-youth-mentorship#10",
+          "text": "Caroline is helping organize a talent show for the kids next month.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "LGBTQ youth mentorship",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:11"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Concert",
+      "type": "event",
+      "slug": "concert",
+      "path": "events/concert.md",
+      "facts": [
+        {
+          "fact_id": "concert#1",
+          "text": "Melanie attended a concert by Matt Patterson last night.",
+          "date_label": "14 August, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Concert",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:1",
+            "D11:3"
+          ]
+        },
+        {
+          "fact_id": "concert#2",
+          "text": "Melanie attended a show by the band Summer Sounds.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Concert",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:14",
+            "D15:16"
+          ]
+        },
+        {
+          "fact_id": "concert#3",
+          "text": "The band Summer Sounds played an upbeat pop song at the show Melanie attended.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Concert",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:16"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hiking",
+      "type": "event",
+      "slug": "hiking",
+      "path": "events/hiking.md",
+      "facts": [
+        {
+          "fact_id": "hiking#1",
+          "text": "Caroline encountered religious conservatives on a hike who upset her",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Hiking",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "hiking#2",
+          "text": "Caroline went hiking last week and got into a bad spot with some people.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Hiking",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:1"
+          ]
+        },
+        {
+          "fact_id": "hiking#3",
+          "text": "Caroline tried to apologize to the people involved in the hiking incident.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Hiking",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:1"
+          ]
+        },
+        {
+          "fact_id": "hiking#4",
+          "text": "Melanie and her children explored a forest and went hiking while camping a few weeks ago.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Hiking",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:2"
+          ]
+        },
+        {
+          "fact_id": "hiking#5",
+          "text": "Melanie and her family went on a trail walk yesterday.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Hiking",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:15",
+            "D18:17"
+          ]
+        },
+        {
+          "fact_id": "hiking#6",
+          "text": "Melanie's children loved the trail walk.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Hiking",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:17"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "LGBTQ rights",
+      "type": "topic",
+      "slug": "lgbtq-rights",
+      "path": "topics/lgbtq-rights.md",
+      "facts": [
+        {
+          "fact_id": "lgbtq-rights#1",
+          "text": "Caroline believes more work is needed for LGBTQ rights",
+          "date_label": "17 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "LGBTQ rights",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-rights#2",
+          "text": "Caroline wants to live authentically",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "LGBTQ rights",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:15"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-rights#3",
+          "text": "Caroline wants to help others live authentically",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "LGBTQ rights",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:15"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-rights#4",
+          "text": "Caroline considers a rainbow flag mural important because it reflects the courage and strength of the transgender community.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "LGBTQ rights",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:15"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-rights#5",
+          "text": "Caroline says the eagle in the mural symbolizes freedom and pride.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "LGBTQ rights",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:15"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-rights#6",
+          "text": "Caroline says the eagle represents her resilience and the resilience of others.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "LGBTQ rights",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:15"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Animals",
+      "type": "topic",
+      "slug": "animals",
+      "path": "topics/animals.md",
+      "facts": [
+        {
+          "fact_id": "animals#1",
+          "text": "Melanie fed a horse a carrot",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Horseback riding",
+      "type": "topic",
+      "slug": "horseback-riding",
+      "path": "topics/horseback-riding.md",
+      "facts": [
+        {
+          "fact_id": "horseback-riding#1",
+          "text": "Caroline went horseback riding with her dad when she was a kid",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Horseback riding",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:7"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Horses",
+      "type": "topic",
+      "slug": "horses",
+      "path": "topics/horses.md",
+      "facts": [
+        {
+          "fact_id": "horses#1",
+          "text": "Caroline has always loved horses",
+          "date_label": "23 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Horses",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:7"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "LGBTQ art show",
+      "type": "event",
+      "slug": "lgbtq-art-show",
+      "path": "events/lgbtq-art-show.md",
+      "facts": [
+        {
+          "fact_id": "lgbtq-art-show#1",
+          "text": "Caroline is putting together an LGBTQ art show next month.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "LGBTQ art show",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:33"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-art-show#2",
+          "text": "Caroline plans to show her paintings at the LGBTQ art show next month.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "LGBTQ art show",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:33"
+          ]
+        },
+        {
+          "fact_id": "lgbtq-art-show#3",
+          "text": "The LGBTQ art show will feature LGBTQ artists and their talents.",
+          "date_label": "25 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "LGBTQ art show",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:35"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Music",
+      "type": "topic",
+      "slug": "music",
+      "path": "topics/music.md",
+      "facts": [
+        {
+          "fact_id": "music#1",
+          "text": "Caroline plays guitar.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:17",
+            "D15:19"
+          ]
+        },
+        {
+          "fact_id": "music#2",
+          "text": "Playing guitar helps Caroline express her emotions.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:19"
+          ]
+        },
+        {
+          "fact_id": "music#3",
+          "text": "Caroline started playing acoustic guitar about five years ago.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:21"
+          ]
+        },
+        {
+          "fact_id": "music#4",
+          "text": "Caroline uses acoustic guitar as a way to express herself and escape into her emotions.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:21"
+          ]
+        },
+        {
+          "fact_id": "music#5",
+          "text": "The song “Brave” by Sara Bareilles has deep significance for Caroline.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:23"
+          ]
+        },
+        {
+          "fact_id": "music#6",
+          "text": "Caroline connects “Brave” by Sara Bareilles with courage and fighting for what is right.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:23"
+          ]
+        },
+        {
+          "fact_id": "music#7",
+          "text": "Melanie plays clarinet.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:26"
+          ]
+        },
+        {
+          "fact_id": "music#8",
+          "text": "Melanie started playing clarinet when she was young.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:26"
+          ]
+        },
+        {
+          "fact_id": "music#9",
+          "text": "Playing clarinet helps Melanie express herself and relax.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:26"
+          ]
+        },
+        {
+          "fact_id": "music#10",
+          "text": "Melanie likes classical music by Bach and Mozart.",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:28"
+          ]
+        },
+        {
+          "fact_id": "music#11",
+          "text": "Melanie likes Ed Sheeran’s “Perfect.”",
+          "date_label": "28 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:28"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Biking",
+      "type": "event",
+      "slug": "biking",
+      "path": "events/biking.md",
+      "facts": [
+        {
+          "fact_id": "biking#1",
+          "text": "Caroline went biking with her friends last weekend.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Biking",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Café visit",
+      "type": "event",
+      "slug": "caf-visit",
+      "path": "events/caf-visit.md",
+      "facts": [
+        {
+          "fact_id": "caf-visit#1",
+          "text": "Melanie went to a café last weekend.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Café visit",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:16"
+          ]
+        },
+        {
+          "fact_id": "caf-visit#2",
+          "text": "Melanie had a good time at the café last weekend.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Café visit",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:16",
+            "D16:18"
+          ]
+        },
+        {
+          "fact_id": "caf-visit#3",
+          "text": "Melanie said a sign at the café was only a precaution.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Café visit",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:16",
+            "D16:18"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Park visit",
+      "type": "event",
+      "slug": "park-visit",
+      "path": "events/park-visit.md",
+      "facts": [
+        {
+          "fact_id": "park-visit#1",
+          "text": "Melanie later described her outing as being at the park.",
+          "date_label": "13 September, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Park visit",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:19",
+            "D16:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Poetry reading",
+      "type": "event",
+      "slug": "poetry-reading",
+      "path": "events/poetry-reading.md",
+      "facts": [
+        {
+          "fact_id": "poetry-reading#1",
+          "text": "Caroline attended a poetry reading last Friday.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Poetry reading",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:17"
+          ]
+        },
+        {
+          "fact_id": "poetry-reading#2",
+          "text": "Caroline attended a transgender poetry reading where transgender people shared their stories through poetry.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Poetry reading",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:19"
+          ]
+        },
+        {
+          "fact_id": "poetry-reading#3",
+          "text": "The transgender poetry reading was a safe place for self-expression.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Poetry reading",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:19"
+          ]
+        },
+        {
+          "fact_id": "poetry-reading#4",
+          "text": "Caroline found the transgender poetry reading empowering.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Poetry reading",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:19"
+          ]
+        },
+        {
+          "fact_id": "poetry-reading#5",
+          "text": "Caroline was inspired by the transgender poetry reading to make art.",
+          "date_label": "13 October, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Poetry reading",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:21"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Road trip",
+      "type": "event",
+      "slug": "road-trip",
+      "path": "events/road-trip.md",
+      "facts": [
+        {
+          "fact_id": "road-trip#1",
+          "text": "Melanie's children enjoyed the Grand Canyon.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Road trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Road trip accident",
+      "type": "event",
+      "slug": "road-trip-accident",
+      "path": "events/road-trip-accident.md",
+      "facts": [
+        {
+          "fact_id": "road-trip-accident#1",
+          "text": "Melanie's son got into an accident during their road trip this past weekend.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Road trip accident",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:1"
+          ]
+        },
+        {
+          "fact_id": "road-trip-accident#2",
+          "text": "Melanie's son was okay after the accident.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Road trip accident",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:1"
+          ]
+        },
+        {
+          "fact_id": "road-trip-accident#3",
+          "text": "Melanie was scared during the accident.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Road trip accident",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:3"
+          ]
+        },
+        {
+          "fact_id": "road-trip-accident#4",
+          "text": "The accident reminded Melanie that life is precious and that she should cherish her family.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Road trip accident",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:3"
+          ]
+        },
+        {
+          "fact_id": "road-trip-accident#5",
+          "text": "Melanie's children were scared during the accident.",
+          "date_label": "20 October, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Road trip accident",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:7"
+          ]
+        }
+      ]
+    }
+  ]
+}

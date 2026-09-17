@@ -1,0 +1,63 @@
+---
+title: Programming
+type: topic
+sources: [session_1, session_6, session_7, session_8, session_9, session_11, session_13, session_14, session_20, session_21, session_22, session_23, session_26, session_28]
+---
+
+- John signed up for a programming class — 17 March, 2022
+- James tried programming once in college — 17 March, 2022
+- Programming is now all of James's life — 17 March, 2022
+- John did some coding in HTML and CSS a few years back — 17 March, 2022
+- James has worked with Python and C++ — 17 March, 2022
+- James built a website — 17 March, 2022
+- James has not worked with any other programming languages — 17 March, 2022
+- James hopes to work with other programming languages in the future — 17 March, 2022
+- James is motivated by creating something and seeing it come to life — 17 March, 2022
+- John has knowledge of HTML — 17 March, 2022
+- John met three new friends in his programming course last Tuesday — 20 April, 2022
+- James worked with one of his gaming friends on a programming project last Thursday — 20 April, 2022
+- John is working on a difficult coding assignment — 23 April, 2022
+- John is trying to make a new algorithm work better — 23 April, 2022
+- John has been stuck on his coding project and frustrated by his lack of progress — 23 April, 2022
+- James advised John to break the algorithm into smaller steps — 23 April, 2022
+- James advised John to research similar algorithms and ask other programmers for help — 23 April, 2022
+- John is taking on freelance programming to hone his coding skills — 29 April, 2022
+- John is working on a website for a local small business — 29 April, 2022
+- John's website project is his first professional project outside of class — 29 April, 2022
+- John's progress on the website has been slow and has included hiccups — 29 April, 2022
+- John found figuring out how to get payments on the website challenging — 29 April, 2022
+- John used resources to understand how to get payments on the website — 29 April, 2022
+- John is getting closer to a solution for website payments — 29 April, 2022
+- Last Friday, a bug in James's code disrupted the game mechanics — 4 May, 2022
+- James tried debugging the bug for hours but could not solve it alone — 4 May, 2022
+- John made an application that structured the foundation's work. — 11 May, 2022
+- John's application puts the foundation's inventory information in one smartphone application. — 11 May, 2022
+- John's system tracks inventory, resources, and donations and generates reports for analysis. — 11 May, 2022
+- John used coding to challenge himself and expand his skills. — 11 May, 2022
+- John shared a screenshot showing the CPU performance of a computer. — 11 May, 2022
+- James recently started a course combining gaming and programming — 13 June, 2022
+- James finds the gaming and programming course fun and challenging — 13 June, 2022
+- The gaming and programming course increased James's excitement for gaming and programming — 13 June, 2022
+- James chose the course mainly to improve himself — 13 June, 2022
+- John enjoys sharing his coding journey with others — 16 June, 2022
+- John tracks everything in his coding journey — 16 June, 2022
+- John joined an online programming group last Friday — 21 August, 2022
+- John's online programming group includes skilled coders passionate about using technology for good — 21 August, 2022
+- John shared ideas, chatted about coding, and worked on projects with members of his online programming group — 21 August, 2022
+- John exchanged contacts with several members of his online programming group — 21 August, 2022
+- John considers his recent programming experience a one-time experience to learn something new and work as a team — 21 August, 2022
+- John has been helping his younger siblings with programming since they joined a programming course — 26 August, 2022
+- John's younger siblings are playing a simple, text-based adventure game to learn coding — 26 August, 2022
+- John has been teaching his siblings coding — 1 September, 2022
+- John finds teaching his siblings coding fulfilling — 1 September, 2022
+- John's siblings are creating their own programs while learning coding — 1 September, 2022
+- John's parents just started learning coding from John — 4 September, 2022
+- John's father coded his own program for the first time — 4 September, 2022
+- John was asked to be a programming mentor for game developers — 3 October, 2022
+- John enjoys sharing his knowledge and motivating people who are passionate about gaming — 3 October, 2022
+- John gained insight into various programming approaches and techniques at the seminar. — 21 October, 2022
+- John heard other developers' programming ideas and strategies at the seminar. — 21 October, 2022
+- John found programming ideas to use in his own work. — 21 October, 2022
+- John has not yet tried the new programming approaches and techniques. — 21 October, 2022
+- John is looking forward to experimenting with the new programming approaches and techniques. — 21 October, 2022
+- John will send James resources and tutorials about the new programming approaches and techniques. — 21 October, 2022

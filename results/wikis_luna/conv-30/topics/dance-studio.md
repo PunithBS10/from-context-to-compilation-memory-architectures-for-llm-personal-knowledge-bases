@@ -1,0 +1,66 @@
+---
+title: Dance studio
+type: topic
+sources: [session_1, session_2, session_3, session_4, session_5, session_7, session_8, session_9, session_11, session_13, session_15, session_17, session_18, session_19]
+---
+
+- Jon plans to start a dance studio — 20 January, 2023
+- Jon wants to teach others the joy of dancing — 20 January, 2023
+- Jon's ideal dance studio is by the water — 20 January, 2023
+- Jon is searching for a location for his dance studio — 29 January, 2023
+- Jon found a potential dance studio location with great natural light — 29 January, 2023
+- Jon's potential dance studio location is downtown — 29 January, 2023
+- Jon is considering the size and floor quality of a potential dance studio location — 29 January, 2023
+- Jon wants a dance floor with enough bounce for safe dancing — 29 January, 2023
+- Jon wants Marley flooring for his dance studio — 29 January, 2023
+- Jon is preparing to open a dance studio — 29 January, 2023
+- Jon finds preparing his dance studio exciting and nerve-wracking — 29 January, 2023
+- Jon is searching for a place to open his dance studio — 1 February, 2023
+- Jon is searching for a location for a dance studio — 4 February, 2023
+- Jon owns a dance studio. — 8 February, 2023
+- Jon enjoys having the freedom to create a space for dancers at his studio. — 8 February, 2023
+- Jon helps dancers of all ages and levels express themselves at his studio. — 8 February, 2023
+- Jon enjoys seeing his students progress in dance. — 8 February, 2023
+- Jon is committed to making his dance studio successful. — 8 February, 2023
+- Jon runs a dance studio business — 23 March, 2023
+- Jon is motivated by seeing his dance students succeed — 23 March, 2023
+- Jon helps his dance students learn and reach their goals — 23 March, 2023
+- Jon is expanding his dance studio's social media presence — 3 April, 2023
+- Jon offers workshops and classes to local schools and centers through his dance studio — 3 April, 2023
+- Jon is seeing progress in his dance studio — 3 April, 2023
+- Dancers at Jon's studio are excited about its progress — 3 April, 2023
+- Jon's dance studio gives people a place to express themselves through dance — 3 April, 2023
+- Jon has been spending a lot of time at his dance studio — 9 April, 2023
+- Jon's dance students are already performing well — 9 April, 2023
+- Jon is learning alongside his dance students — 9 April, 2023
+- Jon shares dancing with other people through his studio — 9 April, 2023
+- Jon feels joy when he sees his students improve at dancing — 9 April, 2023
+- Jon continues to enjoy dancing through his own studio — 9 April, 2023
+- Jon is working on opening his own dance studio. — 11 May, 2023
+- Jon hopes his dance studio will be successful. — 11 May, 2023
+- Jon is living his dream by owning a dance studio and teaching others. — 11 May, 2023
+- Jon wants to create a place where people can dance and express themselves. — 11 May, 2023
+- Jon is preparing to open a dance studio. — 13 June, 2023
+- Jon wants his dance studio to support and encourage all dancers. — 13 June, 2023
+- Jon offers dance classes and workshops at his dance studio. — 13 June, 2023
+- Jon offers one-on-one mentoring and training to help dancers reach their full potential. — 13 June, 2023
+- Jon uses a system to set goals, track achievements, and find areas to improve. — 13 June, 2023
+- Jon uses a whiteboard to stay on track and visualize goals for his dance studio. — 13 June, 2023
+- Jon uses color-coding to track his achievements and progress. — 13 June, 2023
+- Jon is working on opening a dance studio — 19 June, 2023
+- Jon is working hard to prepare his dance studio for its official opening night — 19 June, 2023
+- Jon wants to guide and mentor aspiring dancers — 9 July, 2023
+- Jon's dance studio is on tenuous grounds — 21 July, 2023
+- Jon is looking for investors for his dance studio — 21 July, 2023
+- Jon is working on an online platform to showcase his dance studio — 21 July, 2023
+- Jon asked Gina for advice on marketing strategies for his dance studio — 21 July, 2023
+- Gina advised Jon to use Instagram and TikTok to reach a younger audience for his dance studio — 21 July, 2023
+- Gina advised Jon to post dance clips and dance-related content — 21 July, 2023
+- Gina suggested that Jon collaborate with local influencers or dance communities — 21 July, 2023
+- Gina offered to help Jon create content for his dance studio — 21 July, 2023
+- Gina offered to help Jon manage his dance studio's social media accounts — 21 July, 2023
+- Jon accepted Gina's help with creating content and managing social media for his dance studio — 21 July, 2023
+- Jon and Gina agreed to collaborate on content creation and social media management for Jon's dance studio — 21 July, 2023
+- Gina felt the importance of having a creative space for dancers at the dance class last Friday — 23 July, 2023
+- Jon is planning a studio for self-expression — 23 July, 2023
+- Jon's studio will welcome dancers of all ages and backgrounds — 23 July, 2023

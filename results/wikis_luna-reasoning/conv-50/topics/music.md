@@ -1,0 +1,81 @@
+---
+title: Music
+type: topic
+sources: [session_2, session_3, session_4, session_5, session_6, session_7, session_9, session_10, session_11, session_12, session_13, session_14, session_15, session_16, session_18, session_19, session_20, session_24, session_25, session_26, session_27, session_28, session_29, session_30]
+---
+
+- Dave loves music — 26 March, 2023
+- Calvin dreams of touring the world with his music — 20 April, 2023
+- Calvin wants to perform for different people and connect with them — 20 April, 2023
+- Calvin hopes his music will reach a global audience and make an impact — 20 April, 2023
+- Calvin has been busy with rehearsals and traveling — 20 April, 2023
+- Calvin is a musician — 1 May, 2023
+- Calvin keeps hustling as a musician — 1 May, 2023
+- Calvin is experiencing a creative block with his music. — 3 May, 2023
+- Calvin plans to explore other things to help regain his musical inspiration. — 3 May, 2023
+- Dave immerses himself in concerts or favorite albums when he has trouble coming up with ideas. — 3 May, 2023
+- Dave suggested that Calvin take a break from music and explore other things. — 3 May, 2023
+- Calvin plans not to give up on his music. — 3 May, 2023
+- Calvin saved his music gear during the flooding — 16 May, 2023
+- Calvin saved his favorite microphone during the flooding — 16 May, 2023
+- Calvin toured with Frank Ocean last week — 31 May, 2023
+- Calvin loves performing live — 31 May, 2023
+- Calvin loves the rush and connection with the crowd when performing live — 31 May, 2023
+- Dave says Boston has an awesome music scene with many talented musicians and places to play — 31 May, 2023
+- Dave recently joined a rock band — 21 June, 2023
+- Dave has been practicing guitar — 21 June, 2023
+- Dave is hooked on Japanese music — 7 July, 2023
+- Calvin collaborates with various artists to create unique music — 7 July, 2023
+- Calvin has been experimenting with different music genres — 21 July, 2023
+- Calvin has been adding electronic elements to his songs — 21 July, 2023
+- Calvin finds switching between musical styles challenging — 21 July, 2023
+- Calvin is trying to balance sticking to his sound with trying new things — 21 July, 2023
+- Calvin started making music to follow his dreams — 21 July, 2023
+- Collaborating with others and learning from them keeps Calvin motivated — 21 July, 2023
+- Calvin finds that surrounding himself with positive energy and passion helps him stay motivated — 21 July, 2023
+- Calvin plans to expand his brand worldwide — 3 August, 2023
+- Calvin wants to grow his fanbase — 3 August, 2023
+- Calvin wants his music to reach more people and make an impact — 3 August, 2023
+- Calvin wants to work with artists from around the globe — 3 August, 2023
+- Calvin wants to challenge himself to create special music — 3 August, 2023
+- Dave has a music studio setup with a high-quality sound system — 11 August, 2023
+- Calvin is busy making music — 11 August, 2023
+- Calvin uses his art to spread joy — 14 August, 2023
+- Calvin scored a deal to continue collaborating with Frank Ocean — 22 August, 2023
+- Calvin and Frank Ocean have been speaking and sharing ideas — 22 August, 2023
+- Someone noticed Calvin's performance and is now working with Calvin — 22 August, 2023
+- Calvin values staying true to himself and being unique in his music. — 31 August, 2023
+- Calvin is motivated to make better music — 13 September, 2023
+- Calvin wants to make a difference and share his own story through music — 13 September, 2023
+- Calvin plans to explore and grow his brand after the tour — 13 September, 2023
+- Dave rehearsed with his band last night — 15 September, 2023
+- Dave and his band had fun jamming last night — 15 September, 2023
+- Dave and his band did not record last night's jam because they forgot — 15 September, 2023
+- A song from Calvin's childhood makes him smile — 22 September, 2023
+- The song Calvin sang with his dad during a road trip was "California Love" by Tupac and Dr. Dre — 22 September, 2023
+- Calvin and Dave plan to have a jam session together — 22 September, 2023
+- Frank Ocean said he wanted to collaborate with Calvin when they met — 19 October, 2023
+- Calvin and Frank Ocean clicked right away — 19 October, 2023
+- Calvin considers staying connected and up-to-date on world events important — 23 October, 2023
+- Calvin uses unique perspectives from world events to make his music stand out — 23 October, 2023
+- Calvin says world events help him connect better with his fans — 23 October, 2023
+- Calvin has been inspired by the struggles that people go through — 23 October, 2023
+- Calvin uses music to express himself and work through his emotions — 23 October, 2023
+- Calvin considers making music his own form of therapy — 23 October, 2023
+- The energy and crowd during Calvin's performance made him realize how much music means to him — 25 October, 2023
+- Calvin considers music his passion and purpose — 25 October, 2023
+- Calvin has had some great music collaborations recently — 29 October, 2023
+- Calvin's album is almost finished — 29 October, 2023
+- Calvin plans to send previews of his album — 29 October, 2023
+- Calvin aims for his music to create a connection with people — 2 November, 2023
+- Calvin wants his creative work to bring people joy — 2 November, 2023
+- Calvin watches music videos, concerts, and documentaries about artists and their creative processes — 2 November, 2023
+- Dave writes lyrics and notes — 2 November, 2023
+- Writing lyrics boosts Dave's motivation to grow — 2 November, 2023
+- Dave listens to vinyl while working on his cars — 2 November, 2023
+- Dave has been listening to classic rock lately — 2 November, 2023
+- Dave uses an old record player while doing his car work — 2 November, 2023
+- Calvin and his old high school buddy freestyled as teenagers. — 13 November, 2023
+- Calvin is making a beat for a young artist he says has great potential in music. — 13 November, 2023
+- Calvin and the artist connected over music and art. — 17 November, 2023
+- Calvin and the artist discussed their favorite artists and the power of music to connect people. — 17 November, 2023

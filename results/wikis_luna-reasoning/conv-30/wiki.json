@@ -1,0 +1,3215 @@
+{
+  "conv_id": "conv-30",
+  "speakers": [
+    "Jon",
+    "Gina"
+  ],
+  "extraction_model": "gpt-5.6-luna",
+  "build_fingerprint": "9ad622199c7e",
+  "compiler_version": "b2",
+  "built_utc": "2026-09-16T21:59:38.329661+00:00",
+  "sessions": [
+    {
+      "index": 1,
+      "session_id": "session_1",
+      "timestamp": "4:04 pm on 20 January, 2023",
+      "date_label": "20 January, 2023"
+    },
+    {
+      "index": 2,
+      "session_id": "session_2",
+      "timestamp": "2:32 pm on 29 January, 2023",
+      "date_label": "29 January, 2023"
+    },
+    {
+      "index": 3,
+      "session_id": "session_3",
+      "timestamp": "12:48 am on 1 February, 2023",
+      "date_label": "1 February, 2023"
+    },
+    {
+      "index": 4,
+      "session_id": "session_4",
+      "timestamp": "10:43 am on 4 February, 2023",
+      "date_label": "4 February, 2023"
+    },
+    {
+      "index": 5,
+      "session_id": "session_5",
+      "timestamp": "9:32 am on 8 February, 2023",
+      "date_label": "8 February, 2023"
+    },
+    {
+      "index": 6,
+      "session_id": "session_6",
+      "timestamp": "2:35 pm on 16 March, 2023",
+      "date_label": "16 March, 2023"
+    },
+    {
+      "index": 7,
+      "session_id": "session_7",
+      "timestamp": "7:28 pm on 23 March, 2023",
+      "date_label": "23 March, 2023"
+    },
+    {
+      "index": 8,
+      "session_id": "session_8",
+      "timestamp": "1:26 pm on 3 April, 2023",
+      "date_label": "3 April, 2023"
+    },
+    {
+      "index": 9,
+      "session_id": "session_9",
+      "timestamp": "10:33 am on 9 April, 2023",
+      "date_label": "9 April, 2023"
+    },
+    {
+      "index": 10,
+      "session_id": "session_10",
+      "timestamp": "11:24 am on 25 April, 2023",
+      "date_label": "25 April, 2023"
+    },
+    {
+      "index": 11,
+      "session_id": "session_11",
+      "timestamp": "3:14 pm on 11 May, 2023",
+      "date_label": "11 May, 2023"
+    },
+    {
+      "index": 12,
+      "session_id": "session_12",
+      "timestamp": "7:18 pm on 27 May, 2023",
+      "date_label": "27 May, 2023"
+    },
+    {
+      "index": 13,
+      "session_id": "session_13",
+      "timestamp": "8:29 pm on 13 June, 2023",
+      "date_label": "13 June, 2023"
+    },
+    {
+      "index": 14,
+      "session_id": "session_14",
+      "timestamp": "9:38 pm on 16 June, 2023",
+      "date_label": "16 June, 2023"
+    },
+    {
+      "index": 15,
+      "session_id": "session_15",
+      "timestamp": "10:04 am on 19 June, 2023",
+      "date_label": "19 June, 2023"
+    },
+    {
+      "index": 16,
+      "session_id": "session_16",
+      "timestamp": "2:15 pm on 21 June, 2023",
+      "date_label": "21 June, 2023"
+    },
+    {
+      "index": 17,
+      "session_id": "session_17",
+      "timestamp": "1:25 pm on 9 July, 2023",
+      "date_label": "9 July, 2023"
+    },
+    {
+      "index": 18,
+      "session_id": "session_18",
+      "timestamp": "5:44 pm on 21 July, 2023",
+      "date_label": "21 July, 2023"
+    },
+    {
+      "index": 19,
+      "session_id": "session_19",
+      "timestamp": "6:46 pm on 23 July, 2023",
+      "date_label": "23 July, 2023"
+    }
+  ],
+  "stats": {
+    "compile_prompt_tokens": 26918,
+    "compile_completion_tokens": 16314,
+    "compile_cost_usd": 0.024960399999999997,
+    "compile_latency_s": 175.31528389826417,
+    "compile_calls": 19,
+    "compile_cached_calls": 0,
+    "sessions_compiled": 19,
+    "truncated_sessions": 0,
+    "duplicate_facts_dropped": 2,
+    "generic_page_titles": 0,
+    "salvaged_sessions": 0,
+    "unparsable_sessions": 0,
+    "empty_sessions": 0,
+    "citations_total": 0,
+    "citations_resolvable": 0,
+    "citations_unresolvable": 0,
+    "citations_other_session": 0,
+    "citations_nonexistent": 0,
+    "facts_with_no_citation": 281,
+    "citation_resolvability": null,
+    "citation_session_consistency": null,
+    "n_pages": 31,
+    "n_facts": 281,
+    "wiki_tokens": 6638,
+    "raw_conversation_tokens": 11954,
+    "compression_ratio": 0.5553
+  },
+  "pages": [
+    {
+      "title": "Contemporary dance",
+      "type": "topic",
+      "slug": "contemporary-dance",
+      "path": "topics/contemporary-dance.md",
+      "facts": [
+        {
+          "fact_id": "contemporary-dance#1",
+          "text": "Jon's favorite dance style is contemporary",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Contemporary dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "contemporary-dance#2",
+          "text": "Gina's favorite dance style is contemporary",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Contemporary dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dance",
+      "type": "topic",
+      "slug": "dance",
+      "path": "topics/dance.md",
+      "facts": [
+        {
+          "fact_id": "dance#1",
+          "text": "Jon has been interested in dancing since he was a child",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#2",
+          "text": "Jon considers dancing his passion and escape",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#3",
+          "text": "Gina uses dance for stress relief",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#4",
+          "text": "Dance floors help avoid injuries and make dancing more enjoyable",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#5",
+          "text": "Jon is still pursuing his passion for dance",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#6",
+          "text": "Jon is working on new dance routines",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#7",
+          "text": "Jon is rehearsing hard for an upcoming show",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#8",
+          "text": "Jon is passionate about dancing",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#9",
+          "text": "Dancing brings Jon joy and fulfillment",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#10",
+          "text": "Jon uses dance as an escape to be himself",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#11",
+          "text": "Dance helps Gina relieve stress",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#12",
+          "text": "Jon says dancing makes him happy",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#13",
+          "text": "Jon uses dancing to express himself and find happiness",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#14",
+          "text": "Jon used to be afraid of what people would think of him",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#15",
+          "text": "Jon learned that his own happiness is the most important thing",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#16",
+          "text": "Gina dances to stay motivated",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#17",
+          "text": "Gina considers Jon talented and passionate about dance",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#18",
+          "text": "Dance has been Jon's stress-buster since childhood",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#19",
+          "text": "Dancing helps Jon de-stress",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#20",
+          "text": "Dancing is a must-have in Jon's life",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#21",
+          "text": "Dance is Gina's stress fix",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#22",
+          "text": "Dancing makes Gina's worries vanish",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#23",
+          "text": "Gina says dance is important for her mental health",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#24",
+          "text": "Jon has been practicing dance routines lately to keep his mind focused and motivated",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#25",
+          "text": "Jon plans to send Gina a video of one of his dance routines",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#26",
+          "text": "Gina had a mentor when she was learning how to dance.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#27",
+          "text": "Jon posted dance videos on social media",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#28",
+          "text": "Gina used to dance",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#29",
+          "text": "Jon loves performing",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#30",
+          "text": "Jon is determined to continue pursuing dance",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#31",
+          "text": "Jon has been rehearsing hard for dancing",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance#32",
+          "text": "Jon finds dancing helps him cope with stress",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dance",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dance class",
+      "type": "event",
+      "slug": "dance-class",
+      "path": "events/dance-class.md",
+      "facts": [
+        {
+          "fact_id": "dance-class#1",
+          "text": "Jon and Gina planned to attend a dance class next Friday",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance class",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-class#2",
+          "text": "A group of women did a dance routine during a dance class",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dance class",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-class#3",
+          "text": "Jon is offering dance workshops and classes to local schools and centers",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dance class",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-class#4",
+          "text": "Gina loved taking dance classes",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance class",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-class#5",
+          "text": "Jon loved taking dance lessons with his friends when he was younger",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance class",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-class#6",
+          "text": "Gina attended a dance class with a group of friends last Friday",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dance class",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dance competitions",
+      "type": "topic",
+      "slug": "dance-competitions",
+      "path": "topics/dance-competitions.md",
+      "facts": [
+        {
+          "fact_id": "dance-competitions#1",
+          "text": "Gina competed in several dance competitions and shows",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance competitions",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-competitions#2",
+          "text": "Gina has a trophy from a dance contest",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance competitions",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-competitions#3",
+          "text": "Gina's dance contest trophy reminds her of hard work, dedication, and joy",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance competitions",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dance group",
+      "type": "topic",
+      "slug": "dance-group",
+      "path": "topics/dance-group.md",
+      "facts": [
+        {
+          "fact_id": "dance-group#1",
+          "text": "Jon rehearses with a small group of dancers after work",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance group",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-group#2",
+          "text": "Jon's dance group practices contemporary and hip-hop",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance group",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dance studio",
+      "type": "topic",
+      "slug": "dance-studio",
+      "path": "topics/dance-studio.md",
+      "facts": [
+        {
+          "fact_id": "dance-studio#1",
+          "text": "Jon is starting his own dance studio business",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#2",
+          "text": "Jon wants to teach others the joy of dancing",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#3",
+          "text": "Jon wants to share the intensity of dance performances with other people",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#4",
+          "text": "Jon's ideal dance studio is by the water",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#5",
+          "text": "Jon is looking for a location for his dance studio",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#6",
+          "text": "Jon found a potential downtown location for his dance studio",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#7",
+          "text": "Jon found a potential dance studio location with great natural light",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#8",
+          "text": "Jon needs to check the size and floor quality of the potential dance studio location",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#9",
+          "text": "Jon wants a dance floor with enough bounce for him and his students to dance safely",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#10",
+          "text": "Jon is still searching for a place to open his dance studio",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#11",
+          "text": "Jon is determined to make his dance studio work",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#12",
+          "text": "Jon is searching for a location for a dance studio",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#13",
+          "text": "Jon runs his own dance studio",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#14",
+          "text": "Jon enjoys creating a space where dancers of all ages and levels can express themselves",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#15",
+          "text": "Jon enjoys seeing his dance students progress",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#16",
+          "text": "Jon runs a dance studio business",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#17",
+          "text": "Seeing his dance students succeed motivates Jon",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#18",
+          "text": "Jon helps his dance students learn and reach their goals",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#19",
+          "text": "Gina supports Jon's dance studio business and helps him stay motivated",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#20",
+          "text": "Jon is expanding his dance studio's social media presence",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#21",
+          "text": "The dancers at Jon's studio are excited about the studio's progress",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#22",
+          "text": "Jon's dance studio provides a place for people to express themselves through dance",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#23",
+          "text": "Jon is committed to pursuing his dreams",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#24",
+          "text": "Jon has spent a lot of time at his dance studio lately",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#25",
+          "text": "Jon's dance students are already doing very well",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#26",
+          "text": "Jon is learning alongside his dance students",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#27",
+          "text": "Jon shares dance with other people through his studio",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#28",
+          "text": "Jon's students improving brings him joy",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#29",
+          "text": "Gina used to love spending time in a dance studio",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#30",
+          "text": "Jon is still working on his own dance studio, and things are looking up",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#31",
+          "text": "Jon is stepping into the unknown while starting his dance studio",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#32",
+          "text": "Jon is living his dream by having his own dance studio and teaching others",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#33",
+          "text": "Jon wants to create a place where people can dance and express themselves",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#34",
+          "text": "Jon is applying ideas from \"The Lean Startup\" to his dance studio",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#35",
+          "text": "Jon is preparing to open his dance studio.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#36",
+          "text": "Jon works with young dancers.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#37",
+          "text": "Jon wants his dance studio to support and encourage dancers.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#38",
+          "text": "Jon offers dance classes and workshops at his dance studio.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#39",
+          "text": "Jon offers one-on-one mentoring and training to help dancers reach their full potential.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#40",
+          "text": "Jon uses a clipboard and notepad to stay organized and motivated.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#41",
+          "text": "Jon uses a clipboard and notepad to set goals and track achievements.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#42",
+          "text": "Jon uses a clipboard and notepad to find areas for improvement.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#43",
+          "text": "Jon uses a whiteboard to stay on track and visualize his goals.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#44",
+          "text": "Jon uses a whiteboard to tokenize successes.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#45",
+          "text": "Jon color-codes achievements to track his progress and stay motivated.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#46",
+          "text": "Jon is working on opening a dance studio",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#47",
+          "text": "Jon has put a lot of work into opening his dance studio",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#48",
+          "text": "Jon worked long nights while preparing his dance studio",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#49",
+          "text": "Jon finds dance practice fun and exhausting",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#50",
+          "text": "Jon's dance studio is on tenuous grounds",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#51",
+          "text": "Jon is staying positive about the dance studio's situation",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#52",
+          "text": "Jon is looking for investors for the dance studio",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#53",
+          "text": "Jon is working on an online platform to showcase the dance studio's offerings",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#54",
+          "text": "Gina felt the importance of having a creative space for dancers at the dance class last Friday",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio#55",
+          "text": "Jon is developing a dance studio for dancers of all ages and backgrounds",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dance studio",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Festival performance",
+      "type": "event",
+      "slug": "festival-performance",
+      "path": "events/festival-performance.md",
+      "facts": [
+        {
+          "fact_id": "festival-performance#1",
+          "text": "Jon's dance group is finishing choreography for a nearby festival next month",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Festival performance",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "festival-performance#2",
+          "text": "Jon's dance group will perform at the nearby festival next month",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Festival performance",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "festival-performance#3",
+          "text": "Jon performed at a festival",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Festival performance",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "festival-performance#4",
+          "text": "Many people complimented Jon's dance moves at the festival performance",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Festival performance",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Job loss",
+      "type": "event",
+      "slug": "job-loss",
+      "path": "events/job-loss.md",
+      "facts": [
+        {
+          "fact_id": "job-loss#1",
+          "text": "Jon lost his job as a banker yesterday",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Job loss",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "job-loss#2",
+          "text": "Gina lost her job at DoorDash this month",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Job loss",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "job-loss#3",
+          "text": "Gina lost her job at DoorDash",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Job loss",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "job-loss#4",
+          "text": "Jon lost his job",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Job loss",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "job-loss#5",
+          "text": "Jon says losing his job gave him the push to pursue what he loves",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Job loss",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "job-loss#6",
+          "text": "Gina wanted to take control of her own destiny after losing her job",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Job loss",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "job-loss#7",
+          "text": "Jon lost his job, which pushed him to start his own dance studio",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Job loss",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "job-loss#8",
+          "text": "Jon got a temporary job to help cover expenses",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Job loss",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Local dance competition",
+      "type": "event",
+      "slug": "local-dance-competition",
+      "path": "events/local-dance-competition.md",
+      "facts": [
+        {
+          "fact_id": "local-dance-competition#1",
+          "text": "Jon's dance crew won first place in a local competition last year",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Local dance competition",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "local-dance-competition#2",
+          "text": "Jon is preparing for a local dance competition next month",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Local dance competition",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "local-dance-competition#3",
+          "text": "Jon is hosting a dance competition next month to showcase local talent and promote his studio",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Local dance competition",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "local-dance-competition#4",
+          "text": "Jon's dance studio and other schools will perform and judge at the dance competition next month",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Local dance competition",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "local-dance-competition#5",
+          "text": "Gina plans to attend Jon's dance competition next month",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Local dance competition",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Regional dance competition",
+      "type": "event",
+      "slug": "regional-dance-competition",
+      "path": "events/regional-dance-competition.md",
+      "facts": [
+        {
+          "fact_id": "regional-dance-competition#1",
+          "text": "Gina's team won first place at regionals when Gina was fifteen",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Regional dance competition",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "regional-dance-competition#2",
+          "text": "Gina's team performed a contemporary piece called \"Finding Freedom\" at regionals",
+          "date_label": "20 January, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Regional dance competition",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Advertising campaign",
+      "type": "topic",
+      "slug": "advertising-campaign",
+      "path": "topics/advertising-campaign.md",
+      "facts": [
+        {
+          "fact_id": "advertising-campaign#1",
+          "text": "Gina launched an advertising campaign for her clothing store",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Advertising campaign",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "advertising-campaign#2",
+          "text": "Gina plans to work with fashion bloggers and influencers in the next few months to promote her store",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Advertising campaign",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "advertising-campaign#3",
+          "text": "Gina plans to run more ads to reach more people",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Advertising campaign",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "advertising-campaign#4",
+          "text": "Jon is promoting his business",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Advertising campaign",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "advertising-campaign#5",
+          "text": "Jon started using social media to promote his business",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Advertising campaign",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Clothing store",
+      "type": "topic",
+      "slug": "clothing-store",
+      "path": "topics/clothing-store.md",
+      "facts": [
+        {
+          "fact_id": "clothing-store#1",
+          "text": "Gina owns a clothing store",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#2",
+          "text": "Gina started her own clothing store",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#3",
+          "text": "Gina emailed wholesalers for her clothing store",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#4",
+          "text": "A wholesaler agreed to work with Gina today",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#5",
+          "text": "Gina plans to expand her clothing store",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#6",
+          "text": "Gina wants to get closer to her clothing store customers",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#7",
+          "text": "Gina found a spot for her clothing store",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#8",
+          "text": "Gina designed the space for her clothing store",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#9",
+          "text": "Gina chose comfortable furniture for her clothing store",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#10",
+          "text": "Gina chose a chandelier to add a glamorous feel to her clothing store",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#11",
+          "text": "Gina wants her clothing store to feel cozy and inviting",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#12",
+          "text": "Gina wants her customers to feel like they are in a cool oasis",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#13",
+          "text": "Gina wants to create a shopping experience that makes customers want to return",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#14",
+          "text": "Gina is prepared to face the challenge of creating a special shopping experience",
+          "date_label": "1 February, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#15",
+          "text": "Gina found a new fashion piece for her store",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#16",
+          "text": "Gina teamed up with a local artist to create designs for her store",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#17",
+          "text": "Gina got the idea for her designs from a fashion magazine",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#18",
+          "text": "Gina noticed that there was not much like her designs available",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#19",
+          "text": "Gina aims to give her customers something different",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#20",
+          "text": "Gina opened an online clothes store",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#21",
+          "text": "Gina is passionate about fashion trends and finding unique pieces",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#22",
+          "text": "Gina wanted to combine her love of dance and fashion in her store",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#23",
+          "text": "Gina runs an online clothing store",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#24",
+          "text": "Gina's clothing store has been rewarding despite its ups and downs",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#25",
+          "text": "Gina keeps up with fashion trends to offer the best pieces to her customers",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#26",
+          "text": "Gina is working on building customer relationships and creating a strong brand image for her clothing store",
+          "date_label": "23 March, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#27",
+          "text": "Gina is running offers and promotions at her online clothing store to attract new customers",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#28",
+          "text": "Fashion fuels Gina's creativity",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#29",
+          "text": "Gina looks for new fashion trends for her store",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#30",
+          "text": "Gina combines her clothing business with dance to express her creativity",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#31",
+          "text": "Gina plans to add dance-inspired items to her store",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#32",
+          "text": "Gina's store offers and promotions have brought in more sales",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#33",
+          "text": "Customers like Gina's designs",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#34",
+          "text": "Gina is looking for unique, trendy pieces for her store",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#35",
+          "text": "Growing her customer base is Gina's main focus",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#36",
+          "text": "Gina wants to make her store a top destination for fashion fans",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#37",
+          "text": "Gina is committed to pursuing her goals",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#38",
+          "text": "Gina started her own online clothing store not long ago",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#39",
+          "text": "Gina started her online clothing store after losing her job",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#40",
+          "text": "Gina's online clothing store journey has been tough but rewarding",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#41",
+          "text": "Gina opened an online clothing store",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#42",
+          "text": "Gina acquired new unique pieces for her store",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#43",
+          "text": "Gina made a limited edition hoodie line last week",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#44",
+          "text": "Gina's limited edition hoodie line was intended to show her style and creativity",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#45",
+          "text": "Gina's hoodie from her own collection is not for sale",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#46",
+          "text": "Gina's hoodie design reminds her of the grit it takes to stand out and face challenges",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#47",
+          "text": "Gina built a new website for customers to make orders last week",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#48",
+          "text": "Gina runs a clothing store",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#49",
+          "text": "Gina found sourcing trendy pieces for her store to be a major hurdle",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "clothing-store#50",
+          "text": "Gina researched and networked to source trendy pieces for her store",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Clothing store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Marley flooring",
+      "type": "topic",
+      "slug": "marley-flooring",
+      "path": "topics/marley-flooring.md",
+      "facts": [
+        {
+          "fact_id": "marley-flooring#1",
+          "text": "Jon wants Marley flooring for his dance studio",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Marley flooring",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "marley-flooring#2",
+          "text": "Marley flooring is grippy while allowing movement, durable, and easy to clean",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Marley flooring",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Paris trip",
+      "type": "event",
+      "slug": "paris-trip",
+      "path": "events/paris-trip.md",
+      "facts": [
+        {
+          "fact_id": "paris-trip#1",
+          "text": "Jon went to Paris yesterday",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Paris trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Rome trip",
+      "type": "event",
+      "slug": "rome-trip",
+      "path": "events/rome-trip.md",
+      "facts": [
+        {
+          "fact_id": "rome-trip#1",
+          "text": "Gina visited Rome once",
+          "date_label": "29 January, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Rome trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "rome-trip#2",
+          "text": "Jon took a short trip to Rome last week to clear his mind",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Rome trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "type": "topic",
+      "slug": "business",
+      "path": "topics/business.md",
+      "facts": [
+        {
+          "fact_id": "business#1",
+          "text": "Jon is putting a lot of work into his business despite obstacles",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#2",
+          "text": "Gina believes taking risks is part of the journey to success",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#3",
+          "text": "Jon left his secure 9-to-5 job as a banker",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#4",
+          "text": "Jon is aiming to turn his passion for dancing into a business",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#5",
+          "text": "Jon finds starting his dance business difficult",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#6",
+          "text": "Gina used a quote to stay positive through tough times",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#7",
+          "text": "Jon is determined to make his dance business work",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#8",
+          "text": "Jon finds juggling dancing and his business rewarding",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#9",
+          "text": "Jon's dancing gives him energy to tackle his business goals",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#10",
+          "text": "Jon's business successes increase his drive to keep dreaming on the dance floor",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#11",
+          "text": "Jon started a business",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#12",
+          "text": "Jon's business has been tough and he faces new challenges",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#13",
+          "text": "Gina has experienced ups and downs while running her business",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#14",
+          "text": "Jon and Gina support each other while pursuing their dreams",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#15",
+          "text": "Jon shut down his bank account to help his business grow",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#16",
+          "text": "Jon has found handling the changes from shutting down his bank account difficult",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#17",
+          "text": "Jon is staying positive and looking ahead while handling business changes",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#18",
+          "text": "Gina has found starting her business challenging but is not giving up",
+          "date_label": "3 April, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#19",
+          "text": "Jon is turning his love of dance into a business",
+          "date_label": "9 April, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#20",
+          "text": "Jon has learned that his business is difficult",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#21",
+          "text": "Jon believes confidence in himself is important for making his business successful",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#22",
+          "text": "Jon is having trouble with his business project",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#23",
+          "text": "Gina focuses on her big goal and why she is doing it to stay motivated",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#24",
+          "text": "Gina gets help from supportive people to stay motivated",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#25",
+          "text": "Jon has been feeling low on confidence",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#26",
+          "text": "Gina reminds herself of her successes and progress to stay confident in her business",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#27",
+          "text": "Gina has a good support system that helps her stay confident in her business",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#28",
+          "text": "Gina loves her business",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#29",
+          "text": "Jon loves his business",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#30",
+          "text": "Jon and Gina encourage each other to keep pursuing their goals",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#31",
+          "text": "Jon is currently reading \"The Lean Startup\"",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#32",
+          "text": "Jon hopes \"The Lean Startup\" will give him tips for his business",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#33",
+          "text": "Jon wants to build a focused and efficient business",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#34",
+          "text": "Jon considers adapting and tweaking from customer feedback important",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#35",
+          "text": "Jon uses a whiteboard to track ideas and milestones",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#36",
+          "text": "Jon uses a whiteboard to visualize his progress and stay organized",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#37",
+          "text": "Jon is wrapping up his business plan",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#38",
+          "text": "Jon is looking for investors for his project",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#39",
+          "text": "Jon finds searching for investors tough",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#40",
+          "text": "Jon is staying hopeful while searching for investors",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#41",
+          "text": "Jon is learning a lot while searching for investors",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#42",
+          "text": "Jon has started his own business.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#43",
+          "text": "Gina advises new entrepreneurs to stay passionate, focused, and resilient",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#44",
+          "text": "Gina advises new entrepreneurs to remain open to learning and improving",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#45",
+          "text": "Jon is investing his time in his business",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#46",
+          "text": "Jon is writing all his plans down",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#47",
+          "text": "Jon finds that seeing his goals written on paper helps keep him motivated and focused",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#48",
+          "text": "Jon intends to keep going and not give up despite difficulties",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#49",
+          "text": "Jon feels confident",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#50",
+          "text": "Jon plans to go full-time with his business idea",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#51",
+          "text": "Gina had tough times with her business",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#52",
+          "text": "Jon is sprucing up his business plan",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#53",
+          "text": "Jon is tweaking his pitch to investors",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business#54",
+          "text": "Jon has been working on business plans",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Business",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Store",
+      "type": "topic",
+      "slug": "store",
+      "path": "topics/store.md",
+      "facts": [
+        {
+          "fact_id": "store#1",
+          "text": "Gina's store is doing great",
+          "date_label": "4 February, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "store#2",
+          "text": "Gina has been working hard on her online store",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "store#3",
+          "text": "Gina is working on her online store",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "store#4",
+          "text": "Gina is growing her online store's customer base",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Store",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Tattoo",
+      "type": "topic",
+      "slug": "tattoo",
+      "path": "topics/tattoo.md",
+      "facts": [
+        {
+          "fact_id": "tattoo#1",
+          "text": "Gina got a tattoo a few years ago",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Tattoo",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "tattoo#2",
+          "text": "Gina's tattoo represents freedom",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Tattoo",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "tattoo#3",
+          "text": "Gina's tattoo reminds her to dance without worrying what people think",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Tattoo",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "tattoo#4",
+          "text": "Gina's tattoo reminds her to follow her passions and express herself",
+          "date_label": "8 February, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Tattoo",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Gym",
+      "type": "topic",
+      "slug": "gym",
+      "path": "topics/gym.md",
+      "facts": [
+        {
+          "fact_id": "gym#1",
+          "text": "Jon started going to the gym last week",
+          "date_label": "16 March, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Gym",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Business fair",
+      "type": "event",
+      "slug": "business-fair",
+      "path": "events/business-fair.md",
+      "facts": [
+        {
+          "fact_id": "business-fair#1",
+          "text": "Jon went to a fair yesterday to show off his studio",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business fair",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business-fair#2",
+          "text": "Jon found the fair stressful and great",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business fair",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "business-fair#3",
+          "text": "Jon got some possible leads at the fair",
+          "date_label": "25 April, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Business fair",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Design internship interview",
+      "type": "event",
+      "slug": "design-internship-interview",
+      "path": "events/design-internship-interview.md",
+      "facts": [
+        {
+          "fact_id": "design-internship-interview#1",
+          "text": "Gina had an interview for a design internship yesterday",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Design internship interview",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "design-internship-interview#2",
+          "text": "Gina said her design internship interview was great",
+          "date_label": "11 May, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Design internship interview",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Fashion internship",
+      "type": "topic",
+      "slug": "fashion-internship",
+      "path": "topics/fashion-internship.md",
+      "facts": [
+        {
+          "fact_id": "fashion-internship#1",
+          "text": "Gina was accepted for a fashion internship",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Fashion internship",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "fashion-internship#2",
+          "text": "Gina's fashion internship is part-time",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Fashion internship",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "fashion-internship#3",
+          "text": "Gina's fashion internship is in the fashion department of an international company",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Fashion internship",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "fashion-internship#4",
+          "text": "Gina feels excited and nervous about starting her fashion internship",
+          "date_label": "27 May, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Fashion internship",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Fashion presentation",
+      "type": "topic",
+      "slug": "fashion-presentation",
+      "path": "topics/fashion-presentation.md",
+      "facts": [
+        {
+          "fact_id": "fashion-presentation#1",
+          "text": "Gina developed a video presentation to teach people how to style her fashion pieces.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Fashion presentation",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "fashion-presentation#2",
+          "text": "Gina said she would send Jon her video presentation later.",
+          "date_label": "13 June, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Fashion presentation",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Gina",
+      "type": "person",
+      "slug": "gina",
+      "path": "people/gina.md",
+      "facts": [
+        {
+          "fact_id": "gina#1",
+          "text": "Gina became an entrepreneur after losing her job",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Gina",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "gina#2",
+          "text": "Gina enjoys being her own boss",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Gina",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "gina#3",
+          "text": "Gina enjoys doing work she loves",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Gina",
+          "page_type": "person",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Marketing",
+      "type": "topic",
+      "slug": "marketing",
+      "path": "topics/marketing.md",
+      "facts": [
+        {
+          "fact_id": "marketing#1",
+          "text": "Gina recommends using social media channels for marketing",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Marketing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "marketing#2",
+          "text": "Gina recommends working with influencers to increase marketing reach",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Marketing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "marketing#3",
+          "text": "Jon started learning marketing and analytics tools today to advance his business",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Marketing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "marketing#4",
+          "text": "Gina recommended Instagram and TikTok for reaching a younger audience for the dance studio",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Marketing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "marketing#5",
+          "text": "Gina recommended posting dance clips and dance-related content to market the dance studio",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Marketing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "marketing#6",
+          "text": "Gina recommended collaborating with local influencers or dance communities to market the dance studio",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Marketing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "marketing#7",
+          "text": "Gina offered to help Jon create content for the dance studio",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Marketing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "marketing#8",
+          "text": "Gina offered to help Jon manage the dance studio's social media accounts",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Marketing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "marketing#9",
+          "text": "Jon agreed to collaborate with Gina on content creation and social media management for the dance studio",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Marketing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Mentorship",
+      "type": "event",
+      "slug": "mentorship",
+      "path": "events/mentorship.md",
+      "facts": [
+        {
+          "fact_id": "mentorship#1",
+          "text": "Jon was mentored by a businessperson yesterday",
+          "date_label": "16 June, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Mentorship",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "mentorship#2",
+          "text": "Jon is excited to guide and mentor aspiring dancers",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Mentorship",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dance studio grand opening",
+      "type": "event",
+      "slug": "dance-studio-grand-opening",
+      "path": "events/dance-studio-grand-opening.md",
+      "facts": [
+        {
+          "fact_id": "dance-studio-grand-opening#1",
+          "text": "Jon's official dance studio opening night is tomorrow",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio grand opening",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dance-studio-grand-opening#2",
+          "text": "Gina plans to attend Jon's dance studio grand opening tomorrow",
+          "date_label": "19 June, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dance studio grand opening",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Networking",
+      "type": "topic",
+      "slug": "networking",
+      "path": "topics/networking.md",
+      "facts": [
+        {
+          "fact_id": "networking#1",
+          "text": "Jon attended networking events yesterday",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Networking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "networking#2",
+          "text": "Jon is staying determined and focused while attending networking events",
+          "date_label": "21 June, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Networking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "networking#3",
+          "text": "Gina's networking opened her up to products she might not have found otherwise",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Networking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "networking#4",
+          "text": "Jon has been networking lately",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Networking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "networking#5",
+          "text": "Jon has gotten useful opportunities from networking lately",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Networking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Fashion",
+      "type": "topic",
+      "slug": "fashion",
+      "path": "topics/fashion.md",
+      "facts": [
+        {
+          "fact_id": "fashion#1",
+          "text": "Gina was noticed by fashion editors last week",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Fashion",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "fashion#2",
+          "text": "Gina feels pressure to keep progressing in fashion",
+          "date_label": "9 July, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Fashion",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Networking event",
+      "type": "event",
+      "slug": "networking-event",
+      "path": "events/networking-event.md",
+      "facts": [
+        {
+          "fact_id": "networking-event#1",
+          "text": "Jon attended a networking event",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Networking event",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "networking-event#2",
+          "text": "Jon met investors at the networking event",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Networking event",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "networking-event#3",
+          "text": "Jon received advice at the networking event",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Networking event",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "networking-event#4",
+          "text": "The networking event motivated Jon to pursue his goals",
+          "date_label": "21 July, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Networking event",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Shia Labeouf",
+      "type": "person",
+      "slug": "shia-labeouf",
+      "path": "people/shia-labeouf.md",
+      "facts": [
+        {
+          "fact_id": "shia-labeouf#1",
+          "text": "Gina identified the words \"Just do it\" as belonging to Shia Labeouf",
+          "date_label": "23 July, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Shia Labeouf",
+          "page_type": "person",
+          "source_dia_ids": []
+        }
+      ]
+    }
+  ]
+}

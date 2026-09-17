@@ -1,0 +1,131 @@
+---
+title: Volunteering
+type: topic
+sources: [session_1, session_2, session_3, session_4, session_5, session_6, session_7, session_8, session_9, session_10, session_11, session_12, session_13, session_14, session_15, session_16, session_17, session_20, session_21, session_22, session_23, session_24, session_25, session_26, session_27, session_28, session_29, session_30, session_31, session_32]
+---
+
+- Maria volunteers at a homeless shelter — 17 December, 2022
+- Maria donated her old car to a homeless shelter she volunteers at yesterday — 22 December, 2022
+- John joined a service-focused online group last week — 1 January, 2023
+- John feels connected to the members of the service-focused online group — 1 January, 2023
+- John feels a sense of purpose through the service-focused online group — 1 January, 2023
+- John shares stories, advice, and encouragement with people in the service-focused online group — 1 January, 2023
+- John attended events organized by the service-focused online group — 1 January, 2023
+- John met some members of the service-focused online group in person — 1 January, 2023
+- John and the service-focused online group visited a homeless shelter to distribute food and supplies — 1 January, 2023
+- John and the service-focused online group organized a toy drive for children in need — 1 January, 2023
+- John and the service-focused online group are brainstorming projects to help underserved communities access education — 1 January, 2023
+- John and the service-focused online group are brainstorming projects to help underserved communities access mentorship — 1 January, 2023
+- John and the service-focused online group are brainstorming projects to help underserved communities access job training — 1 January, 2023
+- John and the service-focused online group are brainstorming projects to help underserved communities access resume building — 1 January, 2023
+- John believes that providing assistance and resources can make a lasting impact — 1 January, 2023
+- Maria became friends with one of her fellow volunteers. — 9 January, 2023
+- Maria and her fellow volunteer both love helping others. — 9 January, 2023
+- Maria volunteered at a shelter during a children's event last week — 28 January, 2023
+- Maria started volunteering to make a difference — 28 January, 2023
+- Maria feels happy when she brightens somebody's day through volunteering — 28 January, 2023
+- Maria comforted an approximately eight-year-old girl who was sitting alone at the shelter — 28 January, 2023
+- The girl Maria comforted had no other family — 28 January, 2023
+- Maria and the girl ended up laughing and having a good time — 28 January, 2023
+- John believes in looking out for others when they are feeling down — 28 January, 2023
+- John believes people should support each other when they are feeling down — 28 January, 2023
+- John believes a kind gesture can make a difference — 28 January, 2023
+- Maria believes kindness and compassion can improve someone's day — 28 January, 2023
+- Maria did a charity event last Friday. — 5 February, 2023
+- Maria served meals to people in need at the charity event. — 5 February, 2023
+- Maria spoke with David at the charity event about his hardship and difficult circumstances. — 5 February, 2023
+- Maria linked David with a nearby organization offering housing and support for homeless individuals. — 5 February, 2023
+- John started helping with a community food drive for people who lost their jobs. — 5 February, 2023
+- John decided to organize a community food drive because unemployment was affecting people in his community. — 5 February, 2023
+- John's community food drive received an overwhelming response from volunteers. — 5 February, 2023
+- Maria offered to help John with networking and future community food drive events. — 5 February, 2023
+- John and Maria support each other and work toward a shared goal. — 5 February, 2023
+- Maria has been volunteering at a homeless shelter — 25 February, 2023
+- Maria met a woman named Jean while volunteering yesterday — 25 February, 2023
+- Maria believes kindness and optimism can make a difference — 25 February, 2023
+- John discussed volunteering with his family and friends — 6 March, 2023
+- John's family and friends support his wish to volunteer — 6 March, 2023
+- Maria formed connections at the homeless shelter by listening and showing compassion — 6 March, 2023
+- Maria believes building trust and forming real relationships helps make a difference — 6 March, 2023
+- Maria believes taking time to hear people makes a big impact — 6 March, 2023
+- John and Maria volunteered together last year — 2 April, 2023
+- John and Maria found volunteering together last year fulfilling — 2 April, 2023
+- Maria is passionate about charity work — 7 April, 2023
+- John volunteered at a career fair at a local school last weekend — 7 April, 2023
+- John found helping children at the career fair rewarding — 7 April, 2023
+- A sign John shared says, "Always look on the bright side of life" — 7 April, 2023
+- John wants to keep supporting children who need help — 7 April, 2023
+- Maria gave a few talks at the homeless shelter where she volunteers — 10 April, 2023
+- Maria received compliments from other volunteers after giving talks at the homeless shelter — 10 April, 2023
+- Maria feels that the people at the homeless shelter have become like family to her — 10 April, 2023
+- Maria helped organize a meal for homeless shelter residents — 10 April, 2023
+- Maria helped prepare the meal at the homeless shelter — 10 April, 2023
+- The homeless shelter meal brought people together to eat and support each other — 10 April, 2023
+- Maria is volunteering at a homeless shelter. — 18 April, 2023
+- Maria finds volunteering at the homeless shelter fulfilling. — 18 April, 2023
+- Maria finds volunteering at the homeless shelter rewarding and tough. — 18 April, 2023
+- Maria feels overwhelmed by the growing need for help at the homeless shelter. — 18 April, 2023
+- Maria believes little acts of kindness can have a big effect. — 18 April, 2023
+- Maria enjoys a banana split sundae after volunteering — 4 May, 2023
+- Maria has been involved in charity work lately — 6 May, 2023
+- Maria finds her charity work rewarding and fulfilling — 6 May, 2023
+- Maria is planning a ring-toss tournament for a homeless shelter fundraiser later this month — 20 May, 2023
+- Maria is preparing a fundraiser at the shelter for next week — 25 May, 2023
+- Maria hopes the fundraiser will raise enough money to cover basic needs for homeless people — 25 May, 2023
+- Maria is seeking volunteers for the fundraiser — 25 May, 2023
+- John offered to help with Maria's fundraiser — 25 May, 2023
+- John agreed to ask people he knows whether they want to volunteer for Maria's fundraiser — 25 May, 2023
+- John and Maria believe they are making progress toward making a positive impact — 25 May, 2023
+- Maria started volunteering at a local dog shelter once a month — 3 June, 2023
+- Maria volunteered at a shelter. — 27 June, 2023
+- Maria met someone special at the shelter. — 27 June, 2023
+- Maria played with children at the shelter, making someone who had been sad for months laugh. — 27 June, 2023
+- Making a difference brings Maria joy. — 27 June, 2023
+- Maria intends to continue volunteering as a way of spreading kindness and positivity. — 27 June, 2023
+- Maria met three children at a shelter. — 3 July, 2023
+- Maria volunteers at a shelter. — 3 July, 2023
+- A shelter resident named Laura wrote a letter expressing gratitude to Maria and others. — 3 July, 2023
+- Maria feels volunteering helps her make a difference. — 3 July, 2023
+- Maria is inspired by chatting with people, volunteering, and listening to music. — 5 July, 2023
+- John is getting people together to discuss potential solutions for improving the community — 7 July, 2023
+- Maria agreed to join John's meeting and contribute to making the community better — 7 July, 2023
+- John and Maria are working together to improve their community — 7 July, 2023
+- John and Maria believe that small actions can have a big impact in their community — 7 July, 2023
+- John visited a veterans' hospital last week — 17 July, 2023
+- John met an elderly veteran named Samuel at the veterans' hospital — 17 July, 2023
+- John is part of an organization supporting veterans — 17 July, 2023
+- John believes that little acts of kindness can brighten someone's day — 17 July, 2023
+- Maria believes that little acts of kindness can have a big effect — 17 July, 2023
+- Maria plans to volunteer at shelters next month — 22 July, 2023
+- Maria dropped off baked goods at a homeless shelter last week — 31 July, 2023
+- Maria is more motivated than ever to help people — 31 July, 2023
+- John joined a firefighting brigade — 31 July, 2023
+- John completed intense and taxing firefighting training — 31 July, 2023
+- John's firefighting brigade had its first call-out last Sunday — 31 July, 2023
+- John's firefighting team responded to a situation and helped people in need — 31 July, 2023
+- John and his team saved a family from a burning building — 31 July, 2023
+- John trusts and relies on his firefighting teammates — 31 July, 2023
+- John's firefighting teammates have become like family to him — 31 July, 2023
+- John's firefighting team has different skills and talents that contribute to serving and protecting their community — 31 July, 2023
+- John feels a strong bond with his firefighting team similar to the bond he felt during his time in the military — 31 July, 2023
+- John finds serving his community fulfilling and meaningful — 31 July, 2023
+- Maria volunteered with a group serving food — 31 July, 2023
+- Maria plans to continue helping people — 31 July, 2023
+- Maria started volunteering at the homeless shelter about a year ago after witnessing a family struggling on the streets — 3 August, 2023
+- Maria contacted the homeless shelter to ask whether it needed volunteers — 3 August, 2023
+- Maria finds volunteering at the homeless shelter fulfilling — 3 August, 2023
+- Cindy, a resident at the homeless shelter, wrote a heartfelt note expressing gratitude for the support residents receive — 3 August, 2023
+- Maria took up community work with her church friends yesterday — 5 August, 2023
+- John helped renovate a rundown community center in his hometown last year — 5 August, 2023
+- Maria volunteered at a homeless shelter last week — 9 August, 2023
+- Maria received a medal for volunteering at a homeless shelter last week — 9 August, 2023
+- John is considering joining local organizations or volunteering programs — 11 August, 2023
+- John plans to make a list of organizations that suit his beliefs — 11 August, 2023
+- John plans to contact organizations for more information — 11 August, 2023
+- John is volunteering as a mentor for a local school. — 13 August, 2023
+- John was impressed by the fire-fighting brigade's dedication and teamwork — 16 August, 2023
+- John and the fire-fighting brigade loaded donations onto a truck in two hours — 16 August, 2023
+- John and the fire-fighting brigade collected canned food, toiletries, and clothes — 16 August, 2023
+- Maria volunteered at a shelter's front desk last Friday — 16 August, 2023
+- Maria felt good seeing shelter residents receive food or a bed — 16 August, 2023
+- Maria believes people can make a difference in others' lives through kindness — 16 August, 2023

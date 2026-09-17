@@ -1,0 +1,32 @@
+---
+title: Gaming
+type: topic
+sources: [session_19, session_22, session_23, session_26, session_27, session_28]
+---
+
+- Nate makes a living from gaming, which he is passionate about — 22 August, 2022 [D19:1]
+- Nate's gaming career has benefited from encouragement. — 6 October, 2022 [D22:18]
+- Nate joined people playing a board game he loves at the game convention. — 9 October, 2022 [D23:5]
+- Nate and other convention attendees played Catan. — 9 October, 2022 [D23:7]
+- Nate described Catan as a strategy game about building settlements and trading resources. — 9 October, 2022 [D23:7]
+- Nate uses playing games as an escape from life's struggles. — 9 October, 2022 [D23:11]
+- Nate generally does not get extremely competitive when playing games. — 9 October, 2022 [D23:11]
+- Nate plays video games to unwind at home. — 9 October, 2022 [D23:15]
+- Nate has been playing Cyberpunk 2077 nonstop. — 9 October, 2022 [D23:17]
+- Nate likes Cyberpunk 2077's futuristic setting and gameplay. — 9 October, 2022 [D23:17]
+- Nate uses his gaming skills to make a difference — 4 November, 2022 [D26:14]
+- Nate upgraded some of his equipment at home — 7 November, 2022 [D27:15]
+- Nate uses his computer to practice and compete — 7 November, 2022 [D27:17]
+- Nate sometimes uses his computer to play games with friends — 7 November, 2022 [D27:17]
+- Nate has a dedicated gaming space at home — 7 November, 2022 [D27:18]
+- Nate considers his gaming setup important for his career — 7 November, 2022 [D27:21]
+- Nate is currently playing the fantasy RPG Xenoblade Chronicles — 7 November, 2022 [D27:23]
+- Nate recommends Xenoblade Chronicles — 7 November, 2022 [D27:23]
+- Nate is a big fan of Nintendo games — 7 November, 2022 [D27:25]
+- Nate started playing Xenoblade Chronicles because his friends played and recommended it — 7 November, 2022 [D27:25]
+- Nate is considering joining a new gaming team after his next tournament — 9 November, 2022 [D28:5]
+- Nate has received a few offers from gaming teams — 9 November, 2022 [D28:5]
+- Nate is creating gaming content for YouTube — 9 November, 2022 [D28:13]
+- Nate creates gaming content to entertain people and satisfy his video game cravings when tournaments are not happening — 9 November, 2022 [D28:13]
+- Nate was inspired to make gaming videos because he is a big fan of them — 9 November, 2022 [D28:15]
+- Nate hopes his gaming videos will let him share his love of gaming and connect with other gaming enthusiasts — 9 November, 2022 [D28:15]

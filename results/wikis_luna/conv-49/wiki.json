@@ -1,0 +1,4037 @@
+{
+  "conv_id": "conv-49",
+  "speakers": [
+    "Evan",
+    "Sam"
+  ],
+  "extraction_model": "gpt-5.6-luna",
+  "build_fingerprint": "9ad622199c7e",
+  "compiler_version": "b2",
+  "built_utc": "2026-09-16T18:33:00.711382+00:00",
+  "sessions": [
+    {
+      "index": 1,
+      "session_id": "session_1",
+      "timestamp": "1:47 pm on 18 May, 2023",
+      "date_label": "18 May, 2023"
+    },
+    {
+      "index": 2,
+      "session_id": "session_2",
+      "timestamp": "7:11 pm on 24 May, 2023",
+      "date_label": "24 May, 2023"
+    },
+    {
+      "index": 3,
+      "session_id": "session_3",
+      "timestamp": "3:55 pm on 6 June, 2023",
+      "date_label": "6 June, 2023"
+    },
+    {
+      "index": 4,
+      "session_id": "session_4",
+      "timestamp": "10:52 am on 27 July, 2023",
+      "date_label": "27 July, 2023"
+    },
+    {
+      "index": 5,
+      "session_id": "session_5",
+      "timestamp": "7:52 pm on 7 August, 2023",
+      "date_label": "7 August, 2023"
+    },
+    {
+      "index": 6,
+      "session_id": "session_6",
+      "timestamp": "4:09 pm on 13 August, 2023",
+      "date_label": "13 August, 2023"
+    },
+    {
+      "index": 7,
+      "session_id": "session_7",
+      "timestamp": "4:20 pm on 15 August, 2023",
+      "date_label": "15 August, 2023"
+    },
+    {
+      "index": 8,
+      "session_id": "session_8",
+      "timestamp": "6:17 pm on 19 August, 2023",
+      "date_label": "19 August, 2023"
+    },
+    {
+      "index": 9,
+      "session_id": "session_9",
+      "timestamp": "10:18 am on 27 August, 2023",
+      "date_label": "27 August, 2023"
+    },
+    {
+      "index": 10,
+      "session_id": "session_10",
+      "timestamp": "9:28 am on 11 September, 2023",
+      "date_label": "11 September, 2023"
+    },
+    {
+      "index": 11,
+      "session_id": "session_11",
+      "timestamp": "8:57 pm on 6 October, 2023",
+      "date_label": "6 October, 2023"
+    },
+    {
+      "index": 12,
+      "session_id": "session_12",
+      "timestamp": "3:09 pm on 8 October, 2023",
+      "date_label": "8 October, 2023"
+    },
+    {
+      "index": 13,
+      "session_id": "session_13",
+      "timestamp": "4:07 pm on 14 October, 2023",
+      "date_label": "14 October, 2023"
+    },
+    {
+      "index": 14,
+      "session_id": "session_14",
+      "timestamp": "1:50 pm on 17 October, 2023",
+      "date_label": "17 October, 2023"
+    },
+    {
+      "index": 15,
+      "session_id": "session_15",
+      "timestamp": "2:56 pm on 25 October, 2023",
+      "date_label": "25 October, 2023"
+    },
+    {
+      "index": 16,
+      "session_id": "session_16",
+      "timestamp": "9:13 pm on 9 November, 2023",
+      "date_label": "9 November, 2023"
+    },
+    {
+      "index": 17,
+      "session_id": "session_17",
+      "timestamp": "7:30 pm on 21 November, 2023",
+      "date_label": "21 November, 2023"
+    },
+    {
+      "index": 18,
+      "session_id": "session_18",
+      "timestamp": "8:16 pm on 5 December, 2023",
+      "date_label": "5 December, 2023"
+    },
+    {
+      "index": 19,
+      "session_id": "session_19",
+      "timestamp": "1:45 pm on 9 December, 2023",
+      "date_label": "9 December, 2023"
+    },
+    {
+      "index": 20,
+      "session_id": "session_20",
+      "timestamp": "6:48 pm on 17 December, 2023",
+      "date_label": "17 December, 2023"
+    },
+    {
+      "index": 21,
+      "session_id": "session_21",
+      "timestamp": "4:25 pm on 26 December, 2023",
+      "date_label": "26 December, 2023"
+    },
+    {
+      "index": 22,
+      "session_id": "session_22",
+      "timestamp": "11:00 am on 31 December, 2023",
+      "date_label": "31 December, 2023"
+    },
+    {
+      "index": 23,
+      "session_id": "session_23",
+      "timestamp": "1:32 pm on 6 January, 2024",
+      "date_label": "6 January, 2024"
+    },
+    {
+      "index": 24,
+      "session_id": "session_24",
+      "timestamp": "12:17 am on 10 January, 2024",
+      "date_label": "10 January, 2024"
+    },
+    {
+      "index": 25,
+      "session_id": "session_25",
+      "timestamp": "9:37 pm on 11 January, 2024",
+      "date_label": "11 January, 2024"
+    }
+  ],
+  "stats": {
+    "compile_prompt_tokens": 36294,
+    "compile_completion_tokens": 8437,
+    "compile_cost_usd": 0.0173832,
+    "compile_latency_s": 77.42494299868122,
+    "compile_calls": 25,
+    "compile_cached_calls": 0,
+    "sessions_compiled": 25,
+    "truncated_sessions": 0,
+    "duplicate_facts_dropped": 0,
+    "generic_page_titles": 0,
+    "salvaged_sessions": 0,
+    "unparsable_sessions": 0,
+    "empty_sessions": 0,
+    "citations_total": 0,
+    "citations_resolvable": 0,
+    "citations_unresolvable": 0,
+    "citations_other_session": 0,
+    "citations_nonexistent": 0,
+    "facts_with_no_citation": 358,
+    "citation_resolvability": null,
+    "citation_session_consistency": null,
+    "n_pages": 33,
+    "n_facts": 358,
+    "wiki_tokens": 8397,
+    "raw_conversation_tokens": 16933,
+    "compression_ratio": 0.4959
+  },
+  "pages": [
+    {
+      "title": "Family trip",
+      "type": "event",
+      "slug": "family-trip",
+      "path": "events/family-trip.md",
+      "facts": [
+        {
+          "fact_id": "family-trip#1",
+          "text": "Evan returned from a trip with his family in his new Prius",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Family trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family-trip#2",
+          "text": "Evan and his family went to the Rockies last week",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Family trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family-trip#3",
+          "text": "Evan took his family on a road trip to Jasper last weekend",
+          "date_label": "24 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Family trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family-trip#4",
+          "text": "Evan drove through the Icefields Parkway during the road trip to Jasper",
+          "date_label": "24 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Family trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family-trip#5",
+          "text": "Evan stayed in a cozy cabin surrounded by mountains and forests during the road trip to Jasper",
+          "date_label": "24 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Family trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family-trip#6",
+          "text": "Evan misses going on adventures with his family like they did last year",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Family trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family-trip#7",
+          "text": "Evan's family took a trip to Banff",
+          "date_label": "9 December, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Family trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Hiking",
+      "type": "topic",
+      "slug": "hiking",
+      "path": "topics/hiking.md",
+      "facts": [
+        {
+          "fact_id": "hiking#1",
+          "text": "Evan and his family hiked the trails in the Rockies last week",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#2",
+          "text": "Sam went hiking with his dad when Sam was ten",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#3",
+          "text": "Sam and his dad hiked a good distance when Sam was ten",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#4",
+          "text": "Evan enjoys a fitness routine",
+          "date_label": "24 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#5",
+          "text": "Evan is motivated by going on interesting hikes",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#6",
+          "text": "Evan went hiking during his Canada vacation",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#7",
+          "text": "Evan enjoys spending time in natural places",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#8",
+          "text": "Nature helps Evan feel calm",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#9",
+          "text": "Sam loves being surrounded by nature",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#10",
+          "text": "Sam would like to go hiking more",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#11",
+          "text": "Hiking can be challenging for Sam",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#12",
+          "text": "Sam thinks a road trip and hike may be possible after becoming healthier",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#13",
+          "text": "Evan suggested that Sam go for more hikes",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#14",
+          "text": "Evan and Sam plan to go hiking together sometime",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#15",
+          "text": "Evan recommended a lake with nearby trails to Sam",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#16",
+          "text": "The recommended lake is a two-hour drive from Evan and Sam",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#17",
+          "text": "The recommended lake has incredible views and a peaceful atmosphere",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#18",
+          "text": "Sam plans to visit the recommended lake as a day trip",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#19",
+          "text": "Evan and Sam plan to go on a hike.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#20",
+          "text": "Sam shared a photo of a person wearing hiking shoes on a couch.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#21",
+          "text": "Sam used to love hiking.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#22",
+          "text": "Sam has not had a chance to go hiking for a while.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#23",
+          "text": "Sam took his friends on an epic hiking trip last Friday",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Painting",
+      "type": "topic",
+      "slug": "painting",
+      "path": "topics/painting.md",
+      "facts": [
+        {
+          "fact_id": "painting#1",
+          "text": "Sam is considering trying painting",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#2",
+          "text": "Sam has not tried painting yet",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#3",
+          "text": "Evan enjoys watercolor painting",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#4",
+          "text": "Evan started watercolor painting a few years back",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#5",
+          "text": "Evan's friend introduced him to watercolor painting and gave him advice",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#6",
+          "text": "Evan became immediately interested in watercolor painting",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#7",
+          "text": "Sam is considering painting as a hobby to stay motivated",
+          "date_label": "24 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#8",
+          "text": "Evan has been painting for a few years",
+          "date_label": "24 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#9",
+          "text": "Evan finds peace through painting",
+          "date_label": "24 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#10",
+          "text": "Evan started taking painting classes a few days ago",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#11",
+          "text": "Evan started painting after a friend gave Evan a painting that inspired Evan",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#12",
+          "text": "Evan joined painting classes to meet like-minded people",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#13",
+          "text": "Evan joined painting classes to show others what Evan can do",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#14",
+          "text": "Evan believes painting skills can always improve",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#15",
+          "text": "Evan is currently painting with watercolors",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#16",
+          "text": "Evan finds painting peaceful and expressive",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#17",
+          "text": "Evan's painting classes teach observing nature and painting what they see",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#18",
+          "text": "Evan finds painting a relaxing break from everyday stress",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#19",
+          "text": "Evan enjoys painting landscapes",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#20",
+          "text": "Evan aims to convey the peacefulness of being outdoors in paintings",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#21",
+          "text": "Evan uses painting to de-stress",
+          "date_label": "11 September, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#22",
+          "text": "Evan painted a mountain range with a horse",
+          "date_label": "11 September, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#23",
+          "text": "Sam wants to try painting as a calming hobby",
+          "date_label": "11 September, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#24",
+          "text": "Evan recommended acrylic paints, brushes, canvas or paper, and a palette as basic painting supplies",
+          "date_label": "11 September, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#25",
+          "text": "Evan and Sam plan to paint together next Saturday",
+          "date_label": "11 September, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#26",
+          "text": "Evan uses watercolor painting to keep busy while recovering",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#27",
+          "text": "Evan finds watercolor painting relaxing",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#28",
+          "text": "Evan finds painting to be a great stress reliever",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#29",
+          "text": "Evan painted a cactus in the desert last week",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#30",
+          "text": "Evan's sunset painting was inspired by a vacation a few years back",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#31",
+          "text": "Evan's cactus painting was inspired by a road trip last month",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#32",
+          "text": "Evan usually paints what is on his mind or something he is feeling",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#33",
+          "text": "Evan paints good memories or places he wants to visit",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#34",
+          "text": "Evan uses art to express himself and his emotions",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#35",
+          "text": "Evan finished a painting of a sunset",
+          "date_label": "14 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#36",
+          "text": "Evan finds painting relaxing",
+          "date_label": "14 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#37",
+          "text": "Evan finished a contemporary figurative painting a few days ago.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#38",
+          "text": "Evan's contemporary figurative painting emphasizes emotional state through expressive brushwork and vibrant colors.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#39",
+          "text": "Evan's painting captures a moment of introspection in which the subject is deeply immersed in thought.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#40",
+          "text": "A close friend helped Evan get his painting published in an exhibition.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#41",
+          "text": "Evan shared a photo of a woman standing in front of his painting.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#42",
+          "text": "Evan enjoys painting.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#43",
+          "text": "Evan made a painting while feeling sad, mad, and hopeful.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#44",
+          "text": "Evan says art helps him recognize and handle his feelings.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#45",
+          "text": "Evan painted a picture with a bird flying over it with a sense of joy and freedom.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#46",
+          "text": "Evan says the painting's spontaneous strokes and bold colors reflect a playful and liberated mood.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "painting#47",
+          "text": "Sam was inspired by a painting at an exhibit a few days ago.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Painting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Prius",
+      "type": "topic",
+      "slug": "prius",
+      "path": "topics/prius.md",
+      "facts": [
+        {
+          "fact_id": "prius#1",
+          "text": "Evan's old Prius broke down",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Prius",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "prius#2",
+          "text": "Evan had his old Prius repaired and sold it",
+          "date_label": "18 May, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Prius",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "prius#3",
+          "text": "Evan's new Prius broke down",
+          "date_label": "5 December, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Prius",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "prius#4",
+          "text": "Evan relies on his Prius for his active lifestyle",
+          "date_label": "5 December, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Prius",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "prius#5",
+          "text": "Evan was counting on his new Prius to be reliable",
+          "date_label": "5 December, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Prius",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Evan",
+      "type": "person",
+      "slug": "evan",
+      "path": "people/evan.md",
+      "facts": [
+        {
+          "fact_id": "evan#1",
+          "text": "Evan makes smarter choices in his diet",
+          "date_label": "24 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#2",
+          "text": "Evan had a sudden heart palpitation incident last week.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#3",
+          "text": "Evan grew up on a small island",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#4",
+          "text": "Evan's childhood island is Evan's happy place",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#5",
+          "text": "Evan's childhood island shaped Evan",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#6",
+          "text": "Evan's partner is pregnant",
+          "date_label": "9 December, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#7",
+          "text": "Evan has a first child",
+          "date_label": "9 December, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#8",
+          "text": "Evan is excited and nervous about becoming a parent again",
+          "date_label": "9 December, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#9",
+          "text": "Evan got married last week.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#10",
+          "text": "Evan married a woman from Canada.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#11",
+          "text": "Evan told his work friends about getting married",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#12",
+          "text": "Evan's work friends have been a great support to him",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#13",
+          "text": "Evan went out with his friends yesterday and drank too much.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "evan#14",
+          "text": "Evan apologized to his partner for a drunken night",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Evan",
+          "page_type": "person",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Sam",
+      "type": "person",
+      "slug": "sam",
+      "path": "people/sam.md",
+      "facts": [
+        {
+          "fact_id": "sam#1",
+          "text": "Sam had a check-up with a doctor a few days ago",
+          "date_label": "24 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Sam",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "sam#2",
+          "text": "Sam was concerned about his weight after the check-up",
+          "date_label": "24 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Sam",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "sam#3",
+          "text": "Evan recommends that Sam exercise to address his weight problem",
+          "date_label": "24 May, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Sam",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "sam#4",
+          "text": "Sam is unsure whether Sam's body can handle skiing",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Sam",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "sam#5",
+          "text": "Sam is dealing with work stress",
+          "date_label": "14 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Sam",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "sam#6",
+          "text": "Sam is trying to stay motivated",
+          "date_label": "14 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Sam",
+          "page_type": "person",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Health",
+      "type": "topic",
+      "slug": "health",
+      "path": "topics/health.md",
+      "facts": [
+        {
+          "fact_id": "health#1",
+          "text": "Evan is trying to eat less processed food.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#2",
+          "text": "Evan is trying to eat fewer sugary snacks.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#3",
+          "text": "Evan loves ginger snaps.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#4",
+          "text": "Sam is trying to eat healthier these days.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#5",
+          "text": "Sam still enjoys soda and candy.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#6",
+          "text": "Sam knows that eating soda and candy is not the best habit to have.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#7",
+          "text": "Sam agreed to try swapping soda for flavored seltzer water.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#8",
+          "text": "Sam agreed to try dark chocolate with high cocoa content instead of candy.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#9",
+          "text": "Sam is trying to make tiny health-related changes.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#10",
+          "text": "Evan and Sam plan to support each other on their health journeys.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#11",
+          "text": "Sam's friends mocked Sam's weight last Friday.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#12",
+          "text": "Sam is working on Sam's health and getting active.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#13",
+          "text": "Evan struggled with Evan's health a few years ago.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#14",
+          "text": "Evan believes diet and lifestyle changes play a big role in health.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#15",
+          "text": "Evan cut down on sugary snacks.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#16",
+          "text": "Evan started eating more vegetables and fruit.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#17",
+          "text": "Sam is reducing Sam's soda and candy intake.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#18",
+          "text": "Evan suggested flavored seltzer water as an alternative to soda.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#19",
+          "text": "Evan suggested air-popped popcorn or fruit as low-calorie snacks.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#20",
+          "text": "Evan is dealing with health issues",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#21",
+          "text": "Evan has been working on his health for two years",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#22",
+          "text": "Evan's family motivates him to stay healthy",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#23",
+          "text": "Evan uses a fitness watch to track his health progress",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#24",
+          "text": "Evan finds the fitness watch's visual reminder motivating",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#25",
+          "text": "Evan got a bonsai tree because it symbolizes strength and resilience",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#26",
+          "text": "Taking care of Evan's bonsai tree motivates him through tough times",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#27",
+          "text": "Sam has been facing health challenges lately",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#28",
+          "text": "Sam is working toward healthier habits",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#29",
+          "text": "Sam believes that progress is more important than perfection",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#30",
+          "text": "Sam uses the quote \"Don't fear it, just take the first step\" to stay motivated",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#31",
+          "text": "Sam is convinced that their journey will be rewarding in the end",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#32",
+          "text": "Sam had a tough week and a doctor's appointment",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#33",
+          "text": "Sam's doctor's appointment motivated Sam to take better care of himself",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#34",
+          "text": "Sam feels somewhat concerned about Sam's health",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#35",
+          "text": "Sam feels motivated to make positive changes",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#36",
+          "text": "Sam is taking positive changes one step at a time",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#37",
+          "text": "Sam is on a diet and living healthier",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#38",
+          "text": "Sam has been sticking with the diet despite finding it tough",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#39",
+          "text": "Sam has noticed more energy since changing their diet",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#40",
+          "text": "Sam feels less sluggish after eating since changing their diet",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#41",
+          "text": "Sam started a new diet and exercise routine last Monday",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#42",
+          "text": "Sam feels great after starting a new diet and exercise routine",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#43",
+          "text": "Evan twisted his knee last Friday",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#44",
+          "text": "Evan's twisted knee is painful",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#45",
+          "text": "Evan is considering physical therapy for his knee",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#46",
+          "text": "Evan is hoping to get a physical therapy appointment soon",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#47",
+          "text": "Sam is working on becoming healthier",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#48",
+          "text": "Sam posted a photo showing his body before and after his diet",
+          "date_label": "11 September, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#49",
+          "text": "Sam is trying to make healthier choices",
+          "date_label": "11 September, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#50",
+          "text": "Sam sometimes craves sugary drinks and snacks",
+          "date_label": "11 September, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#51",
+          "text": "Stress, boredom, and wanting comfort trigger Sam's cravings",
+          "date_label": "11 September, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#52",
+          "text": "Sam has started eating healthier",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#53",
+          "text": "Evan injured his knee playing basketball with the kids last week",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#54",
+          "text": "Evan has been helped by physical therapy",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#55",
+          "text": "Sam's doctor said Sam's weight is a serious health risk",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#56",
+          "text": "Sam's doctor warned that Sam's health could get worse if Sam does not make changes soon",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#57",
+          "text": "Sam has been having a hard time regarding Sam's health",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#58",
+          "text": "Sam bought unhealthy snacks during a rough week",
+          "date_label": "14 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#59",
+          "text": "Sam went to the ER last weekend with a severe stomachache.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#60",
+          "text": "Sam was diagnosed with gastritis.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#61",
+          "text": "Sam wants to prioritize health by adopting a more nutritious diet.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#62",
+          "text": "Sam is trying to maintain a new health routine.",
+          "date_label": "25 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#63",
+          "text": "Evan went through a similar health-related phase two years ago.",
+          "date_label": "25 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#64",
+          "text": "Evan changed his diet two years ago.",
+          "date_label": "25 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#65",
+          "text": "Evan focused on his well-being rather than quick results during his health transformation.",
+          "date_label": "25 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#66",
+          "text": "Evan let go of unrealistic expectations during his health transformation.",
+          "date_label": "25 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#67",
+          "text": "Evan found letting go of unrealistic expectations liberating physically and mentally.",
+          "date_label": "25 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#68",
+          "text": "Sam plans to focus on small wins in his health routine.",
+          "date_label": "25 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#69",
+          "text": "Sam is a Weight Watchers coach in Sam's group",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#70",
+          "text": "Sam was chosen as a Weight Watchers coach as part of Sam's quest for better health",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#71",
+          "text": "Sam hopes being a Weight Watchers coach will keep Sam motivated and help others stay committed",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#72",
+          "text": "Sam is determined to continue making a positive impact",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#73",
+          "text": "Evan had a health scare last week and went to the hospital",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#74",
+          "text": "Doctors found something suspicious during Evan's check-up",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#75",
+          "text": "Evan's health scare turned out to be a misunderstanding",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#76",
+          "text": "Evan's doctors said everything was fine after his health scare",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#77",
+          "text": "Sam has been dealing with discomfort that limits Sam's movement",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#78",
+          "text": "Sam has been trying to make dietary changes",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#79",
+          "text": "Sam attended a Weight Watchers meeting yesterday",
+          "date_label": "5 December, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#80",
+          "text": "Sam learned tips at the Weight Watchers meeting",
+          "date_label": "5 December, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#81",
+          "text": "Sam is struggling with his weight.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#82",
+          "text": "Sam's weight is affecting his confidence.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#83",
+          "text": "Sam lacks motivation to overcome his weight-related challenges.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#84",
+          "text": "Sam finds it tough to break out of his comfort zone.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#85",
+          "text": "Evan has been trying new healthy snacks",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#86",
+          "text": "Evan has been trying to eat healthier",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#87",
+          "text": "Evan recommends cookies as a snack",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#88",
+          "text": "Evan discovered a recipe for energy balls",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#89",
+          "text": "Evan enjoys the taste of the energy balls",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#90",
+          "text": "Evan finds the energy balls energizing and a healthy way to satisfy a sweet tooth",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#91",
+          "text": "Evan is limiting himself to two ginger snaps a day on his new diet",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#92",
+          "text": "Sam plans to ask a doctor for advice about a balanced diet plan.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#93",
+          "text": "Sam plans to ask a doctor for advice about low-impact exercises given Sam's current situation.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#94",
+          "text": "Sam plans to make a doctor's appointment soon.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "health#95",
+          "text": "Sam has health issues that have been rough and feels that his weight keeps him from fully living",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Health",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Supermarket issue",
+      "type": "event",
+      "slug": "supermarket-issue",
+      "path": "events/supermarket-issue.md",
+      "facts": [
+        {
+          "fact_id": "supermarket-issue#1",
+          "text": "Sam had a frustrating issue at the supermarket because all the self-checkout machines were broken.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Supermarket issue",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "supermarket-issue#2",
+          "text": "Sam went to the store again and had issues with the self-checkout",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Supermarket issue",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "supermarket-issue#3",
+          "text": "Sam regularly experiences problems with self-checkout",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Supermarket issue",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "supermarket-issue#4",
+          "text": "Evan has never had a problem with self-checkout",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Supermarket issue",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Workouts",
+      "type": "topic",
+      "slug": "workouts",
+      "path": "topics/workouts.md",
+      "facts": [
+        {
+          "fact_id": "workouts#1",
+          "text": "Evan and Sam plan to work out and reach their goals.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#2",
+          "text": "Evan believes exercise clears the mind.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#3",
+          "text": "Evan offered to show Sam some basic exercises.",
+          "date_label": "6 June, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#4",
+          "text": "Evan has a gym membership card.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#5",
+          "text": "Sam plans to go to the gym starting tomorrow.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#6",
+          "text": "Sam plans to exercise regularly.",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#7",
+          "text": "Evan went biking during his Canada vacation",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#8",
+          "text": "Evan enjoys skiing, snowboarding, and ice skating",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#9",
+          "text": "Sam would like to try skiing",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#10",
+          "text": "Sam finds it difficult to participate in winter activities",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#11",
+          "text": "Evan has found it difficult to stay consistent with his usual fitness routine because of his knee injury",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#12",
+          "text": "Staying active is very important to Evan",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#13",
+          "text": "Evan is swimming to stay active while keeping his activity low-key",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#14",
+          "text": "Evan has found it difficult to stay active since injuring his knee",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#15",
+          "text": "Evan is doing easy exercises to keep his knee strong while he heals",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#16",
+          "text": "Evan cannot do intense workouts while his knee heals",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#17",
+          "text": "Evan started lifting weights one year ago",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#18",
+          "text": "Evan struggled when Evan first started lifting weights",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#19",
+          "text": "Evan has seen gains from lifting weights",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#20",
+          "text": "Sam is interested in getting into weightlifting",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#21",
+          "text": "Evan advised Sam to start weightlifting with good form and technique",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#22",
+          "text": "Evan advised Sam to find a trainer to help Sam avoid injuries while building strength",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#23",
+          "text": "Evan advised Sam to start with something small and increase the intensity as Sam gets stronger",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#24",
+          "text": "Evan advised Sam to stay consistent with Sam's workout routine",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#25",
+          "text": "Sam planned to find someone who could help Sam with weightlifting",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#26",
+          "text": "Sam planned to take weightlifting slowly",
+          "date_label": "8 October, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#27",
+          "text": "Sam wants to prioritize health by getting regular exercise.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#28",
+          "text": "Evan has been focusing on fitness.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#29",
+          "text": "Evan said focusing on fitness has benefited his overall well-being.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#30",
+          "text": "Evan was at the gym yesterday.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#31",
+          "text": "Evan is gaining strength.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#32",
+          "text": "Evan takes morning walks.",
+          "date_label": "25 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#33",
+          "text": "Evan started walking regularly two years ago.",
+          "date_label": "25 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#34",
+          "text": "Evan stays in shape by going to the gym",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#35",
+          "text": "Sam has found fitness goals hard to reach",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#36",
+          "text": "Evan is considering other ways to stay active and travel",
+          "date_label": "5 December, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#37",
+          "text": "Sam said yoga has improved Sam's flexibility and stress levels",
+          "date_label": "5 December, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#38",
+          "text": "Evan is thinking about trying yoga for stress relief and flexibility",
+          "date_label": "5 December, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#39",
+          "text": "Sam has started running in the mornings.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#40",
+          "text": "Sam made a meal plan and workout schedule.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#41",
+          "text": "Evan suggested swimming as a low-impact exercise.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#42",
+          "text": "Evan suggested yoga as a low-impact exercise.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#43",
+          "text": "Evan suggested walking as a low-impact exercise.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#44",
+          "text": "Sam was motivated by watching The Godfather to keep up with Sam's routine.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#45",
+          "text": "Evan says yoga has helped Evan with stress and staying flexible.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "workouts#46",
+          "text": "Sam has not found any exercises that he likes",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Workouts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Reading",
+      "type": "topic",
+      "slug": "reading",
+      "path": "topics/reading.md",
+      "facts": [
+        {
+          "fact_id": "reading#1",
+          "text": "Evan is reading \"The Great Gatsby\".",
+          "date_label": "27 July, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#2",
+          "text": "Evan read a book that gets better with every page",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#3",
+          "text": "Sam got a book yesterday with a picture of a man on it",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#4",
+          "text": "Sam's book has been Sam's go-to feel-good flick",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#5",
+          "text": "Sam watched The Godfather last night.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Canada trip",
+      "type": "event",
+      "slug": "canada-trip",
+      "path": "events/canada-trip.md",
+      "facts": [
+        {
+          "fact_id": "canada-trip#1",
+          "text": "Evan went on a trip to Canada last week",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#2",
+          "text": "Evan met an awesome Canadian woman during his trip to Canada last week",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#3",
+          "text": "Evan feels alive when he is with the Canadian woman he met",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#4",
+          "text": "Evan took a vacation in Canada with his new significant other",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#5",
+          "text": "Evan and his new significant other explored the outdoors together during their Canada vacation",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#6",
+          "text": "Natural places remind Evan of road tripping in Evan's trusty car",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#7",
+          "text": "Evan drove to Banff last month",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#8",
+          "text": "Evan went skiing in Banff last month",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#9",
+          "text": "Evan enjoyed the snow and skiing in Banff last month",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#10",
+          "text": "Evan wants to return to Banff next year",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#11",
+          "text": "Evan and his partner are going to Canada next month for their honeymoon",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#12",
+          "text": "Evan and his partner plan to ski in Canada",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#13",
+          "text": "Evan and his partner plan to try local cuisine in Canada",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#14",
+          "text": "Evan and his partner plan to enjoy Canada's snowy landscapes and views",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "canada-trip#15",
+          "text": "Evan plans to try poutine in Canada",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Canada trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "type": "topic",
+      "slug": "family",
+      "path": "topics/family.md",
+      "facts": [
+        {
+          "fact_id": "family#1",
+          "text": "Evan has children who bring him joy",
+          "date_label": "7 August, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#2",
+          "text": "Evan's son injured his ankle in a soccer accident last Saturday",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#3",
+          "text": "Evan has been looking after his son and taking him to the doctor",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#4",
+          "text": "Evan's son's ankle is getting better but is still sore",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#5",
+          "text": "Evan's son's soccer injury was not serious",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#6",
+          "text": "Sam feels pressured by family to maintain the new health routine.",
+          "date_label": "25 October, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#7",
+          "text": "Evan values parenthood",
+          "date_label": "9 December, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#8",
+          "text": "Evan's family motto is \"Bring it on Home\"",
+          "date_label": "9 December, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#9",
+          "text": "Evan's family motto emphasizes togetherness",
+          "date_label": "9 December, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#10",
+          "text": "Evan is planning a big family reunion next summer",
+          "date_label": "9 December, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#11",
+          "text": "Evan's son had an accident last Tuesday when he fell off his bike.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#12",
+          "text": "Evan's son is doing better now after his bike accident.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#13",
+          "text": "Evan shared a photo of his son using crutches and carrying a backpack.",
+          "date_label": "17 December, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#14",
+          "text": "Evan's families are happy about his marriage",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#15",
+          "text": "Evan's family support brings him comfort",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#16",
+          "text": "Evan's family gives him joy, support, and love",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#17",
+          "text": "Sam's family has been his rock through everything",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "family#18",
+          "text": "Evan had a family get-together tonight",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Family",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dreams",
+      "type": "topic",
+      "slug": "dreams",
+      "path": "topics/dreams.md",
+      "facts": [
+        {
+          "fact_id": "dreams#1",
+          "text": "Sam had a dream last night about soaring over skyscrapers",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dreams",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dreams#2",
+          "text": "Sam has a recurring dream of flying over skyscrapers.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Dreams",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Keys",
+      "type": "topic",
+      "slug": "keys",
+      "path": "topics/keys.md",
+      "facts": [
+        {
+          "fact_id": "keys#1",
+          "text": "Evan has been searching for his keys for the last half hour",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Keys",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "keys#2",
+          "text": "Evan frequently loses his keys",
+          "date_label": "13 August, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Keys",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "keys#3",
+          "text": "Evan has lost his keys again, and losing them has become a weekly ritual.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Keys",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "keys#4",
+          "text": "Evan plans to put a GPS sensor on his keys when he finds them.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Keys",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Cooking",
+      "type": "topic",
+      "slug": "cooking",
+      "path": "topics/cooking.md",
+      "facts": [
+        {
+          "fact_id": "cooking#1",
+          "text": "Sam is taking a cooking class to learn how to make healthier meals",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#2",
+          "text": "Sam has learned healthy recipes in the cooking class",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#3",
+          "text": "Sam made a grilled dish with salmon and vegetables last night",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#4",
+          "text": "Sam marinated the salmon with several ingredients before grilling it with vegetables",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#5",
+          "text": "Sam has an easy roasted vegetable recipe to share",
+          "date_label": "15 August, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#6",
+          "text": "Sam enjoys a healthy grilled chicken and veggie stir-fry",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#7",
+          "text": "Sam makes a homemade sauce for the grilled chicken and veggie stir-fry",
+          "date_label": "19 August, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#8",
+          "text": "Evan's family get-together included homemade lasagna",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#9",
+          "text": "Sam had homemade lasagna for dinner",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#10",
+          "text": "Evan got a salad idea from a nearby restaurant.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Road trips",
+      "type": "topic",
+      "slug": "road-trips",
+      "path": "topics/road-trips.md",
+      "facts": [
+        {
+          "fact_id": "road-trips#1",
+          "text": "Sam has not gone on a road trip in ages",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Road trips",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "road-trips#2",
+          "text": "Evan uses going for a drive to de-stress",
+          "date_label": "11 September, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Road trips",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "road-trips#3",
+          "text": "Evan takes his car out for a spin to stay in shape",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Road trips",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "road-trips#4",
+          "text": "Evan relies on his Prius for road trips",
+          "date_label": "5 December, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Road trips",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "road-trips#5",
+          "text": "Sam has recently been on a few car rides to relax and enjoy the view",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Road trips",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "road-trips#6",
+          "text": "Sam took a photo of a field with a fence and a dirt road last week in the country",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Road trips",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Rocky Mountains road trip",
+      "type": "event",
+      "slug": "rocky-mountains-road-trip",
+      "path": "events/rocky-mountains-road-trip.md",
+      "facts": [
+        {
+          "fact_id": "rocky-mountains-road-trip#1",
+          "text": "Evan took a road trip to the Rocky Mountains last month",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Rocky Mountains road trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "rocky-mountains-road-trip#2",
+          "text": "The scenery on Evan's Rocky Mountains road trip was stunning",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Rocky Mountains road trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "rocky-mountains-road-trip#3",
+          "text": "Evan felt relaxed and refreshed during his Rocky Mountains road trip",
+          "date_label": "27 August, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Rocky Mountains road trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "rocky-mountains-road-trip#4",
+          "text": "Evan and his companions took the Prius for a long drive to the mountains last weekend",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Rocky Mountains road trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Drawing",
+      "type": "topic",
+      "slug": "drawing",
+      "path": "topics/drawing.md",
+      "facts": [
+        {
+          "fact_id": "drawing#1",
+          "text": "Sam is learning how to draw",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Drawing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "drawing#2",
+          "text": "Sam sketches occasionally.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Drawing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Helping a lost tourist",
+      "type": "event",
+      "slug": "helping-a-lost-tourist",
+      "path": "events/helping-a-lost-tourist.md",
+      "facts": [
+        {
+          "fact_id": "helping-a-lost-tourist#1",
+          "text": "Evan helped a lost tourist find their way two weeks ago",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Helping a lost tourist",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "helping-a-lost-tourist#2",
+          "text": "Evan and the tourist took an unexpected tour around the city",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Helping a lost tourist",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "helping-a-lost-tourist#3",
+          "text": "Evan recently encountered another lost tourist.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Helping a lost tourist",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Phone navigation",
+      "type": "topic",
+      "slug": "phone-navigation",
+      "path": "topics/phone-navigation.md",
+      "facts": [
+        {
+          "fact_id": "phone-navigation#1",
+          "text": "Sam has been frustrated with his new phone's malfunctioning navigation app",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Phone navigation",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "phone-navigation#2",
+          "text": "Sam's phone navigation app makes getting around challenging",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Phone navigation",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "phone-navigation#3",
+          "text": "Sam's phone has been causing stress.",
+          "date_label": "17 October, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Phone navigation",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Writing",
+      "type": "topic",
+      "slug": "writing",
+      "path": "topics/writing.md",
+      "facts": [
+        {
+          "fact_id": "writing#1",
+          "text": "Sam expresses himself through writing",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#2",
+          "text": "Sam finds writing therapeutic",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#3",
+          "text": "Sam writes in his journal to express his innermost thoughts and feelings",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#4",
+          "text": "Sam does creative writing to express his innermost thoughts and feelings",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#5",
+          "text": "Sam uses writing to make sense of things and express his feelings",
+          "date_label": "6 October, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Kayaking",
+      "type": "topic",
+      "slug": "kayaking",
+      "path": "topics/kayaking.md",
+      "facts": [
+        {
+          "fact_id": "kayaking#1",
+          "text": "Sam is considering trying kayaking",
+          "date_label": "14 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Kayaking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "kayaking#2",
+          "text": "Sam planned to try kayaking on a lake with a mate",
+          "date_label": "14 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Kayaking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "kayaking#3",
+          "text": "Sam traveled through Lake Tahoe for kayaking",
+          "date_label": "14 October, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Kayaking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "kayaking#4",
+          "text": "Evan went kayaking and watched the sunset last summer",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Kayaking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "kayaking#5",
+          "text": "Evan finds being out on the water peaceful",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Kayaking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Beach",
+      "type": "topic",
+      "slug": "beach",
+      "path": "topics/beach.md",
+      "facts": [
+        {
+          "fact_id": "beach#1",
+          "text": "Evan often visits a peaceful place close to Evan's home to relax and unwind",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Beach",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "beach#2",
+          "text": "Evan took a photo last Friday at Evan's favorite spot by the beach",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Beach",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "beach#3",
+          "text": "Watching the waves and sunset colors helps Evan find peace during tough times",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Beach",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "beach#4",
+          "text": "Evan and Sam plan to visit Evan's favorite beach spot together next month",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Beach",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "beach#5",
+          "text": "Evan feels peaceful and serene on his childhood island",
+          "date_label": "21 November, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Beach",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "beach#6",
+          "text": "Evan enjoys going on beach sunsets for exercise and calming effects.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Beach",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "beach#7",
+          "text": "Sam plans to go for beach walks.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Beach",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Guitar",
+      "type": "topic",
+      "slug": "guitar",
+      "path": "topics/guitar.md",
+      "facts": [
+        {
+          "fact_id": "guitar#1",
+          "text": "Evan received a 1968 Kustom K-200A vintage guitar as a gift from a close friend",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Guitar",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Job hunt",
+      "type": "topic",
+      "slug": "job-hunt",
+      "path": "topics/job-hunt.md",
+      "facts": [
+        {
+          "fact_id": "job-hunt#1",
+          "text": "Evan lost Evan's job last month",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Job hunt",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "job-hunt#2",
+          "text": "Evan lost Evan's job because the company downsized and Evan was part of the downsizing",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Job hunt",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "job-hunt#3",
+          "text": "Evan is currently looking for a new job",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Job hunt",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "job-hunt#4",
+          "text": "Evan is staying hopeful during Evan's job search",
+          "date_label": "9 November, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Job hunt",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Love",
+      "type": "topic",
+      "slug": "love",
+      "path": "topics/love.md",
+      "facts": [
+        {
+          "fact_id": "love#1",
+          "text": "Evan believes in love at first sight.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Love",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "love#2",
+          "text": "Evan felt love at first sight for his wife.",
+          "date_label": "26 December, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Love",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Car accident",
+      "type": "event",
+      "slug": "car-accident",
+      "path": "events/car-accident.md",
+      "facts": [
+        {
+          "fact_id": "car-accident#1",
+          "text": "Evan and his companions had a minor accident on the way back from the mountains",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Car accident",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Nature",
+      "type": "topic",
+      "slug": "nature",
+      "path": "topics/nature.md",
+      "facts": [
+        {
+          "fact_id": "nature#1",
+          "text": "Nature brings Evan peace and clarity",
+          "date_label": "31 December, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#2",
+          "text": "Sam finds being in nature relaxing and enjoys getting fresh air away from the city",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#3",
+          "text": "Sam plans to spend more time in nature",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#4",
+          "text": "Evan felt a bit down last spring and found that vibrant colors brought him a moment of happiness",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Family wedding",
+      "type": "event",
+      "slug": "family-wedding",
+      "path": "events/family-wedding.md",
+      "facts": [
+        {
+          "fact_id": "family-wedding#1",
+          "text": "Sam's dessert photo was from his cousin's wedding",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Family wedding",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Marriage announcement",
+      "type": "event",
+      "slug": "marriage-announcement",
+      "path": "events/marriage-announcement.md",
+      "facts": [
+        {
+          "fact_id": "marriage-announcement#1",
+          "text": "Evan and his partner told their extended families about their marriage yesterday",
+          "date_label": "6 January, 2024",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Marriage announcement",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Roses incident",
+      "type": "event",
+      "slug": "roses-incident",
+      "path": "events/roses-incident.md",
+      "facts": [
+        {
+          "fact_id": "roses-incident#1",
+          "text": "Evan had a pee accident near someone's roses after drinking too much yesterday.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Roses incident",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "roses-incident#2",
+          "text": "Evan apologized for the pee accident near the roses.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Roses incident",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "roses-incident#3",
+          "text": "The people involved in Evan's roses incident were understanding.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Roses incident",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "roses-incident#4",
+          "text": "Evan's partner was not thrilled about the rose bushes incident but understood it was an accident",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Roses incident",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "roses-incident#5",
+          "text": "Evan promised his partner to be more careful with the rose bushes in the future",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Roses incident",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Snowshoeing",
+      "type": "topic",
+      "slug": "snowshoeing",
+      "path": "topics/snowshoeing.md",
+      "facts": [
+        {
+          "fact_id": "snowshoeing#1",
+          "text": "Evan and his partner tried snowshoeing this weekend.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Snowshoeing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "snowshoeing#2",
+          "text": "Evan found snowshoeing surprisingly fun.",
+          "date_label": "10 January, 2024",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Snowshoeing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Camping",
+      "type": "event",
+      "slug": "camping",
+      "path": "events/camping.md",
+      "facts": [
+        {
+          "fact_id": "camping#1",
+          "text": "Evan took a photo on a camping trip last summer",
+          "date_label": "11 January, 2024",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Camping",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    }
+  ]
+}

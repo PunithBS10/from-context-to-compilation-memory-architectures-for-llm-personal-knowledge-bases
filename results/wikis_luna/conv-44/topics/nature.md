@@ -1,0 +1,47 @@
+---
+title: Nature
+type: topic
+sources: [session_3, session_4, session_6, session_7, session_8, session_9, session_10, session_11, session_14, session_16, session_17, session_19, session_20, session_21, session_27]
+---
+
+- Andrew feels that he thrives when he is out in nature — 16 April, 2023
+- Andrew feels connected to nature — 16 April, 2023
+- Andrew finds nature soothing when life becomes chaotic — 16 April, 2023
+- Andrew finds it difficult to spend time outdoors and connect with nature while living in the city — 16 April, 2023
+- Andrew finds nature therapeutic. — 3 May, 2023
+- Andrew enjoys being surrounded by greenery and standing on top of a mountain breathing fresh air. — 3 May, 2023
+- Andrew tries to capture special moments in nature and share the feeling with others. — 3 May, 2023
+- Andrew finds joy in spreading peaceful feelings and motivating people to find their own peace. — 3 May, 2023
+- Andrew found nature peaceful during his hike last weekend — 11 May, 2023
+- Audrey said that nature cheers her up and makes her feel grateful. — 2 June, 2023
+- Andrew turns to nature when he needs a reset — 13 June, 2023
+- Andrew finds nature refreshing and calming — 13 June, 2023
+- Audrey finds nature peaceful and inspiring — 13 June, 2023
+- Audrey believes nature can make people think differently — 13 June, 2023
+- Audrey believes nature makes people feel alive and centered — 13 June, 2023
+- Andrew enjoyed hearing birdsong and smelling the trees during his hike last Friday — 26 June, 2023
+- Andrew has been missing his connection with nature and the peace it brings — 26 June, 2023
+- Audrey and her friends sat by the lake, chatted, and admired the peacefulness of nature a few years ago — 26 June, 2023
+- Audrey finds nature and lakes calming — 26 June, 2023
+- Audrey finds nature calming and restorative with her dogs. — 3 July, 2023
+- Andrew finds being in nature refreshing and joyful. — 8 July, 2023
+- Audrey found the sunset's vibrant colors peaceful and breathtaking. — 8 July, 2023
+- Audrey feels grateful for moments that remind her of nature's beauty and the importance of appreciating small things. — 8 July, 2023
+- Audrey believes that appreciating beautiful moments makes life much better. — 8 July, 2023
+- Andrew says nature calms and relaxes his mind — 4 August, 2023
+- Andrew plans to visit a nature reserve this weekend to reconnect with the outdoors — 19 August, 2023
+- Audrey sat by a gorgeous mountain lake with friends a few years ago — 24 August, 2023
+- Audrey has a small garden. — 24 September, 2023
+- Audrey's flowers are doing well and her vegetable patch is growing. — 24 September, 2023
+- Audrey grows Peruvian Lilies. — 24 September, 2023
+- Audrey's Peruvian Lilies have bright colors and delicate petals. — 24 September, 2023
+- Audrey says Peruvian Lilies are easy to care for and need water and sufficient sunlight. — 24 September, 2023
+- Andrew has read books about ecological systems — 1 October, 2023
+- Andrew learned about animals, plants, and ecosystems from reading about ecological systems — 1 October, 2023
+- Andrew believes humans need to look after nature — 1 October, 2023
+- Audrey recycles — 1 October, 2023
+- Audrey usually takes public transport — 1 October, 2023
+- Andrew suggested biking or using public transport to reduce their carbon footprints — 1 October, 2023
+- Andrew finds it harder to explore nature because of his job and living in the city — 4 October, 2023
+- Andrew feels a void in his heart from having less access to nature — 4 October, 2023
+- Andrew and his girlfriend discovered a park outside the city — 4 November, 2023

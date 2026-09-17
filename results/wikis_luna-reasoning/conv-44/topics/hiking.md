@@ -1,0 +1,41 @@
+---
+title: Hiking
+type: topic
+sources: [session_1, session_2, session_3, session_4, session_6, session_10, session_12, session_14, session_18, session_21, session_23, session_24]
+---
+
+- Andrew considers Fox Hollow a great trail for weekend hikes — 27 March, 2023
+- Audrey plans to try hiking at Fox Hollow — 27 March, 2023
+- Andrew misses exploring nature trails with his family's dog — 2 April, 2023
+- Andrew says hiking with a dog is a way to bond and create memories — 2 April, 2023
+- Audrey wants to hike with her dogs — 2 April, 2023
+- Andrew feels that he thrives when he is out in nature — 16 April, 2023
+- Andrew misses the peacefulness of hiking — 16 April, 2023
+- Andrew feels connected to nature — 16 April, 2023
+- Andrew finds nature soothing when life becomes chaotic — 16 April, 2023
+- Audrey went on a hike last week. — 3 May, 2023
+- Andrew found a new open space nearby where he can hike. — 3 May, 2023
+- Andrew tries to escape the city at least once a weekend for a break. — 3 May, 2023
+- Andrew finds nature therapeutic. — 3 May, 2023
+- Andrew feels peaceful and invigorated when surrounded by greenery or standing on a mountain breathing fresh air. — 3 May, 2023
+- Andrew tries to capture special moments in nature and share their feeling with others. — 3 May, 2023
+- Andrew enjoys motivating people to find their own peace. — 3 May, 2023
+- Audrey's dogs love going on hikes. — 3 May, 2023
+- Audrey's dogs enjoy exploring new scents and being in nature. — 3 May, 2023
+- Andrew went hiking last weekend with some friends and his girlfriend at a spot they found recently — 11 May, 2023
+- Audrey has not had much time to explore new trails because of the dog-training course — 3 July, 2023
+- Andrew has been limited to urban adventures because he cannot hike — 3 July, 2023
+- Andrew misses the peace and feeling of freedom that come with hiking — 11 July, 2023
+- Audrey took a two-hour trail hike with her dogs — 4 August, 2023
+- Andrew finds hiking refreshing because of the trees and fresh air — 4 August, 2023
+- Andrew enjoys reaching the top of challenging trails — 4 August, 2023
+- Andrew wants to take Toby hiking — 4 August, 2023
+- Andrew planned to take Toby on a small hike at a local trail — 4 August, 2023
+- Andrew wants to hike with Toby — 6 September, 2023
+- Andrew used to hike a lot — 4 October, 2023
+- Andrew finds hiking more challenging because of his work-life balance — 4 October, 2023
+- Andrew visits nearby parks or goes on hikes whenever he can — 13 October, 2023
+- Audrey plans to go on a hike with her dogs — 13 October, 2023
+- Audrey has hiked with her dogs before — 13 October, 2023
+- Buddy enjoys exploring new hiking trails with Andrew — 19 October, 2023
+- Andrew plans to take Buddy and Toby to the trails together soon — 19 October, 2023

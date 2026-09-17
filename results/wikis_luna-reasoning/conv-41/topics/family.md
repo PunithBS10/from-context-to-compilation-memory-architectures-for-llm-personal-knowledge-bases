@@ -1,0 +1,41 @@
+---
+title: Family
+type: topic
+sources: [session_2, session_4, session_5, session_8, session_13, session_16, session_19, session_20, session_21, session_22, session_24, session_31]
+---
+
+- John's family had a picnic in a park — 22 December, 2022
+- John's family enjoys spending time at a playground — 22 December, 2022
+- John and his family enjoy climbing at the playground — 22 December, 2022
+- John and his family enjoy sliding at the playground — 22 December, 2022
+- John and his family enjoy playing games at the playground — 22 December, 2022
+- John's family gathered around a kitchen table for dinner — 22 December, 2022
+- John and his family made pizza together — 22 December, 2022
+- John and his family shared a meal together — 22 December, 2022
+- Maria spends time with her friends by watching movies — 22 December, 2022
+- Maria spends time with her friends by hiking — 22 December, 2022
+- Maria has game nights with her friends at her place — 22 December, 2022
+- Maria values quality connections — 22 December, 2022
+- John has been busy with family since they last chatted — 9 January, 2023
+- Maria's aunt used to help Maria's family when they were struggling. — 28 January, 2023
+- John's family is doing great — 6 March, 2023
+- John takes his kids to the park a few times a week — 6 March, 2023
+- John's family supports each other during boot camp workouts — 4 May, 2023
+- John's family cheers each other on during workouts — 4 May, 2023
+- John's family provides each other with emotional support outside workouts — 4 May, 2023
+- John considers his family his biggest support — 4 May, 2023
+- John and his family have each other's backs through good times and bad — 4 May, 2023
+- Maria relies on her family for strength during tough times — 4 May, 2023
+- Maria and her mother made dinner together last night — 4 May, 2023
+- John shared a photo of his family at the beach — 25 May, 2023
+- John's family supports him on his journey — 16 June, 2023
+- Maria relies on her friends and family for support. — 27 June, 2023
+- Maria's family gives her words of encouragement. — 27 June, 2023
+- Maria's family reminds her that she is not alone. — 27 June, 2023
+- Maria's cousin had a tough time recently — 3 July, 2023
+- John's family motivates him to keep striving for change — 5 July, 2023
+- John looks at a family picture when times get hard to remember why he is pursuing change — 5 July, 2023
+- John planned to try the community event activities with his family and friends — 17 July, 2023
+- John and his family enjoy hiking — 13 August, 2023
+- John and his family enjoy spending time at the park and having picnics — 13 August, 2023
+- John and his family enjoy playing board games and having movie nights at home — 13 August, 2023

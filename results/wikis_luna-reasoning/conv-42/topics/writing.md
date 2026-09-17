@@ -1,0 +1,107 @@
+---
+title: Writing
+type: topic
+sources: [session_1, session_2, session_3, session_4, session_5, session_6, session_7, session_9, session_10, session_11, session_12, session_13, session_14, session_15, session_16, session_17, session_18, session_19, session_21, session_22, session_23, session_24, session_25, session_26, session_27, session_28, session_29]
+---
+
+- Joanna enjoys writing — 21 January, 2022
+- Writing brings Joanna joy. — 23 January, 2022
+- Joanna uses writing to express herself through stories. — 23 January, 2022
+- Joanna uses writing to express her feelings. — 23 January, 2022
+- Joanna plans to keep pursuing her passion for writing. — 23 January, 2022
+- Joanna submitted a screenplay to a film festival — 7 February, 2022
+- Joanna put a lot of effort into her screenplay — 7 February, 2022
+- Joanna started writing another screenplay while waiting to hear back about how her first screenplay did — 25 February, 2022
+- Joanna's new screenplay is about a thirty-year-old woman on a journey of self-discovery after a loss — 25 February, 2022
+- Joanna's new screenplay is somewhat similar to her last screenplay — 25 February, 2022
+- Joanna's new screenplay is based on her own story — 25 February, 2022
+- The main character in Joanna's new screenplay deals with loss and trying to figure out who they are — 25 February, 2022
+- The main character in Joanna's new screenplay takes a road trip to heal and grow — 25 February, 2022
+- Joanna's new screenplay was inspired by personal experiences and her own journey of self-discovery — 25 February, 2022
+- Joanna hopes her first screenplay gets noticed and makes it to the screen — 25 February, 2022
+- Joanna wrapped up her second script — 18 March, 2022
+- Joanna sometimes feels relieved and sometimes anxious after wrapping up her second script — 18 March, 2022
+- Joanna feels excitement and terror about her work getting noticed and reaching the big screen — 18 March, 2022
+- Joanna has been researching and networking nonstop for her script — 18 March, 2022
+- Joanna had an audition yesterday for a writing gig — 24 March, 2022
+- Joanna felt excited and anxious about the writing audition — 24 March, 2022
+- Joanna says reading lots and trying different genres helps aspiring writers build an understanding of literature — 24 March, 2022
+- Joanna advises aspiring writers to write and share their work, practice, and gather feedback — 24 March, 2022
+- Joanna believes writers should have faith in themselves and continue following their writing dreams — 24 March, 2022
+- Nate wants to pursue writing — 24 March, 2022
+- Joanna's writing is consuming her right now — 15 April, 2022
+- Joanna joined a writers group. — 21 April, 2022
+- Joanna finds her writers group inspirational and supportive. — 21 April, 2022
+- Joanna feels motivated and supported by her writers group. — 21 April, 2022
+- Joanna currently expresses herself through writing. — 21 April, 2022
+- Joanna has been working on a screenplay — 2 May, 2022
+- Joanna feels she could write a whole movie when she is out in cool places — 12 May, 2022
+- Joanna felt that the trails made her want to write a drama — 12 May, 2022
+- Nate may start thinking about a drama and publish his own screenplay — 12 May, 2022
+- Joanna uses writing and creative projects to get through tough times. — 20 May, 2022
+- Joanna discusses her work with her friends and receives feedback. — 20 May, 2022
+- Joanna has completed her third writing project. — 20 May, 2022
+- Joanna's latest story is about loss, identity, and connection. — 20 May, 2022
+- Joanna had the story for ages before writing it. — 20 May, 2022
+- Joanna's latest story is personal to her. — 20 May, 2022
+- Joanna is proud of her latest story. — 20 May, 2022
+- Joanna likes writing about sadness and loss. — 20 May, 2022
+- Joanna writes best when she is true to herself. — 20 May, 2022
+- Joanna believes meaningful stories come from personal experiences and feelings. — 20 May, 2022
+- Joanna experienced tough times while finishing her screenplay — 25 May, 2022
+- Joanna plans to show her screenplay to Nate — 25 May, 2022
+- Joanna values Nate's opinion of her screenplay — 25 May, 2022
+- Nate supports Joanna with her screenplay — 25 May, 2022
+- Joanna finished her screenplay — 3 June, 2022
+- A major company sent Joanna a rejection letter for her screenplay — 3 June, 2022
+- The major company's rejection letter gave Joanna little feedback — 3 June, 2022
+- Joanna wrote a few bits for a screenplay that appeared on the big screen yesterday — 5 June, 2022
+- Joanna found seeing her screenplay words come alive nerve-wracking and inspiring — 5 June, 2022
+- Joanna submitted her recent screenplay to a film contest — 24 June, 2022
+- Joanna's research into Woodhaven's past sparked ideas for her next script — 10 July, 2022
+- Joanna's new script is different from her previous work — 10 July, 2022
+- Joanna started writing a book recently because her movie did well — 10 July, 2022
+- Joanna's book includes dialogues exploring loss, redemption, and forgiveness — 10 July, 2022
+- Joanna has never tried publishing a book — 10 July, 2022
+- Joanna is considering making the book her first published book — 10 July, 2022
+- Joanna has been busy with writing projects. — 14 August, 2022
+- Joanna considers her journal her rock. — 14 August, 2022
+- Writing has become a major part of Joanna's life. — 14 August, 2022
+- Joanna uses writing as an escape and a way to express her feelings. — 14 August, 2022
+- Joanna believes words can be healing. — 14 August, 2022
+- Last week, someone wrote Joanna a letter after reading her online blog post about a hard moment in her life. — 14 August, 2022
+- The person who wrote Joanna a letter said that Joanna's story had brought them comfort. — 14 August, 2022
+- Joanna's writing can make a difference to other people. — 14 August, 2022
+- Joanna shares her stories through writing. — 14 August, 2022
+- Joanna shared her book with her writers group last week — 22 August, 2022
+- Joanna received great feedback from her writers group — 22 August, 2022
+- Joanna was nervous about sharing her book with her writers group last week — 22 August, 2022
+- Joanna's laptop crashed last week — 14 September, 2022
+- Joanna lost all of her work when her laptop crashed last week — 14 September, 2022
+- Joanna could not recover any of her lost work — 14 September, 2022
+- Joanna now uses an external drive to back up her work — 14 September, 2022
+- Joanna finished writing her book last week — 6 October, 2022
+- Joanna worked late nights and made many edits while writing her book — 6 October, 2022
+- Joanna is proud of finishing her book — 6 October, 2022
+- Nate supports Joanna's writing goals — 6 October, 2022
+- Nate suggested that Joanna attend a writing convention — 9 October, 2022
+- Tilly is always with Joanna while she writes — 21 October, 2022
+- Joanna's characters and dialogue were acted out in the movie — 25 October, 2022
+- Joanna's favorite part was seeing her characters come alive — 25 October, 2022
+- Joanna draws visuals of her characters to help bring them alive in her head and write better — 25 October, 2022
+- Joanna gets character ideas from people she knows, things she sees, and her imagination — 25 October, 2022
+- Joanna feels hopeful and inspired about the future — 4 November, 2022
+- Joanna found old notebooks with her early writings last week — 4 November, 2022
+- Joanna wrote a story about a brave little turtle when she was 10 — 4 November, 2022
+- Joanna's turtle story was about a scared turtle exploring the world anyway — 4 November, 2022
+- Joanna's writing includes themes of finding courage and taking risks — 4 November, 2022
+- Joanna is writing another movie script — 7 November, 2022
+- Joanna hopes to get her new movie script on the big screen — 7 November, 2022
+- Joanna got the idea for her new script from a dream — 7 November, 2022
+- Creating stories and watching them come alive gives Joanna happiness and fulfillment — 7 November, 2022
+- Joanna submitted a few more scripts last week — 7 November, 2022
+- Joanna assumes that a few of her submitted scripts will be rejected — 7 November, 2022
+- Joanna finished the introduction to her next movie script — 7 November, 2022
+- Joanna included a handwritten letter at the beginning of her next movie script — 7 November, 2022
+- Joanna is working on a suspenseful thriller set in a small Midwestern town — 9 November, 2022
+- An actor told Joanna that she liked Joanna's script — 11 November, 2022

@@ -1,0 +1,32 @@
+---
+title: Infrastructure
+type: topic
+sources: [session_1, session_5, session_9, session_12, session_14, session_22, session_23, session_28]
+---
+
+- John is passionate about improving infrastructure in his community. — 17 December, 2022 [D1:8]
+- John saw crumbling infrastructure affect his neighborhood while growing up. — 17 December, 2022 [D1:10]
+- John believes infrastructure should be funded properly. — 17 December, 2022 [D1:10]
+- John realized that upgrades are crucial, especially for children. — 28 January, 2023 [D5:1]
+- John is particularly interested in improving infrastructure. — 2 April, 2023 [D9:8]
+- John's community involvement has shown him the impact infrastructure issues have on his neighbors. — 2 April, 2023 [D9:10]
+- John knows firsthand how education and infrastructure affect neighborhoods — 18 April, 2023 [D12:1]
+- John has recently focused on infrastructure development — 18 April, 2023 [D12:5]
+- John believes updated infrastructure is important for a thriving and successful community — 18 April, 2023 [D12:5]
+- John experienced a power cut in his area last week. — 6 May, 2023 [D14:13]
+- The power cut made John realize the importance of upgrading infrastructure for stable services for everyone. — 6 May, 2023 [D14:13]
+- John says the roadways in his area are full of potholes. — 6 May, 2023 [D14:15]
+- John says potholes can be dangerous for drivers and damaging to cars. — 6 May, 2023 [D14:15]
+- John is thinking about starting a community infrastructure project. — 6 May, 2023 [D14:17]
+- John wants to get the neighborhood's backing for the infrastructure project. — 6 May, 2023 [D14:17]
+- John wants to fight for better housing and living conditions in his neighborhood. — 6 May, 2023 [D14:19]
+- John wants to improve affordable housing access for everyone. — 6 May, 2023 [D14:20]
+- John wants to improve his old area, West County. — 6 May, 2023 [D14:21]
+- Maria wants to help create a safe and bustling environment for the community. — 6 May, 2023 [D14:22]
+- John believes education and infrastructure are important for shaping communities. — 5 July, 2023 [D22:1]
+- John's old area was hit by a nasty flood last week — 7 July, 2023 [D23:1]
+- The infrastructure in John's old area was not great — 7 July, 2023 [D23:1]
+- Lots of homes in John's old area were ruined by the flood last week — 7 July, 2023 [D23:1]
+- John helped renovate a rundown community center in his hometown last year. — 5 August, 2023 [D28:11]
+- The community center renovation brought people together to help. — 5 August, 2023 [D28:13]
+- The renovated community center has become very busy. — 5 August, 2023 [D28:13]

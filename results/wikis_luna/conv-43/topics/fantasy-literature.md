@@ -1,0 +1,63 @@
+---
+title: Fantasy literature
+type: topic
+sources: [session_2, session_3, session_4, session_5, session_6, session_8, session_9, session_11, session_12, session_13, session_15, session_17, session_19, session_20, session_22, session_26, session_27, session_28]
+---
+
+- Tim joined a fantasy literature forum last night and discussed his favorite books — 15 June, 2023
+- Tim uses fantasy books to escape and feel free — 16 July, 2023
+- Tim feels bliss when reading in a comfortable spot — 16 July, 2023
+- Tim is writing articles about fantasy novels for an online magazine — 2 August, 2023
+- Tim found the writing opportunity on a fantasy literature forum — 2 August, 2023
+- Tim shared his article ideas with the magazine, and the magazine liked them — 2 August, 2023
+- Tim's articles study characters and themes in different fantasy novels — 2 August, 2023
+- Tim makes book recommendations in his articles — 2 August, 2023
+- Tim loves writing about Harry Potter and Game of Thrones — 2 August, 2023
+- Tim reads fantasy books for peace — 9 August, 2023
+- Tim is currently reading a fantasy book by Patrick Rothfuss — 9 August, 2023
+- Tim enjoys the world-building and characters in the Patrick Rothfuss book — 9 August, 2023
+- John plans to read the Patrick Rothfuss book recommended by Tim — 9 August, 2023
+- Tim recommends "The Name of the Wind" as a fantasy novel — 11 August, 2023
+- Tim likes the world-building and character development in "The Name of the Wind" — 11 August, 2023
+- Tim reads fantasy books to take a break from stress — 21 August, 2023
+- Tim is trying to balance studying with his fantasy reading hobby. — 26 August, 2023
+- Tim enjoys reading fantasy novels. — 26 August, 2023
+- Tim loves immersing himself in different magical worlds through reading. — 26 August, 2023
+- Tim recommended a fantasy novel by Patrick Rothfuss to John — 21 September, 2023
+- Tim's fantasy novels fire up his imagination — 2 October, 2023
+- Tim's fantasy novels take him to alternate realities — 2 October, 2023
+- Tim uses fantasy novels as an escape from reality — 2 October, 2023
+- Tim's passion for fantasy brings him closer to people from around the world — 13 October, 2023
+- Tim has been reading J.K. Rowling's works for a long time. — 21 October, 2023
+- John finished an amazing fantasy series. — 11 November, 2023
+- John enjoys getting lost in fantasy worlds. — 11 November, 2023
+- Tim considers "That" one of his favorite fantasy shows. — 11 November, 2023
+- John has seen "That". — 11 November, 2023
+- John views books and movies as a mental break that lets his mind rest and wander. — 11 November, 2023
+- Tim views books and movies as a way to take a break from life and recharge. — 11 November, 2023
+- Tim considers Harry Potter and Game of Thrones his favorite fantasy works — 21 November, 2023
+- John enjoys fantasy books because they fuel his creativity — 21 November, 2023
+- Tim and John are both interested in fantasy books and movies. — 1 December, 2023
+- Tim considers The Hobbit one of his favorite books. — 1 December, 2023
+- John considers The Hobbit one of his favorite books. — 1 December, 2023
+- Tim has read another popular fantasy series. — 1 December, 2023
+- John has read another popular fantasy series and considers it one of his favorites. — 1 December, 2023
+- Tim and John enjoy fantasy books because they provide an escape from reality and an adventure in different worlds. — 1 December, 2023
+- Tim is reading a series about the power of friendship and loyalty — 8 December, 2023
+- Tim has read the Game of Thrones series by George R. R. Martin — 8 December, 2023
+- John has not read the Game of Thrones books — 8 December, 2023
+- Tim enjoys epic adventures and magical worlds — 26 December, 2023
+- Tim's favorite fantasy work is The Lord of the Rings — 26 December, 2023
+- Tim is excited about the upcoming fantasy television series The Wheel of Time — 26 December, 2023
+- The Wheel of Time television series is based on a book series that Tim loves — 26 December, 2023
+- Star Wars is Tim's favorite fantasy film series — 2 January, 2024
+- John is a huge fan of Lord of the Rings — 2 January, 2024
+- John has watched many Lord of the Rings films — 2 January, 2024
+- Aragorn is John's favorite Lord of the Rings character — 2 January, 2024
+- John admires Aragorn's leadership and selflessness — 2 January, 2024
+- John has a painting in his room that reminds him to stay true and be a leader — 2 January, 2024
+- John is inspired by Aragorn's bravery, selflessness, and down-to-earth attitude — 2 January, 2024
+- John admires Aragorn for never giving up and standing up for justice — 2 January, 2024
+- Tim has a map of Middle-earth from Lord of the Rings — 2 January, 2024
+- Tim enjoys exploring cultures and landscapes through fantasy stories — 2 January, 2024
+- Tim is currently reading the fantasy novel "The Name of the Wind" by Patrick Rothfuss. — 7 January, 2024

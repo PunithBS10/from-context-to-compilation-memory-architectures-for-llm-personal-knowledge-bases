@@ -1,0 +1,49 @@
+---
+title: Dog care
+type: topic
+sources: [session_15, session_16, session_17, session_18, session_19, session_25, session_26, session_27, session_28]
+---
+
+- Audrey took all four dogs to the vet for checkups. — 16 August, 2023
+- Audrey plans to take her dogs to the vet one by one next time. — 16 August, 2023
+- Audrey learned dog grooming techniques by taking a dog grooming course — 19 August, 2023
+- Audrey grooms her pups herself — 19 August, 2023
+- Audrey's dogs look soft and fluffy after grooming — 19 August, 2023
+- Audrey recommends grooming slowly and gently — 19 August, 2023
+- Audrey recommends paying attention to sensitive areas such as dogs' ears and paws during grooming — 19 August, 2023
+- Audrey recommends staying patient and positive throughout the grooming process — 19 August, 2023
+- Audrey keeps her dogs healthy and happy with daily brushing, regular baths, nail trims, and love — 24 August, 2023
+- Audrey feels responsible for taking care of her dogs — 24 August, 2023
+- Taking care of her dogs makes Audrey happy — 24 August, 2023
+- Audrey advised Andrew that bonding with Toby takes time and should not be rushed — 24 August, 2023
+- Audrey got new beds for her dogs last week — 6 September, 2023
+- Audrey's dogs love sleeping on their new beds — 6 September, 2023
+- One of Audrey's dogs pulled so hard last Friday at the park that the leash broke. — 24 September, 2023
+- Audrey caught her dog before the dog ran away or was hurt. — 24 September, 2023
+- Audrey calmed her dog by petting and hugging the dog, speaking calmly, and walking slowly. — 24 September, 2023
+- Audrey takes her dogs for walks multiple times a day. — 24 September, 2023
+- Audrey's walks with her dogs provide exercise and bonding time. — 24 September, 2023
+- Audrey is caring for her dogs with one arm while recovering from her accident — 24 October, 2023
+- Audrey noticed that her dogs were not acting normally. — 28 October, 2023
+- Audrey made an appointment with an animal behaviorist last Wednesday. — 28 October, 2023
+- An animal behaviorist checked Audrey's dogs and asked questions about their problems. — 28 October, 2023
+- Audrey is devoted to keeping her dogs healthy and happy. — 28 October, 2023
+- Audrey recently joined a dog owners group — 4 November, 2023
+- Audrey meets with the dog owners group once a week — 4 November, 2023
+- Audrey meets other dog owners to exchange pet-care tips — 4 November, 2023
+- Andrew thinks having two dogs is already a lot to take care of — 4 November, 2023
+- Audrey recommends that Andrew focus on keeping Toby and Buddy happy and healthy before getting more dogs — 4 November, 2023
+- Andrew manages to care for his dogs while living in the city — 4 November, 2023
+- Audrey entertains her dogs at home with toys and games — 4 November, 2023
+- Audrey socializes and exercises her dogs daily — 4 November, 2023
+- Audrey provides her dogs with mental stimulation — 4 November, 2023
+- Audrey plays hide-and-seek with her dogs — 4 November, 2023
+- Audrey took her dogs to a pet salon last Friday. — 22 November, 2023
+- Audrey's dogs were excited at the pet salon and had wagging tails. — 22 November, 2023
+- Audrey's dogs looked cute after being groomed. — 22 November, 2023
+- Audrey's dogs behaved well at the pet salon. — 22 November, 2023
+- Audrey's dogs have shiny coats after being groomed. — 22 November, 2023
+- Andrew has not yet taken his dogs to the groomer. — 22 November, 2023
+- Andrew is keeping Scout on a leash while Scout gets used to being outside. — 22 November, 2023
+- Andrew and his girlfriend got Scout a bed, toys, and puppy pads. — 22 November, 2023
+- Andrew and his girlfriend are creating a safe space for Scout. — 22 November, 2023

@@ -1,0 +1,32 @@
+---
+title: Painting
+type: topic
+sources: [session_1, session_2, session_8, session_10, session_13, session_20, session_21]
+---
+
+- Sam considered trying painting. — 18 May, 2023 [D1:11]
+- Sam had not tried painting yet. — 18 May, 2023 [D1:13]
+- Sam is considering painting as a hobby to stay motivated and de-stress — 24 May, 2023 [D2:10]
+- Evan has been painting for a few years — 24 May, 2023 [D2:11]
+- Evan finds painting helps him find peace — 24 May, 2023 [D2:11]
+- Evan started taking painting classes a few days ago. — 19 August, 2023 [D8:12]
+- Evan is enjoying his painting classes. — 19 August, 2023 [D8:12]
+- A friend gave Evan a painting that inspired him to start painting. — 19 August, 2023 [D8:14]
+- Evan joined painting classes to find like-minded people and show them what he can do. — 19 August, 2023 [D8:14]
+- Evan believes he can always improve his painting skills. — 19 August, 2023 [D8:14]
+- Evan finds painting helps him find peace and express himself. — 19 August, 2023 [D8:16]
+- Evan finds painting helps him de-stress. — 11 September, 2023 [D10:7]
+- Sam wants to try painting as a calming hobby. — 11 September, 2023 [D10:8, D10:10]
+- Evan recommended acrylic paints, brushes, canvas or paper, and a palette as basic painting supplies. — 11 September, 2023 [D10:11]
+- Evan and Sam plan to paint together next Saturday. — 11 September, 2023 [D10:13, D10:14]
+- Evan finished a sunset painting — 14 October, 2023 [D13:3]
+- Evan uses painting to relax — 14 October, 2023 [D13:3]
+- Evan finished a contemporary figurative painting a few days ago. — 17 December, 2023 [D20:15]
+- Evan's contemporary figurative painting emphasizes emotional state through expressive brushwork and vibrant color choices. — 17 December, 2023 [D20:15]
+- Evan's contemporary figurative painting captures a moment of introspection in which the subject is deeply immersed in thought. — 17 December, 2023 [D20:15]
+- Evan is very proud of his contemporary figurative painting. — 17 December, 2023 [D20:15]
+- Evan's close friend helped him get his painting published in the exhibition. — 17 December, 2023 [D20:17]
+- Evan made a painting while feeling sad, mad, and hopeful. — 26 December, 2023 [D21:11, D21:12]
+- Evan uses art to recognize and handle his feelings. — 26 December, 2023 [D21:14]
+- Evan painted a picture with a sense of joy and freedom. — 26 December, 2023 [D21:15, D21:16]
+- Evan's painting uses spontaneous strokes and bold colors to reflect a playful and liberated mood. — 26 December, 2023 [D21:16]

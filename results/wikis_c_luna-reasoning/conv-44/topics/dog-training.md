@@ -1,0 +1,31 @@
+---
+title: Dog training
+type: topic
+sources: [session_6, session_10, session_14, session_19, session_26, session_27, session_28]
+---
+
+- The pet bonding workshop is a positive reinforcement training class — 11 May, 2023 [D6:4]
+- Audrey believes positive reinforcement is important for teaching pets how to behave — 11 May, 2023 [D6:12]
+- Audrey believes punishment is never the proper way to train pets — 11 May, 2023 [D6:12]
+- Audrey offered to give Andrew tips on training his future dog — 11 May, 2023 [D6:8]
+- Andrew plans to look into the dog training classes — 11 May, 2023 [D6:15]
+- Audrey is taking a dog training course. — 3 July, 2023 [D10:1]
+- Audrey finds the dog training course challenging but rewarding. — 3 July, 2023 [D10:1]
+- Audrey's dogs are doing better because of the dog training course. — 3 July, 2023 [D10:1, D10:3]
+- Audrey has not had much time to explore new trails because the dog training course is time-consuming. — 3 July, 2023 [D10:3]
+- Audrey started agility classes with her dogs at a dog park. — 4 August, 2023 [D14:2]
+- Audrey's dogs are learning to overcome agility challenges. — 4 August, 2023 [D14:2]
+- Audrey takes her dogs to the park twice a week for agility practice. — 4 August, 2023 [D14:4]
+- Audrey's agility practice with her dogs is a physical and mental workout. — 4 August, 2023 [D14:4]
+- Audrey's agility practice has been a bonding experience with her dogs. — 4 August, 2023 [D14:4]
+- Audrey believes that building trust with dogs requires patience and regular training. — 24 September, 2023 [D19:6]
+- Audrey gives her dogs time and love and praises their successes. — 24 September, 2023 [D19:6]
+- Audrey works on obedience training with her dogs. — 24 September, 2023 [D19:8]
+- Audrey teaches her dogs tricks such as sit, stay, shake, and roll over. — 24 September, 2023 [D19:8]
+- The animal behaviorist gave Audrey tips to help with her dogs' problems. — 28 October, 2023 [D26:3, D26:5]
+- The animal behaviorist suggested changes to Audrey's dogs' routine. — 28 October, 2023 [D26:5]
+- Audrey is using positive reinforcement techniques with her dogs. — 28 October, 2023 [D26:5]
+- Audrey's dogs are responding well to the new approach. — 28 October, 2023 [D26:7]
+- Audrey recommends adding mental stimulation to dogs' routines — 4 November, 2023 [D27:12]
+- Audrey gives her dogs puzzles, training, and hide-and-seek activities — 4 November, 2023 [D27:14]
+- Andrew is keeping Scout on a leash while Scout gets used to being outside. — 22 November, 2023 [D28:12]

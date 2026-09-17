@@ -1,0 +1,31 @@
+---
+title: Travel
+type: topic
+sources: [session_9, session_11, session_15, session_16, session_20, session_21, session_26, session_27, session_29]
+---
+
+- Tim loves traveling to new places. — 26 August, 2023 [D9:5]
+- John loves discovering new cities. — 26 August, 2023 [D9:6]
+- John and his teammates are planning a team trip next month to explore a new city — 21 September, 2023 [D11:7]
+- John and his teammates have not decided on a destination for their team trip — 21 September, 2023 [D11:9]
+- Tim suggested Edinburgh, Scotland as a destination for John's team trip — 21 September, 2023 [D11:10]
+- John has not been to Edinburgh — 21 September, 2023 [D11:11]
+- John is fascinated by different cultures and historical architecture. — 21 October, 2023 [D15:2]
+- John is excited to explore the world and experience beautiful places. — 21 October, 2023 [D15:2]
+- Tim enjoys road trips with friends and family. — 21 October, 2023 [D15:29]
+- John and his wife left for a short European vacation. — 6 November, 2023 [D16:14]
+- Tim took a trip last summer — 1 December, 2023 [D20:33]
+- Tim joined a travel club — 6 December, 2023 [D21:1]
+- Tim has always been interested in different cultures and countries — 6 December, 2023 [D21:1]
+- Tim is reading stories from travelers around the world to plan his next adventure — 26 December, 2023 [D26:6]
+- Tim found a book containing many stories from travelers around the world — 26 December, 2023 [D26:6]
+- Tim read a story about two hikers who trekked through the Himalayas — 26 December, 2023 [D26:8]
+- The Himalayan trek in Tim's book involved challenging terrain, altitude sickness, and bad weather — 26 December, 2023 [D26:10]
+- The hikers in Tim's book completed the Himalayan trek and saw amazing sights — 26 December, 2023 [D26:10]
+- Tim joined a group of globetrotters who share his interests — 2 January, 2024 [D27:1]
+- Tim considers Italy a place he wants to visit — 2 January, 2024 [D27:3]
+- John loves traveling as a way to learn about different cultures and places — 2 January, 2024 [D27:36]
+- John considers travel eye-opening and educational — 2 January, 2024 [D27:39, D27:40]
+- Tim is researching visa requirements for countries he wants to visit. — 12 January, 2024 [D29:3, D29:9]
+- Tim feels proud of researching visa requirements for countries he wants to visit. — 12 January, 2024 [D29:9]
+- Tim plans to add Barcelona to his travel list. — 12 January, 2024 [D29:13]

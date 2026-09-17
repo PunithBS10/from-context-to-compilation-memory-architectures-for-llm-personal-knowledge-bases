@@ -1,0 +1,43 @@
+---
+title: Nature
+type: topic
+sources: [session_4, session_6, session_8, session_15, session_18, session_19, session_21, session_23, session_25, session_26, session_27, session_30]
+---
+
+- Deborah's favorite nature spot is a park with a forest trail. — 4 February, 2023
+- Deborah finds walking in the park with a forest trail calming. — 4 February, 2023
+- Deborah likes a nearby beach because the waves and sand make her feel peaceful and happy. — 4 February, 2023
+- Deborah finds peace in roses and dahlias — 22 February, 2023
+- Jolene took Seraphim to the park last Sunday — 2 March, 2023
+- Jolene and Seraphim explored new places outdoors — 2 March, 2023
+- Deborah enjoys birds chirping and a gentle breeze outdoors — 2 March, 2023
+- Deborah finds peace in nature every day. — 9 July, 2023
+- Deborah says spending time in nature helps her put things into perspective and gives her time to reflect. — 9 July, 2023
+- Jolene enjoys going for walks when she can. — 9 July, 2023
+- Jolene takes photos while going for walks. — 9 July, 2023
+- Jolene photographed a peaceful lake surrounded by trees. — 9 July, 2023
+- Jolene knows a hidden spot where she feels peaceful and tranquil. — 9 July, 2023
+- Jolene and Deborah plan to visit Jolene's peaceful spot together. — 9 July, 2023
+- Deborah believes nature can help with finding peace — 16 August, 2023
+- Deborah and her husband enjoyed spending time outdoors and exploring nature — 19 August, 2023
+- Deborah likes a park near her house with a forest trail and a beach — 19 August, 2023
+- Deborah does yoga and reflects at the park near her house — 19 August, 2023
+- A bench at Deborah's park holds special memories for Deborah and her mother — 19 August, 2023
+- Deborah and her mother used to chat about dreams and life at the bench — 19 August, 2023
+- Deborah and her mother watched a beautiful sunset together in silence at the bench — 19 August, 2023
+- Deborah finds nature and self-reflection life-changing and meaningful. — 24 August, 2023
+- Deborah has a favorite spot by a lake for pondering and letting things go — 30 August, 2023
+- Deborah chose her favorite lake spot because of its soothing atmosphere and views — 30 August, 2023
+- Jolene believes creating a positive atmosphere helps people grow and improve — 30 August, 2023
+- Deborah saw a sunrise again recently. — 6 September, 2023
+- Jolene finds glimpsing Deborah's sunrise photo calming. — 6 September, 2023
+- Jolene and Deborah may watch the sunrise together one day. — 6 September, 2023
+- Jolene and her partner plan to go camping to connect with nature and practice yoga — 8 September, 2023
+- Jolene found the beauty of nature at the retreat inspiring and refreshing — 12 September, 2023
+- Jolene plans to spend time in nature again next month — 20 September, 2023
+- Deborah used to watch a blossom tree near her home bloom every spring — 20 September, 2023
+- Watching the blossom tree bloom filled Deborah with awe and appreciation for the beauty of life — 20 September, 2023
+- Deborah believes growth can offer hope during tough times — 20 September, 2023
+- Jolene took a photo of a plant growing out of a corner of a building — 20 September, 2023
+- The plant photo reminds Jolene that she can keep growing through obstacles — 20 September, 2023
+- Jolene appreciates small positive things during tough times — 20 September, 2023

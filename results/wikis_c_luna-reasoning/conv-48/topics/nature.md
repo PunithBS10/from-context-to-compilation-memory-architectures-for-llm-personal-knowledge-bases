@@ -1,0 +1,33 @@
+---
+title: Nature
+type: topic
+sources: [session_4, session_6, session_8, session_14, session_15, session_18, session_19, session_21, session_25, session_27, session_30]
+---
+
+- Deborah's favorite nature spot is a park with a forest trail. — 4 February, 2023 [D4:32]
+- Deborah likes a nearby beach because the sound of the waves and the sand make her feel peaceful and happy. — 4 February, 2023 [D4:32]
+- Deborah visited a calming and nostalgic garden. — 22 February, 2023 [D6:2]
+- Jolene took Seraphim to the park last Sunday — 2 March, 2023 [D8:8]
+- Seraphim loved going to the park last Sunday — 2 March, 2023 [D8:8]
+- Jolene and Seraphim explored new places — 2 March, 2023 [D8:10]
+- Deborah likes hearing birds chirp and feeling a gentle breeze outdoors — 2 March, 2023 [D8:11]
+- Deborah is drawn to animals — 26 June, 2023 [D14:5]
+- Animals bring Deborah joy — 26 June, 2023 [D14:5]
+- Nature helps Deborah find peace every day. — 9 July, 2023 [D15:29]
+- Jolene likes going for walks whenever she can. — 9 July, 2023 [D15:32]
+- Jolene takes photos during her walks. — 9 July, 2023 [D15:32]
+- Jolene has found a hidden spot that makes her feel peaceful and tranquil. — 9 July, 2023 [D15:34, D15:36]
+- Jolene plans to go to the peaceful spot together with Deborah sometime. — 9 July, 2023 [D15:38]
+- Deborah believes nature can help people find peace. — 16 August, 2023 [D18:8]
+- Deborah and Deborah's husband enjoyed spending time outdoors and exploring nature — 19 August, 2023 [D19:15]
+- Deborah likes going to a park near Deborah's house — 19 August, 2023 [D19:17]
+- The park near Deborah's house has a forest trail and a beach — 19 August, 2023 [D19:17]
+- Deborah spent time in nature during her yoga retreat — 24 August, 2023 [D21:1]
+- Jolene uses connecting with herself and nature as a way to relax — 24 August, 2023 [D21:2]
+- Deborah believes nature and self-reflection help people see the beauty in every moment — 24 August, 2023 [D21:3]
+- Deborah recently saw a wonderful sunrise again — 6 September, 2023 [D25:12]
+- A glimpse of the sunrise calms Jolene — 6 September, 2023 [D25:13]
+- Beach walks relax Jolene — 6 September, 2023 [D25:13]
+- Jolene would like to watch the sunrise with Deborah one day — 6 September, 2023 [D25:17]
+- Jolene found the beauty of nature at the retreat inspiring and refreshing. — 12 September, 2023 [D27:3]
+- Jolene plans to spend time in nature again next month. — 20 September, 2023 [D30:10]

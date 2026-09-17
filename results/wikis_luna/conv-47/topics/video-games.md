@@ -1,0 +1,72 @@
+---
+title: Video games
+type: topic
+sources: [session_1, session_2, session_3, session_4, session_5, session_8, session_18, session_19, session_20, session_21, session_22, session_23, session_27, session_28, session_30]
+---
+
+- James is motivated by video games — 17 March, 2022
+- John is a big video game fan — 17 March, 2022
+- John uses video games to relax after a long day — 17 March, 2022
+- James made a game avatar and joined a new platform — 20 March, 2022
+- James feels part of an online gaming community — 20 March, 2022
+- James has shared gaming tips, strategies, and stories with other gamers — 20 March, 2022
+- James finds gaming to be a refuge during tough times — 20 March, 2022
+- James uses games to relax and forget his troubles when feeling overwhelmed — 20 March, 2022
+- James has been trying different styles of games — 20 March, 2022
+- John advanced to the next level in a game last week. — 27 March, 2022
+- James got a new gaming system. — 27 March, 2022
+- James uses gaming to relax after work. — 27 March, 2022
+- James connects with friends through gaming. — 27 March, 2022
+- John wants to improve his gaming skills. — 27 March, 2022
+- James is getting into RPGs and strategy games. — 27 March, 2022
+- James is thinking of trying RPGs and MOBAs — 4 April, 2022
+- James plans to share his thoughts after trying new game genres — 4 April, 2022
+- John has made little progress with gaming lately because life has been busy with work and other matters — 12 April, 2022
+- John finds gaming a good way to forget the stresses of life — 12 April, 2022
+- John is currently playing Assassin's Creed Valhalla — 29 April, 2022
+- James has been playing a high-quality turn-based strategy game for a month — 29 April, 2022
+- James's strategy game involves managing resources, leading armies, and conquering territories — 29 April, 2022
+- James's strategy game requires planning, resource management, and decision-making — 29 April, 2022
+- James thinks his strategy game helps him practice problem-solving and thinking — 29 April, 2022
+- John played a strategy board game with friends two days ago — 29 April, 2022
+- John played a card game with multi-colored numbered cards with friends — 29 April, 2022
+- In the card game John played, a player can place a card matching the color or number of the opponent's card — 29 April, 2022
+- In the card game John played, players sometimes trade cards, draw extra cards, or skip a turn — 29 April, 2022
+- John has been playing a game about identifying impostors with friends these days — 29 April, 2022
+- John advises gathering a large group to play the impostor-identification game — 29 April, 2022
+- John is passionate about the gaming industry — 6 August, 2022
+- John has been exploring strategy and RPG video games instead of his usual shooters — 10 August, 2022
+- James has a gaming group he plays with regularly — 21 August, 2022
+- James's gaming group streams their game sessions — 21 August, 2022
+- James's gaming group recently had a get-together — 21 August, 2022
+- John bought new gaming devices and refurbished his gaming desk — 21 August, 2022
+- James has a gaming setup with a gaming PC, keyboard, mouse, and a comfortable chair — 21 August, 2022
+- John has a gaming chair and keyboard — 21 August, 2022
+- John uses a gaming PC with a powerful graphics card for intense games — 21 August, 2022
+- John has a headset for immersive gaming sound — 21 August, 2022
+- John uses gaming as an escape and says it keeps him focused and motivated in other areas — 21 August, 2022
+- James hosted a gaming marathon with friends — 21 August, 2022
+- James's gaming marathon lasted all night — 21 August, 2022
+- James's gaming marathon strengthened his friends' bond — 21 August, 2022
+- John's siblings threw him a gaming marathon when John was younger — 21 August, 2022
+- John's childhood gaming marathon with his siblings lasted all night — 21 August, 2022
+- John's childhood gaming marathon bonded him with his siblings — 21 August, 2022
+- James has been trying different genres of video games — 26 August, 2022
+- James wants to create a strategy game like Civilization — 26 August, 2022
+- John's siblings are passionate about video games — 1 September, 2022
+- John bought new gaming equipment to improve his skills — 4 September, 2022
+- John bought headphones from Sennheiser — 4 September, 2022
+- John bought a mouse from Logitech — 4 September, 2022
+- James was inspired to create a game by playing video games — 13 October, 2022
+- James played on his mother's friend’s old gaming setup when he was their age — 21 October, 2022
+- James played on a Nintendo gaming system when he was a child — 21 October, 2022
+- James played Super Mario and The Legend of Zelda for hours as a child — 21 October, 2022
+- Nintendo was James's first gaming system — 21 October, 2022
+- Super Mario and The Legend of Zelda sparked James's passion for gaming — 21 October, 2022
+- James tried Cyberpunk 2077 yesterday — 21 October, 2022
+- James thinks Cyberpunk 2077 is a great and addictive game — 21 October, 2022
+- John is currently playing FIFA 23 — 5 November, 2022
+- James wants to try the sports gaming genre — 5 November, 2022
+- John suggested that James practice FIFA 23 before they play together — 5 November, 2022
+- Playing FIFA 23 requires a gamepad and a sense of timing — 5 November, 2022
+- James plans to train at FIFA 23 — 5 November, 2022

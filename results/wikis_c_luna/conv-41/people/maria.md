@@ -1,0 +1,33 @@
+---
+title: Maria
+type: person
+sources: [session_2, session_6, session_8, session_11, session_13, session_14, session_20, session_30, session_31]
+---
+
+- Maria's family is small — 22 December, 2022 [D2:17]
+- Maria considers John a great friend. — 5 February, 2023 [D6:21]
+- Maria's grandma passed away last week — 6 March, 2023 [D8:1]
+- Maria bought a cross necklace to feel closer to her faith — 10 April, 2023 [D11:10]
+- Maria feels happy because of her cross necklace — 10 April, 2023 [D11:10]
+- Maria takes care of herself physically, emotionally, and mentally — 4 May, 2023 [D13:20]
+- Maria uses exercise, music, and time with loved ones to stay positive — 4 May, 2023 [D13:20]
+- Maria believes challenging herself and trying new things helps her grow — 4 May, 2023 [D13:30, D13:36]
+- Maria joined a nearby church yesterday. — 6 May, 2023 [D14:10]
+- Maria joined the church to feel closer to a community and her faith. — 6 May, 2023 [D14:10]
+- Maria says that life has been a bit rough lately. — 6 May, 2023 [D14:12]
+- Maria is taking time to reflect and find balance. — 6 May, 2023 [D14:12]
+- Maria has been struggling. — 27 June, 2023 [D20:1]
+- Maria is focusing on the positive. — 27 June, 2023 [D20:1]
+- Maria relies on her friends and family for support. — 27 June, 2023 [D20:1]
+- Maria got a puppy named Coco two weeks ago — 11 August, 2023 [D30:1]
+- Coco is a white dog — 11 August, 2023 [D30:1]
+- Having Coco around has brought Maria joy — 11 August, 2023 [D30:3]
+- Coco greets Maria when Maria comes home — 11 August, 2023 [D30:3]
+- Taking care of Coco has been an adjustment for Maria — 11 August, 2023 [D30:3]
+- Maria adopted a puppy from a shelter last week. — 13 August, 2023 [D31:2]
+- Maria's puppy is named Shadow. — 13 August, 2023 [D31:4]
+- Shadow is full of energy. — 13 August, 2023 [D31:4]
+- Shadow gets along well with Maria's other dog. — 13 August, 2023 [D31:4]
+- Maria did not have pets growing up. — 13 August, 2023 [D31:5, D31:6]
+- Shadow is learning commands. — 13 August, 2023 [D31:10]
+- Shadow is being house trained. — 13 August, 2023 [D31:10]

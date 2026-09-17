@@ -1,0 +1,30 @@
+---
+title: Family memories
+type: topic
+sources: [session_2, session_6, session_12, session_19, session_20, session_22, session_24, session_28, session_29, session_30]
+---
+
+- Deborah is cherishing memories of her family. — 27 January, 2023 [D2:1]
+- Deborah finds comfort in remembering her time with her deceased friend. — 22 February, 2023 [D6:6]
+- The photo of Deborah and Karlie from last summer was their last photo together. — 22 February, 2023 [D6:8]
+- Keeping her mother's memory alive gives Deborah peace — 9 April, 2023 [D12:5]
+- A bench at the park near Deborah's house holds special meaning for Deborah — 19 August, 2023 [D19:17]
+- Deborah and Deborah's mom used to come to the special bench and chat about dreams and life — 19 August, 2023 [D19:19]
+- Deborah remembers watching a beautiful sunset in silence with Deborah's mom at the special bench — 19 August, 2023 [D19:21]
+- Deborah feels peace and gratitude whenever Deborah returns to the special bench — 19 August, 2023 [D19:21]
+- Deborah is thankful for all the time Deborah had with Deborah's mom — 19 August, 2023 [D19:23]
+- Deborah's mother appreciated the simple things in life. — 21 August, 2023 [D20:6]
+- Jolene and her partner talked last Friday about how their loved ones influenced them and what their values meant to them — 26 August, 2023 [D22:2]
+- Jolene and her partner found their conversation last Friday emotional — 26 August, 2023 [D22:2]
+- Jolene's mother taught Jolene to never give up — 26 August, 2023 [D22:4]
+- Jolene's partner's father taught Jolene's partner to stay determined — 26 August, 2023 [D22:4]
+- Jolene's partner's loved ones' values influenced Jolene's partner to pursue creative endeavors — 26 August, 2023 [D22:4]
+- Jolene's mother stressed the value of helping others — 26 August, 2023 [D22:6]
+- Jolene's father was always supportive of her video games — 3 September, 2023 [D24:8]
+- Deborah reconnected with her mother's old friends. — 15 September, 2023 [D28:1]
+- Deborah felt both happy and sad hearing new stories about her mother. — 15 September, 2023 [D28:3]
+- Deborah found reconnecting with her mother's friends comforting. — 15 September, 2023 [D28:3]
+- Deborah has a photo of herself with her mother. — 15 September, 2023 [D28:5]
+- Deborah reminisced and looked through her mother's photos with her mother's friends. — 15 September, 2023 [D28:7]
+- Deborah's mother had a big passion for cooking. — 17 September, 2023 [D29:7]
+- Music reminds Deborah of her mother singing lullabies to her. — 20 September, 2023 [D30:1]

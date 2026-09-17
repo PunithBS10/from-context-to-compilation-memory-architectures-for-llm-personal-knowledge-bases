@@ -1,0 +1,6292 @@
+{
+  "conv_id": "conv-50",
+  "speakers": [
+    "Calvin",
+    "Dave"
+  ],
+  "extraction_model": "gpt-5.6-luna",
+  "build_fingerprint": "9884fea0ef28",
+  "compiler_version": "c1",
+  "built_utc": "2026-09-17T08:48:27.047736+00:00",
+  "sessions": [
+    {
+      "index": 1,
+      "session_id": "session_1",
+      "timestamp": "11:53 am on 23 March, 2023",
+      "date_label": "23 March, 2023"
+    },
+    {
+      "index": 2,
+      "session_id": "session_2",
+      "timestamp": "4:45 pm on 26 March, 2023",
+      "date_label": "26 March, 2023"
+    },
+    {
+      "index": 3,
+      "session_id": "session_3",
+      "timestamp": "4:15 pm on 20 April, 2023",
+      "date_label": "20 April, 2023"
+    },
+    {
+      "index": 4,
+      "session_id": "session_4",
+      "timestamp": "6:24 pm on 1 May, 2023",
+      "date_label": "1 May, 2023"
+    },
+    {
+      "index": 5,
+      "session_id": "session_5",
+      "timestamp": "1:16 pm on 3 May, 2023",
+      "date_label": "3 May, 2023"
+    },
+    {
+      "index": 6,
+      "session_id": "session_6",
+      "timestamp": "11:50 am on 16 May, 2023",
+      "date_label": "16 May, 2023"
+    },
+    {
+      "index": 7,
+      "session_id": "session_7",
+      "timestamp": "6:06 pm on 31 May, 2023",
+      "date_label": "31 May, 2023"
+    },
+    {
+      "index": 8,
+      "session_id": "session_8",
+      "timestamp": "2:31 pm on 9 June, 2023",
+      "date_label": "9 June, 2023"
+    },
+    {
+      "index": 9,
+      "session_id": "session_9",
+      "timestamp": "3:15 pm on 21 June, 2023",
+      "date_label": "21 June, 2023"
+    },
+    {
+      "index": 10,
+      "session_id": "session_10",
+      "timestamp": "7:56 pm on 7 July, 2023",
+      "date_label": "7 July, 2023"
+    },
+    {
+      "index": 11,
+      "session_id": "session_11",
+      "timestamp": "6:38 pm on 21 July, 2023",
+      "date_label": "21 July, 2023"
+    },
+    {
+      "index": 12,
+      "session_id": "session_12",
+      "timestamp": "1:12 pm on 3 August, 2023",
+      "date_label": "3 August, 2023"
+    },
+    {
+      "index": 13,
+      "session_id": "session_13",
+      "timestamp": "5:22 pm on 11 August, 2023",
+      "date_label": "11 August, 2023"
+    },
+    {
+      "index": 14,
+      "session_id": "session_14",
+      "timestamp": "12:35 am on 14 August, 2023",
+      "date_label": "14 August, 2023"
+    },
+    {
+      "index": 15,
+      "session_id": "session_15",
+      "timestamp": "11:06 am on 22 August, 2023",
+      "date_label": "22 August, 2023"
+    },
+    {
+      "index": 16,
+      "session_id": "session_16",
+      "timestamp": "2:55 pm on 31 August, 2023",
+      "date_label": "31 August, 2023"
+    },
+    {
+      "index": 17,
+      "session_id": "session_17",
+      "timestamp": "9:19 am on 2 September, 2023",
+      "date_label": "2 September, 2023"
+    },
+    {
+      "index": 18,
+      "session_id": "session_18",
+      "timestamp": "10:56 am on 13 September, 2023",
+      "date_label": "13 September, 2023"
+    },
+    {
+      "index": 19,
+      "session_id": "session_19",
+      "timestamp": "12:13 am on 15 September, 2023",
+      "date_label": "15 September, 2023"
+    },
+    {
+      "index": 20,
+      "session_id": "session_20",
+      "timestamp": "8:57 pm on 22 September, 2023",
+      "date_label": "22 September, 2023"
+    },
+    {
+      "index": 21,
+      "session_id": "session_21",
+      "timestamp": "2:44 pm on 4 October, 2023",
+      "date_label": "4 October, 2023"
+    },
+    {
+      "index": 22,
+      "session_id": "session_22",
+      "timestamp": "3:13 pm on 8 October, 2023",
+      "date_label": "8 October, 2023"
+    },
+    {
+      "index": 23,
+      "session_id": "session_23",
+      "timestamp": "9:39 am on 15 October, 2023",
+      "date_label": "15 October, 2023"
+    },
+    {
+      "index": 24,
+      "session_id": "session_24",
+      "timestamp": "10:11 am on 19 October, 2023",
+      "date_label": "19 October, 2023"
+    },
+    {
+      "index": 25,
+      "session_id": "session_25",
+      "timestamp": "2:17 pm on 23 October, 2023",
+      "date_label": "23 October, 2023"
+    },
+    {
+      "index": 26,
+      "session_id": "session_26",
+      "timestamp": "8:25 pm on 25 October, 2023",
+      "date_label": "25 October, 2023"
+    },
+    {
+      "index": 27,
+      "session_id": "session_27",
+      "timestamp": "10:49 am on 29 October, 2023",
+      "date_label": "29 October, 2023"
+    },
+    {
+      "index": 28,
+      "session_id": "session_28",
+      "timestamp": "5:46 pm on 2 November, 2023",
+      "date_label": "2 November, 2023"
+    },
+    {
+      "index": 29,
+      "session_id": "session_29",
+      "timestamp": "9:15 pm on 13 November, 2023",
+      "date_label": "13 November, 2023"
+    },
+    {
+      "index": 30,
+      "session_id": "session_30",
+      "timestamp": "10:54 am on 17 November, 2023",
+      "date_label": "17 November, 2023"
+    }
+  ],
+  "stats": {
+    "compile_prompt_tokens": 53986,
+    "compile_completion_tokens": 44113,
+    "compile_cost_usd": 0.0637328,
+    "compile_latency_s": 423.2389776999953,
+    "compile_calls": 30,
+    "compile_cached_calls": 0,
+    "sessions_compiled": 30,
+    "truncated_sessions": 0,
+    "duplicate_facts_dropped": 1,
+    "generic_page_titles": 0,
+    "salvaged_sessions": 0,
+    "unparsable_sessions": 0,
+    "empty_sessions": 0,
+    "citations_total": 486,
+    "citations_resolvable": 486,
+    "citations_unresolvable": 0,
+    "citations_other_session": 0,
+    "citations_nonexistent": 0,
+    "facts_with_no_citation": 0,
+    "citation_resolvability": 1.0,
+    "citation_session_consistency": 1.0,
+    "n_pages": 53,
+    "n_facts": 469,
+    "wiki_tokens": 13813,
+    "raw_conversation_tokens": 21517,
+    "compression_ratio": 0.642
+  },
+  "pages": [
+    {
+      "title": "Calvin",
+      "type": "person",
+      "slug": "calvin",
+      "path": "people/calvin.md",
+      "facts": [
+        {
+          "fact_id": "calvin#1",
+          "text": "Calvin recently had a big life change",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:3"
+          ]
+        },
+        {
+          "fact_id": "calvin#2",
+          "text": "Calvin has a new mansion",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D1:3"
+          ]
+        },
+        {
+          "fact_id": "calvin#3",
+          "text": "Calvin is a musician",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D4:26"
+          ]
+        },
+        {
+          "fact_id": "calvin#4",
+          "text": "Calvin lives in a Japanese mansion with an epic cityscape",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D10:6"
+          ]
+        },
+        {
+          "fact_id": "calvin#5",
+          "text": "Calvin's mansion has city lights visible from its windows",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D10:8"
+          ]
+        },
+        {
+          "fact_id": "calvin#6",
+          "text": "Calvin shared a photo of the front part of his mansion, which has many windows and lights",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D10:8"
+          ]
+        },
+        {
+          "fact_id": "calvin#7",
+          "text": "Calvin found fame challenging",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D25:2"
+          ]
+        },
+        {
+          "fact_id": "calvin#8",
+          "text": "Calvin has struggled to balance his job and personal life",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D25:2"
+          ]
+        },
+        {
+          "fact_id": "calvin#9",
+          "text": "Calvin sometimes feels overwhelmed by his many demands",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D25:4"
+          ]
+        },
+        {
+          "fact_id": "calvin#10",
+          "text": "Calvin takes his demands one day at a time",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D25:4"
+          ]
+        },
+        {
+          "fact_id": "calvin#11",
+          "text": "Calvin's friends and team help keep him on track",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D25:6"
+          ]
+        },
+        {
+          "fact_id": "calvin#12",
+          "text": "Calvin has a separate room for relaxation with a TV.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Calvin",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D28:29"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Classic car event",
+      "type": "event",
+      "slug": "classic-car-event",
+      "path": "events/classic-car-event.md",
+      "facts": [
+        {
+          "fact_id": "classic-car-event#1",
+          "text": "Dave attended a classic car event recently",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Classic car event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:2"
+          ]
+        },
+        {
+          "fact_id": "classic-car-event#2",
+          "text": "Classic cars were on show at the event Dave attended",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Classic car event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:2"
+          ]
+        },
+        {
+          "fact_id": "classic-car-event#3",
+          "text": "Dave spoke with some classic car owners and heard their stories at the event",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Classic car event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:2"
+          ]
+        },
+        {
+          "fact_id": "classic-car-event#4",
+          "text": "Dave went to a car show last weekend",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Classic car event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:12"
+          ]
+        },
+        {
+          "fact_id": "classic-car-event#5",
+          "text": "Dave went to a car show last Friday",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Classic car event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D22:1"
+          ]
+        },
+        {
+          "fact_id": "classic-car-event#6",
+          "text": "Dave saw awesome cars at the car show last Friday",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Classic car event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D22:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Japan trip",
+      "type": "event",
+      "slug": "japan-trip",
+      "path": "events/japan-trip.md",
+      "facts": [
+        {
+          "fact_id": "japan-trip#1",
+          "text": "Calvin has never been to Japan",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:7"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#2",
+          "text": "Calvin is heading to Japan next month",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:9"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#3",
+          "text": "Calvin will stay in a place in Japan found by his agent",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:9",
+            "D1:11"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#4",
+          "text": "Calvin plans to explore the city during his trip to Japan",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:13"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#5",
+          "text": "Calvin plans to try different local cuisines during his trip to Japan",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:13"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#6",
+          "text": "Calvin may collaborate with musicians in Japan",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:13"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#7",
+          "text": "Calvin plans to stay in Japan for a few months",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:15"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#8",
+          "text": "Calvin plans to go to Boston after staying in Japan",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D1:15"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#9",
+          "text": "Calvin has a view from his living room of a small town in Japan with mountains in the background",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:11",
+            "D9:13"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#10",
+          "text": "Calvin has not visited the small town in Japan yet",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:15"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#11",
+          "text": "Calvin plans to visit the small town in Japan after his tour with Frank Ocean ends",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:15"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#12",
+          "text": "Calvin is looking forward to trying Japanese food and experiencing Japanese culture",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:10"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#13",
+          "text": "Dave has never been to Japan but wants to go one day",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:11"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#14",
+          "text": "Calvin ended his tour with a show in Japan",
+          "date_label": "14 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:4"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#15",
+          "text": "Calvin explored a new place after his show in Japan",
+          "date_label": "14 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:4"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#16",
+          "text": "Calvin had an incredible trip to Japan",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D20:4"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#17",
+          "text": "Calvin longs to return to Japan",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D20:4"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#18",
+          "text": "Dave wants to visit Tokyo someday",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:12",
+            "D24:16"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#19",
+          "text": "Calvin is going to Tokyo next month after the tour ends",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:17"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#20",
+          "text": "Calvin plans to explore Shinjuku in Tokyo",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:19"
+          ]
+        },
+        {
+          "fact_id": "japan-trip#21",
+          "text": "Calvin plans to try ramen in Tokyo",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Japan trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:21"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Japanese culture",
+      "type": "topic",
+      "slug": "japanese-culture",
+      "path": "topics/japanese-culture.md",
+      "facts": [
+        {
+          "fact_id": "japanese-culture#1",
+          "text": "Calvin wants to learn about Japanese culture",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Japanese culture",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:5"
+          ]
+        },
+        {
+          "fact_id": "japanese-culture#2",
+          "text": "Calvin is fascinated by Japanese traditions",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Japanese culture",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:7"
+          ]
+        },
+        {
+          "fact_id": "japanese-culture#3",
+          "text": "Calvin has been enjoying getting to know Japanese culture.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Japanese culture",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:10"
+          ]
+        },
+        {
+          "fact_id": "japanese-culture#4",
+          "text": "Calvin enjoyed the culture and people during his trip to Japan",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Japanese culture",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:4"
+          ]
+        },
+        {
+          "fact_id": "japanese-culture#5",
+          "text": "Dave is interested in Tokyo's people, culture, food, and city life",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Japanese culture",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D24:14"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Park visits",
+      "type": "topic",
+      "slug": "park-visits",
+      "path": "topics/park-visits.md",
+      "facts": [
+        {
+          "fact_id": "park-visits#1",
+          "text": "Dave has been spending lots of time at a beautiful park lately",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:16"
+          ]
+        },
+        {
+          "fact_id": "park-visits#2",
+          "text": "Calvin has never been to Dave's park",
+          "date_label": "23 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D1:17"
+          ]
+        },
+        {
+          "fact_id": "park-visits#3",
+          "text": "Dave considers taking a walk a good way to destress.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:9"
+          ]
+        },
+        {
+          "fact_id": "park-visits#4",
+          "text": "Dave explores parks on weekends to relax",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:4"
+          ]
+        },
+        {
+          "fact_id": "park-visits#5",
+          "text": "Dave went for a stroll in a Boston park last Friday",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:6"
+          ]
+        },
+        {
+          "fact_id": "park-visits#6",
+          "text": "Dave enjoys taking walks on weekends",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:6"
+          ]
+        },
+        {
+          "fact_id": "park-visits#7",
+          "text": "Dave finds that weekend walks recharge him for the upcoming week",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:6"
+          ]
+        },
+        {
+          "fact_id": "park-visits#8",
+          "text": "Dave has been hanging out with friends at parks lately",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:3"
+          ]
+        },
+        {
+          "fact_id": "park-visits#9",
+          "text": "Dave arranged regular walks with friends in the park",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:3"
+          ]
+        },
+        {
+          "fact_id": "park-visits#10",
+          "text": "Dave has a favorite place in Boston for chilling and admiring nature",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:2"
+          ]
+        },
+        {
+          "fact_id": "park-visits#11",
+          "text": "Dave found a serene spot in a nearby park and took a picture there",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:15"
+          ]
+        },
+        {
+          "fact_id": "park-visits#12",
+          "text": "Calvin shot a picture in a Japanese garden",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:16"
+          ]
+        },
+        {
+          "fact_id": "park-visits#13",
+          "text": "Dave found a peaceful spot with a bench under a tree with pink flowers",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Park visits",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:17"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luxury car",
+      "type": "topic",
+      "slug": "luxury-car",
+      "path": "topics/luxury-car.md",
+      "facts": [
+        {
+          "fact_id": "luxury-car#1",
+          "text": "Calvin got a new luxury car.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Luxury car",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:1"
+          ]
+        },
+        {
+          "fact_id": "luxury-car#2",
+          "text": "Calvin's new car is a red sports car.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Luxury car",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:5"
+          ]
+        },
+        {
+          "fact_id": "luxury-car#3",
+          "text": "Calvin's new car is smooth and powerful to drive.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Luxury car",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:3"
+          ]
+        },
+        {
+          "fact_id": "luxury-car#4",
+          "text": "Calvin drove his new car yesterday.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Luxury car",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:5"
+          ]
+        },
+        {
+          "fact_id": "luxury-car#5",
+          "text": "Calvin is attached to his Ferrari",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Luxury car",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "luxury-car#6",
+          "text": "Calvin is proud of his Ferrari",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Luxury car",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:7"
+          ]
+        },
+        {
+          "fact_id": "luxury-car#7",
+          "text": "Calvin's Ferrari reminds him of his hard work and dedication",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Luxury car",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:7"
+          ]
+        },
+        {
+          "fact_id": "luxury-car#8",
+          "text": "Calvin's Ferrari inspires him",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Luxury car",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:7"
+          ]
+        },
+        {
+          "fact_id": "luxury-car#9",
+          "text": "Seeing his Ferrari every day keeps Calvin motivated",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Luxury car",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:9"
+          ]
+        },
+        {
+          "fact_id": "luxury-car#10",
+          "text": "Calvin got a new Ferrari last week",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Luxury car",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:16"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Music",
+      "type": "topic",
+      "slug": "music",
+      "path": "topics/music.md",
+      "facts": [
+        {
+          "fact_id": "music#1",
+          "text": "Dave loves music.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:8"
+          ]
+        },
+        {
+          "fact_id": "music#2",
+          "text": "Calvin likes Aerosmith.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:11"
+          ]
+        },
+        {
+          "fact_id": "music#3",
+          "text": "A producer advised Calvin to stay true to himself and develop a unique sound",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:7"
+          ]
+        },
+        {
+          "fact_id": "music#4",
+          "text": "Calvin is considering the direction of his music",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:7"
+          ]
+        },
+        {
+          "fact_id": "music#5",
+          "text": "Calvin dreams of touring the world with his music",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:9"
+          ]
+        },
+        {
+          "fact_id": "music#6",
+          "text": "Calvin wants to perform for different people and connect with them through his music",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:9"
+          ]
+        },
+        {
+          "fact_id": "music#7",
+          "text": "Calvin hopes his music will reach a global audience and make an impact",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:9"
+          ]
+        },
+        {
+          "fact_id": "music#8",
+          "text": "Calvin has been busy with rehearsals and traveling",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:15"
+          ]
+        },
+        {
+          "fact_id": "music#9",
+          "text": "The necklace reminds Calvin why he keeps hustling as a musician",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:26"
+          ]
+        },
+        {
+          "fact_id": "music#10",
+          "text": "Calvin is experiencing a creative block with his music.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:10"
+          ]
+        },
+        {
+          "fact_id": "music#11",
+          "text": "Dave uses concerts or favorite albums to jumpstart his inspiration when he struggles to come up with ideas.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:11"
+          ]
+        },
+        {
+          "fact_id": "music#12",
+          "text": "Dave advised Calvin to take a break from music and explore other things for inspiration.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:11"
+          ]
+        },
+        {
+          "fact_id": "music#13",
+          "text": "Calvin plans to take a break from music and explore other things to regain his inspiration.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:12"
+          ]
+        },
+        {
+          "fact_id": "music#14",
+          "text": "Calvin intends to continue pursuing his music and not give up.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:13",
+            "D5:14"
+          ]
+        },
+        {
+          "fact_id": "music#15",
+          "text": "Calvin pours his heart into music in his creative studio",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:5"
+          ]
+        },
+        {
+          "fact_id": "music#16",
+          "text": "Calvin's music studio contains a keyboard, synthesizer, and other musical equipment",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:5"
+          ]
+        },
+        {
+          "fact_id": "music#17",
+          "text": "Calvin always enjoys performing live",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:11"
+          ]
+        },
+        {
+          "fact_id": "music#18",
+          "text": "Calvin loves the rush and connection with the crowd when performing live",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:11"
+          ]
+        },
+        {
+          "fact_id": "music#19",
+          "text": "Calvin experiences performing live as an absolute high",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:11"
+          ]
+        },
+        {
+          "fact_id": "music#20",
+          "text": "Calvin experiences a concert crowd as one big harmony in which everyone participates",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:13"
+          ]
+        },
+        {
+          "fact_id": "music#21",
+          "text": "Music brings people together and creates a great atmosphere, according to Dave",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:14"
+          ]
+        },
+        {
+          "fact_id": "music#22",
+          "text": "Boston has many talented musicians and cool places to play, according to Dave",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:16"
+          ]
+        },
+        {
+          "fact_id": "music#23",
+          "text": "Calvin met with the creative team for his album yesterday",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:1"
+          ]
+        },
+        {
+          "fact_id": "music#24",
+          "text": "Calvin is working with a team in the studio on music for his album",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:3"
+          ]
+        },
+        {
+          "fact_id": "music#25",
+          "text": "Dave recently joined a rock band",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:18"
+          ]
+        },
+        {
+          "fact_id": "music#26",
+          "text": "Dave has been practicing guitar",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:18"
+          ]
+        },
+        {
+          "fact_id": "music#27",
+          "text": "Dave is hooked on Japanese music",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:11"
+          ]
+        },
+        {
+          "fact_id": "music#28",
+          "text": "Calvin is working on music collaborations with Japanese artists",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:12"
+          ]
+        },
+        {
+          "fact_id": "music#29",
+          "text": "Calvin is collaborating with various artists to create something unique",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:14"
+          ]
+        },
+        {
+          "fact_id": "music#30",
+          "text": "Calvin has been experimenting with different music genres",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:6"
+          ]
+        },
+        {
+          "fact_id": "music#31",
+          "text": "Calvin adds electronic elements to his songs",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:6"
+          ]
+        },
+        {
+          "fact_id": "music#32",
+          "text": "Calvin finds switching between musical styles challenging",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:8"
+          ]
+        },
+        {
+          "fact_id": "music#33",
+          "text": "Calvin balances sticking to his sound with trying new things",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:8"
+          ]
+        },
+        {
+          "fact_id": "music#34",
+          "text": "Calvin started making music to follow his dreams",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:10"
+          ]
+        },
+        {
+          "fact_id": "music#35",
+          "text": "Calvin is excited about how far he has come in making music",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:10"
+          ]
+        },
+        {
+          "fact_id": "music#36",
+          "text": "Collaborating with others and learning from them keeps Calvin motivated",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:10"
+          ]
+        },
+        {
+          "fact_id": "music#37",
+          "text": "Calvin uses positive energy and passion to stay motivated",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:10"
+          ]
+        },
+        {
+          "fact_id": "music#38",
+          "text": "Calvin plans to expand his brand worldwide",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:11"
+          ]
+        },
+        {
+          "fact_id": "music#39",
+          "text": "Calvin wants to grow his fanbase",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:11"
+          ]
+        },
+        {
+          "fact_id": "music#40",
+          "text": "Calvin wants his music to reach more people and make an impact",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:11"
+          ]
+        },
+        {
+          "fact_id": "music#41",
+          "text": "Calvin wants to work with artists from around the globe",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:11"
+          ]
+        },
+        {
+          "fact_id": "music#42",
+          "text": "Calvin wants to challenge himself to create special music",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:11"
+          ]
+        },
+        {
+          "fact_id": "music#43",
+          "text": "Calvin is currently very busy with his music",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:16"
+          ]
+        },
+        {
+          "fact_id": "music#44",
+          "text": "Calvin plans to keep working hard and making music",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:18"
+          ]
+        },
+        {
+          "fact_id": "music#45",
+          "text": "Calvin uses his art to spread joy",
+          "date_label": "14 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:10"
+          ]
+        },
+        {
+          "fact_id": "music#46",
+          "text": "Calvin scored a deal to continue collaborating with Frank Ocean.",
+          "date_label": "22 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:2"
+          ]
+        },
+        {
+          "fact_id": "music#47",
+          "text": "Calvin and Frank Ocean have been speaking and sharing ideas.",
+          "date_label": "22 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:4"
+          ]
+        },
+        {
+          "fact_id": "music#48",
+          "text": "Calvin's performance was noticed by someone, and Calvin is now working with that person.",
+          "date_label": "22 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:10"
+          ]
+        },
+        {
+          "fact_id": "music#49",
+          "text": "Calvin values staying true to himself and being unique in his music.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:24"
+          ]
+        },
+        {
+          "fact_id": "music#50",
+          "text": "Calvin released his album on the 11th",
+          "date_label": "13 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:1"
+          ]
+        },
+        {
+          "fact_id": "music#51",
+          "text": "Calvin's album has received positive reactions from listeners",
+          "date_label": "13 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:1",
+            "D18:3"
+          ]
+        },
+        {
+          "fact_id": "music#52",
+          "text": "Calvin's album connecting with people motivates him to make better music",
+          "date_label": "13 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:3"
+          ]
+        },
+        {
+          "fact_id": "music#53",
+          "text": "Calvin wants to make a difference and share his own story through music",
+          "date_label": "13 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:5"
+          ]
+        },
+        {
+          "fact_id": "music#54",
+          "text": "Dave and his band jammed last night, and the music kept flowing.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:1"
+          ]
+        },
+        {
+          "fact_id": "music#55",
+          "text": "Dave and his band had fun rehearsing last night.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:1"
+          ]
+        },
+        {
+          "fact_id": "music#56",
+          "text": "Dave and his band did not record their jam session because they forgot while immersed in it.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:3"
+          ]
+        },
+        {
+          "fact_id": "music#57",
+          "text": "Calvin and his dad sang along to \"California Love\" during a road trip when Calvin was a child",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:6",
+            "D20:8"
+          ]
+        },
+        {
+          "fact_id": "music#58",
+          "text": "Tupac and Dr. Dre performed the song \"California Love\"",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:8"
+          ]
+        },
+        {
+          "fact_id": "music#59",
+          "text": "Calvin and Dave plan to have a jam session together",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:9",
+            "D20:10"
+          ]
+        },
+        {
+          "fact_id": "music#60",
+          "text": "The artists Calvin met in Boston have individual styles",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:1"
+          ]
+        },
+        {
+          "fact_id": "music#61",
+          "text": "Calvin enjoys connecting with crowds through his job",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:10"
+          ]
+        },
+        {
+          "fact_id": "music#62",
+          "text": "Calvin considers staying connected to world events important",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:8"
+          ]
+        },
+        {
+          "fact_id": "music#63",
+          "text": "Calvin uses unique perspectives from world events to make his music stand out",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:8"
+          ]
+        },
+        {
+          "fact_id": "music#64",
+          "text": "Calvin uses perspectives from world events to connect better with his fans",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:8"
+          ]
+        },
+        {
+          "fact_id": "music#65",
+          "text": "Calvin has been inspired by the struggles that people go through",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:10"
+          ]
+        },
+        {
+          "fact_id": "music#66",
+          "text": "Calvin has been digging deeper into his music to capture people's struggles",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:10"
+          ]
+        },
+        {
+          "fact_id": "music#67",
+          "text": "Calvin uses music to express himself and work through his emotions",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:12"
+          ]
+        },
+        {
+          "fact_id": "music#68",
+          "text": "Calvin considers music his own form of therapy",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:12"
+          ]
+        },
+        {
+          "fact_id": "music#69",
+          "text": "Calvin believes small details make a difference in creating great music and stylish cars",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:20"
+          ]
+        },
+        {
+          "fact_id": "music#70",
+          "text": "Calvin wants to create something extraordinary as an artist",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:22"
+          ]
+        },
+        {
+          "fact_id": "music#71",
+          "text": "Calvin realized that music is his passion and purpose",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:9"
+          ]
+        },
+        {
+          "fact_id": "music#72",
+          "text": "Calvin has had great music collaborations recently",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:11"
+          ]
+        },
+        {
+          "fact_id": "music#73",
+          "text": "Calvin's album is almost finished",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:11"
+          ]
+        },
+        {
+          "fact_id": "music#74",
+          "text": "Calvin aims to create music that people connect with and that brings them joy.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:7"
+          ]
+        },
+        {
+          "fact_id": "music#75",
+          "text": "Calvin's music is intended to create a connection with listeners.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:27"
+          ]
+        },
+        {
+          "fact_id": "music#76",
+          "text": "Calvin watches music videos, concerts, and documentaries about artists and their creative processes.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:31"
+          ]
+        },
+        {
+          "fact_id": "music#77",
+          "text": "Calvin watches music-related programs for inspiration.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:31"
+          ]
+        },
+        {
+          "fact_id": "music#78",
+          "text": "Dave writes lyrics and notes to boost his motivation to grow.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:34"
+          ]
+        },
+        {
+          "fact_id": "music#79",
+          "text": "Dave listens to vinyl while working on cars to relax and stay focused.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:36"
+          ]
+        },
+        {
+          "fact_id": "music#80",
+          "text": "Dave uses an old record player while working on cars.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:38"
+          ]
+        },
+        {
+          "fact_id": "music#81",
+          "text": "Calvin and his old high school buddy freestyled as teenagers",
+          "date_label": "13 November, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:3"
+          ]
+        },
+        {
+          "fact_id": "music#82",
+          "text": "Calvin's old high school buddy supports and encourages Calvin",
+          "date_label": "13 November, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:5"
+          ]
+        },
+        {
+          "fact_id": "music#83",
+          "text": "Calvin finds supportive people important for his growth as an artist",
+          "date_label": "13 November, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:7"
+          ]
+        },
+        {
+          "fact_id": "music#84",
+          "text": "Supportive people motivate Calvin to improve and stay true to himself",
+          "date_label": "13 November, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:7"
+          ]
+        },
+        {
+          "fact_id": "music#85",
+          "text": "Calvin supports young musicians from a music program",
+          "date_label": "13 November, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:9"
+          ]
+        },
+        {
+          "fact_id": "music#86",
+          "text": "Calvin plans to support the young musicians for a long time",
+          "date_label": "13 November, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:11"
+          ]
+        },
+        {
+          "fact_id": "music#87",
+          "text": "Calvin is making a beat for a young artist with great potential in music",
+          "date_label": "13 November, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:13"
+          ]
+        },
+        {
+          "fact_id": "music#88",
+          "text": "Calvin is trying out new sounds",
+          "date_label": "13 November, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:15"
+          ]
+        },
+        {
+          "fact_id": "music#89",
+          "text": "Calvin is pushing the boundaries with his music",
+          "date_label": "13 November, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D29:15"
+          ]
+        },
+        {
+          "fact_id": "music#90",
+          "text": "Calvin and the artist connected over music and art",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Music",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:4"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Music festival",
+      "type": "event",
+      "slug": "music-festival",
+      "path": "events/music-festival.md",
+      "facts": [
+        {
+          "fact_id": "music-festival#1",
+          "text": "Dave went to a music festival in Boston last weekend.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D2:8"
+          ]
+        },
+        {
+          "fact_id": "music-festival#2",
+          "text": "The Boston music festival had many bands and an electric atmosphere.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D2:8"
+          ]
+        },
+        {
+          "fact_id": "music-festival#3",
+          "text": "Aerosmith was Dave's favorite band at the music festival.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D2:9"
+          ]
+        },
+        {
+          "fact_id": "music-festival#4",
+          "text": "Dave saw Aerosmith perform live at the music festival.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D2:10",
+            "D2:12"
+          ]
+        },
+        {
+          "fact_id": "music-festival#5",
+          "text": "Dave did not hang out with Aerosmith after the show.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D2:13",
+            "D2:14"
+          ]
+        },
+        {
+          "fact_id": "music-festival#6",
+          "text": "Calvin attended a music festival in Tokyo",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:1",
+            "D3:3"
+          ]
+        },
+        {
+          "fact_id": "music-festival#7",
+          "text": "Calvin met talented artists and people from the music industry at the Tokyo music festival",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:3"
+          ]
+        },
+        {
+          "fact_id": "music-festival#8",
+          "text": "Calvin did not see any bands at the Tokyo music festival",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:3"
+          ]
+        },
+        {
+          "fact_id": "music-festival#9",
+          "text": "Calvin received advice from music industry professionals at the Tokyo music festival",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:5"
+          ]
+        },
+        {
+          "fact_id": "music-festival#10",
+          "text": "Calvin met Frank Ocean at a music festival in Tokyo.",
+          "date_label": "22 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:4"
+          ]
+        },
+        {
+          "fact_id": "music-festival#11",
+          "text": "Dave just returned from a music festival",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D23:5"
+          ]
+        },
+        {
+          "fact_id": "music-festival#12",
+          "text": "Dave felt alive at the music festival",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D23:5"
+          ]
+        },
+        {
+          "fact_id": "music-festival#13",
+          "text": "The Fireworks headlined the music festival Dave attended",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D23:9"
+          ]
+        },
+        {
+          "fact_id": "music-festival#14",
+          "text": "Calvin and Frank Ocean met at a festival in August last year",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:5"
+          ]
+        },
+        {
+          "fact_id": "music-festival#15",
+          "text": "Frank Ocean said he wanted to collaborate with Calvin when they met at a festival",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Music festival",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "New tunes",
+      "type": "topic",
+      "slug": "new-tunes",
+      "path": "topics/new-tunes.md",
+      "facts": [
+        {
+          "fact_id": "new-tunes#1",
+          "text": "Calvin wrote some new tunes.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "New tunes",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:17"
+          ]
+        },
+        {
+          "fact_id": "new-tunes#2",
+          "text": "Calvin had a few studio sessions last week.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "New tunes",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:17"
+          ]
+        },
+        {
+          "fact_id": "new-tunes#3",
+          "text": "Calvin is planning to collaborate on his new tunes.",
+          "date_label": "26 March, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "New tunes",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D2:17"
+          ]
+        },
+        {
+          "fact_id": "new-tunes#4",
+          "text": "Calvin plans to share clips when his music collaborations are ready",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "New tunes",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:14"
+          ]
+        },
+        {
+          "fact_id": "new-tunes#5",
+          "text": "Calvin discussed working with the artists on new music",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "New tunes",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Auto engineering",
+      "type": "topic",
+      "slug": "auto-engineering",
+      "path": "topics/auto-engineering.md",
+      "facts": [
+        {
+          "fact_id": "auto-engineering#1",
+          "text": "Dave admires classic cars",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:12"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#2",
+          "text": "Dave admires the dedication involved in restoring classic cars",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:12"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#3",
+          "text": "Dave is interested in auto engineering",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:12"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#4",
+          "text": "Dave plans to keep learning about auto engineering.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:5"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#5",
+          "text": "Dave is passionate about fixing things",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:6"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#6",
+          "text": "Fixing things gives Dave a sense of achievement and purpose",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:6"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#7",
+          "text": "Dave enjoys transforming things that do not work into things that run smoothly",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:6"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#8",
+          "text": "Giving something a new life makes Dave feel powerful and happy",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:8"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#9",
+          "text": "Accomplishment keeps Dave motivated",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:10"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#10",
+          "text": "Dave finds fixing cars therapeutic",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:2"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#11",
+          "text": "Dave wants to improve his car modification skills and learn something new",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:1"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#12",
+          "text": "Dave has always wanted to learn auto engineering",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:3"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#13",
+          "text": "Dave wants to build a custom car",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:3"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#14",
+          "text": "Dave has been doing engine swaps",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:7"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#15",
+          "text": "Dave has been doing suspension modifications",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:7"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#16",
+          "text": "Dave is learning about body modifications",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:7"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#17",
+          "text": "Dave added performance upgrades to a car",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:3"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#18",
+          "text": "When Dave was little, Dave spent hours tinkering with engines in his dad's garage",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:5"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#19",
+          "text": "Dave considered his dad's garage his sanctuary when he was little",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:5"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#20",
+          "text": "Dave has been fascinated by how machines work since he was ten",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:15"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#21",
+          "text": "Dave asked his neighbor if he could fix the old car",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:15"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#22",
+          "text": "Dave's love for car engineering began when he fixed the old car",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:15"
+          ]
+        },
+        {
+          "fact_id": "auto-engineering#23",
+          "text": "Dave became hooked on cars after his first car show and wanted to learn more",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Auto engineering",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Boston trip",
+      "type": "event",
+      "slug": "boston-trip",
+      "path": "events/boston-trip.md",
+      "facts": [
+        {
+          "fact_id": "boston-trip#1",
+          "text": "Calvin plans to travel to Boston after finishing the Frank Ocean tour",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:9"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#2",
+          "text": "Dave offered to show Calvin around Boston",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:10"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#3",
+          "text": "Dave named Paradise Rock, House of Blues, and Fenway Park as places in Boston's music scene",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:10"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#4",
+          "text": "Dave plans to attend Calvin's performances in Boston",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:10"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#5",
+          "text": "Calvin has not explored Boston apart from his gigs",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:15"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#6",
+          "text": "Calvin plans to explore Boston, try its food, and visit popular attractions",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:15"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#7",
+          "text": "Calvin and Dave plan to eat together in Boston",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:15",
+            "D3:16"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#8",
+          "text": "Dave plans to show Calvin his favorite food spots in Boston",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:16"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#9",
+          "text": "Calvin plans to perform in Boston on his tour with Frank Ocean",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:15"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#10",
+          "text": "Calvin is excited to perform for people from home in Boston",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:15"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#11",
+          "text": "Dave plans to attend Calvin's Boston performance to cheer him on",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:16"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#12",
+          "text": "Calvin has never been to Boston",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:5"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#13",
+          "text": "Calvin plans to visit Boston next month",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:5"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#14",
+          "text": "Calvin is heading to Boston after his tour ends.",
+          "date_label": "22 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:10"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#15",
+          "text": "Calvin booked a flight ticket to Boston last week",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:6"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#16",
+          "text": "Calvin is excited about his upcoming trip to Boston",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:6"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#17",
+          "text": "Dave wants to catch up with Calvin in Boston",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:7"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#18",
+          "text": "Calvin will contact Dave when he arrives in Boston",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:10"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#19",
+          "text": "Calvin plans to let Dave know when Calvin is in Boston",
+          "date_label": "13 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:11"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#20",
+          "text": "Calvin met with several artists in Boston yesterday",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D21:1"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#21",
+          "text": "A mutual friend arranged Calvin's meeting with the artists in Boston",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D21:2",
+            "D21:3"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#22",
+          "text": "Dave tried ramen in Boston",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:20"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#23",
+          "text": "Dave thought the ramen he tried in Boston was delicious",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:20"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#24",
+          "text": "Calvin visited sights in Boston with a high school friend yesterday",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:1"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#25",
+          "text": "Calvin had a great time in Boston yesterday",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:1"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#26",
+          "text": "Calvin found Boston's architecture impressive",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:3"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#27",
+          "text": "Calvin found Boston's history interesting",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:3"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#28",
+          "text": "Calvin followed Dave's advice and went to Boston",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:3"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#29",
+          "text": "Calvin found Boston peaceful",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:3"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#30",
+          "text": "Dave took a photograph in Boston last month",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:5",
+            "D27:6"
+          ]
+        },
+        {
+          "fact_id": "boston-trip#31",
+          "text": "Calvin invited his old high school buddy to see him perform in Boston",
+          "date_label": "13 November, 2023",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Boston trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D29:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cars",
+      "type": "topic",
+      "slug": "cars",
+      "path": "topics/cars.md",
+      "facts": [
+        {
+          "fact_id": "cars#1",
+          "text": "Dave shared a photo of a green Mustang parked in a field of grass",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:12"
+          ]
+        },
+        {
+          "fact_id": "cars#2",
+          "text": "Calvin has put a lot of work into his car",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:13"
+          ]
+        },
+        {
+          "fact_id": "cars#3",
+          "text": "Calvin shared a photo of a red sports car on display at a show",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:13"
+          ]
+        },
+        {
+          "fact_id": "cars#4",
+          "text": "Dave's other dream is to work on classic cars",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:5"
+          ]
+        },
+        {
+          "fact_id": "cars#5",
+          "text": "Dave loves the design and engineering of classic cars",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:5"
+          ]
+        },
+        {
+          "fact_id": "cars#6",
+          "text": "Dave is obsessed with classic cars",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:7"
+          ]
+        },
+        {
+          "fact_id": "cars#7",
+          "text": "Dave is passionate about working on cars",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:21"
+          ]
+        },
+        {
+          "fact_id": "cars#8",
+          "text": "Dave is currently working on a challenging car project.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:3"
+          ]
+        },
+        {
+          "fact_id": "cars#9",
+          "text": "Dave dreams of building a custom car from scratch someday.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:5"
+          ]
+        },
+        {
+          "fact_id": "cars#10",
+          "text": "Calvin relaxes by taking long drives in a car.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:8"
+          ]
+        },
+        {
+          "fact_id": "cars#11",
+          "text": "Dave's neighbor's car had engine trouble",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:2"
+          ]
+        },
+        {
+          "fact_id": "cars#12",
+          "text": "Dave fixed his neighbor's car engine himself",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:2"
+          ]
+        },
+        {
+          "fact_id": "cars#13",
+          "text": "Dave helps his neighbors with their cars",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:4"
+          ]
+        },
+        {
+          "fact_id": "cars#14",
+          "text": "Working on cars is therapeutic for Dave",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:4"
+          ]
+        },
+        {
+          "fact_id": "cars#15",
+          "text": "Working on cars helps Calvin chill and clear his head",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:3"
+          ]
+        },
+        {
+          "fact_id": "cars#16",
+          "text": "Fixing cars calms Calvin and gives him a sense of achievement",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D7:5"
+          ]
+        },
+        {
+          "fact_id": "cars#17",
+          "text": "Calvin enjoys cruising around in his car",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:2"
+          ]
+        },
+        {
+          "fact_id": "cars#18",
+          "text": "Dave loves cars",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:1"
+          ]
+        },
+        {
+          "fact_id": "cars#19",
+          "text": "Dave has been working on a car",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:7"
+          ]
+        },
+        {
+          "fact_id": "cars#20",
+          "text": "Dave is giving a classic muscle car a modern twist",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:7"
+          ]
+        },
+        {
+          "fact_id": "cars#21",
+          "text": "Dave wanted a modern vibe while retaining classic muscle car style",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:9"
+          ]
+        },
+        {
+          "fact_id": "cars#22",
+          "text": "Dave believes small details make a car unique and personalized",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:11"
+          ]
+        },
+        {
+          "fact_id": "cars#23",
+          "text": "Dave sees car customization as a way to show his style",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:13"
+          ]
+        },
+        {
+          "fact_id": "cars#24",
+          "text": "Dave has been tied up with car-related work lately",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:1"
+          ]
+        },
+        {
+          "fact_id": "cars#25",
+          "text": "Dave fixes cars",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:3"
+          ]
+        },
+        {
+          "fact_id": "cars#26",
+          "text": "Dave finds fixing cars rewarding",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:3"
+          ]
+        },
+        {
+          "fact_id": "cars#27",
+          "text": "Dave feels a sense of purpose when fixing cars",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:3"
+          ]
+        },
+        {
+          "fact_id": "cars#28",
+          "text": "Dave feels he makes a difference when he fixes someone's car",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:3"
+          ]
+        },
+        {
+          "fact_id": "cars#29",
+          "text": "Dave feels good when someone is relieved that their car is fixed",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:5"
+          ]
+        },
+        {
+          "fact_id": "cars#30",
+          "text": "Dave feels proud when he makes a difference by fixing a car",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:5"
+          ]
+        },
+        {
+          "fact_id": "cars#31",
+          "text": "Dave invited Calvin to visit his garage and see his cars",
+          "date_label": "13 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:10"
+          ]
+        },
+        {
+          "fact_id": "cars#32",
+          "text": "Dave shared a photo of a car in his garage with a Coca-Cola sign",
+          "date_label": "13 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:12"
+          ]
+        },
+        {
+          "fact_id": "cars#33",
+          "text": "Calvin shared a photograph of a red sports car parked in a parking lot",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:2"
+          ]
+        },
+        {
+          "fact_id": "cars#34",
+          "text": "Calvin views the red sports car as a sign of his hard work and dedication",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:2"
+          ]
+        },
+        {
+          "fact_id": "cars#35",
+          "text": "Calvin had an amazing drive one summer day",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:4"
+          ]
+        },
+        {
+          "fact_id": "cars#36",
+          "text": "Calvin works on a car to relax",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:3"
+          ]
+        },
+        {
+          "fact_id": "cars#37",
+          "text": "Calvin is interested in awesome cars",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:2"
+          ]
+        },
+        {
+          "fact_id": "cars#38",
+          "text": "Dave uses cars as an outlet for self-expression",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:13"
+          ]
+        },
+        {
+          "fact_id": "cars#39",
+          "text": "Working on cars gives Dave a calm oasis and helps him reconnect with himself",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:13"
+          ]
+        },
+        {
+          "fact_id": "cars#40",
+          "text": "Dave found an old car in a neighbor's garage when he was ten",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:15"
+          ]
+        },
+        {
+          "fact_id": "cars#41",
+          "text": "Dave has been working on cars ever since he fixed the old car",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:15"
+          ]
+        },
+        {
+          "fact_id": "cars#42",
+          "text": "Dave is working on a car project",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:4"
+          ]
+        },
+        {
+          "fact_id": "cars#43",
+          "text": "Working on his car project takes Dave out of his head and calms him down",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:4"
+          ]
+        },
+        {
+          "fact_id": "cars#44",
+          "text": "Calvin is interested in cars",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:5"
+          ]
+        },
+        {
+          "fact_id": "cars#45",
+          "text": "Calvin loves making new and powerful car models",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Cars",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D26:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "City skyline",
+      "type": "topic",
+      "slug": "city-skyline",
+      "path": "topics/city-skyline.md",
+      "facts": [
+        {
+          "fact_id": "city-skyline#1",
+          "text": "Dave shared a photo depicting a city skyline with a boat in the water",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "City skyline",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D3:10"
+          ]
+        },
+        {
+          "fact_id": "city-skyline#2",
+          "text": "Calvin took a photo of Tokyo's skyline last night",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "City skyline",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:15"
+          ]
+        },
+        {
+          "fact_id": "city-skyline#3",
+          "text": "Calvin found Tokyo's skyline stunning",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "City skyline",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:15"
+          ]
+        },
+        {
+          "fact_id": "city-skyline#4",
+          "text": "Dave shared a photo showing a city skyline with a river and boats",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "City skyline",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D10:5"
+          ]
+        },
+        {
+          "fact_id": "city-skyline#5",
+          "text": "Dave captured a city skyline at sunset featuring a clock tower",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "City skyline",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:4"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Frank Ocean tour",
+      "type": "event",
+      "slug": "frank-ocean-tour",
+      "path": "events/frank-ocean-tour.md",
+      "facts": [
+        {
+          "fact_id": "frank-ocean-tour#1",
+          "text": "Calvin is finishing the Frank Ocean tour before traveling to Boston",
+          "date_label": "20 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Frank Ocean tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D3:9"
+          ]
+        },
+        {
+          "fact_id": "frank-ocean-tour#2",
+          "text": "Calvin toured with Frank Ocean in Tokyo last week",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Frank Ocean tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:1"
+          ]
+        },
+        {
+          "fact_id": "frank-ocean-tour#3",
+          "text": "Calvin is touring with Frank Ocean",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Frank Ocean tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:15"
+          ]
+        },
+        {
+          "fact_id": "frank-ocean-tour#4",
+          "text": "Calvin performed with Frank Ocean recently",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Frank Ocean tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D23:10"
+          ]
+        },
+        {
+          "fact_id": "frank-ocean-tour#5",
+          "text": "Calvin started touring with Frank Ocean",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Frank Ocean tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:1"
+          ]
+        },
+        {
+          "fact_id": "frank-ocean-tour#6",
+          "text": "Calvin and Frank Ocean clicked right away",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Frank Ocean tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:5"
+          ]
+        },
+        {
+          "fact_id": "frank-ocean-tour#7",
+          "text": "Calvin found performing and connecting with the crowd during the Frank Ocean tour energizing",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Frank Ocean tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D25:2"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Car maintenance shop",
+      "type": "topic",
+      "slug": "car-maintenance-shop",
+      "path": "topics/car-maintenance-shop.md",
+      "facts": [
+        {
+          "fact_id": "car-maintenance-shop#1",
+          "text": "Dave opened his own car maintenance shop",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:1"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#2",
+          "text": "Opening a car maintenance shop was Dave's dream",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:3"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#3",
+          "text": "Dave works on all kinds of cars at his shop",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:19"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#4",
+          "text": "Dave performs regular maintenance and full restorations of classic cars at his shop",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:19"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#5",
+          "text": "Dave helps people keep their cars in good condition",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:21"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#6",
+          "text": "Dave is teaming up with a local garage.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:1"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#7",
+          "text": "Dave enjoys his job at the garage.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:3"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#8",
+          "text": "Dave works with mechanics and shares his knowledge about cars.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:3"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#9",
+          "text": "Dave plans to continue working on his current project and assisting customers.",
+          "date_label": "3 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D5:5"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#10",
+          "text": "Dave opened his own car shop last week",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:8"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#11",
+          "text": "Dave's car shop helps people with their rides",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D6:8"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#12",
+          "text": "Calvin is getting his car repaired",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:3"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#13",
+          "text": "The mechanic repairing Calvin's car knows what he is doing",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:7"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#14",
+          "text": "Calvin trusts the mechanic's expertise",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:9"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#15",
+          "text": "Calvin took his Ferrari for a service",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:1"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#16",
+          "text": "A competing car maintenance shop won a deal Dave and his colleagues had been trying to secure for months",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:1"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#17",
+          "text": "Dave felt bummed when a competing car maintenance shop won the deal",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:1"
+          ]
+        },
+        {
+          "fact_id": "car-maintenance-shop#18",
+          "text": "Dave had put substantial effort into his work",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Car maintenance shop",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Classic car restoration",
+      "type": "topic",
+      "slug": "classic-car-restoration",
+      "path": "topics/classic-car-restoration.md",
+      "facts": [
+        {
+          "fact_id": "classic-car-restoration#1",
+          "text": "Dave restored one car last year",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:7"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#2",
+          "text": "Dave refurbishes cars for a sense of fulfillment",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:2"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#3",
+          "text": "Dave grew up working on cars with his dad",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:2"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#4",
+          "text": "Dave has fond memories of working on cars with his dad as a child",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:4"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#5",
+          "text": "Dave and his dad spent one summer restoring an old car",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:4"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#6",
+          "text": "Dave found restoring an old car with his dad satisfying",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:4"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#7",
+          "text": "Dave has one photograph from working on cars with his dad",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D12:6"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#8",
+          "text": "Dave restored a vintage car and shared a picture of the finished result.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:7"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#9",
+          "text": "Dave finds it satisfying to see the vintage car brought back to life.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:9"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#10",
+          "text": "People's reactions to Dave's finished car make his restoration work worthwhile.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:9"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#11",
+          "text": "Dave intends to keep making people happy through his work.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:11"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#12",
+          "text": "Dave worked on the engine of a vintage Mustang as part of his car project",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:1"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#13",
+          "text": "Dave heard a weird noise when he started the vintage Mustang after working on its engine",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:1"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#14",
+          "text": "Dave is restoring a Ford Mustang that he found in a junkyard",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:4"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#15",
+          "text": "Dave's Ford Mustang was in bad shape but had potential",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:4"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#16",
+          "text": "Dave put a lot of work into restoring the Ford Mustang",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:6"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#17",
+          "text": "Dave's restored Ford Mustang had an awesome result",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:6"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#18",
+          "text": "Dave's hands were permanently stained with grease after a day in the garage",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:8"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#19",
+          "text": "Dave enjoys transforming old, beat-up things into something beautiful",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:10"
+          ]
+        },
+        {
+          "fact_id": "classic-car-restoration#20",
+          "text": "Dave feels proud and fulfilled from small successes in his projects",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Classic car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D21:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Necklace",
+      "type": "topic",
+      "slug": "necklace",
+      "path": "topics/necklace.md",
+      "facts": [
+        {
+          "fact_id": "necklace#1",
+          "text": "Calvin got a necklace from another artist as a gift",
+          "date_label": "1 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Necklace",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D4:26"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Car shop opening",
+      "type": "event",
+      "slug": "car-shop-opening",
+      "path": "events/car-shop-opening.md",
+      "facts": [
+        {
+          "fact_id": "car-shop-opening#1",
+          "text": "Dave invited friends over to celebrate opening his car shop last week",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Car shop opening",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:8"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Home flooding",
+      "type": "event",
+      "slug": "home-flooding",
+      "path": "events/home-flooding.md",
+      "facts": [
+        {
+          "fact_id": "home-flooding#1",
+          "text": "Calvin's place was flooded last week",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Home flooding",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:3"
+          ]
+        },
+        {
+          "fact_id": "home-flooding#2",
+          "text": "Calvin saved his music gear and favorite microphone during the flooding",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Home flooding",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:3"
+          ]
+        },
+        {
+          "fact_id": "home-flooding#3",
+          "text": "Calvin is waiting for insurance to start repairs after the flooding",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Home flooding",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tokyo performance",
+      "type": "event",
+      "slug": "tokyo-performance",
+      "path": "events/tokyo-performance.md",
+      "facts": [
+        {
+          "fact_id": "tokyo-performance#1",
+          "text": "Calvin has an upcoming performance in Tokyo this month",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Tokyo performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:11"
+          ]
+        },
+        {
+          "fact_id": "tokyo-performance#2",
+          "text": "Calvin hopes his Tokyo performance will expand his following",
+          "date_label": "16 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Tokyo performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D6:11"
+          ]
+        },
+        {
+          "fact_id": "tokyo-performance#3",
+          "text": "Calvin felt alive while performing in Tokyo",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Tokyo performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:1"
+          ]
+        },
+        {
+          "fact_id": "tokyo-performance#4",
+          "text": "Calvin experienced intense energy and love from the fans during his Tokyo performance",
+          "date_label": "31 May, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Tokyo performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D7:3"
+          ]
+        },
+        {
+          "fact_id": "tokyo-performance#5",
+          "text": "Calvin performed one of his songs at a show in Tokyo",
+          "date_label": "14 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Tokyo performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:6"
+          ]
+        },
+        {
+          "fact_id": "tokyo-performance#6",
+          "text": "The audience sang along when Calvin performed one of his songs in Tokyo",
+          "date_label": "14 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Tokyo performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:6"
+          ]
+        },
+        {
+          "fact_id": "tokyo-performance#7",
+          "text": "Calvin took a photo of the crowd at his Tokyo show with people holding their hands up",
+          "date_label": "14 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Tokyo performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:8"
+          ]
+        },
+        {
+          "fact_id": "tokyo-performance#8",
+          "text": "Calvin performed at a music festival in Tokyo.",
+          "date_label": "22 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Tokyo performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:10"
+          ]
+        },
+        {
+          "fact_id": "tokyo-performance#9",
+          "text": "Calvin performed at a concert in Tokyo",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Tokyo performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:11"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hiking",
+      "type": "topic",
+      "slug": "hiking",
+      "path": "topics/hiking.md",
+      "facts": [
+        {
+          "fact_id": "hiking#1",
+          "text": "Dave has not gone hiking recently",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:8"
+          ]
+        },
+        {
+          "fact_id": "hiking#2",
+          "text": "Calvin has never been to the mountains",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:9"
+          ]
+        },
+        {
+          "fact_id": "hiking#3",
+          "text": "Calvin wants to go on a hike to escape and de-stress",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D8:9"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mountain trip",
+      "type": "event",
+      "slug": "mountain-trip",
+      "path": "events/mountain-trip.md",
+      "facts": [
+        {
+          "fact_id": "mountain-trip#1",
+          "text": "Dave booked a trip to a mountainous region for next month",
+          "date_label": "9 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Mountain trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D8:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Car accident",
+      "type": "event",
+      "slug": "car-accident",
+      "path": "events/car-accident.md",
+      "facts": [
+        {
+          "fact_id": "car-accident#1",
+          "text": "Calvin had a car accident last Friday",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Car accident",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:1"
+          ]
+        },
+        {
+          "fact_id": "car-accident#2",
+          "text": "No one was hurt in Calvin's car accident",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Car accident",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:1"
+          ]
+        },
+        {
+          "fact_id": "car-accident#3",
+          "text": "Calvin found the insurance process for his car accident to be a hassle with a lot of paperwork",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Car accident",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:3"
+          ]
+        },
+        {
+          "fact_id": "car-accident#4",
+          "text": "Calvin's insurance and repair issues were sorted out in a week",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Car accident",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:5"
+          ]
+        },
+        {
+          "fact_id": "car-accident#5",
+          "text": "Calvin thought the cost of repairing his car was not too bad",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Car accident",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D9:5"
+          ]
+        },
+        {
+          "fact_id": "car-accident#6",
+          "text": "Calvin's car is fixed and going strong after the crash",
+          "date_label": "7 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Car accident",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D10:2"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skiing",
+      "type": "topic",
+      "slug": "skiing",
+      "path": "topics/skiing.md",
+      "facts": [
+        {
+          "fact_id": "skiing#1",
+          "text": "Calvin has not tried skiing before",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Skiing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:17"
+          ]
+        },
+        {
+          "fact_id": "skiing#2",
+          "text": "Calvin may try skiing once",
+          "date_label": "21 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Skiing",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D9:17"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Recording studio",
+      "type": "topic",
+      "slug": "recording-studio",
+      "path": "topics/recording-studio.md",
+      "facts": [
+        {
+          "fact_id": "recording-studio#1",
+          "text": "Calvin is transforming a Japanese mansion into a recording studio",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Recording studio",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:4"
+          ]
+        },
+        {
+          "fact_id": "recording-studio#2",
+          "text": "Calvin dreams of having a space for creating music with other artists",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Recording studio",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:4"
+          ]
+        },
+        {
+          "fact_id": "recording-studio#3",
+          "text": "Calvin sees the recording studio as a sanctuary that reminds him why he loves music",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Recording studio",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D11:4"
+          ]
+        },
+        {
+          "fact_id": "recording-studio#4",
+          "text": "Dave has a music studio setup with a high-quality sound system",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Recording studio",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D13:15"
+          ]
+        },
+        {
+          "fact_id": "recording-studio#5",
+          "text": "Calvin and Frank Ocean arranged a meeting and recorded a song in the studio at Calvin's mansion.",
+          "date_label": "22 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Recording studio",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:4"
+          ]
+        },
+        {
+          "fact_id": "recording-studio#6",
+          "text": "Calvin works in his recording studio.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Recording studio",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:29"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Road trip",
+      "type": "event",
+      "slug": "road-trip",
+      "path": "events/road-trip.md",
+      "facts": [
+        {
+          "fact_id": "road-trip#1",
+          "text": "Dave just returned from a road trip with his friends",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Road trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:1"
+          ]
+        },
+        {
+          "fact_id": "road-trip#2",
+          "text": "Dave saw stunning countryside during the road trip",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Road trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:1"
+          ]
+        },
+        {
+          "fact_id": "road-trip#3",
+          "text": "Driving on winding roads, taking in the views, and chatting with his friends recharged Dave",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Road trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:1"
+          ]
+        },
+        {
+          "fact_id": "road-trip#4",
+          "text": "Dave's road trip reconnected him with his passion",
+          "date_label": "21 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Road trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D11:3"
+          ]
+        },
+        {
+          "fact_id": "road-trip#5",
+          "text": "Calvin took a road trip with his dad when Calvin was a child",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Road trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D20:6"
+          ]
+        },
+        {
+          "fact_id": "road-trip#6",
+          "text": "Calvin and his dad had fun singing along to a song during a road trip when Calvin was a child",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Road trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D20:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Live performance",
+      "type": "event",
+      "slug": "live-performance",
+      "path": "events/live-performance.md",
+      "facts": [
+        {
+          "fact_id": "live-performance#1",
+          "text": "Calvin performed with other musicians last night",
+          "date_label": "3 August, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Live performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D12:11"
+          ]
+        },
+        {
+          "fact_id": "live-performance#2",
+          "text": "Calvin performed on a big stage.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Live performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:4"
+          ]
+        },
+        {
+          "fact_id": "live-performance#3",
+          "text": "Calvin said performing on a big stage was a dream come true.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Live performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:4"
+          ]
+        },
+        {
+          "fact_id": "live-performance#4",
+          "text": "Calvin felt on top of the world while performing on a big stage.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Live performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:4"
+          ]
+        },
+        {
+          "fact_id": "live-performance#5",
+          "text": "Dave plans to attend one of Calvin and Frank Ocean's shows",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Live performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D24:6",
+            "D24:7"
+          ]
+        },
+        {
+          "fact_id": "live-performance#6",
+          "text": "Dave attended concerts last month",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Live performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D25:25"
+          ]
+        },
+        {
+          "fact_id": "live-performance#7",
+          "text": "Calvin considers concerts an important source of connection between artists and crowds",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Live performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D25:28"
+          ]
+        },
+        {
+          "fact_id": "live-performance#8",
+          "text": "Calvin lives for concerts",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Live performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D25:28"
+          ]
+        },
+        {
+          "fact_id": "live-performance#9",
+          "text": "Calvin performed with someone he admires",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Live performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:7"
+          ]
+        },
+        {
+          "fact_id": "live-performance#10",
+          "text": "Calvin felt that performing with someone he admires was a dream come true",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Live performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:9"
+          ]
+        },
+        {
+          "fact_id": "live-performance#11",
+          "text": "Calvin accepted an invitation to perform at an upcoming show in Boston",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Live performance",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D30:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Car modification workshop",
+      "type": "event",
+      "slug": "car-modification-workshop",
+      "path": "events/car-modification-workshop.md",
+      "facts": [
+        {
+          "fact_id": "car-modification-workshop#1",
+          "text": "Dave got picked for a car modification workshop",
+          "date_label": "11 August, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Car modification workshop",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D13:1"
+          ]
+        },
+        {
+          "fact_id": "car-modification-workshop#2",
+          "text": "Dave attended a car workshop in San Francisco",
+          "date_label": "14 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Car modification workshop",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Car restoration",
+      "type": "topic",
+      "slug": "car-restoration",
+      "path": "topics/car-restoration.md",
+      "facts": [
+        {
+          "fact_id": "car-restoration#1",
+          "text": "Dave explored car restoration and saw different restoration techniques at the workshop",
+          "date_label": "14 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:1"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#2",
+          "text": "Dave is restoring a car with a broken engine",
+          "date_label": "14 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:11"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#3",
+          "text": "Dave expects his car to be fully restored by the end of next month",
+          "date_label": "14 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D14:13"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#4",
+          "text": "Dave finds giving an old car a new life satisfying",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:1"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#5",
+          "text": "Dave restored a car himself",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:3"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#6",
+          "text": "Dave considers restoring things a passion rather than just a hobby",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:5"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#7",
+          "text": "Dave uses restoring things as a way to get away from everyday stress",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:5"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#8",
+          "text": "Dave finds restoring things difficult at times",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:7"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#9",
+          "text": "Dave gets a feeling of accomplishment from restoring things",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:7"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#10",
+          "text": "Dave transformed the old car from broken-down to high-running",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:15"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#11",
+          "text": "Dave restored a car last year",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:17"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#12",
+          "text": "Dave sold the car he restored last year to a collector",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:17"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#13",
+          "text": "Dave is working on a new car project that is quite a challenge",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:17"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#14",
+          "text": "Dave considers patience important in car restoration",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:19"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#15",
+          "text": "Dave believes that paying extra attention to detail in car restoration pays off",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:19"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#16",
+          "text": "Dave finished restoring his car",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:10"
+          ]
+        },
+        {
+          "fact_id": "car-restoration#17",
+          "text": "Dave found a car in bad shape last week and restored it.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Car restoration",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Music tour",
+      "type": "event",
+      "slug": "music-tour",
+      "path": "events/music-tour.md",
+      "facts": [
+        {
+          "fact_id": "music-tour#1",
+          "text": "Calvin toured with a well-known artist",
+          "date_label": "14 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Music tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D14:4"
+          ]
+        },
+        {
+          "fact_id": "music-tour#2",
+          "text": "Calvin's music tour ends soon.",
+          "date_label": "22 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Music tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:10"
+          ]
+        },
+        {
+          "fact_id": "music-tour#3",
+          "text": "Calvin said his music tour was amazing.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Music tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:2"
+          ]
+        },
+        {
+          "fact_id": "music-tour#4",
+          "text": "Calvin felt energized by the audience during his music tour.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Music tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D16:2"
+          ]
+        },
+        {
+          "fact_id": "music-tour#5",
+          "text": "Calvin has an upcoming music tour",
+          "date_label": "13 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Music tour",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D18:7"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Card night",
+      "type": "event",
+      "slug": "card-night",
+      "path": "events/card-night.md",
+      "facts": [
+        {
+          "fact_id": "card-night#1",
+          "text": "Dave attended a card night with his friends last Friday.",
+          "date_label": "22 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Card night",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D15:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rap industry",
+      "type": "topic",
+      "slug": "rap-industry",
+      "path": "topics/rap-industry.md",
+      "facts": [
+        {
+          "fact_id": "rap-industry#1",
+          "text": "Calvin and his friends recorded a podcast about the rapidly evolving rap industry yesterday.",
+          "date_label": "22 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Rap industry",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D15:12"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Guitar",
+      "type": "topic",
+      "slug": "guitar",
+      "path": "topics/guitar.md",
+      "facts": [
+        {
+          "fact_id": "guitar#1",
+          "text": "Calvin has a custom guitar made by his Japanese artist friend.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Guitar",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:14"
+          ]
+        },
+        {
+          "fact_id": "guitar#2",
+          "text": "Calvin's custom guitar has an octopus on it.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Guitar",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:14"
+          ]
+        },
+        {
+          "fact_id": "guitar#3",
+          "text": "The octopus on Calvin's guitar represents Calvin's love for art and the sea.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Guitar",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:14"
+          ]
+        },
+        {
+          "fact_id": "guitar#4",
+          "text": "Calvin considers his custom guitar one of his favorites.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Guitar",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:14"
+          ]
+        },
+        {
+          "fact_id": "guitar#5",
+          "text": "Calvin's guitar reminds him of his passion for music and the friendships he has made.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Guitar",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:16"
+          ]
+        },
+        {
+          "fact_id": "guitar#6",
+          "text": "Calvin's guitar has a shiny purple finish.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Guitar",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:18",
+            "D16:20"
+          ]
+        },
+        {
+          "fact_id": "guitar#7",
+          "text": "Calvin had his guitar customized with a shiny finish to give it a unique look.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Guitar",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:20"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Music video",
+      "type": "topic",
+      "slug": "music-video",
+      "path": "topics/music-video.md",
+      "facts": [
+        {
+          "fact_id": "music-video#1",
+          "text": "Calvin started shooting a video for his new album last weekend.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Music video",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:6"
+          ]
+        },
+        {
+          "fact_id": "music-video#2",
+          "text": "Calvin is shooting the video for his new album in Miami.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Music video",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:8"
+          ]
+        },
+        {
+          "fact_id": "music-video#3",
+          "text": "Calvin and his team chose a beach in Miami for the video shoot.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Music video",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:8"
+          ]
+        },
+        {
+          "fact_id": "music-video#4",
+          "text": "Calvin said the video will have epic visuals.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Music video",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:8"
+          ]
+        },
+        {
+          "fact_id": "music-video#5",
+          "text": "Calvin loves the Miami vibe for the video.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Music video",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:10"
+          ]
+        },
+        {
+          "fact_id": "music-video#6",
+          "text": "Dave offered to help Calvin with props or other needs for the video.",
+          "date_label": "31 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Music video",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D16:11"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Car modification",
+      "type": "topic",
+      "slug": "car-modification",
+      "path": "topics/car-modification.md",
+      "facts": [
+        {
+          "fact_id": "car-modification#1",
+          "text": "Dave gained insights and knowledge about car modification",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Car modification",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D17:1"
+          ]
+        },
+        {
+          "fact_id": "car-modification#2",
+          "text": "Dave experimented with car modifications at the car show last Friday",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Car modification",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:1"
+          ]
+        },
+        {
+          "fact_id": "car-modification#3",
+          "text": "Dave modified a car himself",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Car modification",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:3"
+          ]
+        },
+        {
+          "fact_id": "car-modification#4",
+          "text": "Dave added a custom exhaust to a car",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Car modification",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D22:3"
+          ]
+        },
+        {
+          "fact_id": "car-modification#5",
+          "text": "Dave made a car look like a beast through a car modification project.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Car modification",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:10"
+          ]
+        },
+        {
+          "fact_id": "car-modification#6",
+          "text": "Dave cleaned, polished, and protected his car's headlights.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Car modification",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:16"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "San Francisco trip",
+      "type": "event",
+      "slug": "san-francisco-trip",
+      "path": "events/san-francisco-trip.md",
+      "facts": [
+        {
+          "fact_id": "san-francisco-trip#1",
+          "text": "Dave returned from San Francisco yesterday",
+          "date_label": "2 September, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "San Francisco trip",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D17:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Brand development",
+      "type": "topic",
+      "slug": "brand-development",
+      "path": "topics/brand-development.md",
+      "facts": [
+        {
+          "fact_id": "brand-development#1",
+          "text": "Calvin plans to explore and grow his brand after his tour",
+          "date_label": "13 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Brand development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D18:7"
+          ]
+        },
+        {
+          "fact_id": "brand-development#2",
+          "text": "Calvin believes the artists he met will help him build his fan base",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Brand development",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Disney movies",
+      "type": "topic",
+      "slug": "disney-movies",
+      "path": "topics/disney-movies.md",
+      "facts": [
+        {
+          "fact_id": "disney-movies#1",
+          "text": "Calvin shared a poster for a Disney movie featuring a chef.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Disney movies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:4"
+          ]
+        },
+        {
+          "fact_id": "disney-movies#2",
+          "text": "Dave said the poster reminded him of one of his favorite Disney movies.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Disney movies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:5"
+          ]
+        },
+        {
+          "fact_id": "disney-movies#3",
+          "text": "Dave loves the lesson in that Disney movie about following dreams despite what others say.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Disney movies",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:5"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ratatouille",
+      "type": "topic",
+      "slug": "ratatouille",
+      "path": "topics/ratatouille.md",
+      "facts": [
+        {
+          "fact_id": "ratatouille#1",
+          "text": "Calvin considers Ratatouille one of his favorite movies.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Ratatouille",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:6"
+          ]
+        },
+        {
+          "fact_id": "ratatouille#2",
+          "text": "Calvin said Ratatouille is about pursuing what you love regardless of what anyone says.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Ratatouille",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D19:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rock concert",
+      "type": "event",
+      "slug": "rock-concert",
+      "path": "events/rock-concert.md",
+      "facts": [
+        {
+          "fact_id": "rock-concert#1",
+          "text": "Dave attended a rock concert in Boston last weekend.",
+          "date_label": "15 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Rock concert",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D19:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Life reflection",
+      "type": "topic",
+      "slug": "life-reflection",
+      "path": "topics/life-reflection.md",
+      "facts": [
+        {
+          "fact_id": "life-reflection#1",
+          "text": "Calvin reflected on life's intricacies, his chosen path, and the decisions that shaped his journey",
+          "date_label": "22 September, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Life reflection",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D20:4"
+          ]
+        },
+        {
+          "fact_id": "life-reflection#2",
+          "text": "Calvin reminds himself why he is passionate about his goals when he faces setbacks",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Life reflection",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:4"
+          ]
+        },
+        {
+          "fact_id": "life-reflection#3",
+          "text": "Calvin relies on helpful people around him to stay motivated",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Life reflection",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:4"
+          ]
+        },
+        {
+          "fact_id": "life-reflection#4",
+          "text": "Calvin takes breaks to recharge with his favorite activities",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Life reflection",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:4"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dave",
+      "type": "person",
+      "slug": "dave",
+      "path": "people/dave.md",
+      "facts": [
+        {
+          "fact_id": "dave#1",
+          "text": "Dave works restoring things as a job",
+          "date_label": "8 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Dave",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D22:5"
+          ]
+        },
+        {
+          "fact_id": "dave#2",
+          "text": "Dave is an automotive engineer",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dave",
+          "page_type": "person",
+          "source_dia_ids": [
+            "D26:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Repair work",
+      "type": "topic",
+      "slug": "repair-work",
+      "path": "topics/repair-work.md",
+      "facts": [
+        {
+          "fact_id": "repair-work#1",
+          "text": "Dave loves fixing things by turning something broken into something whole",
+          "date_label": "15 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Repair work",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D23:11"
+          ]
+        },
+        {
+          "fact_id": "repair-work#2",
+          "text": "Dave's garage is a little dirty but everything in it is in its place",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Repair work",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:13"
+          ]
+        },
+        {
+          "fact_id": "repair-work#3",
+          "text": "Dave has tools hanging on the wall of his garage",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Repair work",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:13"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Current events and politics",
+      "type": "topic",
+      "slug": "current-events-and-politics",
+      "path": "topics/current-events-and-politics.md",
+      "facts": [
+        {
+          "fact_id": "current-events-and-politics#1",
+          "text": "Dave had a conversation with neighbors about current events and politics",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Current events and politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:7"
+          ]
+        },
+        {
+          "fact_id": "current-events-and-politics#2",
+          "text": "Dave finds interacting with neighbors about current events and politics cheering and informative",
+          "date_label": "23 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Current events and politics",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D25:7"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Car show",
+      "type": "event",
+      "slug": "car-show",
+      "path": "events/car-show.md",
+      "facts": [
+        {
+          "fact_id": "car-show#1",
+          "text": "Dave's father took Dave to his first car show when Dave was 10",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Car show",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:6"
+          ]
+        },
+        {
+          "fact_id": "car-show#2",
+          "text": "Dave was wowed by his first car show when he was 10",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Car show",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:6"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Detroit conference",
+      "type": "event",
+      "slug": "detroit-conference",
+      "path": "events/detroit-conference.md",
+      "facts": [
+        {
+          "fact_id": "detroit-conference#1",
+          "text": "Dave recently attended a conference in Detroit",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Detroit conference",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:2"
+          ]
+        },
+        {
+          "fact_id": "detroit-conference#2",
+          "text": "Dave learned a lot at the conference in Detroit",
+          "date_label": "25 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Detroit conference",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D26:2"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Networking event",
+      "type": "event",
+      "slug": "networking-event",
+      "path": "events/networking-event.md",
+      "facts": [
+        {
+          "fact_id": "networking-event#1",
+          "text": "Calvin attended a networking event to meet more artists",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Networking event",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D27:1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Photography",
+      "type": "topic",
+      "slug": "photography",
+      "path": "topics/photography.md",
+      "facts": [
+        {
+          "fact_id": "photography#1",
+          "text": "Dave has been getting into photography",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:2"
+          ]
+        },
+        {
+          "fact_id": "photography#2",
+          "text": "Dave has visited amazing places and taken great photographs",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:2"
+          ]
+        },
+        {
+          "fact_id": "photography#3",
+          "text": "Dave photographed a clock tower in a city with buildings",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:6"
+          ]
+        },
+        {
+          "fact_id": "photography#4",
+          "text": "Dave's photography helps him capture and appreciate the beauty of nature",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:8"
+          ]
+        },
+        {
+          "fact_id": "photography#5",
+          "text": "Dave enjoys photography as a creative outlet",
+          "date_label": "29 October, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D27:8"
+          ]
+        },
+        {
+          "fact_id": "photography#6",
+          "text": "Dave has taken up photography and takes pictures of the scenery around him",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:1"
+          ]
+        },
+        {
+          "fact_id": "photography#7",
+          "text": "Calvin shared a photo of himself and other men sitting on a rock beside a river",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:2"
+          ]
+        },
+        {
+          "fact_id": "photography#8",
+          "text": "Calvin shared a photo of himself with the artist sitting on a bench in the snow",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:4"
+          ]
+        },
+        {
+          "fact_id": "photography#9",
+          "text": "Dave bought a vintage camera this month",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:5"
+          ]
+        },
+        {
+          "fact_id": "photography#10",
+          "text": "Dave uses his vintage camera to capture special moments clearly",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:7"
+          ]
+        },
+        {
+          "fact_id": "photography#11",
+          "text": "Dave likes photographing nature, including sunsets, beaches, and waves",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:8",
+            "D30:9"
+          ]
+        },
+        {
+          "fact_id": "photography#12",
+          "text": "Dave recently took a photo of a sunset with a wave crashing on rocks",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:9"
+          ]
+        },
+        {
+          "fact_id": "photography#13",
+          "text": "Dave took a photo of a peaceful scene with rocks and a waterfall last week",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Photography",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D30:13"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Album release party",
+      "type": "event",
+      "slug": "album-release-party",
+      "path": "events/album-release-party.md",
+      "facts": [
+        {
+          "fact_id": "album-release-party#1",
+          "text": "Calvin held a small party at his Japanese house last week for his new album.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Album release party",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D28:1"
+          ]
+        },
+        {
+          "fact_id": "album-release-party#2",
+          "text": "Calvin's friends and family supported him at the album party.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Album release party",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D28:1",
+            "D28:3"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Car modification blog",
+      "type": "topic",
+      "slug": "car-modification-blog",
+      "path": "topics/car-modification-blog.md",
+      "facts": [
+        {
+          "fact_id": "car-modification-blog#1",
+          "text": "Dave started a blog about car modifications.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Car modification blog",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:8"
+          ]
+        },
+        {
+          "fact_id": "car-modification-blog#2",
+          "text": "Dave's car modification blog attracts readers who ask him for advice.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Car modification blog",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:10"
+          ]
+        },
+        {
+          "fact_id": "car-modification-blog#3",
+          "text": "Dave's car modification blog inspired others to start DIY projects.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Car modification blog",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:10"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Classic rock",
+      "type": "topic",
+      "slug": "classic-rock",
+      "path": "topics/classic-rock.md",
+      "facts": [
+        {
+          "fact_id": "classic-rock#1",
+          "text": "Dave has been getting into classic rock lately.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Classic rock",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:40"
+          ]
+        },
+        {
+          "fact_id": "classic-rock#2",
+          "text": "Dave considers classic rock timeless.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Classic rock",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:40"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rock band",
+      "type": "topic",
+      "slug": "rock-band",
+      "path": "topics/rock-band.md",
+      "facts": [
+        {
+          "fact_id": "rock-band#1",
+          "text": "Dave joined a rock band after being a fan of the band for ages.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Rock band",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:24"
+          ]
+        },
+        {
+          "fact_id": "rock-band#2",
+          "text": "Dave created a logo with his rock band.",
+          "date_label": "2 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Rock band",
+          "page_type": "topic",
+          "source_dia_ids": [
+            "D28:22"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Boston gala",
+      "type": "event",
+      "slug": "boston-gala",
+      "path": "events/boston-gala.md",
+      "facts": [
+        {
+          "fact_id": "boston-gala#1",
+          "text": "Calvin attended a fancy gala in Boston yesterday",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Boston gala",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D30:2"
+          ]
+        },
+        {
+          "fact_id": "boston-gala#2",
+          "text": "Calvin had an interesting conversation with an artist at the gala",
+          "date_label": "17 November, 2023",
+          "session_index": 30,
+          "session_id": "session_30",
+          "page_title": "Boston gala",
+          "page_type": "event",
+          "source_dia_ids": [
+            "D30:4"
+          ]
+        }
+      ]
+    }
+  ]
+}

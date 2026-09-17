@@ -1,0 +1,32 @@
+---
+title: Family
+type: topic
+sources: [session_2, session_5, session_6, session_8, session_13, session_17, session_19, session_20, session_22, session_24, session_31]
+---
+
+- John's family had a picnic in a park — 22 December, 2022 [D2:10]
+- John's family enjoys climbing, sliding, and playing games at the playground — 22 December, 2022 [D2:14, D2:16]
+- John's family enjoyed a ride on a swing — 22 December, 2022 [D2:14]
+- John's family gathered around a kitchen table for dinner — 22 December, 2022 [D2:20]
+- Maria's aunt used to help Maria's family when they were struggling. — 28 January, 2023 [D5:8]
+- Maria's family had money problems when Maria was younger and relied on help from their auntie. — 5 February, 2023 [D6:9]
+- John has a wife and children. — 6 March, 2023 [D8:2]
+- John says parenting has had ups and downs, but the love and happiness outweigh them. — 6 March, 2023 [D8:6]
+- John takes his children to the park a few times a week. — 6 March, 2023 [D8:8]
+- John considers his family his biggest support — 4 May, 2023 [D13:13]
+- John's family cheers each other on during workouts and provides emotional support outside them — 4 May, 2023 [D13:15]
+- John considers family the most important thing in his life — 4 May, 2023 [D13:13]
+- Maria relies on her family for strength during tough times — 4 May, 2023 [D13:12]
+- John wants his kids to learn unconditional love and loyalty. — 3 June, 2023 [D17:9]
+- Support at home helped John overcome his self-doubt — 16 June, 2023 [D19:12]
+- John feels lucky to have his family on his journey — 16 June, 2023 [D19:16]
+- Maria's family has supported her through a difficult time. — 27 June, 2023 [D20:3]
+- Maria's family gives her words of encouragement. — 27 June, 2023 [D20:3]
+- Maria's family reminds her that she is not alone. — 27 June, 2023 [D20:3]
+- John's family motivates him to keep striving for change. — 5 July, 2023 [D22:7, D22:9]
+- John shared a photo of his family posing on a train track in the fall. — 5 July, 2023 [D22:5]
+- John is thinking about setting up games like charades and scavenger hunts for his kids soon. — 17 July, 2023 [D24:9]
+- John plans to try activities from a community event with his family and friends. — 17 July, 2023 [D24:11]
+- John's family supports him during hard times. — 13 August, 2023 [D31:17]
+- John's family enjoys hiking, going to the park, and having picnics outdoors. — 13 August, 2023 [D31:19]
+- John's family enjoys playing board games and having movie nights at home. — 13 August, 2023 [D31:19]

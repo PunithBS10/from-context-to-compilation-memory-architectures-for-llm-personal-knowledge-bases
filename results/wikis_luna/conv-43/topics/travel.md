@@ -1,0 +1,48 @@
+---
+title: Travel
+type: topic
+sources: [session_9, session_11, session_14, session_15, session_16, session_18, session_20, session_21, session_25, session_26, session_27, session_28, session_29]
+---
+
+- Tim loves traveling to new places to experience a different kind of magic. — 26 August, 2023
+- John loves discovering new cities. — 26 August, 2023
+- John and his teammates are planning a team trip next month — 21 September, 2023
+- John and his teammates plan to explore a new city on their team trip — 21 September, 2023
+- John has not yet decided the destination for his team trip — 21 September, 2023
+- Tim took a photograph of a sunset over a mountain range with trees — 17 October, 2023
+- Tim took a sunset photograph on his trip to the Smoky Mountains last year — 17 October, 2023
+- Tim considers nature refreshing — 17 October, 2023
+- Tim considers spending time in nature a good break from school — 17 October, 2023
+- Tim read a book about castles in the UK. — 21 October, 2023
+- Tim dreams of visiting castles in the UK. — 21 October, 2023
+- Tim enjoys road trips with friends and family. — 21 October, 2023
+- Tim enjoys exploring and hiking. — 21 October, 2023
+- John and his wife left for a short European vacation — 6 November, 2023
+- Tim recommends visiting castles in Europe — 6 November, 2023
+- Tim visited a castle during his trip to the UK last Friday — 16 November, 2023
+- Tim found the castle's architecture and history amazing — 16 November, 2023
+- John took a photo in a forest near his hometown. — 1 December, 2023
+- John finds the forest near his hometown tranquil. — 1 December, 2023
+- Tim took a trip last summer that reminded him of a peaceful lake scene. — 1 December, 2023
+- John went camping in the mountains. — 1 December, 2023
+- John found the mountain camping air refreshing. — 1 December, 2023
+- John enjoyed relaxing and taking in the beauty of nature while camping. — 1 December, 2023
+- Tim and John find nature calming and refreshing. — 1 December, 2023
+- Tim joined a travel club — 6 December, 2023
+- Tim is interested in different cultures and countries — 6 December, 2023
+- John found a peaceful hiking spot with rocks and a river — 19 December, 2023
+- John feels energized and in a great mood when he is in nature — 19 December, 2023
+- Tim is reading travel stories from around the world to plan his next adventure — 26 December, 2023
+- Tim found a book containing many stories from travelers around the world — 26 December, 2023
+- Tim read a story about two hikers trekking through the Himalayas — 26 December, 2023
+- The Himalayan trek was difficult because of challenging terrain, altitude sickness, and bad weather — 26 December, 2023
+- The hikers completed the Himalayan trek and saw amazing sights — 26 December, 2023
+- Tim visited a travel agency to learn the requirements for his next dream trip — 26 December, 2023
+- Tim joined a group of globetrotters who share his interests — 2 January, 2024
+- Tim wants to visit Italy — 2 January, 2024
+- Tim wants to visit Paris — 2 January, 2024
+- Tim and John enjoy traveling to learn about different cultures and places — 2 January, 2024
+- Tim was accepted into a study abroad program. — 7 January, 2024
+- Tim is researching visa requirements for countries he wants to visit — 12 January, 2024
+- John recommends Barcelona as a city to visit — 12 January, 2024
+- Tim is adding Barcelona to his travel list — 12 January, 2024

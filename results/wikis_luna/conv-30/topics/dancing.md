@@ -1,0 +1,41 @@
+---
+title: Dancing
+type: topic
+sources: [session_1, session_3, session_4, session_5, session_8, session_9, session_10, session_11, session_13, session_14, session_17, session_19]
+---
+
+- Jon has been interested in dancing since he was a child — 20 January, 2023
+- Jon considers dancing his passion and escape — 20 January, 2023
+- Gina uses dance for stress relief — 20 January, 2023
+- Jon's favorite dance style is contemporary — 20 January, 2023
+- Gina's favorite dance style is contemporary — 20 January, 2023
+- Jon wants to share the intensity of performing on stage with other people — 20 January, 2023
+- Jon is still pursuing his passion for dance — 1 February, 2023
+- Jon is passionate about dancing — 4 February, 2023
+- Dancing brings Jon joy and fulfillment — 4 February, 2023
+- Gina supports Jon's dancing — 4 February, 2023
+- Jon enjoys dancing each day. — 8 February, 2023
+- Jon sees dance as an escape to be himself. — 8 February, 2023
+- Gina uses dance as stress relief — 3 April, 2023
+- Dancing makes Jon happy — 9 April, 2023
+- Jon uses dancing to express himself — 9 April, 2023
+- Jon considers dancing his happy place — 9 April, 2023
+- Gina used to love spending time in a dance studio — 9 April, 2023
+- Gina took dance classes with Jon — 9 April, 2023
+- Jon enjoyed taking dance lessons with his friends when he was younger — 9 April, 2023
+- Gina dances it out to stay motivated — 25 April, 2023
+- Dancing has been Jon's stress-buster since childhood. — 11 May, 2023
+- Dancing helps Jon de-stress. — 11 May, 2023
+- Jon feels most alive when he dances. — 11 May, 2023
+- Jon considers dancing a must-have in his life. — 11 May, 2023
+- Gina enjoys dancing because it helps her de-stress. — 11 May, 2023
+- Gina considers dance essential to her life. — 11 May, 2023
+- Gina had a mentor when she was learning how to dance. — 13 June, 2023
+- Jon has posted dance videos on social media — 16 June, 2023
+- Jon's dance videos have created a stir online — 16 June, 2023
+- Gina shared a photo from when she was dancing — 16 June, 2023
+- The photo Gina shared shows a group of young women posing for a picture — 16 June, 2023
+- Jon loves performing — 16 June, 2023
+- Jon is determined and passionate about dance — 16 June, 2023
+- Jon believes dance can bring people together and create meaningful moments — 9 July, 2023
+- Dancing has kept Jon going during a stressful period — 23 July, 2023

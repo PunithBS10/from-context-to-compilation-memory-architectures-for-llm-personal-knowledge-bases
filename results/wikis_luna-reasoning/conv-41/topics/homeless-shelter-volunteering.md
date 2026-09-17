@@ -1,0 +1,51 @@
+---
+title: Homeless shelter volunteering
+type: topic
+sources: [session_1, session_2, session_3, session_5, session_6, session_7, session_8, session_11, session_12, session_20, session_21, session_25, session_26, session_27, session_29, session_32]
+---
+
+- Maria volunteers at a homeless shelter — 17 December, 2022
+- Maria donated her old car to a homeless shelter she volunteers at yesterday — 22 December, 2022
+- John went to a homeless shelter with the group to give out food and supplies — 1 January, 2023
+- Maria volunteered at a shelter during an event for children last week. — 28 January, 2023
+- Maria noticed a little girl around eight years old sitting alone and seeming sad at the shelter event. — 28 January, 2023
+- The little girl told Maria that she had no other family. — 28 January, 2023
+- Maria sat with the little girl and talked with her. — 28 January, 2023
+- Maria and the little girl ended up laughing and having a good time. — 28 January, 2023
+- Maria linked David with a nearby organization offering housing and support for homeless individuals — 5 February, 2023
+- Maria has been volunteering at a homeless shelter — 25 February, 2023
+- Maria met Jean while volunteering at a homeless shelter yesterday — 25 February, 2023
+- Maria formed connections at the homeless shelter by listening and showing compassion — 6 March, 2023
+- Maria believes that building trust and forming real relationships is key to making a difference at the homeless shelter — 6 March, 2023
+- Maria believes that taking time to hear what people are saying can make the biggest impact — 6 March, 2023
+- Maria recently gave a few talks at the homeless shelter where she volunteers — 10 April, 2023
+- Maria received compliments from other volunteers after giving talks at the homeless shelter — 10 April, 2023
+- The people at the homeless shelter have become like family to Maria — 10 April, 2023
+- Maria feels blessed to know the people at the homeless shelter — 10 April, 2023
+- Maria helped organize a meal for homeless shelter residents — 10 April, 2023
+- Maria helped get everything ready for the shelter meal — 10 April, 2023
+- The shelter meal brought people together to eat and support each other — 10 April, 2023
+- Maria is still volunteering at a homeless shelter — 18 April, 2023
+- Maria finds volunteering at the homeless shelter fulfilling and tough — 18 April, 2023
+- Maria says the growing need for help at the homeless shelter can be overwhelming — 18 April, 2023
+- Maria volunteered at a shelter. — 27 June, 2023
+- Maria felt great helping at the shelter. — 27 June, 2023
+- Maria met someone special at the shelter. — 27 June, 2023
+- A person Maria met at the shelter had been sad for months. — 27 June, 2023
+- That person laughed when Maria played with the children at the shelter. — 27 June, 2023
+- Maria met three children at a shelter — 3 July, 2023
+- Maria volunteers at a shelter — 3 July, 2023
+- Laura, a shelter resident, wrote a letter expressing gratitude to Maria and the other volunteers — 3 July, 2023
+- Maria and the other volunteers made a positive impact on Laura's life — 3 July, 2023
+- Maria plans to volunteer at shelters next month — 22 July, 2023
+- Maria dropped off baked goods at a homeless shelter last week — 31 July, 2023
+- Maria volunteers at a homeless shelter. — 3 August, 2023
+- Maria started volunteering at the homeless shelter about a year ago after witnessing a family struggling on the streets. — 3 August, 2023
+- Maria contacted the homeless shelter to ask whether it needed volunteers. — 3 August, 2023
+- Maria finds volunteering at the homeless shelter fulfilling. — 3 August, 2023
+- Cindy wrote a note expressing gratitude for the support residents receive at the homeless shelter. — 3 August, 2023
+- Maria volunteered at a homeless shelter last week — 9 August, 2023
+- The homeless shelter gave Maria a medal — 9 August, 2023
+- Maria volunteered at the shelter's front desk last Friday — 16 August, 2023
+- Maria saw people smile when they received food or a bed at the shelter — 16 August, 2023
+- Maria felt good while volunteering at the shelter — 16 August, 2023

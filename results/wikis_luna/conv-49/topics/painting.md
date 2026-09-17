@@ -1,0 +1,53 @@
+---
+title: Painting
+type: topic
+sources: [session_1, session_2, session_8, session_10, session_11, session_13, session_20, session_21]
+---
+
+- Sam is considering trying painting — 18 May, 2023
+- Sam has not tried painting yet — 18 May, 2023
+- Evan enjoys watercolor painting — 18 May, 2023
+- Evan started watercolor painting a few years back — 18 May, 2023
+- Evan's friend introduced him to watercolor painting and gave him advice — 18 May, 2023
+- Evan became immediately interested in watercolor painting — 18 May, 2023
+- Sam is considering painting as a hobby to stay motivated — 24 May, 2023
+- Evan has been painting for a few years — 24 May, 2023
+- Evan finds peace through painting — 24 May, 2023
+- Evan started taking painting classes a few days ago — 19 August, 2023
+- Evan started painting after a friend gave Evan a painting that inspired Evan — 19 August, 2023
+- Evan joined painting classes to meet like-minded people — 19 August, 2023
+- Evan joined painting classes to show others what Evan can do — 19 August, 2023
+- Evan believes painting skills can always improve — 19 August, 2023
+- Evan is currently painting with watercolors — 19 August, 2023
+- Evan finds painting peaceful and expressive — 19 August, 2023
+- Evan's painting classes teach observing nature and painting what they see — 19 August, 2023
+- Evan finds painting a relaxing break from everyday stress — 19 August, 2023
+- Evan enjoys painting landscapes — 19 August, 2023
+- Evan aims to convey the peacefulness of being outdoors in paintings — 19 August, 2023
+- Evan uses painting to de-stress — 11 September, 2023
+- Evan painted a mountain range with a horse — 11 September, 2023
+- Sam wants to try painting as a calming hobby — 11 September, 2023
+- Evan recommended acrylic paints, brushes, canvas or paper, and a palette as basic painting supplies — 11 September, 2023
+- Evan and Sam plan to paint together next Saturday — 11 September, 2023
+- Evan uses watercolor painting to keep busy while recovering — 6 October, 2023
+- Evan finds watercolor painting relaxing — 6 October, 2023
+- Evan finds painting to be a great stress reliever — 6 October, 2023
+- Evan painted a cactus in the desert last week — 6 October, 2023
+- Evan's sunset painting was inspired by a vacation a few years back — 6 October, 2023
+- Evan's cactus painting was inspired by a road trip last month — 6 October, 2023
+- Evan usually paints what is on his mind or something he is feeling — 6 October, 2023
+- Evan paints good memories or places he wants to visit — 6 October, 2023
+- Evan uses art to express himself and his emotions — 6 October, 2023
+- Evan finished a painting of a sunset — 14 October, 2023
+- Evan finds painting relaxing — 14 October, 2023
+- Evan finished a contemporary figurative painting a few days ago. — 17 December, 2023
+- Evan's contemporary figurative painting emphasizes emotional state through expressive brushwork and vibrant colors. — 17 December, 2023
+- Evan's painting captures a moment of introspection in which the subject is deeply immersed in thought. — 17 December, 2023
+- A close friend helped Evan get his painting published in an exhibition. — 17 December, 2023
+- Evan shared a photo of a woman standing in front of his painting. — 17 December, 2023
+- Evan enjoys painting. — 26 December, 2023
+- Evan made a painting while feeling sad, mad, and hopeful. — 26 December, 2023
+- Evan says art helps him recognize and handle his feelings. — 26 December, 2023
+- Evan painted a picture with a bird flying over it with a sense of joy and freedom. — 26 December, 2023
+- Evan says the painting's spontaneous strokes and bold colors reflect a playful and liberated mood. — 26 December, 2023
+- Sam was inspired by a painting at an exhibit a few days ago. — 26 December, 2023

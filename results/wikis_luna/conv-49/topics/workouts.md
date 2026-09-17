@@ -1,0 +1,52 @@
+---
+title: Workouts
+type: topic
+sources: [session_3, session_4, session_6, session_8, session_9, session_11, session_12, session_14, session_15, session_17, session_18, session_21, session_24, session_25]
+---
+
+- Evan and Sam plan to work out and reach their goals. — 6 June, 2023
+- Evan believes exercise clears the mind. — 6 June, 2023
+- Evan offered to show Sam some basic exercises. — 6 June, 2023
+- Evan has a gym membership card. — 27 July, 2023
+- Sam plans to go to the gym starting tomorrow. — 27 July, 2023
+- Sam plans to exercise regularly. — 27 July, 2023
+- Evan went biking during his Canada vacation — 13 August, 2023
+- Evan enjoys skiing, snowboarding, and ice skating — 19 August, 2023
+- Sam would like to try skiing — 19 August, 2023
+- Sam finds it difficult to participate in winter activities — 19 August, 2023
+- Evan has found it difficult to stay consistent with his usual fitness routine because of his knee injury — 27 August, 2023
+- Staying active is very important to Evan — 27 August, 2023
+- Evan is swimming to stay active while keeping his activity low-key — 27 August, 2023
+- Evan has found it difficult to stay active since injuring his knee — 6 October, 2023
+- Evan is doing easy exercises to keep his knee strong while he heals — 6 October, 2023
+- Evan cannot do intense workouts while his knee heals — 6 October, 2023
+- Evan started lifting weights one year ago — 8 October, 2023
+- Evan struggled when Evan first started lifting weights — 8 October, 2023
+- Evan has seen gains from lifting weights — 8 October, 2023
+- Sam is interested in getting into weightlifting — 8 October, 2023
+- Evan advised Sam to start weightlifting with good form and technique — 8 October, 2023
+- Evan advised Sam to find a trainer to help Sam avoid injuries while building strength — 8 October, 2023
+- Evan advised Sam to start with something small and increase the intensity as Sam gets stronger — 8 October, 2023
+- Evan advised Sam to stay consistent with Sam's workout routine — 8 October, 2023
+- Sam planned to find someone who could help Sam with weightlifting — 8 October, 2023
+- Sam planned to take weightlifting slowly — 8 October, 2023
+- Sam wants to prioritize health by getting regular exercise. — 17 October, 2023
+- Evan has been focusing on fitness. — 17 October, 2023
+- Evan said focusing on fitness has benefited his overall well-being. — 17 October, 2023
+- Evan was at the gym yesterday. — 17 October, 2023
+- Evan is gaining strength. — 17 October, 2023
+- Evan takes morning walks. — 25 October, 2023
+- Evan started walking regularly two years ago. — 25 October, 2023
+- Evan stays in shape by going to the gym — 21 November, 2023
+- Sam has found fitness goals hard to reach — 21 November, 2023
+- Evan is considering other ways to stay active and travel — 5 December, 2023
+- Sam said yoga has improved Sam's flexibility and stress levels — 5 December, 2023
+- Evan is thinking about trying yoga for stress relief and flexibility — 5 December, 2023
+- Sam has started running in the mornings. — 26 December, 2023
+- Sam made a meal plan and workout schedule. — 10 January, 2024
+- Evan suggested swimming as a low-impact exercise. — 10 January, 2024
+- Evan suggested yoga as a low-impact exercise. — 10 January, 2024
+- Evan suggested walking as a low-impact exercise. — 10 January, 2024
+- Sam was motivated by watching The Godfather to keep up with Sam's routine. — 10 January, 2024
+- Evan says yoga has helped Evan with stress and staying flexible. — 10 January, 2024
+- Sam has not found any exercises that he likes — 11 January, 2024

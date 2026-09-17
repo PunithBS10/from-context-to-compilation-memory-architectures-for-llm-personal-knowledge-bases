@@ -1,0 +1,33 @@
+---
+title: Book collection
+type: topic
+sources: [session_2, session_4, session_7, session_11, session_14, session_15, session_18, session_19, session_20, session_22, session_26, session_27]
+---
+
+- Tim has a book collection. — 15 June, 2023 [D2:7]
+- John has been reading an inspiring book — 2 August, 2023 [D4:10]
+- The inspiring book John has been reading reminds John to keep dreaming — 2 August, 2023 [D4:10]
+- Tim hopes to attend a book conference next month. — 17 August, 2023 [D7:6]
+- The book conference Tim hopes to attend will bring together authors, publishers, and book lovers to discuss favorite novels and new releases. — 17 August, 2023 [D7:6]
+- John is interested in book recommendations for his trip — 21 September, 2023 [D11:23]
+- John read and loved "The Alchemist" — 21 September, 2023 [D11:25, D11:27]
+- John recommends "The Alchemist" because it prompted him to think about life and following one's dreams — 21 September, 2023 [D11:27]
+- Tim finds time to relax with books while studying. — 17 October, 2023 [D14:20]
+- Tim is currently reading a book and is hooked on it. — 17 October, 2023 [D14:22]
+- John picked up a book after talking with Tim. — 17 October, 2023 [D14:23]
+- John found the book he picked up awesome. — 17 October, 2023 [D14:23]
+- Tim has been reading J.K. Rowling's works for a long time — 21 October, 2023 [D15:9]
+- Tim enjoys curling up with a good book and getting lost in different worlds — 21 October, 2023 [D15:29]
+- John enjoys cuddling up with a book during his chill time — 21 October, 2023 [D15:30]
+- Tim compares being unable to read due to an injury to John's inability to be on the court. — 16 November, 2023 [D18:13]
+- Tim owns a collection of books — 21 November, 2023 [D19:13]
+- John reread "The Alchemist" recently — 21 November, 2023 [D19:20]
+- Tim reorganized his bookshelf. — 1 December, 2023 [D20:17]
+- Tim owns a collection of fantasy books. — 1 December, 2023 [D20:19]
+- Tim considers The Hobbit one of his favorite books. — 1 December, 2023 [D20:19]
+- John considers The Hobbit one of his favorite books. — 1 December, 2023 [D20:20]
+- John is reading "Dune" by Frank Herbert — 8 December, 2023 [D22:12]
+- John says "Dune" is about religion and human control over ecology — 8 December, 2023 [D22:12]
+- Tim enjoys reading good books in his downtime — 26 December, 2023 [D26:26]
+- Tim loves reading — 2 January, 2024 [D27:15]
+- Tim has a collection of books that lets him escape into other worlds — 2 January, 2024 [D27:17]

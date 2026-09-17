@@ -1,0 +1,65 @@
+---
+title: Hiking
+type: topic
+sources: [session_1, session_2, session_3, session_4, session_6, session_7, session_9, session_10, session_11, session_12, session_14, session_16, session_18, session_20, session_21, session_23, session_24, session_26]
+---
+
+- Andrew spots birds when he hikes — 27 March, 2023
+- Andrew considers Fox Hollow a great trail for weekend hikes — 27 March, 2023
+- Andrew thinks Fox Hollow has awesome views — 27 March, 2023
+- Andrew misses exploring nature trails with his family's dog — 2 April, 2023
+- Andrew considers hiking with a dog a way to bond and create memories — 2 April, 2023
+- Andrew wants to find a dog-friendly spot so he can explore nature trails again — 2 April, 2023
+- Andrew misses the peacefulness of hiking — 16 April, 2023
+- Audrey went on a hike last week. — 3 May, 2023
+- Andrew found a new open space nearby to hike. — 3 May, 2023
+- Andrew tries to escape the city at least once each weekend to hike. — 3 May, 2023
+- Andrew went on a hike last weekend with friends and his girlfriend — 11 May, 2023
+- Andrew hiked at a recently discovered spot last weekend — 11 May, 2023
+- Audrey took her dogs on a hike before. — 2 June, 2023
+- Andrew hiked with some friends last Friday — 26 June, 2023
+- Andrew said the weather was great during his hike last Friday — 26 June, 2023
+- Audrey hiked with friends a few years ago and discovered a stunning lake in the mountains — 26 June, 2023
+- Andrew has been unable to hike. — 3 July, 2023
+- Andrew has been finding new hobbies because he cannot hike. — 3 July, 2023
+- Audrey suggested joining Andrew for a hike and bringing her dogs. — 8 July, 2023
+- Andrew and Audrey plan to hike with Audrey's dogs next month when the weather is more pleasant. — 8 July, 2023
+- Andrew suggested a trail for the dogs. — 8 July, 2023
+- Audrey plans to look into the trail for her dogs to run around. — 8 July, 2023
+- Andrew and Audrey agreed to make sure the trail is safe for the dogs. — 8 July, 2023
+- Andrew and Audrey are excited to hike with Audrey's dogs. — 8 July, 2023
+- Audrey hiked to a viewpoint last year. — 8 July, 2023
+- Audrey drove three hours to the hike last year. — 8 July, 2023
+- Audrey saw an amazing sunset during the hike last year. — 8 July, 2023
+- Andrew misses the peace and feeling of freedom that come with hiking — 11 July, 2023
+- Andrew has plans to go on a hike next month — 11 July, 2023
+- Andrew invited Audrey and her dogs to join the hike next month — 11 July, 2023
+- Audrey plans to bring her dogs on the hike next month — 11 July, 2023
+- Andrew plans for Toby to meet Audrey's dogs on the hike — 11 July, 2023
+- Audrey went on a two-hour trail hike with her dogs — 4 August, 2023
+- Andrew says hiking refreshes him — 4 August, 2023
+- Andrew says reaching the top of a challenging trail makes his worries vanish — 4 August, 2023
+- Andrew plans to take Toby hiking at a local trail — 4 August, 2023
+- Andrew went on a hike and photographed a sunset over a mountain with a church on top — 19 August, 2023
+- Andrew takes pictures during hikes to save the moment — 19 August, 2023
+- Andrew went on a hike last weekend to get away from the city — 6 September, 2023
+- Andrew witnessed a beautiful sunset during his hike last weekend — 6 September, 2023
+- Andrew wants to hike with Toby — 6 September, 2023
+- Audrey is planning a hike with the dogs next month — 1 October, 2023
+- Audrey enjoys exploring new trails with the dogs — 1 October, 2023
+- Andrew used to hike a lot — 4 October, 2023
+- Andrew finds hiking more challenging now because of his work-life balance — 4 October, 2023
+- Andrew visits nearby parks or goes hiking when he can — 13 October, 2023
+- Audrey wants to hike with her dogs as therapy — 13 October, 2023
+- Audrey remembers hiking trips with her dogs as good times — 13 October, 2023
+- Buddy enjoys exploring new hiking trails with Andrew and others — 19 October, 2023
+- Andrew plans to take Buddy and Toby to the trails together soon — 19 October, 2023
+- Audrey and Andrew plan to hike with their dogs next month — 19 October, 2023
+- Audrey plans to research a good place for their hike — 19 October, 2023
+- Audrey and Andrew planned a hike for Saturday with their dogs. — 28 October, 2023
+- The planned hike will include snacks. — 28 October, 2023
+- The planned hike will take place on a dog-friendly trail near a lake. — 28 October, 2023
+- Andrew said the trail has great views. — 28 October, 2023
+- Audrey and Andrew planned to explore the trail and lake with their dogs. — 28 October, 2023
+- Audrey and Andrew wanted to take pictures of the autumn colors and their dogs on a future trip. — 28 October, 2023
+- Andrew previously hiked with his dog. — 28 October, 2023

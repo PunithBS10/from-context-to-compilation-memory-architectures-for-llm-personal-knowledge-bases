@@ -1,0 +1,50 @@
+---
+title: Meditation
+type: topic
+sources: [session_7, session_8, session_9, session_11, session_13, session_15, session_16, session_17, session_18, session_20, session_21, session_22, session_23, session_25, session_26, session_27, session_28]
+---
+
+- Jolene practices meditation for calm and clarity. — 25 February, 2023
+- Jolene takes breaks to do breathing exercises or meditate when she feels overwhelmed. — 25 February, 2023
+- Deborah meditates in the morning. — 25 February, 2023
+- Jolene practiced meditation last Friday to relax — 2 March, 2023
+- Deborah practiced meditation recently to reset her mind — 2 March, 2023
+- Deborah finds happiness in giving people peace and awareness — 13 March, 2023
+- Deborah listens to the album "Sleep" for meditation and deep relaxation — 28 March, 2023
+- Yoga and meditation have had a positive effect on Jolene. — 6 June, 2023
+- Yoga and meditation have helped Jolene manage stress and stay centered. — 6 June, 2023
+- Deborah practices meditation with other people. — 9 July, 2023
+- Deborah organizes workshops and events for mindfulness and self-care. — 9 July, 2023
+- Deborah's workshops involve yoga, meditation, and self-reflection. — 9 July, 2023
+- Deborah's workshops aim to cultivate self-awareness and promote mental and emotional well-being. — 9 July, 2023
+- Deborah's workshops help people find inner peace, connect, explore, and grow. — 9 July, 2023
+- Deborah finds it rewarding to see people come together and support each other through her workshops. — 9 July, 2023
+- Deborah has witnessed growth and transformation through her workshops. — 9 July, 2023
+- Yoga and meditation help Jolene stay balanced and grounded. — 1 August, 2023
+- Deborah made a meditation guide for her yoga retreat since she and Jolene last spoke — 12 August, 2023
+- Jolene used meditation to regain her calm and clarity after losing her work files — 12 August, 2023
+- Jolene has not tried mindfulness yet — 16 August, 2023
+- Jolene is interested in destressing and trying mindfulness — 16 August, 2023
+- Deborah started mindfulness through workshops and books — 16 August, 2023
+- Mindfulness is now a major part of Deborah's life — 16 August, 2023
+- Deborah stays mindful to remain grounded — 21 August, 2023
+- Deborah experiences peaceful moments as a reboot — 21 August, 2023
+- Jolene is finding her zen again — 21 August, 2023
+- Deborah believes people can grow and learn by listening to themselves. — 24 August, 2023
+- Jolene and her partner are planning to attend a meditation retreat together — 26 August, 2023
+- Jolene meditates at a nearby tranquil spot — 30 August, 2023
+- Meditating at the tranquil spot helps Jolene make sense of everything and relieve stress — 30 August, 2023
+- Jolene signed up for a meditation course at a retreat near a lake. — 6 September, 2023
+- Jolene wants to share the meditation course experience with her partner. — 6 September, 2023
+- Jolene wants to learn new meditation techniques. — 6 September, 2023
+- Jolene uses meditation to help her stay balanced during her studies. — 6 September, 2023
+- Deborah practices meditation as part of her routine. — 6 September, 2023
+- Jolene uses yoga and meditation for self-care, balance, and relaxation — 8 September, 2023
+- Jolene traveled with her partner to a meditation retreat in Phuket for a few weeks last weekend — 12 September, 2023
+- Jolene found inner peace during the meditation retreat in Phuket — 12 September, 2023
+- Jolene realized during the retreat that relaxation, self-care, and balance are important alongside her engineering studies — 12 September, 2023
+- Jolene learned at the retreat to release expectations and judgments and savor the present — 12 September, 2023
+- Jolene is trying to practice mindfulness and gratitude — 12 September, 2023
+- Jolene and others tried a style of meditation with flowers in Thailand — 15 September, 2023
+- Jolene uses essential oils and soft music during yoga or meditation — 15 September, 2023
+- Jolene finds calm and centers herself through yoga or meditation — 15 September, 2023

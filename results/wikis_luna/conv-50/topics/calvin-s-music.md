@@ -1,0 +1,106 @@
+---
+title: Calvin's music
+type: topic
+sources: [session_2, session_3, session_4, session_5, session_6, session_7, session_8, session_10, session_11, session_12, session_14, session_15, session_16, session_18, session_20, session_21, session_23, session_24, session_25, session_26, session_27, session_28, session_29, session_30]
+---
+
+- Calvin wrote new tunes — 26 March, 2023
+- Calvin had several studio sessions last week — 26 March, 2023
+- Calvin plans to collaborate on his new tunes — 26 March, 2023
+- A producer advised Calvin to stay true to himself and develop a unique sound — 20 April, 2023
+- Calvin dreams of touring the world and connecting with different audiences through his music — 20 April, 2023
+- Calvin hopes his music will reach a global audience and make an impact — 20 April, 2023
+- The necklace reminds Calvin why he keeps working as a musician. — 1 May, 2023
+- Calvin is experiencing a creative block with his music. — 3 May, 2023
+- Dave gets inspiration by immersing himself in concerts or favorite albums. — 3 May, 2023
+- Dave suggested that Calvin take a break from music and explore other things for inspiration. — 3 May, 2023
+- Calvin intends to continue pursuing his music. — 3 May, 2023
+- Calvin has a music studio with a keyboard, synthesizer, and other musical equipment — 16 May, 2023
+- Calvin toured with Frank Ocean last week — 31 May, 2023
+- Calvin loves performing live — 31 May, 2023
+- Calvin feels a rush and connection with the crowd when performing live — 31 May, 2023
+- Calvin met with the creative team for his album yesterday — 9 June, 2023
+- Calvin is working with a team in the studio on music for his album — 9 June, 2023
+- Calvin has been working on music collaborations with Japanese artists — 7 July, 2023
+- Calvin plans to share clips of his music collaborations when they are ready — 7 July, 2023
+- Calvin collaborates with various artists to create unique music — 7 July, 2023
+- Calvin is transforming a Japanese mansion into a recording studio — 21 July, 2023
+- Calvin has dreamed of having a space for creating music with other artists — 21 July, 2023
+- Calvin's recording studio is intended to be his sanctuary — 21 July, 2023
+- Calvin has been experimenting with different music genres — 21 July, 2023
+- Calvin has been adding electronic elements to his songs — 21 July, 2023
+- Calvin finds switching between music styles challenging — 21 July, 2023
+- Calvin tries to balance sticking to his sound with trying new things — 21 July, 2023
+- Calvin started making music to follow his dreams — 21 July, 2023
+- Collaborating with others and learning from them keeps Calvin motivated — 21 July, 2023
+- Calvin stays motivated by surrounding himself with positive energy and passion — 21 July, 2023
+- Calvin performed with other musicians last night. — 3 August, 2023
+- Calvin wants to expand his brand worldwide. — 3 August, 2023
+- Calvin wants to grow his fanbase. — 3 August, 2023
+- Calvin wants his music to reach more people and make an impact. — 3 August, 2023
+- Calvin wants to work with artists from around the globe. — 3 August, 2023
+- Calvin wants to challenge himself to create special music. — 3 August, 2023
+- Calvin is determined to make his dreams come true. — 3 August, 2023
+- Calvin performed a song in Tokyo that the audience sang along to. — 14 August, 2023
+- Calvin scored a deal to continue collaborating with Frank Ocean — 22 August, 2023
+- Calvin and Frank Ocean arranged a meeting and recorded a song in Calvin's mansion — 22 August, 2023
+- Someone noticed Calvin's performance and is now working with Calvin — 22 August, 2023
+- Calvin's tour ends soon — 22 August, 2023
+- Calvin completed an amazing tour — 31 August, 2023
+- Calvin performed on a big stage during the tour — 31 August, 2023
+- Calvin started shooting a video for his new album last weekend — 31 August, 2023
+- Calvin is shooting the video for his new album in Miami — 31 August, 2023
+- Calvin chose a beach in Miami as the location for the video shoot — 31 August, 2023
+- Calvin has a custom-made guitar created by his Japanese artist friend — 31 August, 2023
+- Calvin's custom-made guitar has an octopus design — 31 August, 2023
+- The octopus on Calvin's guitar represents Calvin's love for art and the sea — 31 August, 2023
+- Calvin's guitar has a shiny purple finish — 31 August, 2023
+- Calvin values staying true to himself and being unique in his music — 31 August, 2023
+- Calvin's album dropped on the 11th — 13 September, 2023
+- People have been loving Calvin's album — 13 September, 2023
+- Calvin's music has connected with people — 13 September, 2023
+- Calvin makes music to make a difference and share his own story — 13 September, 2023
+- Calvin has an upcoming tour — 13 September, 2023
+- Calvin plans to explore and grow his brand after his tour — 13 September, 2023
+- Calvin remembers singing along to a song during a road trip with his dad — 22 September, 2023
+- Calvin and his dad listened to Tupac and Dr. Dre's "California Love" during a road trip — 22 September, 2023
+- Calvin and Dave plan to have a music jam session together — 22 September, 2023
+- Calvin plans to collaborate with the artists on new music — 4 October, 2023
+- Calvin's job involves connecting with a crowd. — 15 October, 2023
+- Calvin recently performed with Frank Ocean. — 15 October, 2023
+- Calvin started touring with Frank Ocean — 19 October, 2023
+- Calvin has experienced a strong connection with crowds while performing on stage — 19 October, 2023
+- Calvin is performing with Frank Ocean during the tour — 19 October, 2023
+- Calvin met Frank Ocean at a festival in August last year — 19 October, 2023
+- Frank Ocean said he wanted to collaborate with Calvin when they met at a festival in August last year — 19 October, 2023
+- Calvin and Frank Ocean had strong on-stage chemistry when they first collaborated — 19 October, 2023
+- Calvin is touring with Frank Ocean. — 23 October, 2023
+- Calvin incorporates unique perspectives into his music to connect better with his fans. — 23 October, 2023
+- Calvin has been inspired by the struggles people go through. — 23 October, 2023
+- Calvin uses music to express himself and work through his emotions. — 23 October, 2023
+- Calvin considers music his own form of therapy. — 23 October, 2023
+- Calvin wants to create extraordinary work as an artist by focusing on small details. — 23 October, 2023
+- Calvin performs at concerts and values the connection between artists and crowds. — 23 October, 2023
+- Calvin performed on stage with someone Calvin admires — 25 October, 2023
+- Performing with someone Calvin admires felt like a dream come true for Calvin — 25 October, 2023
+- The energy and crowd during Calvin's performance showed Calvin how much music means to Calvin — 25 October, 2023
+- Music is Calvin's passion and purpose — 25 October, 2023
+- Calvin attended a networking event to meet more artists — 29 October, 2023
+- Calvin met people at the networking event who will help him build his fan base — 29 October, 2023
+- Calvin has had some great collaborations recently — 29 October, 2023
+- Calvin's album is almost finished — 29 October, 2023
+- Calvin held a small party at his Japanese house last week to celebrate his new album. — 2 November, 2023
+- Calvin's music brings people together and inspires them. — 2 November, 2023
+- Calvin has a recording studio with a monitor and keyboard. — 2 November, 2023
+- Calvin watches music videos, concerts, and documentaries about artists and their creative processes. — 2 November, 2023
+- Calvin and his old high school buddy freestyled when they were teenagers — 13 November, 2023
+- Calvin considers supportive people important for his growth as an artist — 13 November, 2023
+- Calvin supports young musicians from a music program — 13 November, 2023
+- Calvin plans to support the young musicians for a long time — 13 November, 2023
+- Calvin is making a beat for a young artist with great potential in music — 13 November, 2023
+- Calvin is experimenting with new sounds and pushing musical boundaries — 13 November, 2023
+- Calvin and the artist connected over music and art — 17 November, 2023
+- Calvin and the artist discussed their favorite artists and art — 17 November, 2023
+- Calvin and the artist discussed how music connects people — 17 November, 2023
+- Calvin accepted an invitation to perform at an upcoming show in Boston — 17 November, 2023
+- Calvin expects the upcoming Boston show to be an unforgettable musical experience — 17 November, 2023

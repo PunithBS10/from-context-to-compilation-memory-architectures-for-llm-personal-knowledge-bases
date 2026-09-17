@@ -1,0 +1,67 @@
+---
+title: Healthy lifestyle
+type: topic
+sources: [session_2, session_3, session_4, session_5, session_6, session_7, session_8, session_9, session_10, session_11, session_12, session_13, session_14, session_15, session_16, session_17, session_22, session_24]
+---
+
+- Evan makes smarter choices in his diet — 24 May, 2023
+- Sam is looking for a hobby to stay motivated while changing old habits — 24 May, 2023
+- Evan is trying to eat less processed food — 6 June, 2023
+- Evan is trying to eat fewer sugary snacks — 6 June, 2023
+- Evan loves ginger snaps — 6 June, 2023
+- Sam said he was trying to eat healthier these days — 6 June, 2023
+- Sam said he had made no changes to his diet recently — 6 June, 2023
+- Sam enjoys soda and candy — 6 June, 2023
+- Sam knows that enjoying soda and candy is not the best habit to have — 6 June, 2023
+- Sam agreed to try swapping soda for flavored seltzer water and candy for dark chocolate with high cocoa content — 6 June, 2023
+- Sam realized that Sam needed to make changes after being mocked — 27 July, 2023
+- Sam is working on Sam's health and getting active — 27 July, 2023
+- Evan struggled with Evan's health a few years ago — 27 July, 2023
+- Evan stuck with improving Evan's health — 27 July, 2023
+- Evan cut down on sugary snacks — 27 July, 2023
+- Evan started eating more vegetables and fruit — 27 July, 2023
+- Evan said dietary changes made a big impact on Evan's health — 27 July, 2023
+- Sam is reducing Sam's soda and candy intake — 27 July, 2023
+- Sam has tried flavored seltzer water before and liked it — 27 July, 2023
+- Evan has been working on his health for two years — 7 August, 2023
+- Evan has experienced ups and downs while working on his health — 7 August, 2023
+- Evan's family motivates him to stay healthy — 7 August, 2023
+- Sam is taking small steps toward healthier habits — 13 August, 2023
+- Sam uses the quote "Don't fear it, just take the first step" to stay motivated — 13 August, 2023
+- Sam believes that progress is more important than perfection — 13 August, 2023
+- Sam believes celebrating small wins helps maintain motivation — 13 August, 2023
+- Evan wants to add more vegetables to Evan's meals — 15 August, 2023
+- Sam is motivated to make positive changes to Sam's health — 15 August, 2023
+- Sam is taking positive changes one step at a time — 15 August, 2023
+- Sam is on a diet and is living healthier. — 19 August, 2023
+- Sam is sticking with her diet. — 19 August, 2023
+- Sam has more energy since changing her diet. — 19 August, 2023
+- Sam feels less sluggish after eating since changing her diet. — 19 August, 2023
+- Sam started a new diet and exercise routine last Monday — 27 August, 2023
+- Sam says the new diet and exercise routine has made a huge difference — 27 August, 2023
+- Sam feels great since starting the new routine — 27 August, 2023
+- Sam is working on becoming healthier — 27 August, 2023
+- Sam shared a photo of a before-and-after body transformation resulting from a diet — 11 September, 2023
+- Sam wants to motivate others to make better choices — 11 September, 2023
+- Sam shared a photo of a bowl of beef and vegetables with a Healthy Choice package — 11 September, 2023
+- Evan says making healthier choices has made a difference for Evan — 11 September, 2023
+- Sam is trying to make healthier choices — 11 September, 2023
+- Sam experiences cravings for sugary drinks and snacks — 11 September, 2023
+- Stress, boredom, and wanting comfort trigger Sam's cravings — 11 September, 2023
+- Sam has started eating healthier — 6 October, 2023
+- Sam has been having a hard time because of the doctor's warning about Sam's weight — 8 October, 2023
+- Sam bought unhealthy snacks during a rough week — 14 October, 2023
+- Sam feels guilty about buying unhealthy snacks — 14 October, 2023
+- Sam wants to prioritize health by adopting a more nutritious diet — 17 October, 2023
+- Sam is trying to keep up with a new health routine — 25 October, 2023
+- Evan went through a similar phase two years ago — 25 October, 2023
+- Evan changed his diet two years ago — 25 October, 2023
+- Evan focused more on his well-being than on quick results — 25 October, 2023
+- Sam wants to feel the same sense of freedom that Evan achieved — 25 October, 2023
+- Sam plans to focus on small wins and take progress one day at a time — 25 October, 2023
+- Sam sees coaching as a step in Sam's quest for better health — 9 November, 2023
+- Sam is trying to make diet changes — 21 November, 2023
+- Sam is getting into a healthier lifestyle — 31 December, 2023
+- Sam made a meal plan and workout schedule — 10 January, 2024
+- Sam plans to start following his meal plan and workout schedule today — 10 January, 2024
+- Sam hopes healthier eating and yoga will lead to positive changes — 10 January, 2024

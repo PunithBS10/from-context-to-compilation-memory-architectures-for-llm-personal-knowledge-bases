@@ -1,0 +1,139 @@
+---
+title: Dogs
+type: topic
+sources: [session_1, session_2, session_3, session_4, session_5, session_6, session_7, session_8, session_9, session_10, session_11, session_12, session_13, session_14, session_15, session_17, session_18, session_19, session_22, session_23, session_24, session_26, session_27, session_28]
+---
+
+- Audrey has dogs named Pepper, Precious, and Panda — 27 March, 2023
+- Audrey has had her dogs for 3 years — 27 March, 2023
+- Audrey's dogs are city dogs — 27 March, 2023
+- Audrey frequently explores new parks and trails with her dogs — 27 March, 2023
+- Audrey adopted a puppy named Pixie — 2 April, 2023
+- Audrey has other dogs besides Pixie — 2 April, 2023
+- Pixie took a few days to get used to Audrey's other dogs — 2 April, 2023
+- Pixie and Audrey's other dogs are now friends — 2 April, 2023
+- Pixie and Audrey's other dogs play and explore the house — 2 April, 2023
+- Pepper took a bit to get used to Pixie — 2 April, 2023
+- Pepper and Pixie are now always together — 2 April, 2023
+- Andrew is considering getting a dog — 2 April, 2023
+- Andrew has a family dog — 2 April, 2023
+- Audrey takes her dogs for walks in the park to find her center and recharge — 16 April, 2023
+- Audrey has dogs — 16 April, 2023
+- Audrey's dogs bring her a lot of joy — 16 April, 2023
+- Audrey says that her dogs mean the world to her — 16 April, 2023
+- Audrey has tattoos of her dogs on her arm — 16 April, 2023
+- Audrey got a tattoo of her dogs a while ago — 16 April, 2023
+- Audrey's tattoo represents her love for her dogs and nature's beauty — 16 April, 2023
+- Audrey has a strong bond with her dogs — 16 April, 2023
+- Audrey wants to see her dogs' happy faces even when they are not with her — 16 April, 2023
+- Audrey is busy taking care of her pets and spending time with them. — 3 May, 2023
+- Audrey finds caring for her pets fulfilling. — 3 May, 2023
+- Audrey prioritizes keeping her dogs safe outdoors. — 3 May, 2023
+- Audrey's dogs wear leashes and shoes outdoors. — 3 May, 2023
+- Audrey plays fetch with her dogs using a ball or frisbee. — 3 May, 2023
+- Audrey meets other dog owners in the park for doggie playdates. — 3 May, 2023
+- Audrey's dogs enjoy playing fetch and meeting new pals at playdates. — 3 May, 2023
+- Audrey puts party hats on her dogs for fun and treats. — 3 May, 2023
+- Audrey's dogs are not bothered by wearing party hats. — 3 May, 2023
+- Audrey recommends the dog park as a place to start for playdates. — 3 May, 2023
+- The dog park Audrey uses is by the park where she usually walks her dogs. — 3 May, 2023
+- The dog park Audrey uses has lots of trees and benches for watching the dogs play. — 3 May, 2023
+- Andrew plans to check out Audrey's dog park. — 3 May, 2023
+- Andrew is looking for a dog to adopt — 6 May, 2023
+- Andrew has been browsing dog adoption websites — 6 May, 2023
+- Andrew has been visiting animal shelters while looking for a dog — 6 May, 2023
+- Andrew thinks a smaller dog would be best for him as an apartment resident — 6 May, 2023
+- Andrew thinks a dog's exercise needs should be considered when choosing a dog — 6 May, 2023
+- Audrey takes care of four dogs — 11 May, 2023
+- Audrey met a volunteer's dog at the pet store — 11 May, 2023
+- The volunteer's dog was friendly and playful — 11 May, 2023
+- Audrey's dogs are quick learners and love rewards — 11 May, 2023
+- Audrey wants to learn how to train her dogs better — 11 May, 2023
+- Audrey believes pets should learn how to behave through positive reinforcement — 11 May, 2023
+- Audrey believes punishment is not the proper way to train pets — 11 May, 2023
+- Audrey does not want to hurt any of her dogs — 11 May, 2023
+- Andrew is searching for a dog — 2 June, 2023
+- Audrey usually walks her dogs for about an hour — 13 June, 2023
+- Audrey lets her dogs explore at their own pace during walks — 13 June, 2023
+- Audrey's dogs need exercise and opportunities to explore — 13 June, 2023
+- Walking is Audrey's dogs' favorite part of the day — 13 June, 2023
+- Audrey's dogs become excited when Audrey gets ready for a walk — 13 June, 2023
+- Audrey's dogs enjoy meeting new people — 13 June, 2023
+- Audrey's dogs love having space to run, explore, and sniff new smells — 26 June, 2023
+- Audrey has four dogs — 3 July, 2023
+- Audrey's dogs are all mutts — 3 July, 2023
+- Two of Audrey's dogs are Jack Russell mixes — 3 July, 2023
+- Two of Audrey's dogs are Chihuahua mixes — 3 July, 2023
+- Audrey's dogs love running and playing fetch — 3 July, 2023
+- Audrey's dogs are all 3 years old — 3 July, 2023
+- Audrey's four dogs are a great pack — 3 July, 2023
+- Audrey's dogs give her love and happiness — 3 July, 2023
+- Andrew wishes he could get a dog — 8 July, 2023
+- Andrew finds it difficult to find the right dog — 8 July, 2023
+- Audrey's dogs make her happy — 8 July, 2023
+- Audrey got her dogs from a nearby breeder — 8 July, 2023
+- Audrey's breeder had the dogs Audrey wanted — 8 July, 2023
+- Audrey's dogs enjoy running freely outdoors — 8 July, 2023
+- Andrew has a puppy named Toby — 11 July, 2023
+- Audrey wants her pets to feel seen and loved — 11 July, 2023
+- Audrey's oldest fur baby is relaxed like a wise old sage — 27 July, 2023
+- Audrey's second fur baby is always ready for a game — 27 July, 2023
+- Audrey's third fur baby can be naughty but loves cuddling — 27 July, 2023
+- Audrey's youngest fur baby is full of life and always up for an adventure — 27 July, 2023
+- Max was Audrey's childhood dog — 27 July, 2023
+- Max had lots of energy and loved playing fetch — 27 July, 2023
+- Audrey shared her worries and hopes with Max during their childhood walks — 27 July, 2023
+- Audrey's dogs are her companions and make her day better — 4 August, 2023
+- Toby is a German Shepherd — 4 August, 2023
+- Audrey advises that puppies need plenty of time, energy, attention, and walks — 4 August, 2023
+- Audrey says German Shepherds need to offset a lot of energy — 4 August, 2023
+- Audrey's four dogs mean a lot to her — 16 August, 2023
+- Audrey would like to have more dogs, but four dogs are enough for now — 16 August, 2023
+- Pepper loves lounging on the couch — 16 August, 2023
+- Pixie curls up in her bed — 16 August, 2023
+- Precious relaxes in her chair — 16 August, 2023
+- Panda loves relaxing on his rug — 16 August, 2023
+- Toby relaxes at his favorite spot on a fluffy blanket on the floor — 16 August, 2023
+- Audrey's dogs snuggle together on her favorite blanket — 16 August, 2023
+- Audrey's dogs always sleep cuddled together, especially when they nap — 16 August, 2023
+- Audrey's dogs are best friends — 16 August, 2023
+- Audrey will always cherish the moments she spends with her dogs — 16 August, 2023
+- Audrey cannot imagine life without her dogs — 16 August, 2023
+- Audrey's dogs enjoy the mountain environment — 24 August, 2023
+- Audrey takes responsibility for caring for her dogs seriously — 24 August, 2023
+- Caring for her dogs makes Audrey very happy — 24 August, 2023
+- Audrey loves her dogs very much — 24 August, 2023
+- Andrew wants to form a stronger bond with Toby — 24 August, 2023
+- Andrew loves Toby — 24 August, 2023
+- Toby is still young — 6 September, 2023
+- Andrew feels anxious thinking about his dog getting lost — 24 September, 2023
+- Audrey feels that her bond with her dogs grows stronger during difficult moments — 24 September, 2023
+- Audrey believes patience and regular training build trust with dogs — 24 September, 2023
+- Audrey has two Jack Russell mixes and two Chihuahua mixes — 24 September, 2023
+- Audrey's dogs play with one another and no other furry pals — 24 September, 2023
+- Audrey says her dogs bring love and happiness into her life — 24 September, 2023
+- Audrey's dogs bring her joy — 6 October, 2023
+- Andrew's pup Toby is a German Shepherd — 13 October, 2023
+- Andrew's pup Toby loves cute sweaters — 13 October, 2023
+- Andrew's pup Toby is very active — 13 October, 2023
+- Audrey's dogs love playing fetch and frisbee — 13 October, 2023
+- Audrey's dogs love running around and meeting other dogs — 13 October, 2023
+- Audrey's dogs hate snow — 13 October, 2023
+- Audrey's dogs prefer sunny days in the grass — 13 October, 2023
+- Audrey loves her dogs — 19 October, 2023
+- Andrew has a dog named Toby — 19 October, 2023
+- Andrew named his new dog Buddy — 19 October, 2023
+- Buddy is getting used to Toby and his new environment — 19 October, 2023
+- Toby needs time to get along with Buddy — 19 October, 2023
+- Andrew's pets bring him happiness and companionship — 19 October, 2023
+- Audrey's dogs were not acting normally — 28 October, 2023
+- Audrey is devoted to keeping her dogs healthy and happy — 28 October, 2023
+- Pepper and Panda are Lab mixes — 28 October, 2023
+- Precious and Pixie are Chihuahua mixes — 28 October, 2023
+- Andrew has two dogs named Toby and Buddy — 4 November, 2023
+- Andrew finds taking care of two dogs challenging — 4 November, 2023
+- Audrey recommends socializing and exercising dogs daily and adding mental stimulation — 4 November, 2023
+- Audrey's dogs are exploring and meeting new people — 22 November, 2023
+- Audrey's dogs feel loved and safe — 22 November, 2023
+- Andrew named his new dog Scout — 22 November, 2023
+- Andrew has dogs named Scout, Toby, and Buddy — 22 November, 2023

@@ -1,0 +1,58 @@
+---
+title: Joanna's project
+type: topic
+sources: [session_1, session_2, session_3, session_4, session_5, session_7, session_9, session_10, session_12, session_13, session_14, session_15, session_17, session_19, session_22, session_26, session_27, session_28, session_29]
+---
+
+- Joanna has been working on a project lately. — 21 January, 2022
+- Joanna finished her first full screenplay last Friday — 23 January, 2022
+- Joanna printed her first full screenplay last Friday — 23 January, 2022
+- Joanna's screenplay is a mix of drama and romance — 23 January, 2022
+- Joanna plans to submit her screenplay to film festivals — 23 January, 2022
+- Joanna hopes producers and directors will check out her screenplay — 23 January, 2022
+- Joanna submitted a screenplay to a film festival — 7 February, 2022
+- Joanna hopes a producer or director will adapt her screenplay for the big screen — 7 February, 2022
+- Joanna's new screenplay is about a thirty-year-old woman on a journey of self-discovery after a loss — 25 February, 2022
+- The main character in Joanna's new screenplay takes a road trip to heal and grow — 25 February, 2022
+- Joanna's new screenplay was inspired by personal experiences and her own journey of self-discovery — 25 February, 2022
+- Joanna hopes her screenplay gets noticed and makes it to the screen — 25 February, 2022
+- Joanna hopes her work will be noticed and reach the big screen. — 18 March, 2022
+- Joanna has been researching her script's next steps. — 18 March, 2022
+- Joanna has been networking non-stop about her script's next steps. — 18 March, 2022
+- Joanna is determined to make her script happen. — 18 March, 2022
+- Joanna values having someone support her throughout her creative process. — 18 March, 2022
+- Nate supports Joanna throughout her creative process. — 18 March, 2022
+- Joanna's writing is currently consuming her — 15 April, 2022
+- Joanna is hoping for good news about her writing soon — 15 April, 2022
+- Joanna is working with her writers group on a script called "Finding Home" — 21 April, 2022
+- Joanna's script "Finding Home" is about a girl on a journey to find her true home — 21 April, 2022
+- Joanna finds working on "Finding Home" rewarding and emotional — 21 April, 2022
+- Joanna has been working on some projects. — 2 May, 2022
+- Joanna uses creative projects to get through tough times — 20 May, 2022
+- Joanna completed her third writing project — 20 May, 2022
+- Joanna's third writing project is about loss, identity, and connection — 20 May, 2022
+- Joanna had the story for her third writing project for ages before writing it — 20 May, 2022
+- Joanna found it difficult to write her third writing project — 20 May, 2022
+- Joanna is proud of her third writing project — 20 May, 2022
+- Joanna plans to show Nate her screenplay — 25 May, 2022
+- Joanna values Nate's opinion about her screenplay — 25 May, 2022
+- Nate supports Joanna's screenplay — 25 May, 2022
+- Joanna finished a screenplay — 3 June, 2022
+- Joanna received a rejection letter from a major company for her screenplay — 3 June, 2022
+- The company sent Joanna a generic rejection letter without much feedback — 3 June, 2022
+- Joanna is determined not to let the rejection bring her down — 3 June, 2022
+- Joanna's cork board contains inspiring quotes and pictures for motivation and creativity — 5 June, 2022
+- Joanna's cork board contains photos and little keepsakes — 5 June, 2022
+- Joanna recommends making a cork board — 5 June, 2022
+- Joanna took a road trip for research for her next movie — 10 July, 2022
+- Joanna shared her book with her writers group last week — 22 August, 2022
+- Nate made an encouragement drawing for Joanna on a whiteboard. — 6 October, 2022
+- Nate was inspired to make the drawing because Joanna could look back at it when she needed encouragement. — 6 October, 2022
+- Joanna loves DIY projects. — 6 October, 2022
+- The woman at Joanna's writing club also enjoys DIY projects. — 6 October, 2022
+- Joanna is working on a challenging but fulfilling project. — 4 November, 2022
+- Joanna finished a presentation for producers last Friday. — 7 November, 2022
+- Joanna created a plan to get another script made into a movie. — 9 November, 2022
+- Joanna pitched her script to producers yesterday. — 9 November, 2022
+- The producers liked Joanna's script. — 9 November, 2022
+- Joanna is filming a movie based on her road-trip script — 11 November, 2022

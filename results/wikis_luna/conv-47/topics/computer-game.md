@@ -1,0 +1,42 @@
+---
+title: Computer game
+type: topic
+sources: [session_1, session_2, session_4, session_5, session_6, session_9, session_19, session_21, session_22, session_25, session_26, session_27, session_28]
+---
+
+- James has wanted to create his own computer game since he was a child — 17 March, 2022
+- James sketched the main character of his computer game when he was a child — 17 March, 2022
+- James wants to turn his childhood idea into a computer game — 17 March, 2022
+- James wants to combine gaming and storytelling in his computer game — 17 March, 2022
+- James enjoys the challenge of creating his own computer game — 17 March, 2022
+- James may invite John to help with his game using John's HTML knowledge — 17 March, 2022
+- James explores the new platform and chats with other gamers — 20 March, 2022
+- James remembers that correct team communication is important in gaming — 4 April, 2022
+- James remembers that team success should not be put below personal ego in gaming — 4 April, 2022
+- James usually uses voice chat to communicate with his team — 4 April, 2022
+- John is playing a new RPG with a compelling story and world — 12 April, 2022
+- John's new RPG is like being transported to a futuristic dystopia — 12 April, 2022
+- John's new RPG has tough gameplay — 12 April, 2022
+- John's new RPG is laggy and sometimes produces errors — 12 April, 2022
+- John thinks his new RPG has awesome graphics and immersive gameplay despite minor bugs — 12 April, 2022
+- James agreed to try John's new RPG after receiving a link — 12 April, 2022
+- John offered to send James a link to the new RPG — 12 April, 2022
+- James created a game character dressed in armor — 20 April, 2022
+- James enjoys computer games — 4 May, 2022
+- John organized his workplace with a computer and a gaming chair — 10 August, 2022
+- John shared a photo of his gaming room — 10 August, 2022
+- John and his younger siblings are making a simple, text-based adventure game to develop their coding skills — 26 August, 2022
+- James was inspired to create his strategy game by playing Civilization and Total War — 1 September, 2022
+- John's mobile game is a 2D adventure game with puzzles and exploration — 20 September, 2022
+- James got a video card last week — 3 October, 2022
+- James is interested in playing RPGs — 3 October, 2022
+- James is considering playing Cyberpunk 2077 — 3 October, 2022
+- John played Cyberpunk 2077 and thought it was awesome — 3 October, 2022
+- James made his first computer game — 13 October, 2022
+- James released his first computer game for the gaming community — 13 October, 2022
+- Players are enjoying James's computer game — 13 October, 2022
+- James plans to make more games in different genres — 13 October, 2022
+- James wants to create more enjoyable gaming experiences — 13 October, 2022
+- James's apartment lost power three days ago while he was playing a game — 21 October, 2022
+- James lost some game progress because he had forgotten to save — 21 October, 2022
+- James now knows to save his game progress more often — 21 October, 2022

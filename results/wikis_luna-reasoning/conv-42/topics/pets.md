@@ -1,0 +1,58 @@
+---
+title: Pets
+type: topic
+sources: [session_2, session_5, session_8, session_12, session_13, session_19, session_20, session_24, session_25, session_27, session_28, session_29]
+---
+
+- Nate has had his turtles for three years. — 23 January, 2022
+- Nate's turtles bring him tons of joy. — 23 January, 2022
+- Nate keeps his turtles around to help him stay calm during stressful situations. — 23 January, 2022
+- Nate has turtles as pets — 18 March, 2022
+- Nate is drawn to turtles — 18 March, 2022
+- Nate finds turtles' slow pace calming — 18 March, 2022
+- Joanna would get two turtles if she could — 18 March, 2022
+- Nate plans to send Joanna pictures of his turtles — 18 March, 2022
+- Nate spends time with his pets to take a break from reality — 17 April, 2022
+- Nate has turtles — 17 April, 2022
+- Nate enjoys watching his turtles play — 17 April, 2022
+- Nate sometimes brings his turtles into the kitchen while he makes food — 17 April, 2022
+- Nate adopted a dog named Max. — 20 May, 2022
+- Max is energetic. — 20 May, 2022
+- Nate has other pets. — 20 May, 2022
+- Max brings Nate joy. — 20 May, 2022
+- Joanna is too lazy to research alternative pets for her allergies. — 20 May, 2022
+- Nate has a dog named Max — 25 May, 2022
+- Nate took Max for a walk and met a couple who had a dog — 25 May, 2022
+- The couple Nate met live close by — 25 May, 2022
+- Nate and the couple decided to arrange playdates for their dogs — 25 May, 2022
+- Nate and the couple share a love of animals — 25 May, 2022
+- Max likes the other dog — 25 May, 2022
+- Nate enjoys watching his and the couple's pets play together — 25 May, 2022
+- Nate's pets have a new, larger fish tank — 22 August, 2022
+- Nate's pets are fish — 22 August, 2022
+- Nate enjoys spending time with his pets — 22 August, 2022
+- Nate plans to take time off this weekend to relax with his pets — 22 August, 2022
+- Nate has been spending time with two turtles, which has been a big help recently — 5 September, 2022
+- Nate's turtles cheer him up — 21 October, 2022
+- Joanna used to have a dog named Tilly in Michigan — 21 October, 2022
+- Nate is happy watching his turtles slowly walk around — 21 October, 2022
+- Nate's turtles were relaxing in their tank after their walk — 25 October, 2022
+- Nate's turtles eat vegetables, fruits, and insects — 25 October, 2022
+- Nate likes seeing his turtles eat fruit — 25 October, 2022
+- Nate likes holding his turtles — 25 October, 2022
+- Nate's turtles have different personalities — 25 October, 2022
+- One of Nate's turtles is more adventurous and the other is more reserved — 25 October, 2022
+- Nate's turtles bring him joy and make great companions — 25 October, 2022
+- Nate has liked turtles since he was a boy — 25 October, 2022
+- Nate knows all about turtles — 25 October, 2022
+- Nate's turtles bring him joy — 7 November, 2022
+- Nate finds watching his turtles calming and fascinating — 7 November, 2022
+- Nate has grown fond of his turtles — 7 November, 2022
+- Nate has three turtles — 9 November, 2022
+- Nate got his third turtle at a pet store — 9 November, 2022
+- Nate says that turtles bring him joy and peace — 9 November, 2022
+- Nate's tank is big enough for three turtles — 9 November, 2022
+- Nate plans to give his turtles a bath before Joanna visits — 9 November, 2022
+- Nate's turtles make him feel calm — 11 November, 2022
+- Nate's turtles do not require much looking after — 11 November, 2022
+- Nate loves seeing his turtles soaking in the sun — 11 November, 2022

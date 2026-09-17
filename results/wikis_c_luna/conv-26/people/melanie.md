@@ -1,0 +1,30 @@
+---
+title: Melanie
+type: person
+sources: [session_1, session_2, session_3, session_4, session_6, session_7, session_8, session_10, session_13]
+---
+
+- Melanie has children. — 8 May, 2023 [D1:2]
+- Melanie has children — 25 May, 2023 [D2:7]
+- Melanie's children are excited about summer break — 25 May, 2023 [D2:7]
+- Melanie wants to be courageous for her family. — 9 June, 2023 [D3:10]
+- Melanie's family motivates her and gives her love. — 9 June, 2023 [D3:10]
+- Melanie is married. — 9 June, 2023 [D3:14]
+- Melanie's husband and children motivate her. — 9 June, 2023 [D3:14]
+- Melanie has been married for five years. — 9 June, 2023 [D3:16]
+- Melanie feels alive and happy when she spends time with her family. — 9 June, 2023 [D3:22]
+- The two younger children in Melanie's family love nature — 27 June, 2023 [D4:8]
+- Melanie's kids love learning about animals. — 6 July, 2023 [D6:6]
+- Melanie loves being a mom. — 6 July, 2023 [D6:6]
+- Melanie has a dog and a cat. — 12 July, 2023 [D7:16]
+- Melanie's pets are named Luna and Oliver. — 12 July, 2023 [D7:18]
+- Melanie's pets brighten her day and make her smile. — 12 July, 2023 [D7:16]
+- Melanie's family supported her during her move. — 15 July, 2023 [D8:29, D8:30]
+- Melanie's family helped her during her move. — 15 July, 2023 [D8:30]
+- Melanie's family showed her love and support during her move. — 15 July, 2023 [D8:30]
+- Melanie values Caroline's friendship and support. — 15 July, 2023 [D8:38]
+- Melanie feels lucky to be with her family and have their love — 20 July, 2023 [D10:22, D10:24]
+- Melanie's family brings her joy and love — 20 July, 2023 [D10:24]
+- Melanie has a cat named Oliver — 23 August, 2023 [D13:4]
+- Melanie has another cat named Bailey — 23 August, 2023 [D13:4]
+- Melanie has a horse — 23 August, 2023 [D13:6]

@@ -1,0 +1,5171 @@
+{
+  "conv_id": "conv-42",
+  "speakers": [
+    "Joanna",
+    "Nate"
+  ],
+  "extraction_model": "gpt-5.6-luna",
+  "build_fingerprint": "9ad622199c7e",
+  "compiler_version": "b2",
+  "built_utc": "2026-09-16T18:22:52.465929+00:00",
+  "sessions": [
+    {
+      "index": 1,
+      "session_id": "session_1",
+      "timestamp": "7:31 pm on 21 January, 2022",
+      "date_label": "21 January, 2022"
+    },
+    {
+      "index": 2,
+      "session_id": "session_2",
+      "timestamp": "2:01 pm on 23 January, 2022",
+      "date_label": "23 January, 2022"
+    },
+    {
+      "index": 3,
+      "session_id": "session_3",
+      "timestamp": "9:27 am on 7 February, 2022",
+      "date_label": "7 February, 2022"
+    },
+    {
+      "index": 4,
+      "session_id": "session_4",
+      "timestamp": "1:07 pm on 25 February, 2022",
+      "date_label": "25 February, 2022"
+    },
+    {
+      "index": 5,
+      "session_id": "session_5",
+      "timestamp": "6:59 pm on 18 March, 2022",
+      "date_label": "18 March, 2022"
+    },
+    {
+      "index": 6,
+      "session_id": "session_6",
+      "timestamp": "1:43 pm on 24 March, 2022",
+      "date_label": "24 March, 2022"
+    },
+    {
+      "index": 7,
+      "session_id": "session_7",
+      "timestamp": "7:37 pm on 15 April, 2022",
+      "date_label": "15 April, 2022"
+    },
+    {
+      "index": 8,
+      "session_id": "session_8",
+      "timestamp": "6:44 pm on 17 April, 2022",
+      "date_label": "17 April, 2022"
+    },
+    {
+      "index": 9,
+      "session_id": "session_9",
+      "timestamp": "7:44 pm on 21 April, 2022",
+      "date_label": "21 April, 2022"
+    },
+    {
+      "index": 10,
+      "session_id": "session_10",
+      "timestamp": "11:54 am on 2 May, 2022",
+      "date_label": "2 May, 2022"
+    },
+    {
+      "index": 11,
+      "session_id": "session_11",
+      "timestamp": "3:35 pm on 12 May, 2022",
+      "date_label": "12 May, 2022"
+    },
+    {
+      "index": 12,
+      "session_id": "session_12",
+      "timestamp": "7:49 pm on 20 May, 2022",
+      "date_label": "20 May, 2022"
+    },
+    {
+      "index": 13,
+      "session_id": "session_13",
+      "timestamp": "3:00 pm on 25 May, 2022",
+      "date_label": "25 May, 2022"
+    },
+    {
+      "index": 14,
+      "session_id": "session_14",
+      "timestamp": "5:44 pm on 3 June, 2022",
+      "date_label": "3 June, 2022"
+    },
+    {
+      "index": 15,
+      "session_id": "session_15",
+      "timestamp": "2:12 pm on 5 June, 2022",
+      "date_label": "5 June, 2022"
+    },
+    {
+      "index": 16,
+      "session_id": "session_16",
+      "timestamp": "10:55 am on 24 June, 2022",
+      "date_label": "24 June, 2022"
+    },
+    {
+      "index": 17,
+      "session_id": "session_17",
+      "timestamp": "2:34 pm on 10 July, 2022",
+      "date_label": "10 July, 2022"
+    },
+    {
+      "index": 18,
+      "session_id": "session_18",
+      "timestamp": "6:12 pm on 14 August, 2022",
+      "date_label": "14 August, 2022"
+    },
+    {
+      "index": 19,
+      "session_id": "session_19",
+      "timestamp": "10:57 am on 22 August, 2022",
+      "date_label": "22 August, 2022"
+    },
+    {
+      "index": 20,
+      "session_id": "session_20",
+      "timestamp": "6:03 pm on 5 September, 2022",
+      "date_label": "5 September, 2022"
+    },
+    {
+      "index": 21,
+      "session_id": "session_21",
+      "timestamp": "1:43 pm on 14 September, 2022",
+      "date_label": "14 September, 2022"
+    },
+    {
+      "index": 22,
+      "session_id": "session_22",
+      "timestamp": "11:15 am on 6 October, 2022",
+      "date_label": "6 October, 2022"
+    },
+    {
+      "index": 23,
+      "session_id": "session_23",
+      "timestamp": "10:58 am on 9 October, 2022",
+      "date_label": "9 October, 2022"
+    },
+    {
+      "index": 24,
+      "session_id": "session_24",
+      "timestamp": "2:01 pm on 21 October, 2022",
+      "date_label": "21 October, 2022"
+    },
+    {
+      "index": 25,
+      "session_id": "session_25",
+      "timestamp": "8:16 pm on 25 October, 2022",
+      "date_label": "25 October, 2022"
+    },
+    {
+      "index": 26,
+      "session_id": "session_26",
+      "timestamp": "3:56 pm on 4 November, 2022",
+      "date_label": "4 November, 2022"
+    },
+    {
+      "index": 27,
+      "session_id": "session_27",
+      "timestamp": "8:10 pm on 7 November, 2022",
+      "date_label": "7 November, 2022"
+    },
+    {
+      "index": 28,
+      "session_id": "session_28",
+      "timestamp": "5:54 pm on 9 November, 2022",
+      "date_label": "9 November, 2022"
+    },
+    {
+      "index": 29,
+      "session_id": "session_29",
+      "timestamp": "12:06 am on 11 November, 2022",
+      "date_label": "11 November, 2022"
+    }
+  ],
+  "stats": {
+    "compile_prompt_tokens": 41413,
+    "compile_completion_tokens": 12261,
+    "compile_cost_usd": 0.0229958,
+    "compile_latency_s": 106.91785839945078,
+    "compile_calls": 29,
+    "compile_cached_calls": 0,
+    "sessions_compiled": 29,
+    "truncated_sessions": 0,
+    "duplicate_facts_dropped": 1,
+    "generic_page_titles": 0,
+    "salvaged_sessions": 0,
+    "unparsable_sessions": 0,
+    "empty_sessions": 0,
+    "citations_total": 0,
+    "citations_resolvable": 0,
+    "citations_unresolvable": 0,
+    "citations_other_session": 0,
+    "citations_nonexistent": 0,
+    "facts_with_no_citation": 485,
+    "citation_resolvability": null,
+    "citation_session_consistency": null,
+    "n_pages": 13,
+    "n_facts": 485,
+    "wiki_tokens": 10845,
+    "raw_conversation_tokens": 19990,
+    "compression_ratio": 0.5425
+  },
+  "pages": [
+    {
+      "title": "Exploring nature",
+      "type": "topic",
+      "slug": "exploring-nature",
+      "path": "topics/exploring-nature.md",
+      "facts": [
+        {
+          "fact_id": "exploring-nature#1",
+          "text": "Joanna enjoys exploring nature.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#2",
+          "text": "Joanna went hiking the other day",
+          "date_label": "15 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#3",
+          "text": "Joanna saw a gorgeous sunset while hiking the other day",
+          "date_label": "15 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#4",
+          "text": "Joanna found an awesome hiking trail in her hometown yesterday",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#5",
+          "text": "Joanna finds nature inspiring and calming",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#6",
+          "text": "Joanna uses walking in nature to reset and relieve worries and stress",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#7",
+          "text": "Nate is not really into hiking",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#8",
+          "text": "Nate heard there is a nice hiking trail just north of where he lives",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#9",
+          "text": "Nate likes nature",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#10",
+          "text": "Joanna went hiking and found more trails in her town",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#11",
+          "text": "Joanna considers herself an expert hiker",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#12",
+          "text": "Joanna took a photo at Whispering Falls",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#13",
+          "text": "Whispering Falls was peaceful and serene",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#14",
+          "text": "Joanna found the sound and beauty of nature at Whispering Falls calming and peaceful",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#15",
+          "text": "Joanna feels that hiking has opened up a new world for her",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#16",
+          "text": "Joanna feels like a different person since taking up hiking",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#17",
+          "text": "Nature inspires Joanna",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#18",
+          "text": "Nate plans to join Joanna on the trails sometime",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#19",
+          "text": "Joanna is hiking with some buddies this weekend",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#20",
+          "text": "Joanna and her buddies plan to visit a new trail with a waterfall this weekend",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#21",
+          "text": "Joanna visited Woodhaven, a small town in the Midwest, during her road trip",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#22",
+          "text": "Joanna saw lovely scenery and historic buildings in Woodhaven",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#23",
+          "text": "Nate spent time with two turtles, which helped him recently",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#24",
+          "text": "Joanna finds turtles inspiring because they represent strength and perseverance.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#25",
+          "text": "Nate took his pets to the park for a special day.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#26",
+          "text": "Joanna took a photo on a hike last summer near Fort Wayne.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#27",
+          "text": "Joanna's photo showed a sunset and the surrounding natural beauty near Fort Wayne.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "exploring-nature#28",
+          "text": "Nate took his turtles to the beach in Tampa yesterday",
+          "date_label": "11 November, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Exploring nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Joanna's project",
+      "type": "topic",
+      "slug": "joanna-s-project",
+      "path": "topics/joanna-s-project.md",
+      "facts": [
+        {
+          "fact_id": "joanna-s-project#1",
+          "text": "Joanna has been working on a project lately.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#2",
+          "text": "Joanna finished her first full screenplay last Friday",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#3",
+          "text": "Joanna printed her first full screenplay last Friday",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#4",
+          "text": "Joanna's screenplay is a mix of drama and romance",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#5",
+          "text": "Joanna plans to submit her screenplay to film festivals",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#6",
+          "text": "Joanna hopes producers and directors will check out her screenplay",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#7",
+          "text": "Joanna submitted a screenplay to a film festival",
+          "date_label": "7 February, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#8",
+          "text": "Joanna hopes a producer or director will adapt her screenplay for the big screen",
+          "date_label": "7 February, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#9",
+          "text": "Joanna's new screenplay is about a thirty-year-old woman on a journey of self-discovery after a loss",
+          "date_label": "25 February, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#10",
+          "text": "The main character in Joanna's new screenplay takes a road trip to heal and grow",
+          "date_label": "25 February, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#11",
+          "text": "Joanna's new screenplay was inspired by personal experiences and her own journey of self-discovery",
+          "date_label": "25 February, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#12",
+          "text": "Joanna hopes her screenplay gets noticed and makes it to the screen",
+          "date_label": "25 February, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#13",
+          "text": "Joanna hopes her work will be noticed and reach the big screen.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#14",
+          "text": "Joanna has been researching her script's next steps.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#15",
+          "text": "Joanna has been networking non-stop about her script's next steps.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#16",
+          "text": "Joanna is determined to make her script happen.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#17",
+          "text": "Joanna values having someone support her throughout her creative process.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#18",
+          "text": "Nate supports Joanna throughout her creative process.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#19",
+          "text": "Joanna's writing is currently consuming her",
+          "date_label": "15 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#20",
+          "text": "Joanna is hoping for good news about her writing soon",
+          "date_label": "15 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#21",
+          "text": "Joanna is working with her writers group on a script called \"Finding Home\"",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#22",
+          "text": "Joanna's script \"Finding Home\" is about a girl on a journey to find her true home",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#23",
+          "text": "Joanna finds working on \"Finding Home\" rewarding and emotional",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#24",
+          "text": "Joanna has been working on some projects.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#25",
+          "text": "Joanna uses creative projects to get through tough times",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#26",
+          "text": "Joanna completed her third writing project",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#27",
+          "text": "Joanna's third writing project is about loss, identity, and connection",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#28",
+          "text": "Joanna had the story for her third writing project for ages before writing it",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#29",
+          "text": "Joanna found it difficult to write her third writing project",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#30",
+          "text": "Joanna is proud of her third writing project",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#31",
+          "text": "Joanna plans to show Nate her screenplay",
+          "date_label": "25 May, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#32",
+          "text": "Joanna values Nate's opinion about her screenplay",
+          "date_label": "25 May, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#33",
+          "text": "Nate supports Joanna's screenplay",
+          "date_label": "25 May, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#34",
+          "text": "Joanna finished a screenplay",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#35",
+          "text": "Joanna received a rejection letter from a major company for her screenplay",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#36",
+          "text": "The company sent Joanna a generic rejection letter without much feedback",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#37",
+          "text": "Joanna is determined not to let the rejection bring her down",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#38",
+          "text": "Joanna's cork board contains inspiring quotes and pictures for motivation and creativity",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#39",
+          "text": "Joanna's cork board contains photos and little keepsakes",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#40",
+          "text": "Joanna recommends making a cork board",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#41",
+          "text": "Joanna took a road trip for research for her next movie",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#42",
+          "text": "Joanna shared her book with her writers group last week",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#43",
+          "text": "Nate made an encouragement drawing for Joanna on a whiteboard.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#44",
+          "text": "Nate was inspired to make the drawing because Joanna could look back at it when she needed encouragement.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#45",
+          "text": "Joanna loves DIY projects.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#46",
+          "text": "The woman at Joanna's writing club also enjoys DIY projects.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#47",
+          "text": "Joanna is working on a challenging but fulfilling project.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#48",
+          "text": "Joanna finished a presentation for producers last Friday.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#49",
+          "text": "Joanna created a plan to get another script made into a movie.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#50",
+          "text": "Joanna pitched her script to producers yesterday.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#51",
+          "text": "The producers liked Joanna's script.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna-s-project#52",
+          "text": "Joanna is filming a movie based on her road-trip script",
+          "date_label": "11 November, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Joanna's project",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Movies",
+      "type": "topic",
+      "slug": "movies",
+      "path": "topics/movies.md",
+      "facts": [
+        {
+          "fact_id": "movies#1",
+          "text": "Joanna enjoys watching movies.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#2",
+          "text": "Nate likes action movies.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#3",
+          "text": "Nate likes science-fiction movies.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#4",
+          "text": "Joanna likes drama movies.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#5",
+          "text": "Joanna likes romantic comedy movies.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#6",
+          "text": "Nate enjoys watching classic movies.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#7",
+          "text": "Joanna watched \"Little Women\" and thought it was amazing",
+          "date_label": "7 February, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#8",
+          "text": "Joanna recommended \"Little Women\" to Nate",
+          "date_label": "7 February, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#9",
+          "text": "Nate plans to watch \"Little Women\"",
+          "date_label": "7 February, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#10",
+          "text": "Joanna enjoys dramas and emotionally-driven films",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#11",
+          "text": "Nate enjoys fantasy and science-fiction movies",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#12",
+          "text": "Fantasy and science-fiction movies inspire Nate's imagination",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#13",
+          "text": "Nate loves a fantasy or science-fiction movie trilogy",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#14",
+          "text": "Nate enjoys the trilogy's world-building, battles, and storytelling",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#15",
+          "text": "Joanna watched The Lord of the Rings trilogy last night.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#16",
+          "text": "Joanna enjoyed The Lord of the Rings trilogy.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#17",
+          "text": "Joanna likes superhero stories and powers",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#18",
+          "text": "Nate watches movies to unwind",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#19",
+          "text": "Nate recently watched Inception",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#20",
+          "text": "Nate likes Inception for its twists and dream-related elements",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#21",
+          "text": "Nate likes that movies take him to new worlds",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#22",
+          "text": "Nate likes that movies fill him with emotions",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#23",
+          "text": "Nate watches movies to relax after a day",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#24",
+          "text": "Joanna watched a classic movie recently",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#25",
+          "text": "Joanna rated the classic movie 9 or 10 out of 10",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#26",
+          "text": "Joanna recommends a couch that can seat multiple people for a comfortable living room",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#27",
+          "text": "Joanna recommends a fluffy couch for a comfortable living room",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#28",
+          "text": "Joanna recommends a slightly weighted blanket for a comfortable living room",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#29",
+          "text": "Joanna recommends dimmable lights for a comfortable living room",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#30",
+          "text": "Joanna contributed to a movie script that was shown on the big screen for the first time last Sunday.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#31",
+          "text": "Joanna has contributed to movie scripts that have been shown on the big screen three times.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#32",
+          "text": "Joanna's favorite part of seeing the movie was watching her characters come alive.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#33",
+          "text": "Joanna set up meetings with movie producers.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#34",
+          "text": "Joanna's producer meetings went really well.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#35",
+          "text": "The movie producers seemed interested and excited about Joanna's script and vision.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#36",
+          "text": "The movie producers loved the self-discovery elements in Joanna's script.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#37",
+          "text": "Joanna has had two movies published and hopes another script will become her third published movie.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#38",
+          "text": "Joanna gives Nate movie recommendations that he usually likes.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#39",
+          "text": "Nate and Joanna may watch one of Joanna's movies together or go to the park.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "movies#40",
+          "text": "Joanna feels excited about seeing her script come alive as a movie",
+          "date_label": "11 November, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Movies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Nate's hobbies",
+      "type": "topic",
+      "slug": "nate-s-hobbies",
+      "path": "topics/nate-s-hobbies.md",
+      "facts": [
+        {
+          "fact_id": "nate-s-hobbies#1",
+          "text": "Nate's main hobbies are playing video games and watching movies.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#2",
+          "text": "Nate has two turtles",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#3",
+          "text": "Nate has had his turtles for 3 years",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#4",
+          "text": "Nate's turtles bring him joy",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#5",
+          "text": "Nate discovered how to make coconut milk ice cream",
+          "date_label": "7 February, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#6",
+          "text": "Nate made coconut milk ice cream and thought it was rich and creamy",
+          "date_label": "7 February, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#7",
+          "text": "Nate plans to try different ice cream flavors and toppings",
+          "date_label": "7 February, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#8",
+          "text": "Nate enjoys coconut milk, chocolate, and mixed berry flavors for dairy-free desserts",
+          "date_label": "7 February, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#9",
+          "text": "Nate made a dairy-free chocolate cake with berries on it the other day",
+          "date_label": "7 February, 2022",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#10",
+          "text": "Nate made his friend chocolate and vanilla swirl ice cream",
+          "date_label": "25 February, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#11",
+          "text": "Nate knows a dairy-free ice cream recipe using coconut milk",
+          "date_label": "25 February, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#12",
+          "text": "Nate has turtles as pets.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#13",
+          "text": "Nate is drawn to turtles because they are unique.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#14",
+          "text": "Nate likes turtles' slow pace as a change from the rush of life.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#15",
+          "text": "Nate finds turtles low-maintenance and calming.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#16",
+          "text": "Nate keeps his turtles' area clean.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#17",
+          "text": "Nate feeds his turtles properly.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#18",
+          "text": "Nate makes sure his turtles get enough light.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#19",
+          "text": "Joanna would get two turtles if she were not allergic.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#20",
+          "text": "Nate dyed his hair last week",
+          "date_label": "15 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#21",
+          "text": "Nate has purple hair",
+          "date_label": "15 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#22",
+          "text": "Nate chose a bright and bold hair color to stand out from regular options",
+          "date_label": "15 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#23",
+          "text": "Nate spends time with his pets to take a break from reality",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#24",
+          "text": "Nate engages in hobbies to take a break from reality",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#25",
+          "text": "Nate enjoys watching his turtles play",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#26",
+          "text": "Nate sometimes brings his turtles into the kitchen while he makes food",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#27",
+          "text": "Nate makes dairy-free ice cream",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#28",
+          "text": "Nate's dairy-free ice cream contains coconut milk, vanilla extract, sugar, and a pinch of salt",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#29",
+          "text": "Nate chills his ice cream in the fridge before putting it in the ice cream maker",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#30",
+          "text": "Nate freezes his ice cream until it is scoopable",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#31",
+          "text": "Joanna planned to try making Nate's dairy-free ice cream that night",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#32",
+          "text": "Playing video games allows Nate to express his creativity and passion",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#33",
+          "text": "Nate has a gaming room.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#34",
+          "text": "Gaming has been Nate's focus.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#35",
+          "text": "Nate has been practicing gaming a lot recently.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#36",
+          "text": "Nate usually plays CS:GO.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#37",
+          "text": "Nate often plays Street Fighter with his friends.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#38",
+          "text": "Nate gets deep in thought and thinks about his life or new recipes",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#39",
+          "text": "Nate took Max for a walk and met a nice couple who live nearby and have a dog",
+          "date_label": "25 May, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#40",
+          "text": "Nate and the nearby couple decided to arrange dog playdates",
+          "date_label": "25 May, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#41",
+          "text": "Max likes playing with the other dog",
+          "date_label": "25 May, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#42",
+          "text": "Nate enjoys watching Max play with the other dog",
+          "date_label": "25 May, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#43",
+          "text": "Nate gave Joanna a stuffed animal to remind her of good vibes",
+          "date_label": "25 May, 2022",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#44",
+          "text": "Nate's tournament friends want to hang out later",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#45",
+          "text": "Nate offered to help his tournament friends improve their game",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#46",
+          "text": "Nate is organizing a gaming party two weekends later",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#47",
+          "text": "Nate plans to invite his tournament friends to the gaming party",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#48",
+          "text": "Nate plans to invite old friends and teammates from other tournaments to the gaming party",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#49",
+          "text": "Nate is getting custom controller decorations for everyone attending the gaming party",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#50",
+          "text": "Nate likes Iron Man's technology and sarcastic humor",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#51",
+          "text": "Nate has an Iron Man figure in his room",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#52",
+          "text": "Nate's Iron Man figure reminds him to keep working on his goals",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#53",
+          "text": "Nate and his friends played Chess after the gaming party.",
+          "date_label": "24 June, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#54",
+          "text": "Nate gave controller accessories to friends at the gaming party.",
+          "date_label": "24 June, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#55",
+          "text": "Nate makes a living from gaming",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#56",
+          "text": "Nate is passionate about gaming",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#57",
+          "text": "Nate has fish as pets",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#58",
+          "text": "Nate's fish got a new, larger tank",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#59",
+          "text": "Nate enjoys spending time with his fish",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#60",
+          "text": "Nate plans to take time off this weekend to relax with his pets",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#61",
+          "text": "Nate enjoys watching movies and playing games.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#62",
+          "text": "Nate says encouragement helped him progress in his gaming career.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#63",
+          "text": "Nate played Catan at the game convention",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#64",
+          "text": "Nate likes Catan",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#65",
+          "text": "Nate generally does not get very competitive when playing games",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#66",
+          "text": "Nate uses playing games as an escape from life's struggles",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#67",
+          "text": "Nate plays video games to unwind",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#68",
+          "text": "Nate has been playing Cyberpunk 2077 nonstop",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#69",
+          "text": "Nate likes Cyberpunk 2077's futuristic setting and gameplay",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#70",
+          "text": "Nate's turtles cheer him up",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#71",
+          "text": "Nate enjoys watching his turtles slowly walk around",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#72",
+          "text": "Nate took his turtles out for a walk today.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#73",
+          "text": "Nate's turtles relaxed in their tank after their walk.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#74",
+          "text": "Nate's turtles eat vegetables, fruits, and insects.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#75",
+          "text": "Nate likes watching his turtles eat fruit because they get excited.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#76",
+          "text": "Nate likes holding his turtles.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#77",
+          "text": "Nate's turtles have different personalities.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#78",
+          "text": "One of Nate's turtles is more adventurous than the other.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#79",
+          "text": "One of Nate's turtles is more reserved than the other.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#80",
+          "text": "Nate has liked turtles since he was a boy.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#81",
+          "text": "Nate's turtles are his companions.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#82",
+          "text": "Nate enjoys using his gaming skills to help others.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#83",
+          "text": "Nate has turtles that bring him joy.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#84",
+          "text": "Nate finds watching his turtles calming and fascinating.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#85",
+          "text": "Nate upgraded some of his home gaming equipment.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#86",
+          "text": "Nate sometimes uses his computer to play games with friends.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#87",
+          "text": "Nate has a dedicated gaming setup at home.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#88",
+          "text": "Nate considers his gaming setup a haven for escaping into the virtual world.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#89",
+          "text": "Nate is currently playing the fantasy RPG Xenoblade Chronicles.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#90",
+          "text": "Nate is a big fan of Nintendo games.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#91",
+          "text": "Nate started playing Xenoblade Chronicles because his friends recommended it.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#92",
+          "text": "Nate treasures memories with his pets.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#93",
+          "text": "Nate is considering joining a new gaming team after his next tournament.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#94",
+          "text": "Nate has received a few offers to join gaming teams.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#95",
+          "text": "Nate is creating gaming content for YouTube.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#96",
+          "text": "Nate started making gaming videos because he is a fan of gaming videos and wants to share his love of gaming.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#97",
+          "text": "Nate hopes his gaming videos will connect him with people who enjoy gaming.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#98",
+          "text": "Nate got a third turtle from a pet store.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#99",
+          "text": "Nate has three turtles.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#100",
+          "text": "Nate's tank is big enough for three turtles.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#101",
+          "text": "Joanna plans to visit Nate tomorrow.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#102",
+          "text": "Nate plans to give his turtles a bath before Joanna visits.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#103",
+          "text": "Nate loves having his turtles around",
+          "date_label": "11 November, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#104",
+          "text": "Nate's turtles make Nate feel calm",
+          "date_label": "11 November, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate-s-hobbies#105",
+          "text": "Nate's turtles do not require much looking after",
+          "date_label": "11 November, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Nate's hobbies",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Reading",
+      "type": "topic",
+      "slug": "reading",
+      "path": "topics/reading.md",
+      "facts": [
+        {
+          "fact_id": "reading#1",
+          "text": "Joanna enjoys reading.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#2",
+          "text": "Joanna uses a bookshelf filled with books and magazines as a place for writing inspiration",
+          "date_label": "24 March, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#3",
+          "text": "Joanna has been reading a lot in the past week",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#4",
+          "text": "Nate loves a book series with adventures, magic, and great characters",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#5",
+          "text": "Joanna plans to check out the book series Nate recommended",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#6",
+          "text": "Joanna visited a library in Woodhaven with an old book collection",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#7",
+          "text": "Joanna found a book from the 1900s containing stories and sketches about Woodhaven and its residents",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#8",
+          "text": "Joanna plans to relax and recharge this weekend with a long walk and some reading",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#9",
+          "text": "Nate has many books to choose from",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#10",
+          "text": "Joanna recommends fantasy book series for relaxing",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#11",
+          "text": "Nate recommended Joanna a book series with battles and interesting characters",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "reading#12",
+          "text": "The book series Nate recommended is one of Nate's favorites",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Reading",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Romantic drama movie",
+      "type": "topic",
+      "slug": "romantic-drama-movie",
+      "path": "topics/romantic-drama-movie.md",
+      "facts": [
+        {
+          "fact_id": "romantic-drama-movie#1",
+          "text": "Joanna recommended Nate a romantic drama about memory and relationships.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Romantic drama movie",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "romantic-drama-movie#2",
+          "text": "Joanna first watched the recommended romantic drama around 3 years ago.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Romantic drama movie",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "romantic-drama-movie#3",
+          "text": "Joanna bought a physical copy of the recommended romantic drama.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Romantic drama movie",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "romantic-drama-movie#4",
+          "text": "Joanna has watched the recommended romantic drama a few times.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Romantic drama movie",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "romantic-drama-movie#5",
+          "text": "The recommended romantic drama is one of Joanna's favorite movies.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Romantic drama movie",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "romantic-drama-movie#6",
+          "text": "Joanna likes the idea and acting in the recommended romantic drama.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Romantic drama movie",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "romantic-drama-movie#7",
+          "text": "Nate watched \"Little Women\" recently and enjoyed its acting and story.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Romantic drama movie",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "romantic-drama-movie#8",
+          "text": "Joanna recommended \"Little Women\" to Nate previously.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Romantic drama movie",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "romantic-drama-movie#9",
+          "text": "Joanna watched \"Little Women\" and connected with its themes of sisterhood, love, and pursuing dreams.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Romantic drama movie",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "romantic-drama-movie#10",
+          "text": "Joanna's new movie script is a love story with many challenges.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Romantic drama movie",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Video game tournament",
+      "type": "event",
+      "slug": "video-game-tournament",
+      "path": "events/video-game-tournament.md",
+      "facts": [
+        {
+          "fact_id": "video-game-tournament#1",
+          "text": "Nate won his first video game tournament last week.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#2",
+          "text": "Nate's tournament game was a team shooter game.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#3",
+          "text": "Nate's tournament game was called Counter-Strike: Global Offensive.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#4",
+          "text": "Nate participated in the tournament with his team.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#5",
+          "text": "Nate started hanging out with people outside his circle at the tournament",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#6",
+          "text": "Nate tends to stick around less competitive people at the tournament",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#7",
+          "text": "Nate plays at the tournament for fun",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#8",
+          "text": "Nate does not expect to win big at the tournament",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#9",
+          "text": "Nate is currently participating in the video game tournament again",
+          "date_label": "24 March, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#10",
+          "text": "Nate experiences intense adrenaline during the video game tournament",
+          "date_label": "24 March, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#11",
+          "text": "Nate has a gaming tournament next month",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#12",
+          "text": "Nate feels good about his upcoming gaming tournament",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#13",
+          "text": "Nate's upcoming gaming tournament will be his fourth tournament",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#14",
+          "text": "Nate won his second tournament last week.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#15",
+          "text": "Nate played in a local Street Fighter tournament.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#16",
+          "text": "Nate won the local Street Fighter tournament.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#17",
+          "text": "Nate felt adrenaline during the last match of the local Street Fighter tournament.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#18",
+          "text": "The other finalist shook Nate's hand after the local Street Fighter tournament.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#19",
+          "text": "Nate won another regional video game tournament last week",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#20",
+          "text": "Nate met new people at the regional video game tournament",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#21",
+          "text": "Nate has competed in video game tournaments for years",
+          "date_label": "3 June, 2022",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#22",
+          "text": "Nate hosted a gaming party that was a great success.",
+          "date_label": "24 June, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#23",
+          "text": "Seven people attended Nate's gaming party.",
+          "date_label": "24 June, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#24",
+          "text": "Six people at Nate's gaming party said they wanted to do it again next month.",
+          "date_label": "24 June, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#25",
+          "text": "Nate won his fourth video game tournament on Friday",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#26",
+          "text": "Nate competed in the video game tournament online",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#27",
+          "text": "Nate won an international gaming tournament yesterday",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#28",
+          "text": "Nate performed poorly in a video game tournament despite trying",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#29",
+          "text": "Nate is trying to stay positive after the video game tournament setback",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#30",
+          "text": "Nate won a major video game tournament last week.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#31",
+          "text": "Nate earned a substantial amount of money from the tournament.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#32",
+          "text": "Nate saved some of the tournament winnings.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#33",
+          "text": "Nate attended a game convention last Friday",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#34",
+          "text": "Nate met new people at the game convention",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#35",
+          "text": "Nate made friends at the game convention who love games",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#36",
+          "text": "Nate planned a gaming session with friends he met at the game convention",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#37",
+          "text": "Nate joined people playing a board game at the game convention",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#38",
+          "text": "Nate has been stressed about his tournament progress because of tough competitors",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#39",
+          "text": "Nate has been practicing for his next video game tournament",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#40",
+          "text": "Nate helped friends reset their high scores at the international video game tournament.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#41",
+          "text": "Nate won the final of a big Valorant tournament last Saturday.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#42",
+          "text": "Nate is preparing for other tournaments.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#43",
+          "text": "Nate uses his computer to practice and compete in gaming tournaments.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#44",
+          "text": "Nate's game tournament was pushed back.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "video-game-tournament#45",
+          "text": "Nate did not make it to the finals of his last game tournament.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Video game tournament",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Writing",
+      "type": "topic",
+      "slug": "writing",
+      "path": "topics/writing.md",
+      "facts": [
+        {
+          "fact_id": "writing#1",
+          "text": "Joanna enjoys writing.",
+          "date_label": "21 January, 2022",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#2",
+          "text": "Writing brings Joanna joy",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#3",
+          "text": "Joanna uses writing to express herself through stories",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#4",
+          "text": "Joanna uses writing to express her feelings",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#5",
+          "text": "Joanna plans to keep pursuing her passion for writing",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#6",
+          "text": "Joanna started writing another screenplay while waiting to hear how her first screenplay did",
+          "date_label": "25 February, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#7",
+          "text": "Joanna wrapped up her second script.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#8",
+          "text": "Joanna sometimes feels relieved after finishing her second script.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#9",
+          "text": "Joanna sometimes feels anxious about what comes next after finishing her second script.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#10",
+          "text": "Joanna has been decompressing after finishing her second script.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#11",
+          "text": "Joanna finds it hard to switch off from her work.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#12",
+          "text": "Joanna had an audition for a writing gig yesterday",
+          "date_label": "24 March, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#13",
+          "text": "Joanna felt excited and anxious about the writing gig audition",
+          "date_label": "24 March, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#14",
+          "text": "Joanna believes reading lots and trying different genres helps someone pursue writing",
+          "date_label": "24 March, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#15",
+          "text": "Joanna believes building a solid understanding of literature helps someone pursue writing",
+          "date_label": "24 March, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#16",
+          "text": "Joanna believes writing and sharing work helps someone improve",
+          "date_label": "24 March, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#17",
+          "text": "Joanna believes practicing and gathering feedback improves writing",
+          "date_label": "24 March, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#18",
+          "text": "Joanna believes having faith in oneself and following writing dreams is worthwhile",
+          "date_label": "24 March, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#19",
+          "text": "Nate wants to pursue writing",
+          "date_label": "24 March, 2022",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#20",
+          "text": "Joanna joined a writers group",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#21",
+          "text": "Joanna feels motivated and supported by her writers group",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#22",
+          "text": "Writing helps Joanna express herself in a new way",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#23",
+          "text": "Joanna has been working on a screenplay.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#24",
+          "text": "Joanna feels she could write a whole movie when she visits beautiful outdoor places",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#25",
+          "text": "Joanna thought about writing a drama while exploring the trails",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#26",
+          "text": "Nate considered publishing his own screenplay",
+          "date_label": "12 May, 2022",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#27",
+          "text": "Joanna uses writing to get through tough times",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#28",
+          "text": "Joanna values friends who understand and appreciate her work",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#29",
+          "text": "Joanna values discussing her work with friends and receiving feedback",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#30",
+          "text": "Joanna often writes about sadness and loss",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#31",
+          "text": "Joanna writes best when she is true to herself",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#32",
+          "text": "Joanna's writing is influenced by her personal experiences and feelings",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#33",
+          "text": "Joanna finds support from people cheering her on during her writing journey",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#34",
+          "text": "Joanna wrote a few bits for a screenplay that appeared on the big screen yesterday",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#35",
+          "text": "Joanna found seeing her screenplay words come alive inspiring",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#36",
+          "text": "Joanna submitted her recent screenplay to a film contest.",
+          "date_label": "24 June, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#37",
+          "text": "Woodhaven's history and changes inspired ideas for Joanna's next script",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#38",
+          "text": "Joanna started a new script that differs from her previous work",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#39",
+          "text": "Joanna started writing a book after her movie did well",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#40",
+          "text": "Joanna's book explores loss, redemption, and forgiveness",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#41",
+          "text": "Joanna has never tried publishing a book before",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#42",
+          "text": "Joanna may publish her current book as her first published book",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#43",
+          "text": "Joanna has been busy with writing projects recently.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#44",
+          "text": "Joanna considers her journal a source of support.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#45",
+          "text": "Writing has become a major part of Joanna's life.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#46",
+          "text": "Joanna uses writing as an escape and a way to express her feelings.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#47",
+          "text": "Joanna uses writing to turn her thoughts and feelings into something positive.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#48",
+          "text": "Joanna believes words can be healing.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#49",
+          "text": "Last week, someone wrote Joanna a letter after reading her online blog post about a difficult moment in her life.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#50",
+          "text": "The person who wrote Joanna said her story had brought them comfort.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#51",
+          "text": "Joanna's writing has made a difference to other people.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#52",
+          "text": "Joanna continues writing because it can have an impact even on tough days.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#53",
+          "text": "Joanna received great feedback from her writers group about her book",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#54",
+          "text": "Joanna's laptop crashed last week and she lost all her work.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#55",
+          "text": "Joanna could not recover any of the work lost in her laptop crash.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#56",
+          "text": "Joanna now has an external drive for backups.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#57",
+          "text": "Joanna finished writing her book last week.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#58",
+          "text": "Joanna spent many late nights and made many edits while finishing her book.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#59",
+          "text": "Joanna is proud of finishing her book and is looking forward to what happens next.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#60",
+          "text": "Joanna made a bookmark for a woman at her writing club.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#61",
+          "text": "Nate suggested that Joanna attend a writing convention",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#62",
+          "text": "Joanna keeps Tilly with her while she writes",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#63",
+          "text": "Joanna wrote characters and dialogue for the movie script.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#64",
+          "text": "Joanna draws visuals of her characters to help bring them alive in her head and write better.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#65",
+          "text": "Joanna gets character ideas from people she knows, things she sees, and her imagination.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#66",
+          "text": "Joanna's characters have their own wants, worries, and wishes.",
+          "date_label": "25 October, 2022",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#67",
+          "text": "Joanna felt confident discussing her script and vision in the producer meetings.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#68",
+          "text": "Joanna found her old notebooks with her early writings last week.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#69",
+          "text": "Joanna thought it was cool to see how far she has come as a writer.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#70",
+          "text": "When Joanna was 10, she wrote a story about a brave little turtle who was scared but explored the world anyway.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#71",
+          "text": "Stories about finding courage and taking risks have inspired Joanna's writing since she was young.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#72",
+          "text": "Joanna is writing another movie script.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#73",
+          "text": "Joanna got the idea for her new script from a dream.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#74",
+          "text": "Creating stories and watching them come alive gives Joanna happiness and fulfillment.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#75",
+          "text": "Joanna submitted a few more scripts last week.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#76",
+          "text": "Joanna expects that some of her submitted scripts will be rejected.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#77",
+          "text": "Joanna finished the introduction to her next movie script.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#78",
+          "text": "Joanna included a handwritten letter from a young man at the beginning of her next movie script.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#79",
+          "text": "Joanna started writing down some of her favorite memories.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#80",
+          "text": "Joanna is working on a suspenseful thriller set in a small Midwestern town.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "writing#81",
+          "text": "An actor told Joanna that she liked Joanna's script",
+          "date_label": "11 November, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Writing",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Joanna",
+      "type": "person",
+      "slug": "joanna",
+      "path": "people/joanna.md",
+      "facts": [
+        {
+          "fact_id": "joanna#1",
+          "text": "Joanna's face gets puffy and itchy around certain animals",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#2",
+          "text": "Joanna is allergic to most reptiles and animals with fur",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#3",
+          "text": "Joanna avoids animals because of her allergies",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#4",
+          "text": "Hanging with friends brings Joanna joy",
+          "date_label": "23 January, 2022",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#5",
+          "text": "Joanna cannot have dairy",
+          "date_label": "25 February, 2022",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#6",
+          "text": "Joanna is allergic to turtles.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#7",
+          "text": "Joanna recently found out that she is allergic to cockroaches.",
+          "date_label": "18 March, 2022",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#8",
+          "text": "Joanna is lactose intolerant",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#9",
+          "text": "Joanna is the person performing in the shared stage photograph",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#10",
+          "text": "Joanna has allergies that make her reluctant to get pets",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#11",
+          "text": "Joanna is too lazy to research alternative pets for her allergies",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#12",
+          "text": "Joanna is grateful for her supportive friends",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#13",
+          "text": "Joanna's favorite superhero has always been Spider-Man",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#14",
+          "text": "Joanna keeps a picture of her family on her cork board",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#15",
+          "text": "The picture of Joanna's family reminds Joanna of their love and encouragement every day",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#16",
+          "text": "Joanna's family loves when Joanna makes them new things.",
+          "date_label": "24 June, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#17",
+          "text": "Joanna considers taking breaks and looking after herself important for her inspiration and mental health",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#18",
+          "text": "Joanna intends to continue pursuing her goals with Nate's support.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#19",
+          "text": "Nate considers Joanna's life path inspirational.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#20",
+          "text": "Joanna has a comfortable living room with a couch, blanket, dimmable lights, a television, and candles",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#21",
+          "text": "Joanna gets invested in small things that make life nicer",
+          "date_label": "9 October, 2022",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#22",
+          "text": "Joanna has a stuffed animal dog that Nate gave her",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#23",
+          "text": "Joanna named her stuffed animal dog Tilly",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#24",
+          "text": "Joanna used to have a dog named Tilly in Michigan",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#25",
+          "text": "Joanna and her family had to get rid of her dog after Joanna developed an allergy",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#26",
+          "text": "Joanna used to be able to hold and squeeze animals without an allergic reaction",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#27",
+          "text": "Joanna's stuffed animal Tilly helps her stay focused and brings her joy",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#28",
+          "text": "Joanna is feeling hopeful and inspired about the future.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#29",
+          "text": "Joanna's brother wrote her cute notes when they were children.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "joanna#30",
+          "text": "Joanna is allergic to Nate's turtles.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Joanna",
+          "page_type": "person",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Nate",
+      "type": "person",
+      "slug": "nate",
+      "path": "people/nate.md",
+      "facts": [
+        {
+          "fact_id": "nate#1",
+          "text": "Nate wears glasses",
+          "date_label": "15 April, 2022",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate#2",
+          "text": "Nate has turtles",
+          "date_label": "17 April, 2022",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate#3",
+          "text": "Nate adopted a dog named Max",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate#4",
+          "text": "Max is energetic",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate#5",
+          "text": "Nate has other pets",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate#6",
+          "text": "Max keeps Nate's other pets active",
+          "date_label": "20 May, 2022",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate#7",
+          "text": "Nate's favorite superhero is Iron Man",
+          "date_label": "5 June, 2022",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate#8",
+          "text": "Nate makes money doing what he loves",
+          "date_label": "10 July, 2022",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate#9",
+          "text": "Nate is content with his life and has no big plans for the tournament winnings.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate#10",
+          "text": "Joanna plans to visit Nate tomorrow.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate#11",
+          "text": "Nate has a job he enjoys every day.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nate#12",
+          "text": "Nate plans to write down some of his favorite memories with Joanna.",
+          "date_label": "7 November, 2022",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nate",
+          "page_type": "person",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Acting",
+      "type": "topic",
+      "slug": "acting",
+      "path": "topics/acting.md",
+      "facts": [
+        {
+          "fact_id": "acting#1",
+          "text": "Joanna performed in her first play",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Acting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "acting#2",
+          "text": "Joanna forgot her lines during her first play because she was nervous",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Acting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "acting#3",
+          "text": "Joanna learned from her first play that preparation and staying in the moment are important",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Acting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "acting#4",
+          "text": "Acting was Joanna's first passion",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Acting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "acting#5",
+          "text": "Joanna may return to acting someday",
+          "date_label": "21 April, 2022",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Acting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "acting#6",
+          "text": "Joanna recently received another rejection from a production company",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Acting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "acting#7",
+          "text": "Joanna said the rejection was hard but she would keep pursuing her goals",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Acting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "acting#8",
+          "text": "Joanna is continuing to push forward and believe in herself",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Acting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "acting#9",
+          "text": "Joanna enjoys showing her vision on set",
+          "date_label": "11 November, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Acting",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Cooking and baking",
+      "type": "topic",
+      "slug": "cooking-and-baking",
+      "path": "topics/cooking-and-baking.md",
+      "facts": [
+        {
+          "fact_id": "cooking-and-baking#1",
+          "text": "Joanna likes experimenting in the kitchen.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#2",
+          "text": "Cooking and baking are Joanna's creative outlets.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#3",
+          "text": "Joanna celebrated the feedback by making a dessert",
+          "date_label": "22 August, 2022",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#4",
+          "text": "Joanna revised one of her old recipes",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#5",
+          "text": "Joanna has been tinkering with recipes for comfort and creativity",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#6",
+          "text": "Nate wants to join Joanna for baking and cooking",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#7",
+          "text": "Nate taught people vegan ice cream recipes on his own cooking show last Monday.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#8",
+          "text": "Nate found teaching vegan ice cream recipes on his cooking show nerve-wracking but enjoyable.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#9",
+          "text": "Nate learned a few new recipes from teaching on his cooking show.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#10",
+          "text": "Joanna enjoys mixing and matching flavors when creating new recipes.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#11",
+          "text": "Joanna revised and perfected a recipe for her family, and it turned out tasty",
+          "date_label": "21 October, 2022",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#12",
+          "text": "Joanna plans to bring her recipes when she visits Nate tomorrow.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#13",
+          "text": "Joanna and Nate plan to share desserts.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#14",
+          "text": "Joanna has chocolate and raspberry cake recipes.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#15",
+          "text": "Nate tried cooking homemade coconut ice cream.",
+          "date_label": "9 November, 2022",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking-and-baking#16",
+          "text": "Nate is experimenting with flavors",
+          "date_label": "11 November, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Cooking and baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dairy-free desserts",
+      "type": "topic",
+      "slug": "dairy-free-desserts",
+      "path": "topics/dairy-free-desserts.md",
+      "facts": [
+        {
+          "fact_id": "dairy-free-desserts#1",
+          "text": "Joanna has been testing dairy-free dessert recipes for friends and family.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#2",
+          "text": "Joanna made a dairy-free vanilla cake with strawberry filling and coconut cream frosting.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#3",
+          "text": "Joanna enjoys making dairy-free desserts as delicious as possible.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#4",
+          "text": "Joanna finds making dairy-free desserts a rewarding challenge.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#5",
+          "text": "Joanna enjoys seeing people smile when they try her creations.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#6",
+          "text": "Joanna likes Nate's coconut recommendation from a while back.",
+          "date_label": "2 May, 2022",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#7",
+          "text": "Nate made vegan ice cream last Friday.",
+          "date_label": "24 June, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#8",
+          "text": "Nate shared the vegan ice cream with people in his vegan diet group.",
+          "date_label": "24 June, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#9",
+          "text": "Nate agreed to give Joanna the vegan ice cream recipe tomorrow.",
+          "date_label": "24 June, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#10",
+          "text": "Joanna plans to make the vegan ice cream for her family this weekend.",
+          "date_label": "24 June, 2022",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#11",
+          "text": "Nate has started teaching people how to make dairy-free desserts.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#12",
+          "text": "Nate finds sharing his love for dairy-free desserts fun and rewarding.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#13",
+          "text": "Nate has been making a new creamy, rich, dairy-free dessert recipe.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#14",
+          "text": "Nate offered to share his new dairy-free dessert recipe with Joanna.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#15",
+          "text": "Joanna likes Nate's coconut milk ice cream.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#16",
+          "text": "Joanna plans to make Nate's recipe for her family.",
+          "date_label": "14 August, 2022",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#17",
+          "text": "Joanna has been tweaking dessert recipes to make them yummier and more accessible",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#18",
+          "text": "Joanna experimented with chocolate, raspberry, and coconut flavors",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#19",
+          "text": "Joanna is making dairy-free desserts because she is lactose intolerant",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#20",
+          "text": "Joanna uses coconut or almond milk instead of dairy milk in her desserts",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#21",
+          "text": "Joanna made dairy-free chocolate coconut cupcakes with raspberry frosting",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#22",
+          "text": "Joanna has been making dairy-free cookies, pies, and cakes",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#23",
+          "text": "Joanna plans to share more dairy-free dessert recipes with Nate",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#24",
+          "text": "Nate suggested using dairy-free margarine or coconut oil instead of butter for dairy-free baking",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#25",
+          "text": "Nate suggested checking product labels to ensure ingredients are dairy-free",
+          "date_label": "5 September, 2022",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#26",
+          "text": "Nate's favorite dish from his cooking show is coconut milk ice cream.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#27",
+          "text": "Nate likes coconut milk ice cream because it is smooth, creamy, and has a tropical coconut flavor.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#28",
+          "text": "Nate's coconut milk ice cream is dairy-free for people who cannot have lactose or want vegan options.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#29",
+          "text": "Joanna planned to make Nate's coconut milk ice cream recipe.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#30",
+          "text": "Joanna considers dairy-free desserts a must for her.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#31",
+          "text": "Joanna made a dessert with almond milk last Friday.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#32",
+          "text": "Nate likes dairy-free chocolate mousse.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#33",
+          "text": "Nate described dairy-free chocolate mousse as creamy and similar in taste to regular chocolate mousse.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#34",
+          "text": "Joanna's favorite dairy-free sweet treat is chocolate raspberry tart.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#35",
+          "text": "Joanna's chocolate raspberry tart has an almond flour crust, chocolate ganache, and fresh raspberries.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#36",
+          "text": "Joanna likes making dairy-free chocolate cake with raspberries.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#37",
+          "text": "Joanna's dairy-free chocolate cake with raspberries is moist and has her preferred level of sweetness.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#38",
+          "text": "Joanna makes her dairy-free chocolate cake with almond flour, coconut oil, chocolate, and raspberries.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#39",
+          "text": "Joanna makes her dairy-free chocolate cake for birthdays and special days.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#40",
+          "text": "Joanna likes a dessert made with blueberries, coconut milk, and a gluten-free crust.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#41",
+          "text": "Joanna described her blueberry and coconut milk dessert as creamy.",
+          "date_label": "14 September, 2022",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#42",
+          "text": "Joanna tried her newest dairy-free recipe yesterday.",
+          "date_label": "6 October, 2022",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#43",
+          "text": "Nate made lactose-free ice cream with coconut milk.",
+          "date_label": "4 November, 2022",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#44",
+          "text": "Nate made colorful bowls of coconut milk ice cream",
+          "date_label": "11 November, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dairy-free-desserts#45",
+          "text": "Nate offered Joanna some of his coconut milk ice cream",
+          "date_label": "11 November, 2022",
+          "session_index": 29,
+          "session_id": "session_29",
+          "page_title": "Dairy-free desserts",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    }
+  ]
+}

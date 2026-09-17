@@ -1,0 +1,75 @@
+---
+title: Community service
+type: topic
+sources: [session_3, session_4, session_5, session_6, session_9, session_10, session_11, session_12, session_13, session_14, session_15, session_16, session_20, session_22, session_23, session_24, session_26, session_28, session_29, session_30, session_32]
+---
+
+- John joined a service-focused online group last week — 1 January, 2023
+- John feels connected to the members of the service-focused online group — 1 January, 2023
+- John feels a sense of purpose with the members of the service-focused online group — 1 January, 2023
+- John shares stories, advice, and encouragement with people who share his passion for serving — 1 January, 2023
+- John and members of the service-focused group held events and met some members in person — 1 January, 2023
+- John believes that providing assistance and resources can make a lasting impact — 1 January, 2023
+- Maria is now friends with one of her fellow volunteers — 9 January, 2023
+- Maria and her fellow volunteer both love helping others — 9 January, 2023
+- John plans to speak up for his community at the community meeting — 9 January, 2023
+- John and Maria want to make positive changes in their neighborhood together — 9 January, 2023
+- Maria started volunteering to make a difference. — 28 January, 2023
+- Maria's aunt believed in volunteering. — 28 January, 2023
+- Maria is inspired by her aunt's volunteering. — 28 January, 2023
+- Maria feels happy knowing that she can brighten somebody's day through volunteering. — 28 January, 2023
+- Maria gave the little girl comfort and a listening ear. — 28 January, 2023
+- John believes people should look out for others when they are feeling down. — 28 January, 2023
+- John believes people should support each other when they are feeling down. — 28 January, 2023
+- Maria believes kindness and compassion can turn someone's day around. — 28 January, 2023
+- John and Maria support each other and work toward a shared goal — 5 February, 2023
+- John became involved in his community. — 2 April, 2023
+- John wants to put his words into action and find solutions. — 2 April, 2023
+- John finds making a difference rewarding. — 2 April, 2023
+- John and Maria volunteered together last year. — 2 April, 2023
+- John and Maria saw that their actions could make a big impact through volunteering. — 2 April, 2023
+- Maria is passionate about charity work — 7 April, 2023
+- John believes community members are needed to help people in need — 7 April, 2023
+- Maria finds connecting with and helping others important — 10 April, 2023
+- Maria feels joy from making a real difference through her shelter volunteering — 10 April, 2023
+- Maria says seeing the impact of her work and hearing gratitude fills her with joy — 10 April, 2023
+- Maria says helping bring people together creates comfort and community — 10 April, 2023
+- John wants to involve people by sharing ideas and taking action — 18 April, 2023
+- John feels empowered by the possibility of helping make a difference in people's lives — 18 April, 2023
+- Maria believes little acts of kindness can have a big effect — 18 April, 2023
+- John believes every small act can make a big impact — 18 April, 2023
+- Maria volunteers — 4 May, 2023
+- Maria enjoys a banana split sundae after a day of volunteering — 4 May, 2023
+- Maria has been involved in charity work lately — 6 May, 2023
+- Maria finds her charity work rewarding and fulfilling — 6 May, 2023
+- John and Maria want to work together to involve the community in improving infrastructure — 6 May, 2023
+- John is working on a project to support military veterans. — 20 May, 2023
+- John wants veterans to know that their hard work is appreciated. — 20 May, 2023
+- John wants to help make veterans' lives better. — 20 May, 2023
+- John is passionate about making sure veterans are supported and valued in his community. — 20 May, 2023
+- Maria agreed to help John support veterans. — 20 May, 2023
+- Maria says reminders of meaningful moments motivate her to make a positive impact — 25 May, 2023
+- John says he and Maria are making progress toward making a positive impact — 25 May, 2023
+- Maria finds joy in making a difference. — 27 June, 2023
+- Maria plans to continue spreading kindness and positivity. — 27 June, 2023
+- Maria is inspired by volunteering — 5 July, 2023
+- John and Maria are working together to improve their community — 7 July, 2023
+- John and Maria share a passion for helping their community — 7 July, 2023
+- John is part of an organization that supports its members like a family — 17 July, 2023
+- Maria believes that doing good and helping others brings joy — 17 July, 2023
+- John believes that little acts of kindness can brighten someone's day — 17 July, 2023
+- Maria is more motivated than ever to help people — 31 July, 2023
+- Maria volunteered and took a photograph of people standing around a table with food — 31 July, 2023
+- Maria plans to continue helping people — 31 July, 2023
+- Maria took up community work yesterday with her friends from church. — 5 August, 2023
+- John cares about volunteering. — 5 August, 2023
+- John helped renovate a rundown community center back home last year. — 5 August, 2023
+- John saw everyone come together to help renovate the community center. — 5 August, 2023
+- The renovated community center has become very busy. — 5 August, 2023
+- John worked with a local organization that helps victims of domestic abuse — 9 August, 2023
+- John is considering joining local organizations or volunteering programs — 11 August, 2023
+- John plans to research organizations that align with what he believes in — 11 August, 2023
+- John plans to contact organizations for more information — 11 August, 2023
+- John and the other volunteers completed their work in two hours — 16 August, 2023
+- John and Maria want to continue making a difference in their community — 16 August, 2023
+- John and Maria want to motivate each other and others to make a difference — 16 August, 2023

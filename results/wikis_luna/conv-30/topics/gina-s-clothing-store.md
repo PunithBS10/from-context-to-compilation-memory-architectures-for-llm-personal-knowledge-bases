@@ -1,0 +1,71 @@
+---
+title: Gina's clothing store
+type: topic
+sources: [session_2, session_3, session_4, session_5, session_6, session_7, session_8, session_10, session_13, session_14, session_16, session_17, session_18]
+---
+
+- Gina launched an advertising campaign for her clothing store — 29 January, 2023
+- Gina owns a clothing store — 29 January, 2023
+- Gina is trying to grow her clothing store — 29 January, 2023
+- Gina started her own clothing store — 29 January, 2023
+- Gina's clothing store displays a variety of clothes — 29 January, 2023
+- Gina emailed wholesalers for her clothing store — 1 February, 2023
+- A wholesaler agreed to work with Gina — 1 February, 2023
+- Gina plans to expand her clothing store — 1 February, 2023
+- Gina designed a cozy and inviting space for her clothing store — 1 February, 2023
+- Gina chose comfortable furniture for her clothing store — 1 February, 2023
+- Gina chose a chandelier to add a glamorous feel to her clothing store — 1 February, 2023
+- Gina wants customers to feel comfortable and welcome in her clothing store — 1 February, 2023
+- Gina wants to create a shopping experience that makes customers return — 1 February, 2023
+- Gina is committed to working hard on her clothing store — 1 February, 2023
+- Gina runs a clothing store — 4 February, 2023
+- Gina found a new fashion piece for her clothing store. — 8 February, 2023
+- Gina has been working on her online clothing store. — 8 February, 2023
+- Gina teamed up with a local artist to create clothing designs. — 8 February, 2023
+- Gina got the idea for her clothing designs from a fashion magazine. — 8 February, 2023
+- Gina created clothing designs to offer her customers something different. — 8 February, 2023
+- Gina opened an online clothes store — 16 March, 2023
+- Gina is passionate about fashion trends and finding unique pieces — 16 March, 2023
+- Gina wanted to combine her love of dance and fashion in her online store — 16 March, 2023
+- Gina's business has had ups and downs — 16 March, 2023
+- Gina runs an online clothing store — 23 March, 2023
+- Gina keeps up with fashion trends to offer customers the best pieces — 23 March, 2023
+- Gina is working on building relationships with customers — 23 March, 2023
+- Gina is working on creating a strong brand image for her store — 23 March, 2023
+- Gina has new offers and promotions on her online store to attract new customers — 3 April, 2023
+- Fashion fuels Gina's creativity — 3 April, 2023
+- Gina looks for new fashion trends for her store — 3 April, 2023
+- Gina combines her passion for dance and fashion in her clothing business — 3 April, 2023
+- Gina adds dance-inspired items to her store — 3 April, 2023
+- Gina's customers like her new offers and promotions — 3 April, 2023
+- Gina has seen more sales from her new offers and promotions — 3 April, 2023
+- Gina's customers like her designs — 3 April, 2023
+- Gina is focused on growing her customer base — 3 April, 2023
+- Gina plans to work with fashion bloggers and influencers in the next few months — 3 April, 2023
+- Gina plans to increase advertising for her store — 3 April, 2023
+- Gina wants to make her store a top destination for fashion fans — 3 April, 2023
+- Gina started her own online clothing store not long ago — 25 April, 2023
+- Gina started her online clothing store after losing her job — 25 April, 2023
+- Gina wanted to take control of her own destiny after losing her job — 25 April, 2023
+- Gina finds running her online clothing store tough but rewarding — 25 April, 2023
+- Gina stays motivated by thinking of her big goal and why she is doing it — 25 April, 2023
+- Gina gets help from people who support her — 25 April, 2023
+- Gina stays confident in her business by reminding herself of her successes and progress — 25 April, 2023
+- Gina says that having a good support system helps her stay confident in her business — 25 April, 2023
+- Gina loves her online clothing store — 25 April, 2023
+- Gina developed a video presentation teaching people how to style her fashion pieces. — 13 June, 2023
+- Gina is working on her online store — 16 June, 2023
+- Gina is growing her online store's customer base — 16 June, 2023
+- Gina opened an online clothing store — 16 June, 2023
+- Gina enjoys being her own boss and doing something she loves — 16 June, 2023
+- Gina acquired new unique pieces for her clothing store — 21 June, 2023
+- Gina has a black hoodie in her own collection that is not for sale — 21 June, 2023
+- Gina made a limited edition clothing line last week to show off her style and creativity — 21 June, 2023
+- Gina designed a camouflage-print hoodie — 21 June, 2023
+- Gina's camouflage-print hoodie reminds her of the grit it takes to stand out and face challenges — 21 June, 2023
+- Gina was noticed by fashion editors last week — 9 July, 2023
+- Gina feels pressure to keep progressing in fashion — 9 July, 2023
+- Gina built a new website for customers to make orders last week — 21 July, 2023
+- Gina faced challenges sourcing trendy pieces for her store — 21 July, 2023
+- Gina researched and networked to source trendy pieces for her store — 21 July, 2023
+- Networking opened Gina up to products she might not otherwise have found — 21 July, 2023

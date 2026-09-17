@@ -1,0 +1,55 @@
+---
+title: Video games
+type: topic
+sources: [session_1, session_2, session_3, session_4, session_5, session_8, session_9, session_18, session_19, session_20, session_22, session_25, session_26, session_27, session_28]
+---
+
+- James is motivated by video games — 17 March, 2022
+- John is a big video game fan — 17 March, 2022
+- John uses video games to relax after a long day — 17 March, 2022
+- James made a game avatar — 20 March, 2022
+- James joined a new gaming platform — 20 March, 2022
+- James explores and chats with other gamers — 20 March, 2022
+- James feels part of an online gaming community — 20 March, 2022
+- James has connected with other gamers by sharing gaming tips, strategies, and stories — 20 March, 2022
+- James uses gaming as a refuge during tough times — 20 March, 2022
+- James plays games to relax, forget his troubles, and escape into another world when he feels overwhelmed — 20 March, 2022
+- James has been trying different styles of gaming — 20 March, 2022
+- John uses gaming to escape stress and calm down during tough times — 20 March, 2022
+- James got a new cutting-edge gaming system — 27 March, 2022
+- James's new gaming system has incredible graphics — 27 March, 2022
+- James plays new games on his gaming system to relax after work — 27 March, 2022
+- James can connect with friends who share his passion for gaming — 27 March, 2022
+- James is getting into RPGs and strategy games — 27 March, 2022
+- James plays Apex Legends with his team — 4 April, 2022
+- James thinks Apex Legends has awesome graphics — 4 April, 2022
+- James thinks Apex Legends has super fast-paced gameplay — 4 April, 2022
+- James thinks Apex Legends stands out among other games — 4 April, 2022
+- James is interested in trying RPGs and MOBAs — 4 April, 2022
+- John has not made much progress with gaming lately — 12 April, 2022
+- John finds gaming a good way to forget the stresses of life — 12 April, 2022
+- John is currently playing AC Valhalla — 29 April, 2022
+- James has been playing a turn-based strategy game for a month — 29 April, 2022
+- James's strategy game involves managing resources, leading armies, and conquering territories — 29 April, 2022
+- James's strategy game requires planning, resource management, and decision-making — 29 April, 2022
+- James finds his strategy game useful for practicing problem-solving and thinking — 29 April, 2022
+- Computer games bring James happiness in life — 4 May, 2022
+- John is passionate about the gaming industry — 6 August, 2022
+- John wants to turn his passion for gaming into a career — 6 August, 2022
+- John has been playing strategy and RPG games instead of his usual shooters — 10 August, 2022
+- James regularly plays with a gaming group — 21 August, 2022
+- James and his gaming group stream their game sessions — 21 August, 2022
+- John finds gaming an escape that keeps him focused and motivated in other areas — 21 August, 2022
+- James considers gaming a way to escape and stay motivated — 21 August, 2022
+- John's siblings are passionate about video games — 1 September, 2022
+- James likes 2D adventure games with puzzles, such as The Legend of Zelda — 20 September, 2022
+- James is interested in playing new games with his video card — 3 October, 2022
+- James is especially interested in RPGs — 3 October, 2022
+- Playing video games inspired James to create his own game — 13 October, 2022
+- James lost some game progress because he forgot to save. — 21 October, 2022
+- James learned to save his game progress more often. — 21 October, 2022
+- James shared a photo of a Nintendo console and a Nintendo Mario game controller. — 21 October, 2022
+- Nintendo was James's first gaming system. — 21 October, 2022
+- James played Super Mario for hours as a child. — 21 October, 2022
+- James played The Legend of Zelda for hours as a child. — 21 October, 2022
+- Super Mario and The Legend of Zelda sparked James's passion for gaming. — 21 October, 2022

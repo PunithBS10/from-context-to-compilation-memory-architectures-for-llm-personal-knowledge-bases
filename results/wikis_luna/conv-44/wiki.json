@@ -1,0 +1,5261 @@
+{
+  "conv_id": "conv-44",
+  "speakers": [
+    "Audrey",
+    "Andrew"
+  ],
+  "extraction_model": "gpt-5.6-luna",
+  "build_fingerprint": "9ad622199c7e",
+  "compiler_version": "b2",
+  "built_utc": "2026-09-16T18:26:45.203340+00:00",
+  "sessions": [
+    {
+      "index": 1,
+      "session_id": "session_1",
+      "timestamp": "1:10 pm on 27 March, 2023",
+      "date_label": "27 March, 2023"
+    },
+    {
+      "index": 2,
+      "session_id": "session_2",
+      "timestamp": "2:42 pm on 2 April, 2023",
+      "date_label": "2 April, 2023"
+    },
+    {
+      "index": 3,
+      "session_id": "session_3",
+      "timestamp": "4:19 pm on 16 April, 2023",
+      "date_label": "16 April, 2023"
+    },
+    {
+      "index": 4,
+      "session_id": "session_4",
+      "timestamp": "5:41 pm on 3 May, 2023",
+      "date_label": "3 May, 2023"
+    },
+    {
+      "index": 5,
+      "session_id": "session_5",
+      "timestamp": "10:47 am on 6 May, 2023",
+      "date_label": "6 May, 2023"
+    },
+    {
+      "index": 6,
+      "session_id": "session_6",
+      "timestamp": "2:03 pm on 11 May, 2023",
+      "date_label": "11 May, 2023"
+    },
+    {
+      "index": 7,
+      "session_id": "session_7",
+      "timestamp": "11:27 am on 2 June, 2023",
+      "date_label": "2 June, 2023"
+    },
+    {
+      "index": 8,
+      "session_id": "session_8",
+      "timestamp": "5:23 pm on 13 June, 2023",
+      "date_label": "13 June, 2023"
+    },
+    {
+      "index": 9,
+      "session_id": "session_9",
+      "timestamp": "1:51 pm on 26 June, 2023",
+      "date_label": "26 June, 2023"
+    },
+    {
+      "index": 10,
+      "session_id": "session_10",
+      "timestamp": "8:32 pm on 3 July, 2023",
+      "date_label": "3 July, 2023"
+    },
+    {
+      "index": 11,
+      "session_id": "session_11",
+      "timestamp": "9:48 am on 8 July, 2023",
+      "date_label": "8 July, 2023"
+    },
+    {
+      "index": 12,
+      "session_id": "session_12",
+      "timestamp": "10:05 am on 11 July, 2023",
+      "date_label": "11 July, 2023"
+    },
+    {
+      "index": 13,
+      "session_id": "session_13",
+      "timestamp": "3:52 pm on 27 July, 2023",
+      "date_label": "27 July, 2023"
+    },
+    {
+      "index": 14,
+      "session_id": "session_14",
+      "timestamp": "11:05 am on 4 August, 2023",
+      "date_label": "4 August, 2023"
+    },
+    {
+      "index": 15,
+      "session_id": "session_15",
+      "timestamp": "9:58 pm on 16 August, 2023",
+      "date_label": "16 August, 2023"
+    },
+    {
+      "index": 16,
+      "session_id": "session_16",
+      "timestamp": "9:19 pm on 19 August, 2023",
+      "date_label": "19 August, 2023"
+    },
+    {
+      "index": 17,
+      "session_id": "session_17",
+      "timestamp": "12:24 am on 24 August, 2023",
+      "date_label": "24 August, 2023"
+    },
+    {
+      "index": 18,
+      "session_id": "session_18",
+      "timestamp": "7:49 pm on 6 September, 2023",
+      "date_label": "6 September, 2023"
+    },
+    {
+      "index": 19,
+      "session_id": "session_19",
+      "timestamp": "5:53 pm on 24 September, 2023",
+      "date_label": "24 September, 2023"
+    },
+    {
+      "index": 20,
+      "session_id": "session_20",
+      "timestamp": "7:09 pm on 1 October, 2023",
+      "date_label": "1 October, 2023"
+    },
+    {
+      "index": 21,
+      "session_id": "session_21",
+      "timestamp": "4:18 pm on 4 October, 2023",
+      "date_label": "4 October, 2023"
+    },
+    {
+      "index": 22,
+      "session_id": "session_22",
+      "timestamp": "9:41 pm on 6 October, 2023",
+      "date_label": "6 October, 2023"
+    },
+    {
+      "index": 23,
+      "session_id": "session_23",
+      "timestamp": "4:22 pm on 13 October, 2023",
+      "date_label": "13 October, 2023"
+    },
+    {
+      "index": 24,
+      "session_id": "session_24",
+      "timestamp": "6:12 pm on 19 October, 2023",
+      "date_label": "19 October, 2023"
+    },
+    {
+      "index": 25,
+      "session_id": "session_25",
+      "timestamp": "10:14 am on 24 October, 2023",
+      "date_label": "24 October, 2023"
+    },
+    {
+      "index": 26,
+      "session_id": "session_26",
+      "timestamp": "2:36 pm on 28 October, 2023",
+      "date_label": "28 October, 2023"
+    },
+    {
+      "index": 27,
+      "session_id": "session_27",
+      "timestamp": "7:59 pm on 4 November, 2023",
+      "date_label": "4 November, 2023"
+    },
+    {
+      "index": 28,
+      "session_id": "session_28",
+      "timestamp": "9:02 am on 22 November, 2023",
+      "date_label": "22 November, 2023"
+    }
+  ],
+  "stats": {
+    "compile_prompt_tokens": 44774,
+    "compile_completion_tokens": 11736,
+    "compile_cost_usd": 0.023038000000000003,
+    "compile_latency_s": 139.1482668989338,
+    "compile_calls": 28,
+    "compile_cached_calls": 0,
+    "sessions_compiled": 28,
+    "truncated_sessions": 0,
+    "duplicate_facts_dropped": 8,
+    "generic_page_titles": 0,
+    "salvaged_sessions": 0,
+    "unparsable_sessions": 0,
+    "empty_sessions": 0,
+    "citations_total": 0,
+    "citations_resolvable": 0,
+    "citations_unresolvable": 0,
+    "citations_other_session": 0,
+    "citations_nonexistent": 0,
+    "facts_with_no_citation": 481,
+    "citation_resolvability": null,
+    "citation_session_consistency": null,
+    "n_pages": 30,
+    "n_facts": 481,
+    "wiki_tokens": 11277,
+    "raw_conversation_tokens": 22587,
+    "compression_ratio": 0.4993
+  },
+  "pages": [
+    {
+      "title": "Andrew",
+      "type": "person",
+      "slug": "andrew",
+      "path": "people/andrew.md",
+      "facts": [
+        {
+          "fact_id": "andrew#1",
+          "text": "Andrew started a new job as a Financial Analyst last week",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#2",
+          "text": "Andrew currently has no pets",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#3",
+          "text": "Andrew lives in the city",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#4",
+          "text": "Andrew lives in an apartment",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#5",
+          "text": "Andrew has been stuck inside because work has been piling up",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#6",
+          "text": "Andrew's work has been tough and stressful recently",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#7",
+          "text": "Andrew finds balancing work and personal time challenging",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#8",
+          "text": "Andrew thinks getting more plants for his house could bring him peace",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#9",
+          "text": "Andrew intends to look into getting more plants for his house",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#10",
+          "text": "Andrew misses nature because he lives in the city",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#11",
+          "text": "Andrew planned to go on a picnic date with his girlfriend on Sunday.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#12",
+          "text": "Andrew has a dog.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "andrew#13",
+          "text": "Andrew has two dogs named Toby and Buddy",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Andrew",
+          "page_type": "person",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Animals",
+      "type": "topic",
+      "slug": "animals",
+      "path": "topics/animals.md",
+      "facts": [
+        {
+          "fact_id": "animals#1",
+          "text": "Andrew loves animals",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#2",
+          "text": "Audrey is busy taking care of her pets and spending time with them.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#3",
+          "text": "Audrey made personalized tags for her dogs",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#4",
+          "text": "Audrey made each personalized tag herself",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#5",
+          "text": "Audrey made the tags so each one would be special and fit the dog's personality",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#6",
+          "text": "Audrey wants her pets to feel seen and loved",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#7",
+          "text": "Andrew and his girlfriend volunteered at a pet shelter on Monday",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#8",
+          "text": "Andrew and his girlfriend enjoyed volunteering at the pet shelter",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#9",
+          "text": "Andrew and his girlfriend volunteered to give back and make animals' lives better",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#10",
+          "text": "Audrey says her pets have supported her during tough times",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#11",
+          "text": "Audrey says her pets make her happy",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#12",
+          "text": "Audrey says her pets are her companions",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "animals#13",
+          "text": "Andrew considers pets family and cannot imagine life without them.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Animals",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Birds",
+      "type": "topic",
+      "slug": "birds",
+      "path": "topics/birds.md",
+      "facts": [
+        {
+          "fact_id": "birds#1",
+          "text": "Andrew has always been awed by birds",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Birds",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "birds#2",
+          "text": "Andrew's favorite type of bird is eagles",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Birds",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "birds#3",
+          "text": "Audrey had an amazing experience watching a hummingbird dart around with its wings.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Birds",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "birds#4",
+          "text": "Audrey wants to go birdwatching",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Birds",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "birds#5",
+          "text": "Andrew has offered to give Audrey birdwatching advice",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Birds",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "birds#6",
+          "text": "Andrew has suggested that he and Audrey go birdwatching together",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Birds",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "birds#7",
+          "text": "Audrey is using a birdwatching guidebook",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Birds",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "birds#8",
+          "text": "Audrey plans to learn common birds in the area",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Birds",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "birds#9",
+          "text": "Andrew plans to bring binoculars and a notebook to log birds on the birdwatching trip",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Birds",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "birds#10",
+          "text": "Andrew enjoys watching birds in nature",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Birds",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dogs",
+      "type": "topic",
+      "slug": "dogs",
+      "path": "topics/dogs.md",
+      "facts": [
+        {
+          "fact_id": "dogs#1",
+          "text": "Audrey has dogs named Pepper, Precious, and Panda",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#2",
+          "text": "Audrey has had Pepper, Precious, and Panda for 3 years",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#3",
+          "text": "Audrey's dogs are city dogs",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#4",
+          "text": "Audrey frequently explores parks and trails with her dogs",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#5",
+          "text": "Audrey adopted another puppy called Pixie",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#6",
+          "text": "Pixie is a small white dog",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#7",
+          "text": "Pixie took a few days to get used to Audrey's other dogs",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#8",
+          "text": "Pixie now gets along well with Audrey's other dogs",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#9",
+          "text": "Pixie plays and explores the house with Audrey's other dogs",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#10",
+          "text": "Pepper took a bit to get used to Pixie",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#11",
+          "text": "Pepper and Pixie are now always together",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#12",
+          "text": "Andrew is considering getting a dog",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#13",
+          "text": "Andrew finds it challenging to find a dog-friendly place in the city",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#14",
+          "text": "Audrey used websites with dog-friendly filters to find a place that allowed dogs",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#15",
+          "text": "Audrey found a perfect place using dog-friendly housing websites",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#16",
+          "text": "Andrew's family has a dog",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#17",
+          "text": "Audrey has dogs",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#18",
+          "text": "Audrey takes her dogs for walks in the park",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#19",
+          "text": "Audrey finds that walking her dogs helps her find her center and recharge",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#20",
+          "text": "Audrey has tattoos of her dogs on her arm",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#21",
+          "text": "Audrey's dog tattoo represents her love for her dogs and nature's beauty",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#22",
+          "text": "Audrey has a strong bond with her dogs",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#23",
+          "text": "Audrey's dogs bring her a great deal of joy",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#24",
+          "text": "Audrey wants to see her dogs' happy faces even when they are not with her",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#25",
+          "text": "Audrey's dogs love going on hikes.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#26",
+          "text": "Audrey's dogs enjoy exploring new scents and being in nature.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#27",
+          "text": "Audrey uses leashes and shoes to help keep her dogs safe when they are out.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#28",
+          "text": "Audrey plays fetch with a ball or frisbee when she walks her dogs.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#29",
+          "text": "Audrey and her dogs meet other dog owners in the park for doggie playdates.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#30",
+          "text": "Audrey's dogs have lots of energy and enjoy meeting new pals at playdates.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#31",
+          "text": "Audrey's dogs wear party hats for fun and treats.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#32",
+          "text": "Audrey goes to a dog park for playdates with her dogs.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#33",
+          "text": "Audrey's dog park is by the park where she usually walks her dogs.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#34",
+          "text": "Audrey's dog park has lots of trees and benches for watching the dogs play.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#35",
+          "text": "Andrew thinks the size of a living space is important when considering getting a dog",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#36",
+          "text": "Andrew thinks a dog's exercise needs are important when considering getting a dog",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#37",
+          "text": "Andrew thinks a smaller dog would be best for someone living in an apartment",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#38",
+          "text": "Andrew thinks active people should consider getting a dog that loves to play and run",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#39",
+          "text": "Audrey has a pup",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#40",
+          "text": "Audrey takes care of four dogs",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#41",
+          "text": "Audrey met a friendly and playful dog at her local pet store",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#42",
+          "text": "Audrey believes her dogs are quick learners and love rewards",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#43",
+          "text": "Audrey does not want to hurt any of her dogs",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#44",
+          "text": "Audrey took her dogs to a park yesterday.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#45",
+          "text": "Audrey let her dogs run and play without a leash at the park yesterday.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#46",
+          "text": "Audrey found a small park with a trail surrounded by trees for walking her dogs",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#47",
+          "text": "Audrey usually walks her dogs for about an hour",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#48",
+          "text": "Audrey lets her dogs explore at their own pace during walks",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#49",
+          "text": "Audrey's dogs need exercise and opportunities to explore",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#50",
+          "text": "Audrey's dogs enjoy walks and brighten up when Audrey gets ready for one",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#51",
+          "text": "Audrey's dogs enjoy meeting new people",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#52",
+          "text": "Audrey feels joy and peace when she is outdoors with her dogs",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#53",
+          "text": "Audrey's dogs love the bigger backyard and enjoy running, exploring, and sniffing out new smells",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#54",
+          "text": "Audrey set up a doggy play area in the backyard with agility equipment and toys",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#55",
+          "text": "Andrew goes to a doggy daycare near him with a large indoor space for dogs to play",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#56",
+          "text": "Audrey has four dogs.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#57",
+          "text": "Two of Audrey's dogs are Jack Russell mixes.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#58",
+          "text": "Two of Audrey's dogs are Chihuahua mixes.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#59",
+          "text": "Audrey's dogs love running and playing fetch.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#60",
+          "text": "Audrey's dogs are all 3 years old.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#61",
+          "text": "Audrey's dogs are a great pack.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#62",
+          "text": "Audrey's dogs are well loved.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#63",
+          "text": "Audrey's dogs make her feel love and happiness.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#64",
+          "text": "Audrey's furry friends make her happy.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#65",
+          "text": "Audrey had a great walk with her dogs the other day.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#66",
+          "text": "Andrew found a few parks where dogs can be taken on a leash.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#67",
+          "text": "Audrey considers safety a top priority when her dogs are outside running around.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#68",
+          "text": "Audrey's dogs were ready for their next outdoor adventure.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#69",
+          "text": "Audrey's dogs bring her joy and keep her from getting bored.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#70",
+          "text": "Audrey's dogs play in a local park.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#71",
+          "text": "Audrey feels happy when she sees her dogs happy and energetic.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#72",
+          "text": "Audrey's dogs are full of energy and bring smiles to her face.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#73",
+          "text": "Audrey's dogs play with other dogs at her local park.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#74",
+          "text": "Toby is a dog",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#75",
+          "text": "Audrey has four dogs",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#76",
+          "text": "Audrey considers her four dogs more important to her than anything",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#77",
+          "text": "Audrey's oldest dog is relaxed",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#78",
+          "text": "Audrey's second dog is always ready for a game",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#79",
+          "text": "Audrey's third dog can be naughty and loves cuddling",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#80",
+          "text": "Audrey's youngest dog is full of life and always up for an adventure",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#81",
+          "text": "Max had lots of energy and loved playing fetch",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#82",
+          "text": "Audrey took long walks with Max in the neighborhood when she was a child",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#83",
+          "text": "Andrew owns a German Shepherd named Toby",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#84",
+          "text": "Andrew says Toby is smart and loyal",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#85",
+          "text": "Audrey says German Shepherds need to offset a lot of energy",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#86",
+          "text": "Audrey got another tattoo depicting her four dogs on her arm.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#87",
+          "text": "Audrey has four dogs named Pepper, Pixie, Precious, and Panda.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#88",
+          "text": "Audrey considers four dogs enough for now.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#89",
+          "text": "Audrey wants to give each of her dogs the attention they deserve.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#90",
+          "text": "Pepper loves lounging on the couch.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#91",
+          "text": "Pixie curls up in her bed.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#92",
+          "text": "Precious has her own chair as a favorite spot.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#93",
+          "text": "Panda loves relaxing on his rug.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#94",
+          "text": "Audrey's dogs sleep cuddled together when they nap.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#95",
+          "text": "Audrey's dogs are best friends and keep each other company.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#96",
+          "text": "Audrey's dogs mean the world to her, and she cannot imagine life without them.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#97",
+          "text": "Andrew has a dog named Toby.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#98",
+          "text": "Toby's favorite spot is a fluffy blanket on the floor.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#99",
+          "text": "Andrew has a dog named Toby",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#100",
+          "text": "Audrey plans to take her dogs for a stroll in the park this weekend",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#101",
+          "text": "Audrey's dogs enjoy going to the park",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#102",
+          "text": "Audrey's dogs were photographed running in a field with a ball in their mouths",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#103",
+          "text": "Audrey's dogs make her very happy",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#104",
+          "text": "Audrey loves her dogs very much",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#105",
+          "text": "Andrew loves Toby",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#106",
+          "text": "Andrew wants to develop a stronger bond with Toby",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#107",
+          "text": "Toby is still very young",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#108",
+          "text": "Audrey's dogs include two Jack Russell mixes and two Chihuahua mixes.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#109",
+          "text": "Audrey's dogs are all mutts.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#110",
+          "text": "Audrey's dogs enjoy running around and exploring her garden.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#111",
+          "text": "Audrey's dogs play only with one another, not with other furry pals.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#112",
+          "text": "Audrey says her dogs bring love, happiness, and joy into her life.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#113",
+          "text": "Audrey takes the dogs for walks in the park to clear her mind",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#114",
+          "text": "Audrey took the dogs to a nearby dog park last Saturday",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#115",
+          "text": "Audrey resumed walking her dogs after her knee injury.",
+          "date_label": "6 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#116",
+          "text": "Audrey's dogs bring her joy.",
+          "date_label": "6 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#117",
+          "text": "Andrew's girlfriend Toby is his German Shepherd pup",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#118",
+          "text": "Audrey's dogs dislike snow and prefer sunny days in the grass",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#119",
+          "text": "Toby is a German Shepherd",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#120",
+          "text": "Toby loves cute sweaters",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#121",
+          "text": "Audrey's dogs enjoy fetch and frisbee",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#122",
+          "text": "Audrey's dogs love running around and meeting other dogs",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#123",
+          "text": "Audrey has not taken her dogs for a walk recently because life has been busy",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#124",
+          "text": "Audrey bought toys for her dogs at a pet store last Monday",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#125",
+          "text": "Audrey's dogs became excited when she brought the toys home",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#126",
+          "text": "Audrey loves her dogs and the joy they bring her",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#127",
+          "text": "Andrew named his newly adopted dog Buddy",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#128",
+          "text": "Andrew hopes Buddy and Toby become buddies",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#129",
+          "text": "Audrey has four dogs named Pepper, Panda, Precious, and Pixie.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#130",
+          "text": "Pepper and Panda are Lab mixes.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#131",
+          "text": "Precious and Pixie are Chihuahua mixes.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#132",
+          "text": "Audrey's dogs are doing great.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#133",
+          "text": "Audrey's dogs explore and meet new people.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#134",
+          "text": "Audrey's dogs feel loved and safe.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#135",
+          "text": "Andrew named his new dog Scout.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#136",
+          "text": "Andrew chose the name Scout because it suited the dog's adventurous spirit.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#137",
+          "text": "Andrew has Scout, Toby, and Buddy as furry friends.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#138",
+          "text": "Andrew's dogs bring him joy and friendship.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dogs#139",
+          "text": "Andrew considers his dogs family members.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dogs",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Hiking",
+      "type": "topic",
+      "slug": "hiking",
+      "path": "topics/hiking.md",
+      "facts": [
+        {
+          "fact_id": "hiking#1",
+          "text": "Andrew spots birds when he hikes",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#2",
+          "text": "Andrew considers Fox Hollow a great trail for weekend hikes",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#3",
+          "text": "Andrew thinks Fox Hollow has awesome views",
+          "date_label": "27 March, 2023",
+          "session_index": 1,
+          "session_id": "session_1",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#4",
+          "text": "Andrew misses exploring nature trails with his family's dog",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#5",
+          "text": "Andrew considers hiking with a dog a way to bond and create memories",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#6",
+          "text": "Andrew wants to find a dog-friendly spot so he can explore nature trails again",
+          "date_label": "2 April, 2023",
+          "session_index": 2,
+          "session_id": "session_2",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#7",
+          "text": "Andrew misses the peacefulness of hiking",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#8",
+          "text": "Audrey went on a hike last week.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#9",
+          "text": "Andrew found a new open space nearby to hike.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#10",
+          "text": "Andrew tries to escape the city at least once each weekend to hike.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#11",
+          "text": "Andrew went on a hike last weekend with friends and his girlfriend",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#12",
+          "text": "Andrew hiked at a recently discovered spot last weekend",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#13",
+          "text": "Audrey took her dogs on a hike before.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#14",
+          "text": "Andrew hiked with some friends last Friday",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#15",
+          "text": "Andrew said the weather was great during his hike last Friday",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#16",
+          "text": "Audrey hiked with friends a few years ago and discovered a stunning lake in the mountains",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#17",
+          "text": "Andrew has been unable to hike.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#18",
+          "text": "Andrew has been finding new hobbies because he cannot hike.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#19",
+          "text": "Audrey suggested joining Andrew for a hike and bringing her dogs.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#20",
+          "text": "Andrew and Audrey plan to hike with Audrey's dogs next month when the weather is more pleasant.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#21",
+          "text": "Andrew suggested a trail for the dogs.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#22",
+          "text": "Audrey plans to look into the trail for her dogs to run around.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#23",
+          "text": "Andrew and Audrey agreed to make sure the trail is safe for the dogs.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#24",
+          "text": "Andrew and Audrey are excited to hike with Audrey's dogs.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#25",
+          "text": "Audrey hiked to a viewpoint last year.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#26",
+          "text": "Audrey drove three hours to the hike last year.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#27",
+          "text": "Audrey saw an amazing sunset during the hike last year.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#28",
+          "text": "Andrew misses the peace and feeling of freedom that come with hiking",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#29",
+          "text": "Andrew has plans to go on a hike next month",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#30",
+          "text": "Andrew invited Audrey and her dogs to join the hike next month",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#31",
+          "text": "Audrey plans to bring her dogs on the hike next month",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#32",
+          "text": "Andrew plans for Toby to meet Audrey's dogs on the hike",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#33",
+          "text": "Audrey went on a two-hour trail hike with her dogs",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#34",
+          "text": "Andrew says hiking refreshes him",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#35",
+          "text": "Andrew says reaching the top of a challenging trail makes his worries vanish",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#36",
+          "text": "Andrew plans to take Toby hiking at a local trail",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#37",
+          "text": "Andrew went on a hike and photographed a sunset over a mountain with a church on top",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#38",
+          "text": "Andrew takes pictures during hikes to save the moment",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#39",
+          "text": "Andrew went on a hike last weekend to get away from the city",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#40",
+          "text": "Andrew witnessed a beautiful sunset during his hike last weekend",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#41",
+          "text": "Andrew wants to hike with Toby",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#42",
+          "text": "Audrey is planning a hike with the dogs next month",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#43",
+          "text": "Audrey enjoys exploring new trails with the dogs",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#44",
+          "text": "Andrew used to hike a lot",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#45",
+          "text": "Andrew finds hiking more challenging now because of his work-life balance",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#46",
+          "text": "Andrew visits nearby parks or goes hiking when he can",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#47",
+          "text": "Audrey wants to hike with her dogs as therapy",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#48",
+          "text": "Audrey remembers hiking trips with her dogs as good times",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#49",
+          "text": "Buddy enjoys exploring new hiking trails with Andrew and others",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#50",
+          "text": "Andrew plans to take Buddy and Toby to the trails together soon",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#51",
+          "text": "Audrey and Andrew plan to hike with their dogs next month",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#52",
+          "text": "Audrey plans to research a good place for their hike",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#53",
+          "text": "Audrey and Andrew planned a hike for Saturday with their dogs.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#54",
+          "text": "The planned hike will include snacks.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#55",
+          "text": "The planned hike will take place on a dog-friendly trail near a lake.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#56",
+          "text": "Andrew said the trail has great views.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#57",
+          "text": "Audrey and Andrew planned to explore the trail and lake with their dogs.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#58",
+          "text": "Audrey and Andrew wanted to take pictures of the autumn colors and their dogs on a future trip.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "hiking#59",
+          "text": "Andrew previously hiked with his dog.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Hiking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Baking",
+      "type": "topic",
+      "slug": "baking",
+      "path": "topics/baking.md",
+      "facts": [
+        {
+          "fact_id": "baking#1",
+          "text": "Audrey made muffins and other favorite treats last week",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "baking#2",
+          "text": "Audrey made goodies to thank her neighbors for having pup-friendly homes",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Baking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Cafe visit",
+      "type": "event",
+      "slug": "cafe-visit",
+      "path": "events/cafe-visit.md",
+      "facts": [
+        {
+          "fact_id": "cafe-visit#1",
+          "text": "Andrew and his girlfriend tried a new cafe in the city last weekend",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Cafe visit",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cafe-visit#2",
+          "text": "Andrew and his girlfriend found a cafe with pastries",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Cafe visit",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cafe-visit#3",
+          "text": "Andrew and his girlfriend ate croissants, muffins, and tarts at the cafe",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Cafe visit",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cafe-visit#4",
+          "text": "Andrew took a break from work yesterday to visit a new cafe",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Cafe visit",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cafe-visit#5",
+          "text": "Andrew grabs a coffee in the morning as a self-care activity",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Cafe visit",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cafe-visit#6",
+          "text": "Andrew planned to visit a newly opened cozy cafe over the weekend",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Cafe visit",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cafe-visit#7",
+          "text": "Andrew described the new cafe as having a great view and vibe",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Cafe visit",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dining out",
+      "type": "topic",
+      "slug": "dining-out",
+      "path": "topics/dining-out.md",
+      "facts": [
+        {
+          "fact_id": "dining-out#1",
+          "text": "Andrew and his girlfriend enjoy discovering new places to eat around town",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Dining out",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dining-out#2",
+          "text": "Andrew went to a wine tasting with his girlfriend last weekend",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Dining out",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dining-out#3",
+          "text": "Andrew enjoyed trying unique wines at the wine tasting last weekend",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Dining out",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dining-out#4",
+          "text": "Andrew tried a new restaurant in town that serves sushi",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Dining out",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dining-out#5",
+          "text": "Andrew enjoyed the sushi at the new restaurant",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Dining out",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Nature",
+      "type": "topic",
+      "slug": "nature",
+      "path": "topics/nature.md",
+      "facts": [
+        {
+          "fact_id": "nature#1",
+          "text": "Andrew feels that he thrives when he is out in nature",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#2",
+          "text": "Andrew feels connected to nature",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#3",
+          "text": "Andrew finds nature soothing when life becomes chaotic",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#4",
+          "text": "Andrew finds it difficult to spend time outdoors and connect with nature while living in the city",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#5",
+          "text": "Andrew finds nature therapeutic.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#6",
+          "text": "Andrew enjoys being surrounded by greenery and standing on top of a mountain breathing fresh air.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#7",
+          "text": "Andrew tries to capture special moments in nature and share the feeling with others.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#8",
+          "text": "Andrew finds joy in spreading peaceful feelings and motivating people to find their own peace.",
+          "date_label": "3 May, 2023",
+          "session_index": 4,
+          "session_id": "session_4",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#9",
+          "text": "Andrew found nature peaceful during his hike last weekend",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#10",
+          "text": "Audrey said that nature cheers her up and makes her feel grateful.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#11",
+          "text": "Andrew turns to nature when he needs a reset",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#12",
+          "text": "Andrew finds nature refreshing and calming",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#13",
+          "text": "Audrey finds nature peaceful and inspiring",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#14",
+          "text": "Audrey believes nature can make people think differently",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#15",
+          "text": "Audrey believes nature makes people feel alive and centered",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#16",
+          "text": "Andrew enjoyed hearing birdsong and smelling the trees during his hike last Friday",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#17",
+          "text": "Andrew has been missing his connection with nature and the peace it brings",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#18",
+          "text": "Audrey and her friends sat by the lake, chatted, and admired the peacefulness of nature a few years ago",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#19",
+          "text": "Audrey finds nature and lakes calming",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#20",
+          "text": "Audrey finds nature calming and restorative with her dogs.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#21",
+          "text": "Andrew finds being in nature refreshing and joyful.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#22",
+          "text": "Audrey found the sunset's vibrant colors peaceful and breathtaking.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#23",
+          "text": "Audrey feels grateful for moments that remind her of nature's beauty and the importance of appreciating small things.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#24",
+          "text": "Audrey believes that appreciating beautiful moments makes life much better.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#25",
+          "text": "Andrew says nature calms and relaxes his mind",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#26",
+          "text": "Andrew plans to visit a nature reserve this weekend to reconnect with the outdoors",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#27",
+          "text": "Audrey sat by a gorgeous mountain lake with friends a few years ago",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#28",
+          "text": "Audrey has a small garden.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#29",
+          "text": "Audrey's flowers are doing well and her vegetable patch is growing.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#30",
+          "text": "Audrey grows Peruvian Lilies.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#31",
+          "text": "Audrey's Peruvian Lilies have bright colors and delicate petals.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#32",
+          "text": "Audrey says Peruvian Lilies are easy to care for and need water and sufficient sunlight.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#33",
+          "text": "Andrew has read books about ecological systems",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#34",
+          "text": "Andrew learned about animals, plants, and ecosystems from reading about ecological systems",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#35",
+          "text": "Andrew believes humans need to look after nature",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#36",
+          "text": "Audrey recycles",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#37",
+          "text": "Audrey usually takes public transport",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#38",
+          "text": "Andrew suggested biking or using public transport to reduce their carbon footprints",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#39",
+          "text": "Andrew finds it harder to explore nature because of his job and living in the city",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#40",
+          "text": "Andrew feels a void in his heart from having less access to nature",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "nature#41",
+          "text": "Andrew and his girlfriend discovered a park outside the city",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Nature",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Pastry party",
+      "type": "event",
+      "slug": "pastry-party",
+      "path": "events/pastry-party.md",
+      "facts": [
+        {
+          "fact_id": "pastry-party#1",
+          "text": "Audrey invited Andrew to a pastry party",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Pastry party",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "pastry-party#2",
+          "text": "Audrey's dogs will accompany her to the pastry party",
+          "date_label": "16 April, 2023",
+          "session_index": 3,
+          "session_id": "session_3",
+          "page_title": "Pastry party",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Audrey",
+      "type": "person",
+      "slug": "audrey",
+      "path": "people/audrey.md",
+      "facts": [
+        {
+          "fact_id": "audrey#1",
+          "text": "Audrey has a park near her home",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#2",
+          "text": "Audrey got a new place with a bigger backyard for her dogs",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#3",
+          "text": "Audrey is unboxing boxes after moving to a new house",
+          "date_label": "26 June, 2023",
+          "session_index": 9,
+          "session_id": "session_9",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#4",
+          "text": "Audrey's childhood dog was named Max",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#5",
+          "text": "Audrey shared her worries and hopes with Max",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#6",
+          "text": "Audrey considers Max a great listener who was always there for her",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#7",
+          "text": "Audrey's walks with Max are among her favorite memories",
+          "date_label": "27 July, 2023",
+          "session_index": 13,
+          "session_id": "session_13",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#8",
+          "text": "Audrey does at least one self-care activity each day",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#9",
+          "text": "Audrey treats herself to something nice as a self-care activity",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#10",
+          "text": "Audrey had a knee injury that prevented her from walking her dogs.",
+          "date_label": "6 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#11",
+          "text": "Audrey cannot volunteer at the animal shelter anymore.",
+          "date_label": "6 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#12",
+          "text": "Audrey considers her four dogs her little family",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#13",
+          "text": "Audrey got additional drawings added to her tattoo at a tattoo parlor",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#14",
+          "text": "Audrey currently thinks her tattoos are enough",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#15",
+          "text": "Audrey might get another tattoo if she gets another dog someday",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#16",
+          "text": "Audrey is feeling better each day while recovering from her accident",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#17",
+          "text": "Audrey has four dogs",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#18",
+          "text": "Audrey lives in the city with her dogs",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "audrey#19",
+          "text": "Audrey is glad her dogs are part of her life.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Audrey",
+          "page_type": "person",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dog adoption",
+      "type": "topic",
+      "slug": "dog-adoption",
+      "path": "topics/dog-adoption.md",
+      "facts": [
+        {
+          "fact_id": "dog-adoption#1",
+          "text": "Andrew has been looking for a dog to adopt since the previous conversation",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#2",
+          "text": "Andrew has browsed websites, visited shelters, and asked friends for advice while looking for a dog to adopt",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#3",
+          "text": "Andrew wants to stay close to nature and give his future dog a large open space to run around",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#4",
+          "text": "Andrew is determined to find the right place and dog.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#5",
+          "text": "Andrew wishes he could get a dog.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#6",
+          "text": "Audrey found a nearby breeder with the dogs she wanted.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#7",
+          "text": "Andrew adopted a puppy named Toby",
+          "date_label": "11 July, 2023",
+          "session_index": 12,
+          "session_id": "session_12",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#8",
+          "text": "Andrew recently adopted another dog from a shelter",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#9",
+          "text": "Andrew's newly adopted dog is adjusting to Toby and his new environment",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#10",
+          "text": "Toby needs time to get along with Andrew's newly adopted dog",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#11",
+          "text": "Andrew has considered getting another dog",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#12",
+          "text": "Andrew adopted another dog the other day.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-adoption#13",
+          "text": "Andrew feels lucky to have Scout.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog adoption",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dog road trips",
+      "type": "topic",
+      "slug": "dog-road-trips",
+      "path": "topics/dog-road-trips.md",
+      "facts": [
+        {
+          "fact_id": "dog-road-trips#1",
+          "text": "Audrey takes her dogs on road trips once every couple of months",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dog road trips",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-road-trips#2",
+          "text": "Audrey takes her dogs on road trips so they can explore and stay active",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dog road trips",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-road-trips#3",
+          "text": "Andrew wants to go on a road trip with a dog",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Dog road trips",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-road-trips#4",
+          "text": "Andrew wishes he could take his dogs to a place far from the city",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Dog road trips",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Housing search",
+      "type": "topic",
+      "slug": "housing-search",
+      "path": "topics/housing-search.md",
+      "facts": [
+        {
+          "fact_id": "housing-search#1",
+          "text": "Andrew has been contacting landlords to find a pet-friendly place to live",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "housing-search#2",
+          "text": "Andrew has been checking out neighborhoods to find a pet-friendly place to live",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "housing-search#3",
+          "text": "Andrew wants to live near a park or woods",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "housing-search#4",
+          "text": "Andrew is searching for a pet-friendly place in the city.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "housing-search#5",
+          "text": "Andrew has been checking places in the city but has not found a suitable pet-friendly spot so far.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "housing-search#6",
+          "text": "Audrey offered to help Andrew find a suitable place for his furry friend.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "housing-search#7",
+          "text": "Audrey asked Andrew to email her his criteria for a suitable place for his furry friend.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "housing-search#8",
+          "text": "Andrew has been unable to find dog-friendly rental spots.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "housing-search#9",
+          "text": "Andrew finds it difficult to find a place that allows dogs and to find the right dog.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "housing-search#10",
+          "text": "Audrey finds places that allow dogs difficult to find.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "housing-search#11",
+          "text": "Andrew has not yet found a dog-friendly place to live",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "housing-search#12",
+          "text": "Andrew is still searching for a place to live that is suitable for dogs",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Housing search",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "National park road trip",
+      "type": "event",
+      "slug": "national-park-road-trip",
+      "path": "events/national-park-road-trip.md",
+      "facts": [
+        {
+          "fact_id": "national-park-road-trip#1",
+          "text": "Audrey took her dogs on a road trip to a national park last Friday",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "National park road trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "national-park-road-trip#2",
+          "text": "Audrey's dogs had a blast on the national park road trip last Friday",
+          "date_label": "6 May, 2023",
+          "session_index": 5,
+          "session_id": "session_5",
+          "page_title": "National park road trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "national-park-road-trip#3",
+          "text": "Audrey went to a national park with her dogs last week.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "National park road trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "national-park-road-trip#4",
+          "text": "Audrey and her dogs reached a beautiful peak during their national park trip last week.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "National park road trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "national-park-road-trip#5",
+          "text": "Audrey and her dogs experienced a sunset at the peak during their national park trip last week.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "National park road trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "national-park-road-trip#6",
+          "text": "Audrey took a bunch of photos during her national park trip last week.",
+          "date_label": "2 June, 2023",
+          "session_index": 7,
+          "session_id": "session_7",
+          "page_title": "National park road trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dog training",
+      "type": "topic",
+      "slug": "dog-training",
+      "path": "topics/dog-training.md",
+      "facts": [
+        {
+          "fact_id": "dog-training#1",
+          "text": "Audrey wants to learn how to train her dogs better",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#2",
+          "text": "Audrey believes pets should learn to behave through positive reinforcement",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#3",
+          "text": "Audrey believes punishment is not the proper way to train pets",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#4",
+          "text": "Audrey is taking a dog training course.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#5",
+          "text": "Audrey's dog training course is challenging but rewarding.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#6",
+          "text": "Audrey's dogs are doing better because of the dog training course.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#7",
+          "text": "Audrey started agility classes with her dogs at a dog park",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#8",
+          "text": "Audrey takes her dogs to the park twice a week for agility practice",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#9",
+          "text": "Audrey advises Andrew to give Toby enough time, energy, attention, and walks",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#10",
+          "text": "Audrey believes patience and regular training build trust with dogs.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#11",
+          "text": "Audrey gives her dogs time, love, and praise for their successes.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#12",
+          "text": "Audrey trains her dogs in obedience and teaches them to sit, stay, shake, and roll over.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#13",
+          "text": "Audrey received tips from the animal behaviorist on handling her dogs' problems.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#14",
+          "text": "The animal behaviorist suggested changes to Audrey's dogs' routine.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#15",
+          "text": "Audrey is using positive reinforcement techniques with her dogs.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#16",
+          "text": "Audrey's dogs are responding well to the new approach.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#17",
+          "text": "Audrey has seen progress in her dogs' behavior.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#18",
+          "text": "Audrey uses puzzles to keep her dogs busy",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training#19",
+          "text": "Audrey uses training to keep her dogs busy",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog training",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dog training workshop",
+      "type": "event",
+      "slug": "dog-training-workshop",
+      "path": "events/dog-training-workshop.md",
+      "facts": [
+        {
+          "fact_id": "dog-training-workshop#1",
+          "text": "Audrey signed up for a pet-bonding workshop next month",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dog training workshop",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training-workshop#2",
+          "text": "Audrey found the pet-bonding workshop flyer at her local pet store",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dog training workshop",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-training-workshop#3",
+          "text": "Audrey's pet-bonding workshop is a positive reinforcement training class",
+          "date_label": "11 May, 2023",
+          "session_index": 6,
+          "session_id": "session_6",
+          "page_title": "Dog training workshop",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Bungee jumping",
+      "type": "topic",
+      "slug": "bungee-jumping",
+      "path": "topics/bungee-jumping.md",
+      "facts": [
+        {
+          "fact_id": "bungee-jumping#1",
+          "text": "Andrew is considering trying bungee jumping",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Bungee jumping",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Kayaking",
+      "type": "topic",
+      "slug": "kayaking",
+      "path": "topics/kayaking.md",
+      "facts": [
+        {
+          "fact_id": "kayaking#1",
+          "text": "Andrew wants to try kayaking",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Kayaking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Outdoor activities",
+      "type": "topic",
+      "slug": "outdoor-activities",
+      "path": "topics/outdoor-activities.md",
+      "facts": [
+        {
+          "fact_id": "outdoor-activities#1",
+          "text": "Andrew wants to do more outdoor activities every week",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#2",
+          "text": "Andrew had a picnic with his girlfriend last Friday.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#3",
+          "text": "Andrew loves being outdoors and seeing others enjoy it.",
+          "date_label": "8 July, 2023",
+          "session_index": 11,
+          "session_id": "session_11",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#4",
+          "text": "Andrew is going camping with his girlfriend Toby for the weekend",
+          "date_label": "4 August, 2023",
+          "session_index": 14,
+          "session_id": "session_14",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#5",
+          "text": "Audrey had a great day having fun outside with her dogs.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#6",
+          "text": "Andrew went fishing with his girlfriend at a nearby lake last weekend",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#7",
+          "text": "Audrey has never gone fishing",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#8",
+          "text": "Andrew and Toby plan to explore outdoors together",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#9",
+          "text": "Andrew's outdoor activities have taken a backseat because of work stress",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#10",
+          "text": "Andrew goes for a walk at lunch to recharge and relax",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#11",
+          "text": "Andrew believes biking can help the planet and train the body",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#12",
+          "text": "Audrey wants to try biking",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#13",
+          "text": "Andrew knows bike routes near the river",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#14",
+          "text": "Andrew has offered to show Audrey the best bike routes near the river",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#15",
+          "text": "Audrey wants to check out the bike routes near the river",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#16",
+          "text": "Andrew enjoys walking with Buddy",
+          "date_label": "19 October, 2023",
+          "session_index": 24,
+          "session_id": "session_24",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "outdoor-activities#17",
+          "text": "Andrew went on a bike ride with his girlfriend last weekend",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Outdoor activities",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Rock climbing",
+      "type": "event",
+      "slug": "rock-climbing",
+      "path": "events/rock-climbing.md",
+      "facts": [
+        {
+          "fact_id": "rock-climbing#1",
+          "text": "Andrew took a rock climbing class last Sunday",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Rock climbing",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "rock-climbing#2",
+          "text": "Andrew reached the top during the rock climbing class last Sunday",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Rock climbing",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "rock-climbing#3",
+          "text": "Andrew is a beginner at rock climbing",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Rock climbing",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "rock-climbing#4",
+          "text": "Andrew's friends supported and cheered for him during the rock climbing class",
+          "date_label": "13 June, 2023",
+          "session_index": 8,
+          "session_id": "session_8",
+          "page_title": "Rock climbing",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Cooking",
+      "type": "topic",
+      "slug": "cooking",
+      "path": "topics/cooking.md",
+      "facts": [
+        {
+          "fact_id": "cooking#1",
+          "text": "Andrew has been cooking more and trying new recipes.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#2",
+          "text": "Andrew is a rookie cook who enjoys experimenting.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#3",
+          "text": "Andrew uses cooking to de-stress and be creative.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#4",
+          "text": "Audrey loves cooking.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#5",
+          "text": "Audrey's favorite recipe is Chicken Pot Pie.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#6",
+          "text": "Audrey's Chicken Pot Pie is her family's recipe and has been around for years.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#7",
+          "text": "Audrey's Chicken Pot Pie reminds her of her grandmother's kitchen and conversations at the table.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#8",
+          "text": "Audrey enjoys trying new recipes and experimenting in the kitchen.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#9",
+          "text": "Audrey uses cooking as an escape and for stress relief.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#10",
+          "text": "Audrey uses cooking to express her creativity.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#11",
+          "text": "Audrey enjoys putting on music, pouring a glass of wine, and going with the flow while cooking.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#12",
+          "text": "Audrey finds cooking therapeutic and a form of self-care.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#13",
+          "text": "Garlic is Audrey's go-to kitchen ingredient.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#14",
+          "text": "Audrey loves the smell and taste garlic adds to dishes.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#15",
+          "text": "Roasted Chicken is one of Audrey's favorite dishes to make.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#16",
+          "text": "Audrey's Roasted Chicken recipe is based on her love for Mediterranean flavors.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#17",
+          "text": "Audrey's Roasted Chicken recipe includes chicken, garlic, lemon, and herbs.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#18",
+          "text": "Audrey considers Roasted Chicken her favorite comfort meal.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "cooking#19",
+          "text": "Andrew went to a farm with his girlfriend to get fresh vegetables for dinner.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Cooking",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dog playdate",
+      "type": "event",
+      "slug": "dog-playdate",
+      "path": "events/dog-playdate.md",
+      "facts": [
+        {
+          "fact_id": "dog-playdate#1",
+          "text": "Audrey had a doggy playdate last Friday.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dog playdate",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-playdate#2",
+          "text": "Audrey's doggy playdate last Friday was a bit crazy but fun.",
+          "date_label": "3 July, 2023",
+          "session_index": 10,
+          "session_id": "session_10",
+          "page_title": "Dog playdate",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-playdate#3",
+          "text": "Audrey organized a doggy playdate with the neighbors' dogs",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dog playdate",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-playdate#4",
+          "text": "Audrey meets other dog owners so their dogs can play together",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog playdate",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dog care",
+      "type": "topic",
+      "slug": "dog-care",
+      "path": "topics/dog-care.md",
+      "facts": [
+        {
+          "fact_id": "dog-care#1",
+          "text": "Audrey took all four dogs to the vet for checkups.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#2",
+          "text": "Audrey plans to take her dogs to the vet one by one next time.",
+          "date_label": "16 August, 2023",
+          "session_index": 15,
+          "session_id": "session_15",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#3",
+          "text": "Audrey learned dog grooming techniques by taking a dog grooming course",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#4",
+          "text": "Audrey grooms her pups herself",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#5",
+          "text": "Audrey's dogs look soft and fluffy after grooming",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#6",
+          "text": "Audrey recommends grooming slowly and gently",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#7",
+          "text": "Audrey recommends paying attention to sensitive areas such as dogs' ears and paws during grooming",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#8",
+          "text": "Audrey recommends staying patient and positive throughout the grooming process",
+          "date_label": "19 August, 2023",
+          "session_index": 16,
+          "session_id": "session_16",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#9",
+          "text": "Audrey keeps her dogs healthy and happy with daily brushing, regular baths, nail trims, and love",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#10",
+          "text": "Audrey feels responsible for taking care of her dogs",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#11",
+          "text": "Taking care of her dogs makes Audrey happy",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#12",
+          "text": "Audrey advised Andrew that bonding with Toby takes time and should not be rushed",
+          "date_label": "24 August, 2023",
+          "session_index": 17,
+          "session_id": "session_17",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#13",
+          "text": "Audrey got new beds for her dogs last week",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#14",
+          "text": "Audrey's dogs love sleeping on their new beds",
+          "date_label": "6 September, 2023",
+          "session_index": 18,
+          "session_id": "session_18",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#15",
+          "text": "One of Audrey's dogs pulled so hard last Friday at the park that the leash broke.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#16",
+          "text": "Audrey caught her dog before the dog ran away or was hurt.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#17",
+          "text": "Audrey calmed her dog by petting and hugging the dog, speaking calmly, and walking slowly.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#18",
+          "text": "Audrey takes her dogs for walks multiple times a day.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#19",
+          "text": "Audrey's walks with her dogs provide exercise and bonding time.",
+          "date_label": "24 September, 2023",
+          "session_index": 19,
+          "session_id": "session_19",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#20",
+          "text": "Audrey is caring for her dogs with one arm while recovering from her accident",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#21",
+          "text": "Audrey noticed that her dogs were not acting normally.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#22",
+          "text": "Audrey made an appointment with an animal behaviorist last Wednesday.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#23",
+          "text": "An animal behaviorist checked Audrey's dogs and asked questions about their problems.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#24",
+          "text": "Audrey is devoted to keeping her dogs healthy and happy.",
+          "date_label": "28 October, 2023",
+          "session_index": 26,
+          "session_id": "session_26",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#25",
+          "text": "Audrey recently joined a dog owners group",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#26",
+          "text": "Audrey meets with the dog owners group once a week",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#27",
+          "text": "Audrey meets other dog owners to exchange pet-care tips",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#28",
+          "text": "Andrew thinks having two dogs is already a lot to take care of",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#29",
+          "text": "Audrey recommends that Andrew focus on keeping Toby and Buddy happy and healthy before getting more dogs",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#30",
+          "text": "Andrew manages to care for his dogs while living in the city",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#31",
+          "text": "Audrey entertains her dogs at home with toys and games",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#32",
+          "text": "Audrey socializes and exercises her dogs daily",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#33",
+          "text": "Audrey provides her dogs with mental stimulation",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#34",
+          "text": "Audrey plays hide-and-seek with her dogs",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#35",
+          "text": "Audrey took her dogs to a pet salon last Friday.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#36",
+          "text": "Audrey's dogs were excited at the pet salon and had wagging tails.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#37",
+          "text": "Audrey's dogs looked cute after being groomed.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#38",
+          "text": "Audrey's dogs behaved well at the pet salon.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#39",
+          "text": "Audrey's dogs have shiny coats after being groomed.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#40",
+          "text": "Andrew has not yet taken his dogs to the groomer.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#41",
+          "text": "Andrew is keeping Scout on a leash while Scout gets used to being outside.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#42",
+          "text": "Andrew and his girlfriend got Scout a bed, toys, and puppy pads.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-care#43",
+          "text": "Andrew and his girlfriend are creating a safe space for Scout.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog care",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Beach trip",
+      "type": "event",
+      "slug": "beach-trip",
+      "path": "events/beach-trip.md",
+      "facts": [
+        {
+          "fact_id": "beach-trip#1",
+          "text": "Andrew is going to the beach next month with his girlfriend and Toby",
+          "date_label": "1 October, 2023",
+          "session_index": 20,
+          "session_id": "session_20",
+          "page_title": "Beach trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "beach-trip#2",
+          "text": "Audrey took her dogs to the beach over the weekend",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Beach trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "beach-trip#3",
+          "text": "Audrey's dogs swam at the beach",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Beach trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "beach-trip#4",
+          "text": "Andrew has not been to the beach in a while",
+          "date_label": "4 October, 2023",
+          "session_index": 21,
+          "session_id": "session_21",
+          "page_title": "Beach trip",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Animal shelter",
+      "type": "topic",
+      "slug": "animal-shelter",
+      "path": "topics/animal-shelter.md",
+      "facts": [
+        {
+          "fact_id": "animal-shelter#1",
+          "text": "Audrey uses her jewelry business to support an animal shelter.",
+          "date_label": "6 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Animal shelter",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Recycled jewelry",
+      "type": "topic",
+      "slug": "recycled-jewelry",
+      "path": "topics/recycled-jewelry.md",
+      "facts": [
+        {
+          "fact_id": "recycled-jewelry#1",
+          "text": "Audrey makes jewelry from recycled objects as a hobby.",
+          "date_label": "6 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Recycled jewelry",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "recycled-jewelry#2",
+          "text": "Audrey uses bottle caps, buttons, and broken jewelry to make one-of-a-kind pieces.",
+          "date_label": "6 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Recycled jewelry",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "recycled-jewelry#3",
+          "text": "Audrey started selling the jewelry she makes.",
+          "date_label": "6 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Recycled jewelry",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "recycled-jewelry#4",
+          "text": "Audrey donates a portion of her jewelry profits to an animal shelter.",
+          "date_label": "6 October, 2023",
+          "session_index": 22,
+          "session_id": "session_22",
+          "page_title": "Recycled jewelry",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Board games",
+      "type": "event",
+      "slug": "board-games",
+      "path": "events/board-games.md",
+      "facts": [
+        {
+          "fact_id": "board-games#1",
+          "text": "Andrew and Toby played board games last Tuesday",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Board games",
+          "page_type": "event",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "board-games#2",
+          "text": "Andrew attended a board game session on Friday night",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Board games",
+          "page_type": "event",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Dog park",
+      "type": "topic",
+      "slug": "dog-park",
+      "path": "topics/dog-park.md",
+      "facts": [
+        {
+          "fact_id": "dog-park#1",
+          "text": "A dog park is located close to the new cafe",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Dog park",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-park#2",
+          "text": "Audrey's dogs enjoy socializing with other dogs and exercising at the dog park",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Dog park",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-park#3",
+          "text": "Andrew's pup Toby once chased a squirrel around a tree at the dog park",
+          "date_label": "13 October, 2023",
+          "session_index": 23,
+          "session_id": "session_23",
+          "page_title": "Dog park",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-park#4",
+          "text": "Audrey had an accident while playing with her dogs at the park last week",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Dog park",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-park#5",
+          "text": "Audrey visited a new park with her dogs last weekend",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog park",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-park#6",
+          "text": "Audrey plays fetch with her dogs in the park",
+          "date_label": "4 November, 2023",
+          "session_index": 27,
+          "session_id": "session_27",
+          "page_title": "Dog park",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-park#7",
+          "text": "Andrew plans to take Scout, Toby, and Buddy to a nearby park.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog park",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "dog-park#8",
+          "text": "Andrew plans to keep Scout, Toby, and Buddy leashed at the park.",
+          "date_label": "22 November, 2023",
+          "session_index": 28,
+          "session_id": "session_28",
+          "page_title": "Dog park",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    },
+    {
+      "title": "Sushi",
+      "type": "topic",
+      "slug": "sushi",
+      "path": "topics/sushi.md",
+      "facts": [
+        {
+          "fact_id": "sushi#1",
+          "text": "Andrew has never tried sushi",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Sushi",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "sushi#2",
+          "text": "Audrey loves sushi",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Sushi",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "sushi#3",
+          "text": "Audrey recommends trying a California roll or salmon roll first when trying sushi",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Sushi",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "sushi#4",
+          "text": "Audrey recommends mixing sushi with different sauces and dips",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Sushi",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "sushi#5",
+          "text": "Andrew plans to try a California roll or salmon roll with different sauces",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Sushi",
+          "page_type": "topic",
+          "source_dia_ids": []
+        },
+        {
+          "fact_id": "sushi#6",
+          "text": "Audrey plans to order sushi for dinner tonight",
+          "date_label": "24 October, 2023",
+          "session_index": 25,
+          "session_id": "session_25",
+          "page_title": "Sushi",
+          "page_type": "topic",
+          "source_dia_ids": []
+        }
+      ]
+    }
+  ]
+}

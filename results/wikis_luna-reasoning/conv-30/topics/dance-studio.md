@@ -1,0 +1,61 @@
+---
+title: Dance studio
+type: topic
+sources: [session_1, session_2, session_3, session_4, session_5, session_7, session_8, session_9, session_11, session_12, session_13, session_15, session_17, session_18, session_19]
+---
+
+- Jon is starting his own dance studio business — 20 January, 2023
+- Jon wants to teach others the joy of dancing — 20 January, 2023
+- Jon wants to share the intensity of dance performances with other people — 20 January, 2023
+- Jon's ideal dance studio is by the water — 20 January, 2023
+- Jon is looking for a location for his dance studio — 29 January, 2023
+- Jon found a potential downtown location for his dance studio — 29 January, 2023
+- Jon found a potential dance studio location with great natural light — 29 January, 2023
+- Jon needs to check the size and floor quality of the potential dance studio location — 29 January, 2023
+- Jon wants a dance floor with enough bounce for him and his students to dance safely — 29 January, 2023
+- Jon is still searching for a place to open his dance studio — 1 February, 2023
+- Jon is determined to make his dance studio work — 1 February, 2023
+- Jon is searching for a location for a dance studio — 4 February, 2023
+- Jon runs his own dance studio — 8 February, 2023
+- Jon enjoys creating a space where dancers of all ages and levels can express themselves — 8 February, 2023
+- Jon enjoys seeing his dance students progress — 8 February, 2023
+- Jon runs a dance studio business — 23 March, 2023
+- Seeing his dance students succeed motivates Jon — 23 March, 2023
+- Jon helps his dance students learn and reach their goals — 23 March, 2023
+- Gina supports Jon's dance studio business and helps him stay motivated — 23 March, 2023
+- Jon is expanding his dance studio's social media presence — 3 April, 2023
+- The dancers at Jon's studio are excited about the studio's progress — 3 April, 2023
+- Jon's dance studio provides a place for people to express themselves through dance — 3 April, 2023
+- Jon is committed to pursuing his dreams — 3 April, 2023
+- Jon has spent a lot of time at his dance studio lately — 9 April, 2023
+- Jon's dance students are already doing very well — 9 April, 2023
+- Jon is learning alongside his dance students — 9 April, 2023
+- Jon shares dance with other people through his studio — 9 April, 2023
+- Jon's students improving brings him joy — 9 April, 2023
+- Gina used to love spending time in a dance studio — 9 April, 2023
+- Jon is still working on his own dance studio, and things are looking up — 11 May, 2023
+- Jon is stepping into the unknown while starting his dance studio — 11 May, 2023
+- Jon is living his dream by having his own dance studio and teaching others — 11 May, 2023
+- Jon wants to create a place where people can dance and express themselves — 11 May, 2023
+- Jon is applying ideas from "The Lean Startup" to his dance studio — 27 May, 2023
+- Jon is preparing to open his dance studio. — 13 June, 2023
+- Jon works with young dancers. — 13 June, 2023
+- Jon wants his dance studio to support and encourage dancers. — 13 June, 2023
+- Jon offers dance classes and workshops at his dance studio. — 13 June, 2023
+- Jon offers one-on-one mentoring and training to help dancers reach their full potential. — 13 June, 2023
+- Jon uses a clipboard and notepad to stay organized and motivated. — 13 June, 2023
+- Jon uses a clipboard and notepad to set goals and track achievements. — 13 June, 2023
+- Jon uses a clipboard and notepad to find areas for improvement. — 13 June, 2023
+- Jon uses a whiteboard to stay on track and visualize his goals. — 13 June, 2023
+- Jon uses a whiteboard to tokenize successes. — 13 June, 2023
+- Jon color-codes achievements to track his progress and stay motivated. — 13 June, 2023
+- Jon is working on opening a dance studio — 19 June, 2023
+- Jon has put a lot of work into opening his dance studio — 19 June, 2023
+- Jon worked long nights while preparing his dance studio — 19 June, 2023
+- Jon finds dance practice fun and exhausting — 9 July, 2023
+- Jon's dance studio is on tenuous grounds — 21 July, 2023
+- Jon is staying positive about the dance studio's situation — 21 July, 2023
+- Jon is looking for investors for the dance studio — 21 July, 2023
+- Jon is working on an online platform to showcase the dance studio's offerings — 21 July, 2023
+- Gina felt the importance of having a creative space for dancers at the dance class last Friday — 23 July, 2023
+- Jon is developing a dance studio for dancers of all ages and backgrounds — 23 July, 2023

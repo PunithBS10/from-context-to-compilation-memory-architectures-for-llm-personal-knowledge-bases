@@ -1,0 +1,30 @@
+---
+title: Harry Potter fan project
+type: topic
+sources: [session_1, session_2, session_3, session_5, session_8, session_26, session_27]
+---
+
+- Tim is working on a Harry Potter fan project. — 21 May, 2023 [D1:2]
+- Tim talked to his friend about ideas for the Harry Potter fan project last week. — 21 May, 2023 [D1:14]
+- Tim and his friend are discussing ideas for the Harry Potter fan project. — 21 May, 2023 [D1:14]
+- Tim's Harry Potter fan project will discuss characters, spells, and magical creatures. — 21 May, 2023 [D1:16]
+- Tim has a MinaLima picture in his book collection. — 15 June, 2023 [D2:7, D2:9]
+- Tim loves MinaLima's work. — 15 June, 2023 [D2:9]
+- MinaLima created props for the Harry Potter films. — 15 June, 2023 [D2:9]
+- Tim has reminders of the Harry Potter world that help him escape reality. — 15 June, 2023 [D2:11]
+- Tim had a conversation with a Harry Potter fan in California last week. — 16 July, 2023 [D3:2]
+- Tim skyped with a Harry Potter fan he met in California — 9 August, 2023 [D5:1]
+- Tim and the Harry Potter fan discussed characters and possibly collaborating — 9 August, 2023 [D5:1]
+- Tim enjoys Harry Potter and the Philosopher's Stone. — 21 August, 2023 [D8:16]
+- Harry Potter and the Philosopher's Stone was the first movie in the Harry Potter series. — 21 August, 2023 [D8:16]
+- Tim watched Harry Potter and the Philosopher's Stone with his family. — 21 August, 2023 [D8:16, D8:18]
+- John owns the complete Harry Potter movie collection. — 21 August, 2023 [D8:17]
+- Tim decorated a Christmas tree himself with a Harry Potter theme. — 21 August, 2023 [D8:30, D8:32]
+- Emma Watson supports gender equality — 26 December, 2023 [D26:16]
+- Tim is a huge fan of Emma Watson — 26 December, 2023 [D26:16]
+- Tim is inspired by Emma Watson's advocacy for women's rights — 26 December, 2023 [D26:18]
+- Tim's favorite book series is Harry Potter — 26 December, 2023 [D26:26]
+- Tim has watched all the Harry Potter movies — 26 December, 2023 [D26:28]
+- Tim enjoys comparing the Harry Potter movies with the books — 26 December, 2023 [D26:28]
+- Harry Potter is Tim's favorite book — 2 January, 2024 [D27:19]
+- Tim finds Harry Potter immersive — 2 January, 2024 [D27:19]

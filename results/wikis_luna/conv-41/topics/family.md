@@ -1,0 +1,55 @@
+---
+title: Family
+type: topic
+sources: [session_2, session_5, session_6, session_8, session_13, session_16, session_17, session_18, session_19, session_20, session_21, session_22, session_24, session_31]
+---
+
+- John's family gives him strength and motivates him to keep pursuing his goals — 22 December, 2022
+- John's family enjoys climbing, sliding, and playing games at a playground — 22 December, 2022
+- Maria enjoys watching movies, hiking, and having game nights with her friends — 22 December, 2022
+- Maria values quality connections — 22 December, 2022
+- John's family enjoys spending time together over meals — 22 December, 2022
+- John's family made pizza together by choosing toppings and sharing a meal — 22 December, 2022
+- John's children have more resources than some other children — 28 January, 2023
+- Maria's aunt believed in volunteering — 28 January, 2023
+- Maria's aunt helped Maria's family when they were struggling — 28 January, 2023
+- Maria and her family had money problems when Maria was younger. — 5 February, 2023
+- Maria and her family relied on help from their auntie when Maria was younger. — 5 February, 2023
+- John had a picnic with his wife and kids — 6 March, 2023
+- John and his wife have a one-year-old son named Kyle — 6 March, 2023
+- John finds parenting full of ups and downs, with love and happiness outweighing them — 6 March, 2023
+- John takes his kids to the park a few times a week — 6 March, 2023
+- John took his kids to the park last weekend — 6 March, 2023
+- John looks for walks, picnics, and local events for activities with his family — 6 March, 2023
+- Maria enjoyed doing simple activities with her siblings when she was young — 6 March, 2023
+- John's children are getting excited about staying active — 4 May, 2023
+- John's family supports each other during boot camp workouts — 4 May, 2023
+- John's family provides each other with emotional support outside boot camp workouts — 4 May, 2023
+- John considers his family his biggest support — 4 May, 2023
+- Maria relies on her family for strength during tough times — 4 May, 2023
+- John has a family photo taken at the beach — 25 May, 2023
+- John says that moments with his family give him hope — 25 May, 2023
+- John's family had Max, a dog, for 10 years — 3 June, 2023
+- Max brought John's family joy — 3 June, 2023
+- John's family is grateful to have had Max as part of their family — 3 June, 2023
+- John says Max taught his family about love and loyalty — 3 June, 2023
+- John wants his children to learn unconditional love and loyalty from Max — 3 June, 2023
+- John's bond with Max was special — 3 June, 2023
+- John spent a day at the park with his family — 12 June, 2023
+- John's children had fun on the playground during the family park day — 12 June, 2023
+- John's support at home helped him overcome challenges — 16 June, 2023
+- John's family supports him on his journey — 16 June, 2023
+- John's children played in ocean waves during a family vacation — 16 June, 2023
+- Maria relies on her friends and family for support. — 27 June, 2023
+- Maria's family gives her words of encouragement and reminds her that she is not alone. — 27 June, 2023
+- Maria is helping her cousin find a new place to live. — 3 July, 2023
+- Maria's cousin had to leave and find a new place in a hurry. — 3 July, 2023
+- Maria's cousin has been stressed by finding a new place. — 3 July, 2023
+- Maria's cousin is making progress finding a new place. — 3 July, 2023
+- Maria asked John for resources or organizations that could help her cousin. — 3 July, 2023
+- John has a family that motivates him to strive for change. — 5 July, 2023
+- John is planning an arts and crafts activity for his kids — 17 July, 2023
+- John wants to do arts and crafts activities with his family and friends — 17 July, 2023
+- John has a wife and children. — 13 August, 2023
+- John's family enjoys hiking, going to the park, and having picnics together. — 13 August, 2023
+- John's family enjoys playing board games and having movie nights at home. — 13 August, 2023

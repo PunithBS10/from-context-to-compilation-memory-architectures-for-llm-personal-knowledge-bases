@@ -1,0 +1,31 @@
+---
+title: Education
+type: topic
+sources: [session_1, session_2, session_5, session_9, session_10, session_12, session_22, session_31]
+---
+
+- John is passionate about improving education in his community. — 17 December, 2022 [D1:8]
+- John saw a lack of education affect his neighborhood while growing up. — 17 December, 2022 [D1:10]
+- John believes schools should be funded properly. — 17 December, 2022 [D1:10]
+- A conversation fired up John's passion to improve education in his area — 22 December, 2022 [D2:4]
+- John is passionate about making education better in his area — 22 December, 2022 [D2:4]
+- John believes investing in future generations gives them the right tools for success — 22 December, 2022 [D2:6]
+- John believes investing in future generations is the foundation of progress and opportunity — 22 December, 2022 [D2:6]
+- John is upset about the state of education. — 28 January, 2023 [D5:1]
+- Maria thinks people should raise awareness about the importance of education. — 28 January, 2023 [D5:2]
+- John thinks education is essential for a successful society. — 28 January, 2023 [D5:3]
+- Maria thinks children should have the best because they are the future. — 28 January, 2023 [D5:4]
+- John thinks people should look out for others when they are feeling down. — 28 January, 2023 [D5:13]
+- John thinks people should support each other when they are feeling down. — 28 January, 2023 [D5:15]
+- Maria thinks kindness and compassion can turn someone's day around. — 28 January, 2023 [D5:16]
+- John is particularly interested in improving education. — 2 April, 2023 [D9:8]
+- John's community involvement has shown him the impact education issues have on his neighbors. — 2 April, 2023 [D9:10]
+- John saw how a lack of resources affects children's dreams at the career fair — 7 April, 2023 [D10:13]
+- John believes children can reach their dreams with the right help — 7 April, 2023 [D10:15]
+- John believes education and infrastructure need significant improvement — 18 April, 2023 [D12:1]
+- John has recently focused on education reform — 18 April, 2023 [D12:5]
+- John believes access to quality education is important for a thriving and successful community — 18 April, 2023 [D12:5]
+- John is motivated to improve communities affected by inadequate education and infrastructure. — 5 July, 2023 [D22:1]
+- John helps students through his mentoring. — 13 August, 2023 [D31:1]
+- John's mentoring students have improved their confidence and skills. — 13 August, 2023 [D31:9]
+- One of John's students was excited to show John their essay last week. — 13 August, 2023 [D31:9]

@@ -1,0 +1,48 @@
+---
+title: Computer game
+type: topic
+sources: [session_1, session_3, session_4, session_5, session_6, session_9, session_21, session_22]
+---
+
+- James has wanted to create a computer game since he was a child — 17 March, 2022
+- James made sketches of the main character when he was a child — 17 March, 2022
+- James is turning his childhood comic sketches into a computer game — 17 March, 2022
+- James enjoys combining gaming and storytelling in his projects — 17 March, 2022
+- James enjoys the challenge of creating his own project — 17 March, 2022
+- John advanced to the next level in his game last week — 27 March, 2022
+- John's game advancement last week boosted his confidence — 27 March, 2022
+- Watching skilled players at the CS:GO tournament inspired John to improve his gaming skills — 27 March, 2022
+- One team member gave James gaming tips — 4 April, 2022
+- James remembers advice to communicate correctly with the team — 4 April, 2022
+- James remembers advice not to put personal ego above team success — 4 April, 2022
+- James usually uses voice chat to communicate with his team — 4 April, 2022
+- John is playing a new RPG with a compelling story and world — 12 April, 2022
+- John describes the RPG as resembling a futuristic dystopia — 12 April, 2022
+- The RPG has tough gameplay — 12 April, 2022
+- The RPG is laggy and sometimes produces errors — 12 April, 2022
+- John encountered an error in the RPG yesterday — 12 April, 2022
+- James initially preferred to wait until the RPG's bugs were completely fixed before trying it — 12 April, 2022
+- James agreed to try the RPG after John recommended it — 12 April, 2022
+- John said he would send James a link to the RPG — 12 April, 2022
+- James said he would check out the RPG and share his thoughts — 12 April, 2022
+- James created a female game character dressed in armor — 20 April, 2022
+- James used the stranger's appearance as inspiration for his game character — 20 April, 2022
+- James worked on a computer game project for weeks — 4 May, 2022
+- James got close to finishing his computer game project before encountering a problem — 4 May, 2022
+- James and a group of friends fixed the bug together — 4 May, 2022
+- James values working with people who share his passions — 4 May, 2022
+- James wants to create a strategy game like Civilization — 26 August, 2022
+- James likes the complexity and depth of strategy games like Civilization — 26 August, 2022
+- James finished creating a strategy game in Unity — 1 September, 2022
+- James spent a lot of time and effort developing his strategy game — 1 September, 2022
+- James is proud of the strategy game he created — 1 September, 2022
+- John's support and encouragement made a real difference to James during the game project — 1 September, 2022
+- James's game includes a screenshot showing a stone building and a giant creature — 1 September, 2022
+- James's game includes a screenshot showing a person on a horse — 1 September, 2022
+- James was inspired to create his own strategy game by playing Civilization and Total War — 1 September, 2022
+- James found it challenging to balance the game's mechanics and ensure fairness — 1 September, 2022
+- James used trial and error to develop his game to his desired state — 1 September, 2022
+- James learned that perseverance and patience are key from developing his game — 1 September, 2022
+- James learned that feedback and collaboration are essential from developing his game — 1 September, 2022
+- Help from other people made James's game better — 1 September, 2022
+- John's siblings are making basic games and stories — 1 September, 2022

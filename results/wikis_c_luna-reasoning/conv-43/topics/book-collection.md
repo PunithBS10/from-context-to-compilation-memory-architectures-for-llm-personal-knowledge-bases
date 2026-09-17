@@ -1,0 +1,30 @@
+---
+title: Book collection
+type: topic
+sources: [session_2, session_4, session_5, session_6, session_9, session_11, session_14, session_20, session_27]
+---
+
+- Tim has a book collection — 15 June, 2023 [D2:7]
+- Tim considers Harry Potter and Game of Thrones amazing — 2 August, 2023 [D4:7]
+- Tim is hooked on Harry Potter and Game of Thrones — 2 August, 2023 [D4:7]
+- John has been reading an inspiring book — 2 August, 2023 [D4:10]
+- The inspiring book reminds John to keep dreaming — 2 August, 2023 [D4:10]
+- Tim is reading a fantasy book by Patrick Rothfuss — 9 August, 2023 [D5:13, D5:15]
+- Tim finds the fantasy book captivating — 9 August, 2023 [D5:13]
+- Tim recommended the Patrick Rothfuss book to John — 9 August, 2023 [D5:15, D5:16]
+- John plans to read the Patrick Rothfuss book and tell Tim what he thinks — 9 August, 2023 [D5:17, D5:18]
+- Tim considers The Name of the Wind a great book — 11 August, 2023 [D6:8]
+- Tim described The Name of the Wind as a fantasy novel — 11 August, 2023 [D6:8]
+- Tim said The Name of the Wind has a magician and musician protagonist — 11 August, 2023 [D6:8]
+- Tim praised the world-building and character development in The Name of the Wind — 11 August, 2023 [D6:8]
+- Tim recommended The Name of the Wind to people looking for something captivating — 11 August, 2023 [D6:8]
+- Tim has a book collection. — 26 August, 2023 [D9:5]
+- John read and loved "The Alchemist" — 21 September, 2023 [D11:27]
+- Reading "The Alchemist" made John think about life and the importance of following one's dreams — 21 September, 2023 [D11:27]
+- John recommends "The Alchemist" — 21 September, 2023 [D11:27]
+- Tim finds time to relax with books while studying. — 17 October, 2023 [D14:20]
+- Tim is currently reading a book and is hooked on it. — 17 October, 2023 [D14:22]
+- John has not had much time to read. — 17 October, 2023 [D14:23]
+- John picked up a book after talking with Tim. — 17 October, 2023 [D14:23]
+- Tim reorganized his bookshelf — 1 December, 2023 [D20:17]
+- Tim has a collection of books — 2 January, 2024 [D27:17]

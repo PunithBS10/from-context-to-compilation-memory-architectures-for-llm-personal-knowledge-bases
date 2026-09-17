@@ -1,0 +1,42 @@
+---
+title: Movies
+type: topic
+sources: [session_1, session_3, session_9, session_10, session_15, session_22, session_23, session_25, session_27, session_28, session_29]
+---
+
+- Joanna enjoys watching movies — 21 January, 2022
+- Nate likes action and science-fiction movies — 21 January, 2022
+- Joanna prefers dramas and romantic comedies — 21 January, 2022
+- Nate loves watching classic movies — 21 January, 2022
+- Joanna watched Little Women and thought it was amazing — 7 February, 2022
+- Joanna recommends Little Women as a movie about sisterhood, love, and reaching for dreams — 7 February, 2022
+- Nate plans to add Little Women to his list of movies to watch — 7 February, 2022
+- Joanna is willing to recommend movies to Nate — 7 February, 2022
+- Joanna enjoys dramas and emotionally driven films. — 21 April, 2022
+- Nate enjoys fantasy and science-fiction movies. — 21 April, 2022
+- Nate considers a trilogy one of his favorites because of its world-building, battles, and storytelling. — 21 April, 2022
+- Joanna watched The Lord of the Rings trilogy last night — 2 May, 2022
+- Spider-Man is one of Joanna's favorite superheroes — 5 June, 2022
+- Joanna likes superheroes because each one has their own story and powers — 5 June, 2022
+- Nate's favorite superhero is Iron Man — 5 June, 2022
+- Nate likes Iron Man's technology and sarcastic humor — 5 June, 2022
+- Nate enjoys movies and games — 6 October, 2022
+- Nate watched "Little Women" recently — 6 October, 2022
+- Nate found the story of "Little Women" captivating — 6 October, 2022
+- Joanna recommended "Little Women" to Nate a while back — 6 October, 2022
+- Joanna watched "Little Women" and found that it spoke to her — 6 October, 2022
+- "Little Women" explores themes of sisterhood, love, and chasing dreams — 6 October, 2022
+- Nate watches movies to unwind — 9 October, 2022
+- Nate recently watched Inception — 9 October, 2022
+- Nate likes the twists and dream elements in Inception — 9 October, 2022
+- Joanna watched a classic movie the other day that she thought was amazing — 9 October, 2022
+- Joanna thought the story of a classic movie she watched the other day was gripping — 9 October, 2022
+- Joanna thought the actors in a classic movie she watched the other day were great — 9 October, 2022
+- Joanna would rate the classic movie she watched the other day 9 or 10 out of 10 — 9 October, 2022
+- Joanna feels at peace watching movies on a comfortable couch with a good blanket — 9 October, 2022
+- Joanna contributed to a movie script that was shown on the big screen last Sunday — 25 October, 2022
+- Joanna has contributed to three movie scripts that were shown on the big screen — 25 October, 2022
+- Joanna had been waiting a long time to see her movie script on the big screen — 25 October, 2022
+- Nate usually likes Joanna's movie recommendations more than random movies — 7 November, 2022
+- Joanna created a plan for getting another script made into a movie — 9 November, 2022
+- Joanna is filming her own movie from her road-trip script — 11 November, 2022

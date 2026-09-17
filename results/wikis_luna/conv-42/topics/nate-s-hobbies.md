@@ -1,0 +1,111 @@
+---
+title: Nate's hobbies
+type: topic
+sources: [session_1, session_2, session_3, session_4, session_5, session_7, session_8, session_9, session_10, session_11, session_13, session_14, session_15, session_16, session_19, session_22, session_23, session_24, session_25, session_26, session_27, session_28, session_29]
+---
+
+- Nate's main hobbies are playing video games and watching movies. — 21 January, 2022
+- Nate has two turtles — 23 January, 2022
+- Nate has had his turtles for 3 years — 23 January, 2022
+- Nate's turtles bring him joy — 23 January, 2022
+- Nate discovered how to make coconut milk ice cream — 7 February, 2022
+- Nate made coconut milk ice cream and thought it was rich and creamy — 7 February, 2022
+- Nate plans to try different ice cream flavors and toppings — 7 February, 2022
+- Nate enjoys coconut milk, chocolate, and mixed berry flavors for dairy-free desserts — 7 February, 2022
+- Nate made a dairy-free chocolate cake with berries on it the other day — 7 February, 2022
+- Nate made his friend chocolate and vanilla swirl ice cream — 25 February, 2022
+- Nate knows a dairy-free ice cream recipe using coconut milk — 25 February, 2022
+- Nate has turtles as pets. — 18 March, 2022
+- Nate is drawn to turtles because they are unique. — 18 March, 2022
+- Nate likes turtles' slow pace as a change from the rush of life. — 18 March, 2022
+- Nate finds turtles low-maintenance and calming. — 18 March, 2022
+- Nate keeps his turtles' area clean. — 18 March, 2022
+- Nate feeds his turtles properly. — 18 March, 2022
+- Nate makes sure his turtles get enough light. — 18 March, 2022
+- Joanna would get two turtles if she were not allergic. — 18 March, 2022
+- Nate dyed his hair last week — 15 April, 2022
+- Nate has purple hair — 15 April, 2022
+- Nate chose a bright and bold hair color to stand out from regular options — 15 April, 2022
+- Nate spends time with his pets to take a break from reality — 17 April, 2022
+- Nate engages in hobbies to take a break from reality — 17 April, 2022
+- Nate enjoys watching his turtles play — 17 April, 2022
+- Nate sometimes brings his turtles into the kitchen while he makes food — 17 April, 2022
+- Nate makes dairy-free ice cream — 17 April, 2022
+- Nate's dairy-free ice cream contains coconut milk, vanilla extract, sugar, and a pinch of salt — 17 April, 2022
+- Nate chills his ice cream in the fridge before putting it in the ice cream maker — 17 April, 2022
+- Nate freezes his ice cream until it is scoopable — 17 April, 2022
+- Joanna planned to try making Nate's dairy-free ice cream that night — 17 April, 2022
+- Playing video games allows Nate to express his creativity and passion — 21 April, 2022
+- Nate has a gaming room. — 2 May, 2022
+- Gaming has been Nate's focus. — 2 May, 2022
+- Nate has been practicing gaming a lot recently. — 2 May, 2022
+- Nate usually plays CS:GO. — 2 May, 2022
+- Nate often plays Street Fighter with his friends. — 2 May, 2022
+- Nate gets deep in thought and thinks about his life or new recipes — 12 May, 2022
+- Nate took Max for a walk and met a nice couple who live nearby and have a dog — 25 May, 2022
+- Nate and the nearby couple decided to arrange dog playdates — 25 May, 2022
+- Max likes playing with the other dog — 25 May, 2022
+- Nate enjoys watching Max play with the other dog — 25 May, 2022
+- Nate gave Joanna a stuffed animal to remind her of good vibes — 25 May, 2022
+- Nate's tournament friends want to hang out later — 3 June, 2022
+- Nate offered to help his tournament friends improve their game — 3 June, 2022
+- Nate is organizing a gaming party two weekends later — 3 June, 2022
+- Nate plans to invite his tournament friends to the gaming party — 3 June, 2022
+- Nate plans to invite old friends and teammates from other tournaments to the gaming party — 3 June, 2022
+- Nate is getting custom controller decorations for everyone attending the gaming party — 3 June, 2022
+- Nate likes Iron Man's technology and sarcastic humor — 5 June, 2022
+- Nate has an Iron Man figure in his room — 5 June, 2022
+- Nate's Iron Man figure reminds him to keep working on his goals — 5 June, 2022
+- Nate and his friends played Chess after the gaming party. — 24 June, 2022
+- Nate gave controller accessories to friends at the gaming party. — 24 June, 2022
+- Nate makes a living from gaming — 22 August, 2022
+- Nate is passionate about gaming — 22 August, 2022
+- Nate has fish as pets — 22 August, 2022
+- Nate's fish got a new, larger tank — 22 August, 2022
+- Nate enjoys spending time with his fish — 22 August, 2022
+- Nate plans to take time off this weekend to relax with his pets — 22 August, 2022
+- Nate enjoys watching movies and playing games. — 6 October, 2022
+- Nate says encouragement helped him progress in his gaming career. — 6 October, 2022
+- Nate played Catan at the game convention — 9 October, 2022
+- Nate likes Catan — 9 October, 2022
+- Nate generally does not get very competitive when playing games — 9 October, 2022
+- Nate uses playing games as an escape from life's struggles — 9 October, 2022
+- Nate plays video games to unwind — 9 October, 2022
+- Nate has been playing Cyberpunk 2077 nonstop — 9 October, 2022
+- Nate likes Cyberpunk 2077's futuristic setting and gameplay — 9 October, 2022
+- Nate's turtles cheer him up — 21 October, 2022
+- Nate enjoys watching his turtles slowly walk around — 21 October, 2022
+- Nate took his turtles out for a walk today. — 25 October, 2022
+- Nate's turtles relaxed in their tank after their walk. — 25 October, 2022
+- Nate's turtles eat vegetables, fruits, and insects. — 25 October, 2022
+- Nate likes watching his turtles eat fruit because they get excited. — 25 October, 2022
+- Nate likes holding his turtles. — 25 October, 2022
+- Nate's turtles have different personalities. — 25 October, 2022
+- One of Nate's turtles is more adventurous than the other. — 25 October, 2022
+- One of Nate's turtles is more reserved than the other. — 25 October, 2022
+- Nate has liked turtles since he was a boy. — 25 October, 2022
+- Nate's turtles are his companions. — 25 October, 2022
+- Nate enjoys using his gaming skills to help others. — 4 November, 2022
+- Nate has turtles that bring him joy. — 7 November, 2022
+- Nate finds watching his turtles calming and fascinating. — 7 November, 2022
+- Nate upgraded some of his home gaming equipment. — 7 November, 2022
+- Nate sometimes uses his computer to play games with friends. — 7 November, 2022
+- Nate has a dedicated gaming setup at home. — 7 November, 2022
+- Nate considers his gaming setup a haven for escaping into the virtual world. — 7 November, 2022
+- Nate is currently playing the fantasy RPG Xenoblade Chronicles. — 7 November, 2022
+- Nate is a big fan of Nintendo games. — 7 November, 2022
+- Nate started playing Xenoblade Chronicles because his friends recommended it. — 7 November, 2022
+- Nate treasures memories with his pets. — 7 November, 2022
+- Nate is considering joining a new gaming team after his next tournament. — 9 November, 2022
+- Nate has received a few offers to join gaming teams. — 9 November, 2022
+- Nate is creating gaming content for YouTube. — 9 November, 2022
+- Nate started making gaming videos because he is a fan of gaming videos and wants to share his love of gaming. — 9 November, 2022
+- Nate hopes his gaming videos will connect him with people who enjoy gaming. — 9 November, 2022
+- Nate got a third turtle from a pet store. — 9 November, 2022
+- Nate has three turtles. — 9 November, 2022
+- Nate's tank is big enough for three turtles. — 9 November, 2022
+- Joanna plans to visit Nate tomorrow. — 9 November, 2022
+- Nate plans to give his turtles a bath before Joanna visits. — 9 November, 2022
+- Nate loves having his turtles around — 11 November, 2022
+- Nate's turtles make Nate feel calm — 11 November, 2022
+- Nate's turtles do not require much looking after — 11 November, 2022

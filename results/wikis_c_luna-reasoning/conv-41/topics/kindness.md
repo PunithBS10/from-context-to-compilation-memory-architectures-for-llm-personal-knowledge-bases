@@ -1,0 +1,31 @@
+---
+title: Kindness
+type: topic
+sources: [session_5, session_7, session_8, session_11, session_12, session_16, session_17, session_20, session_24, session_28, session_30, session_32]
+---
+
+- John believes people should look out for others, especially when they are feeling down. — 28 January, 2023 [D5:13]
+- John believes people should support each other when they are feeling down. — 28 January, 2023 [D5:15]
+- John believes a kind gesture can make a difference. — 28 January, 2023 [D5:15]
+- Maria believes kindness is important. — 28 January, 2023 [D5:16]
+- Maria believes compassion can turn someone's day around. — 28 January, 2023 [D5:16]
+- Jean believes in the goodness of kindness — 25 February, 2023 [D7:7]
+- John believes it is important to make people feel noticed and listened to. — 6 March, 2023 [D8:26]
+- Maria values connecting with and helping others. — 10 April, 2023 [D11:10]
+- Maria feels joy from seeing the impact of her help and hearing gratitude. — 10 April, 2023 [D11:12]
+- Maria believes every small act of kindness can have a big effect — 18 April, 2023 [D12:22]
+- Maria believes everyone can do something to make a difference — 18 April, 2023 [D12:22]
+- John believes every small act can make a big impact — 18 April, 2023 [D12:23]
+- John believes that he and Maria are making progress toward making a positive impact. — 25 May, 2023 [D16:19]
+- Max taught John about love and loyalty. — 3 June, 2023 [D17:7]
+- Maria feels joy when she makes a difference. — 27 June, 2023 [D20:11]
+- Maria plans to continue spreading kindness and positivity. — 27 June, 2023 [D20:13]
+- John believes it is important to spread positivity and make a difference. — 17 July, 2023 [D24:15]
+- Maria believes doing good and helping others brings joy. — 17 July, 2023 [D24:16]
+- Maria believes little acts of kindness can have a big effect. — 17 July, 2023 [D24:16]
+- John believes little acts of kindness can brighten someone's day. — 17 July, 2023 [D24:17]
+- Maria considers kindness and compassion important. — 5 August, 2023 [D28:10]
+- Maria intends to keep spreading positivity — 11 August, 2023 [D30:23]
+- John and Maria want to continue making a difference in their community. — 16 August, 2023 [D32:15, D32:16]
+- John and Maria want to keep spreading kindness. — 16 August, 2023 [D32:16]
+- John and Maria want to keep each other and everyone else motivated to make a difference. — 16 August, 2023 [D32:17]

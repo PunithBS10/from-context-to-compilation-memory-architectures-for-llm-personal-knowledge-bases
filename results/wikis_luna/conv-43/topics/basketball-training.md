@@ -1,0 +1,72 @@
+---
+title: Basketball training
+type: topic
+sources: [session_1, session_2, session_3, session_5, session_6, session_7, session_8, session_11, session_12, session_13, session_14, session_15, session_18, session_19, session_21, session_23, session_24, session_25, session_26, session_27]
+---
+
+- John's goal is to improve his shooting percentage — 21 May, 2023
+- John practiced hard to improve his shooting percentage — 21 May, 2023
+- John found fitting into the Minnesota Wolves' style of play challenging during pre-season training — 21 May, 2023
+- John gives his all every time he is on the basketball court — 15 June, 2023
+- John feels strongly bonded with his passionate teammates — 16 July, 2023
+- John considers his basketball teammates a second family — 16 July, 2023
+- John's basketball team has a strong bond — 9 August, 2023
+- John's basketball teammates support and motivate him — 9 August, 2023
+- John's basketball team pushes its members to improve — 9 August, 2023
+- John and his basketball teammates hang out frequently — 9 August, 2023
+- John has played basketball since he was a child — 11 August, 2023
+- John watched NBA games with his father as a child — 11 August, 2023
+- John's father enrolled him in a local basketball league when John was ten — 11 August, 2023
+- John played basketball through middle school and high school — 11 August, 2023
+- John earned a college basketball scholarship — 11 August, 2023
+- John's number one basketball goal is to win a championship — 11 August, 2023
+- John says the autographed basketball reminds him why he started playing basketball and of his journey — 17 August, 2023
+- John found a new gym with a basketball court and cones for basketball training — 21 August, 2023
+- John had to adapt and tweak his routine after finding a new gym — 21 August, 2023
+- John created a workout schedule balancing basketball training and strength training — 21 August, 2023
+- John listens to his body and gets enough rest to support his training — 21 August, 2023
+- John includes strength training to build muscle and increase power for basketball — 21 August, 2023
+- John includes strength training to help prevent basketball injuries — 21 August, 2023
+- John includes strength training to become more explosive and improve his overall athleticism — 21 August, 2023
+- Strength training improved John's shooting accuracy, agility, and speed — 21 August, 2023
+- Strength training gave John more confidence on the basketball court — 21 August, 2023
+- John loves the constant challenge of playing professional basketball — 21 September, 2023
+- John enjoys improving his basketball skills and beating his goals — 21 September, 2023
+- John is working on improving his shooting — 21 September, 2023
+- John wants to make more of an impact on the basketball court — 21 September, 2023
+- John wants to be known as a consistent basketball performer — 21 September, 2023
+- John learned from watching LeBron play live — 2 October, 2023
+- John was motivated to work harder by seeing top basketball players — 2 October, 2023
+- John is committed to working hard — 13 October, 2023
+- John maintains self-belief — 13 October, 2023
+- John shares his basketball skills and knowledge with younger players — 17 October, 2023
+- John adapts his mentoring approach because the younger players are different from one another — 17 October, 2023
+- John motivates and encourages the younger basketball players — 17 October, 2023
+- John has watched the younger basketball players develop and reach their goals — 17 October, 2023
+- John provides the younger basketball players with advice and support on and off the court — 17 October, 2023
+- John is a positive role model for younger athletes — 17 October, 2023
+- Some of the younger basketball players see John as a mentor — 17 October, 2023
+- John's mentoring has helped shape the younger athletes' futures and inspire them to pursue their dreams — 17 October, 2023
+- John writes motivational quotes and strategies on a whiteboard to stay focused during tough workouts. — 21 October, 2023
+- John keeps a plaque on his desk as a reminder to believe in himself. — 21 October, 2023
+- John's plaque helps him trust his abilities and face obstacles. — 21 October, 2023
+- John's love for improving his skills motivates him during challenging times. — 21 October, 2023
+- John visualizes his goals and success to stay focused and motivated during difficult study sessions — 16 November, 2023
+- John's ankle injury required time off and physical therapy — 21 November, 2023
+- John focused on recovery and worked to strengthen his body after his ankle injury — 21 November, 2023
+- John learned the importance of patience and perseverance from recovering from his ankle injury — 21 November, 2023
+- John worked hard to improve after making a mistake during a big basketball game — 21 November, 2023
+- John believes resilience and owning up to mistakes are important for becoming a strong basketball player and teammate — 21 November, 2023
+- John is improving his overall game on the court — 6 December, 2023
+- John practiced basketball outside for hours when he was younger — 11 December, 2023
+- John used basketball practice as a way of dealing with doubts and stress when he was younger — 11 December, 2023
+- John took a morning workout photo of a basketball hoop at sunset — 16 December, 2023
+- John does physical therapy exercises every day while recovering — 16 December, 2023
+- John said his rehabilitation was going great — 16 December, 2023
+- John jogged without pain at the gym last Friday — 16 December, 2023
+- John considered jogging without pain a major success after being out for so long — 16 December, 2023
+- John's basketball team has grown in communication and bonding during training — 19 December, 2023
+- John's team's improved communication helps teammates understand each other's strengths and weaknesses — 19 December, 2023
+- John organized a basketball camp for kids in his hometown last summer — 26 December, 2023
+- John's basketball camp lasted one week — 26 December, 2023
+- John practices basketball every day to stay in shape and improve — 2 January, 2024

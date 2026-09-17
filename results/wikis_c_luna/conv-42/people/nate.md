@@ -1,0 +1,31 @@
+---
+title: Nate
+type: person
+sources: [session_2, session_5, session_7, session_8, session_10, session_12, session_22, session_23, session_27, session_28]
+---
+
+- Nate has two turtles. — 23 January, 2022 [D2:10]
+- Nate has had his turtles for 3 years. — 23 January, 2022 [D2:12]
+- Nate's turtles bring him tons of joy. — 23 January, 2022 [D2:12]
+- Nate has turtles as pets. — 18 March, 2022 [D5:6]
+- Nate is drawn to turtles because they are unique. — 18 March, 2022 [D5:6]
+- Nate likes turtles' slow pace because it is a change from the rush of life. — 18 March, 2022 [D5:6]
+- Nate finds turtles low-maintenance and calming. — 18 March, 2022 [D5:6]
+- Nate keeps his turtles' area clean. — 18 March, 2022 [D5:8]
+- Nate feeds his turtles properly. — 18 March, 2022 [D5:8]
+- Nate makes sure his turtles get enough light. — 18 March, 2022 [D5:8]
+- Joanna would get two turtles if she could. — 18 March, 2022 [D5:11]
+- Nate dyed his hair last week. — 15 April, 2022 [D7:1]
+- Nate has purple hair. — 15 April, 2022 [D7:3]
+- Nate wears glasses. — 15 April, 2022 [D7:3]
+- Nate chose a bright and bold hair color to stand out from regular options. — 15 April, 2022 [D7:5]
+- Nate has turtles. — 17 April, 2022 [D8:13, D8:14]
+- Nate has a gaming room. — 2 May, 2022 [D10:2]
+- Nate adopted a dog named Max. — 20 May, 2022 [D12:3, D12:5]
+- Max is energetic. — 20 May, 2022 [D12:5]
+- Max brings Nate joy. — 20 May, 2022 [D12:5]
+- Max keeps Nate's other pets active. — 20 May, 2022 [D12:5]
+- Nate is content with his life and does not have major plans. — 6 October, 2022 [D22:4]
+- Nate spent the evening chilling at home. — 9 October, 2022 [D23:15]
+- Nate enjoys his job every day. — 7 November, 2022 [D27:5]
+- Joanna plans to visit Nate tomorrow. — 9 November, 2022 [D28:32]

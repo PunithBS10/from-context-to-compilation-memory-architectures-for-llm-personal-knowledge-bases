@@ -1,0 +1,46 @@
+---
+title: Movies
+type: topic
+sources: [session_1, session_3, session_9, session_10, session_15, session_23, session_25, session_26, session_27, session_28, session_29]
+---
+
+- Joanna enjoys watching movies. — 21 January, 2022
+- Nate likes action movies. — 21 January, 2022
+- Nate likes science-fiction movies. — 21 January, 2022
+- Joanna likes drama movies. — 21 January, 2022
+- Joanna likes romantic comedy movies. — 21 January, 2022
+- Nate enjoys watching classic movies. — 21 January, 2022
+- Joanna watched "Little Women" and thought it was amazing — 7 February, 2022
+- Joanna recommended "Little Women" to Nate — 7 February, 2022
+- Nate plans to watch "Little Women" — 7 February, 2022
+- Joanna enjoys dramas and emotionally-driven films — 21 April, 2022
+- Nate enjoys fantasy and science-fiction movies — 21 April, 2022
+- Fantasy and science-fiction movies inspire Nate's imagination — 21 April, 2022
+- Nate loves a fantasy or science-fiction movie trilogy — 21 April, 2022
+- Nate enjoys the trilogy's world-building, battles, and storytelling — 21 April, 2022
+- Joanna watched The Lord of the Rings trilogy last night. — 2 May, 2022
+- Joanna enjoyed The Lord of the Rings trilogy. — 2 May, 2022
+- Joanna likes superhero stories and powers — 5 June, 2022
+- Nate watches movies to unwind — 9 October, 2022
+- Nate recently watched Inception — 9 October, 2022
+- Nate likes Inception for its twists and dream-related elements — 9 October, 2022
+- Nate likes that movies take him to new worlds — 9 October, 2022
+- Nate likes that movies fill him with emotions — 9 October, 2022
+- Nate watches movies to relax after a day — 9 October, 2022
+- Joanna watched a classic movie recently — 9 October, 2022
+- Joanna rated the classic movie 9 or 10 out of 10 — 9 October, 2022
+- Joanna recommends a couch that can seat multiple people for a comfortable living room — 9 October, 2022
+- Joanna recommends a fluffy couch for a comfortable living room — 9 October, 2022
+- Joanna recommends a slightly weighted blanket for a comfortable living room — 9 October, 2022
+- Joanna recommends dimmable lights for a comfortable living room — 9 October, 2022
+- Joanna contributed to a movie script that was shown on the big screen for the first time last Sunday. — 25 October, 2022
+- Joanna has contributed to movie scripts that have been shown on the big screen three times. — 25 October, 2022
+- Joanna's favorite part of seeing the movie was watching her characters come alive. — 25 October, 2022
+- Joanna set up meetings with movie producers. — 4 November, 2022
+- Joanna's producer meetings went really well. — 4 November, 2022
+- The movie producers seemed interested and excited about Joanna's script and vision. — 4 November, 2022
+- The movie producers loved the self-discovery elements in Joanna's script. — 4 November, 2022
+- Joanna has had two movies published and hopes another script will become her third published movie. — 7 November, 2022
+- Joanna gives Nate movie recommendations that he usually likes. — 7 November, 2022
+- Nate and Joanna may watch one of Joanna's movies together or go to the park. — 9 November, 2022
+- Joanna feels excited about seeing her script come alive as a movie — 11 November, 2022

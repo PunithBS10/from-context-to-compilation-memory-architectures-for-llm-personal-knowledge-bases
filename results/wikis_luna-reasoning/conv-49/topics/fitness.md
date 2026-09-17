@@ -1,0 +1,47 @@
+---
+title: Fitness
+type: topic
+sources: [session_2, session_3, session_4, session_5, session_9, session_11, session_12, session_14, session_15, session_17, session_18, session_20, session_21, session_24, session_25]
+---
+
+- Evan has a fitness routine that he enjoys — 24 May, 2023
+- Evan enjoys feeling healthy and strong from his fitness routine — 24 May, 2023
+- Evan believes exercise clears the mind — 6 June, 2023
+- Sam asked Evan for help getting started with exercise — 6 June, 2023
+- Evan offered to show Sam some basic exercises — 6 June, 2023
+- Evan and Sam plan to work out and reach their goals — 6 June, 2023
+- Evan has a gym membership card — 27 July, 2023
+- Sam plans to go to the gym starting tomorrow — 27 July, 2023
+- Sam plans to exercise regularly — 27 July, 2023
+- Evan uses a fitness watch to track his progress — 7 August, 2023
+- Evan finds the visual reminder from his fitness watch motivating — 7 August, 2023
+- Evan has found it difficult to stay consistent with his usual fitness routine because of his knee injury — 27 August, 2023
+- Evan considers staying active very important to him — 27 August, 2023
+- Evan is swimming to stay active while waiting for physical therapy — 27 August, 2023
+- Evan has found it tough to stay active since injuring his knee — 6 October, 2023
+- Evan is doing easy exercises to keep his knee strong while he heals — 6 October, 2023
+- Evan started lifting weights one year ago — 8 October, 2023
+- Evan has seen gains from lifting weights — 8 October, 2023
+- Sam is interested in getting into weightlifting — 8 October, 2023
+- Sam plans to find someone who can help Sam get started with weightlifting — 8 October, 2023
+- Sam wants to get regular exercise — 17 October, 2023
+- Evan has been focusing on fitness — 17 October, 2023
+- Evan finds fitness beneficial for his overall well-being — 17 October, 2023
+- Evan recommends setting exercise goals to stay motivated — 17 October, 2023
+- Evan recommends finding an exercise that someone enjoys — 17 October, 2023
+- Evan recommends exercising with a buddy for accountability — 17 October, 2023
+- Sam plans to try setting exercise goals and exercising with someone — 17 October, 2023
+- Evan went to the gym yesterday — 17 October, 2023
+- Evan is gaining strength — 17 October, 2023
+- Evan took a morning walk — 25 October, 2023
+- Evan started walking regularly two years ago — 25 October, 2023
+- Sam's fitness goals have been hard to reach — 21 November, 2023
+- Evan stays in shape by going to the gym — 21 November, 2023
+- Evan takes his car out for a spin as part of staying in shape — 21 November, 2023
+- Evan relies on his Prius for his active lifestyle — 5 December, 2023
+- Sam is struggling with his weight — 17 December, 2023
+- Sam's weight is affecting his confidence — 17 December, 2023
+- Sam lacks motivation to overcome his weight-related challenges — 17 December, 2023
+- Sam has started enjoying running in the mornings — 26 December, 2023
+- Evan considers swimming, yoga, and walking good low-impact exercises — 10 January, 2024
+- Sam has not found any exercises that he likes. — 11 January, 2024

@@ -1,0 +1,46 @@
+---
+title: Dogs
+type: topic
+sources: [session_2, session_5, session_7, session_8, session_9, session_10, session_14, session_15, session_17, session_18, session_19, session_21, session_31]
+---
+
+- James has two dogs — 20 March, 2022
+- James's two dogs enjoy playing in the park — 20 March, 2022
+- James's dogs can sit, stay, give paw, and roll over on command — 20 March, 2022
+- James has trained his dogs — 20 March, 2022
+- James considers his dogs part of his family — 20 March, 2022
+- Daisy waits for a treat — 20 March, 2022
+- James adopted a dog from a shelter in Stamford last week — 12 April, 2022
+- James named his dog Ned — 12 April, 2022
+- James says his days have been happier since Ned joined his family — 12 April, 2022
+- James's dogs loved exploring the trails during the hike last Thursday — 23 April, 2022
+- James has a dog named Daisy — 29 April, 2022
+- James has dogs that watch him play games and often hug him — 29 April, 2022
+- James has a Labrador named Daisy — 4 May, 2022
+- Daisy loves playing with her toys — 4 May, 2022
+- Daisy loves eating — 4 May, 2022
+- James has two shepherds — 4 May, 2022
+- James's shepherds are loyal — 4 May, 2022
+- John's main goal was to raise money for a dog shelter near the street where he lives — 8 May, 2022
+- John and his friends raised enough money to help the dog shelter — 8 May, 2022
+- James has a dog named Max — 16 June, 2022
+- Max is lovable and playful — 16 June, 2022
+- Max enjoys swimming — 16 June, 2022
+- James and Max usually go to the beach or a lake to play in the water — 16 June, 2022
+- Max is a pro swimmer — 16 June, 2022
+- Max is good at catching frisbees in mid-air and never misses — 16 June, 2022
+- James started introducing Max, Daisy, and Ned last Friday — 19 June, 2022
+- Max, Daisy, and Ned are slowly adapting to one another — 19 June, 2022
+- Max, Daisy, and Ned are bonding and having fun together — 19 June, 2022
+- James taught his dogs to balance on a skateboard. — 22 July, 2022
+- James's dogs chase after a skateboard and run with it for exercise. — 22 July, 2022
+- James's puppy was vaccinated to prevent him from catching seasonal canine disease — 6 August, 2022
+- James has three dogs — 10 August, 2022
+- James has a dog named Ned — 26 August, 2022
+- James adopted Ned — 26 August, 2022
+- James's dog Ned came to James today while James was playing on the console — 26 August, 2022
+- James thinks having more than three dogs is too much — 7 November, 2022
+- John has not gotten a dog yet — 7 November, 2022
+- John still wants to get a dog — 7 November, 2022
+- James says his dogs bring him joy and companionship — 7 November, 2022
+- John's cousin has a dog named Luna — 7 November, 2022

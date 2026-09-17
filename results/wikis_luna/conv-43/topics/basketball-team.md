@@ -1,0 +1,42 @@
+---
+title: Basketball team
+type: topic
+sources: [session_7, session_9, session_11, session_12, session_13, session_14, session_15, session_19, session_21, session_22, session_23, session_24, session_25]
+---
+
+- John met back up with his basketball teammates on the 15th after his trip — 17 August, 2023
+- John's basketball teammates gave him a basketball with their autographs on it — 17 August, 2023
+- John's teammates signed the basketball to show their friendship and appreciation — 17 August, 2023
+- John finds the autographed basketball comforting because it reminds him of his bond and support from his teammates — 17 August, 2023
+- John says supportive people encourage him to give his all and never give up — 17 August, 2023
+- Tim has never been part of a sports team. — 26 August, 2023
+- John was a teammate with a group of girls basketball players for four years in high school. — 26 August, 2023
+- John and his teammates played together for four years in high school. — 26 August, 2023
+- John attended a local restaurant with new teammates last week — 21 September, 2023
+- John became friends with his new teammates — 21 September, 2023
+- John and his teammates bonded over their shared love of basketball — 21 September, 2023
+- John wants to help his basketball team — 21 September, 2023
+- John collects basketball jerseys — 2 October, 2023
+- The Wolves are John's basketball team — 2 October, 2023
+- LeBron is John's favorite basketball player — 2 October, 2023
+- John admires LeBron's work ethic and dedication to basketball — 2 October, 2023
+- John plays on a basketball team — 13 October, 2023
+- John's basketball team supports one another and refuses to quit — 13 October, 2023
+- John is mentoring the younger players on his basketball team during the off-season — 17 October, 2023
+- John's teammates believing in him motivates him during challenging times. — 21 October, 2023
+- John's teammates support him when he makes mistakes. — 21 October, 2023
+- John considers his team his second family. — 21 October, 2023
+- John could not play or help his basketball team while recovering from his ankle injury — 21 November, 2023
+- John's teammates come from all over — 6 December, 2023
+- John recommends showing care for teammates when motivating them — 6 December, 2023
+- John recommends celebrating teammates' achievements when motivating them — 6 December, 2023
+- John recommends providing constructive feedback when motivating teammates — 6 December, 2023
+- John recommends reminding teammates of the bigger goal — 6 December, 2023
+- John recommends creating a positive environment and giving a pep talk before a game — 6 December, 2023
+- John values the camaraderie his basketball team builds on and off the court — 8 December, 2023
+- John's basketball team has team dinners — 8 December, 2023
+- John's basketball team has outings — 8 December, 2023
+- John's basketball team plays basketball games together to strengthen its unity — 8 December, 2023
+- John loves seeing his teammates succeed because of the opportunities he creates for them — 11 December, 2023
+- John could not help his basketball team while injured — 16 December, 2023
+- John's basketball team has been achieving its goals — 19 December, 2023

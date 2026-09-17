@@ -1,0 +1,30 @@
+---
+title: Charity work
+type: topic
+sources: [session_10, session_11, session_15, session_26]
+---
+
+- John and his friends used leftover money to buy groceries for homeless people — 8 May, 2022 [D10:12]
+- John and his friends cooked food for homeless people — 8 May, 2022 [D10:12]
+- John intends to do more good things — 8 May, 2022 [D10:14]
+- John volunteered his programming skills for a social cause. — 11 May, 2022 [D11:1]
+- The charitable foundation previously used paper records and manually recorded all inventory. — 11 May, 2022 [D11:3]
+- John was inspired by the charitable foundation's passion for helping kids. — 11 May, 2022 [D11:7]
+- The experience showed John that technology can make positive changes beyond his own enjoyment. — 11 May, 2022 [D11:9]
+- The experience gave John a clearer sense of purpose and motivated him to use his programming skills to make a positive impact. — 11 May, 2022 [D11:11]
+- John is considering volunteer roles and potentially a career in the non-profit sector. — 11 May, 2022 [D11:11]
+- John has not found a non-profit organization aligned with his values and passion for programming. — 11 May, 2022 [D11:13]
+- John has not looked for a non-profit organization aligned with his values and passion for programming. — 11 May, 2022 [D11:13]
+- John thinks it will not be difficult to find the organization he needs. — 11 May, 2022 [D11:13]
+- John wants to make a positive impact on the world. — 19 June, 2022 [D15:6]
+- John has been looking into volunteering. — 19 June, 2022 [D15:8]
+- John is thinking about going into nonprofit work. — 19 June, 2022 [D15:8]
+- John wants to use his passions and abilities for causes he cares about. — 19 June, 2022 [D15:8]
+- James volunteered last month with an organization that provides necessary items to less fortunate people. — 19 June, 2022 [D15:9, D15:11]
+- James found volunteering last month rewarding. — 19 June, 2022 [D15:9, D15:11]
+- John wants James to take him to the organization this weekend. — 19 June, 2022 [D15:12]
+- James can introduce John to some of the previous staff at the organization. — 19 June, 2022 [D15:13]
+- The organization does not require an interview. — 19 June, 2022 [D15:14, D15:15]
+- The organization requires volunteers to be friendly, polite, and eager to help people. — 19 June, 2022 [D15:15]
+- John is determined to make a positive impact. — 19 June, 2022 [D15:18]
+- John received an email about a volunteer opportunity at a game development non-profit — 3 October, 2022 [D26:1]

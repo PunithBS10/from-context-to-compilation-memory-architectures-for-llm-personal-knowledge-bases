@@ -1,0 +1,53 @@
+---
+title: Programming projects
+type: topic
+sources: [session_1, session_6, session_7, session_8, session_9, session_11, session_12, session_13, session_20, session_21, session_22, session_25, session_26, session_28, session_31]
+---
+
+- James is motivated by creating something and seeing it come to life — 17 March, 2022
+- James worked with a gaming pal on a programming project last Thursday — 20 April, 2022
+- John is working on a difficult coding assignment — 23 April, 2022
+- John is stuck on a complicated coding project and feels frustrated by the lack of progress — 23 April, 2022
+- John decided to keep working on the coding problem and not quit — 23 April, 2022
+- John is working on a website for a local small business — 29 April, 2022
+- John's website project is his first professional project outside of class — 29 April, 2022
+- John has experienced slow progress and hiccups while working on the website — 29 April, 2022
+- John found it difficult to figure out how to add payments to the website — 29 April, 2022
+- John used resources to understand how to add payments to the website — 29 April, 2022
+- John is getting closer to a solution for adding payments to the website — 29 April, 2022
+- James worked on a project for several weeks — 4 May, 2022
+- James encountered a bug that disrupted the game mechanics of his project — 4 May, 2022
+- James tried debugging the project for hours — 4 May, 2022
+- James teamed up with a group of friends to fix the project — 4 May, 2022
+- James values teamwork with people who share his passions — 4 May, 2022
+- John made a software tool for a charitable foundation — 11 May, 2022
+- John's software tool helped the charitable foundation streamline its operations — 11 May, 2022
+- The foundation previously used paper records for inventory — 11 May, 2022
+- The foundation previously recorded all inventory manually — 11 May, 2022
+- John made an application that structured the foundation's work — 11 May, 2022
+- The foundation now has its inventory needs in one smartphone application — 11 May, 2022
+- John's application tracks inventory, resources, and donations — 11 May, 2022
+- John's application generates reports for analysis — 11 May, 2022
+- John was inspired by the foundation's passion for helping kids — 11 May, 2022
+- James finished a big project he had worked on for months last month — 23 May, 2022
+- James learned about problem-solving while working on the big project — 23 May, 2022
+- James learned about patience while working on the big project — 23 May, 2022
+- James learned about perseverance while working on the big project — 23 May, 2022
+- James feels more confident about taking on bigger projects after finishing the big project — 23 May, 2022
+- James and his course group are working on a new part of a football simulator — 13 June, 2022
+- James worked on collecting player databases for the football simulator — 13 June, 2022
+- John shared coding ideas and worked on projects with members of his online programming group — 21 August, 2022
+- John worked with someone from his online programming group on a project last week — 21 August, 2022
+- John and his younger siblings are working on a coding project — 26 August, 2022
+- James finished creating a Unity strategy game — 1 September, 2022
+- James found balancing mechanics and ensuring fairness challenging during game development — 1 September, 2022
+- James learned that perseverance and patience are key through creating his game — 1 September, 2022
+- James learned that feedback and collaboration are essential through creating his game — 1 September, 2022
+- John achieved a major career milestone by making his first mobile game — 20 September, 2022
+- John's mobile game is launching next month — 20 September, 2022
+- John kept his mobile game project secret because he would have been upset if it had not worked out — 20 September, 2022
+- John has worked on his mobile game for the past few months — 20 September, 2022
+- John plans to let James know when testing for his mobile game is ready — 20 September, 2022
+- John will assist game developers with projects — 3 October, 2022
+- John found programming ideas that he can use in his own work — 21 October, 2022
+- John worked with a game developer on a project over the weekend. — 7 November, 2022

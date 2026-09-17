@@ -1,0 +1,32 @@
+---
+title: Jolene's pets
+type: topic
+sources: [session_2, session_8, session_12, session_14, session_15, session_16, session_22, session_28]
+---
+
+- Jolene's snake Seraphim once slinked out of her cage and coiled up next to Jolene while Jolene was playing video games. — 27 January, 2023 [D2:22]
+- Jolene bought a snake in Paris a year ago. — 27 January, 2023 [D2:24]
+- Jolene took Seraphim to the park last Sunday. — 2 March, 2023 [D8:8]
+- Seraphim enjoyed the park last Sunday. — 2 March, 2023 [D8:8]
+- Seraphim is a tamed snake. — 2 March, 2023 [D8:10]
+- Jolene and Seraphim explored new places at the park. — 2 March, 2023 [D8:10]
+- Jolene's snakes are valuable companions even though they cannot chat or understand what she is going through. — 9 April, 2023 [D12:6]
+- Time with her snakes teaches Jolene to take time and be in tune with herself. — 9 April, 2023 [D12:6]
+- Jolene bought a new aquarium the day before yesterday. — 26 June, 2023 [D14:4]
+- Jolene has a pet snake named Seraphim. — 26 June, 2023 [D14:4]
+- Jolene got Seraphim last year. — 26 June, 2023 [D14:6]
+- Seraphim cheers Jolene up and brings her a sense of peace. — 26 June, 2023 [D14:6]
+- Spending time with Seraphim comforts Jolene. — 26 June, 2023 [D14:6]
+- Jolene has a pet snake. — 9 July, 2023 [D15:16, D15:17]
+- Jolene chose a snake as a pet because she was fascinated by reptiles. — 9 July, 2023 [D15:18]
+- Taking care of Jolene's snake is calming for Jolene. — 9 July, 2023 [D15:18]
+- Jolene's snake once escaped, and Jolene searched for her for hours. — 9 July, 2023 [D15:20]
+- Jolene found her snake snuggling under the bed after the escape. — 9 July, 2023 [D15:20]
+- Jolene feels love and gratitude toward her snake. — 9 July, 2023 [D15:22]
+- Susie helps Jolene cope during difficult times — 1 August, 2023 [D16:4]
+- Jolene finds pets to be good company — 1 August, 2023 [D16:4]
+- Jolene adopted Susie two years ago when she was feeling lonely and wanted company — 1 August, 2023 [D16:6]
+- Jolene has snakes as pets. — 26 August, 2023 [D22:17, D22:18]
+- Jolene's snake is good company and brings her a sense of calm. — 26 August, 2023 [D22:18]
+- Jolene has a pet snake named Susie. — 15 September, 2023 [D28:24, D28:25, D28:26]
+- Jolene has had Susie for two years. — 15 September, 2023 [D28:26]

@@ -1,0 +1,60 @@
+---
+title: Business
+type: topic
+sources: [session_4, session_5, session_6, session_8, session_9, session_10, session_12, session_13, session_14, session_16, session_17, session_18, session_19]
+---
+
+- Jon is putting a lot of work into his business despite obstacles — 4 February, 2023
+- Gina believes taking risks is part of the journey to success — 8 February, 2023
+- Jon left his secure 9-to-5 job as a banker — 8 February, 2023
+- Jon is aiming to turn his passion for dancing into a business — 8 February, 2023
+- Jon finds starting his dance business difficult — 8 February, 2023
+- Gina used a quote to stay positive through tough times — 8 February, 2023
+- Jon is determined to make his dance business work — 8 February, 2023
+- Jon finds juggling dancing and his business rewarding — 8 February, 2023
+- Jon's dancing gives him energy to tackle his business goals — 8 February, 2023
+- Jon's business successes increase his drive to keep dreaming on the dance floor — 8 February, 2023
+- Jon started a business — 16 March, 2023
+- Jon's business has been tough and he faces new challenges — 16 March, 2023
+- Gina has experienced ups and downs while running her business — 16 March, 2023
+- Jon and Gina support each other while pursuing their dreams — 16 March, 2023
+- Jon shut down his bank account to help his business grow — 3 April, 2023
+- Jon has found handling the changes from shutting down his bank account difficult — 3 April, 2023
+- Jon is staying positive and looking ahead while handling business changes — 3 April, 2023
+- Gina has found starting her business challenging but is not giving up — 3 April, 2023
+- Jon is turning his love of dance into a business — 9 April, 2023
+- Jon has learned that his business is difficult — 25 April, 2023
+- Jon believes confidence in himself is important for making his business successful — 25 April, 2023
+- Jon is having trouble with his business project — 25 April, 2023
+- Gina focuses on her big goal and why she is doing it to stay motivated — 25 April, 2023
+- Gina gets help from supportive people to stay motivated — 25 April, 2023
+- Jon has been feeling low on confidence — 25 April, 2023
+- Gina reminds herself of her successes and progress to stay confident in her business — 25 April, 2023
+- Gina has a good support system that helps her stay confident in her business — 25 April, 2023
+- Gina loves her business — 25 April, 2023
+- Jon loves his business — 25 April, 2023
+- Jon and Gina encourage each other to keep pursuing their goals — 25 April, 2023
+- Jon is currently reading "The Lean Startup" — 27 May, 2023
+- Jon hopes "The Lean Startup" will give him tips for his business — 27 May, 2023
+- Jon wants to build a focused and efficient business — 27 May, 2023
+- Jon considers adapting and tweaking from customer feedback important — 27 May, 2023
+- Jon uses a whiteboard to track ideas and milestones — 27 May, 2023
+- Jon uses a whiteboard to visualize his progress and stay organized — 27 May, 2023
+- Jon is wrapping up his business plan — 27 May, 2023
+- Jon is looking for investors for his project — 27 May, 2023
+- Jon finds searching for investors tough — 27 May, 2023
+- Jon is staying hopeful while searching for investors — 27 May, 2023
+- Jon is learning a lot while searching for investors — 27 May, 2023
+- Jon has started his own business. — 13 June, 2023
+- Gina advises new entrepreneurs to stay passionate, focused, and resilient — 16 June, 2023
+- Gina advises new entrepreneurs to remain open to learning and improving — 16 June, 2023
+- Jon is investing his time in his business — 21 June, 2023
+- Jon is writing all his plans down — 21 June, 2023
+- Jon finds that seeing his goals written on paper helps keep him motivated and focused — 21 June, 2023
+- Jon intends to keep going and not give up despite difficulties — 21 June, 2023
+- Jon feels confident — 21 June, 2023
+- Jon plans to go full-time with his business idea — 9 July, 2023
+- Gina had tough times with her business — 21 July, 2023
+- Jon is sprucing up his business plan — 21 July, 2023
+- Jon is tweaking his pitch to investors — 21 July, 2023
+- Jon has been working on business plans — 23 July, 2023

@@ -1,0 +1,101 @@
+---
+title: Health
+type: topic
+sources: [session_3, session_4, session_5, session_6, session_7, session_8, session_9, session_10, session_11, session_12, session_13, session_14, session_15, session_16, session_17, session_18, session_20, session_22, session_23, session_24, session_25]
+---
+
+- Evan is trying to eat less processed food. — 6 June, 2023
+- Evan is trying to eat fewer sugary snacks. — 6 June, 2023
+- Evan loves ginger snaps. — 6 June, 2023
+- Sam is trying to eat healthier these days. — 6 June, 2023
+- Sam still enjoys soda and candy. — 6 June, 2023
+- Sam knows that eating soda and candy is not the best habit to have. — 6 June, 2023
+- Sam agreed to try swapping soda for flavored seltzer water. — 6 June, 2023
+- Sam agreed to try dark chocolate with high cocoa content instead of candy. — 6 June, 2023
+- Sam is trying to make tiny health-related changes. — 6 June, 2023
+- Evan and Sam plan to support each other on their health journeys. — 6 June, 2023
+- Sam's friends mocked Sam's weight last Friday. — 27 July, 2023
+- Sam is working on Sam's health and getting active. — 27 July, 2023
+- Evan struggled with Evan's health a few years ago. — 27 July, 2023
+- Evan believes diet and lifestyle changes play a big role in health. — 27 July, 2023
+- Evan cut down on sugary snacks. — 27 July, 2023
+- Evan started eating more vegetables and fruit. — 27 July, 2023
+- Sam is reducing Sam's soda and candy intake. — 27 July, 2023
+- Evan suggested flavored seltzer water as an alternative to soda. — 27 July, 2023
+- Evan suggested air-popped popcorn or fruit as low-calorie snacks. — 27 July, 2023
+- Evan is dealing with health issues — 7 August, 2023
+- Evan has been working on his health for two years — 7 August, 2023
+- Evan's family motivates him to stay healthy — 7 August, 2023
+- Evan uses a fitness watch to track his health progress — 7 August, 2023
+- Evan finds the fitness watch's visual reminder motivating — 7 August, 2023
+- Evan got a bonsai tree because it symbolizes strength and resilience — 7 August, 2023
+- Taking care of Evan's bonsai tree motivates him through tough times — 7 August, 2023
+- Sam has been facing health challenges lately — 13 August, 2023
+- Sam is working toward healthier habits — 13 August, 2023
+- Sam believes that progress is more important than perfection — 13 August, 2023
+- Sam uses the quote "Don't fear it, just take the first step" to stay motivated — 13 August, 2023
+- Sam is convinced that their journey will be rewarding in the end — 13 August, 2023
+- Sam had a tough week and a doctor's appointment — 15 August, 2023
+- Sam's doctor's appointment motivated Sam to take better care of himself — 15 August, 2023
+- Sam feels somewhat concerned about Sam's health — 15 August, 2023
+- Sam feels motivated to make positive changes — 15 August, 2023
+- Sam is taking positive changes one step at a time — 15 August, 2023
+- Sam is on a diet and living healthier — 19 August, 2023
+- Sam has been sticking with the diet despite finding it tough — 19 August, 2023
+- Sam has noticed more energy since changing their diet — 19 August, 2023
+- Sam feels less sluggish after eating since changing their diet — 19 August, 2023
+- Sam started a new diet and exercise routine last Monday — 27 August, 2023
+- Sam feels great after starting a new diet and exercise routine — 27 August, 2023
+- Evan twisted his knee last Friday — 27 August, 2023
+- Evan's twisted knee is painful — 27 August, 2023
+- Evan is considering physical therapy for his knee — 27 August, 2023
+- Evan is hoping to get a physical therapy appointment soon — 27 August, 2023
+- Sam is working on becoming healthier — 27 August, 2023
+- Sam posted a photo showing his body before and after his diet — 11 September, 2023
+- Sam is trying to make healthier choices — 11 September, 2023
+- Sam sometimes craves sugary drinks and snacks — 11 September, 2023
+- Stress, boredom, and wanting comfort trigger Sam's cravings — 11 September, 2023
+- Sam has started eating healthier — 6 October, 2023
+- Evan injured his knee playing basketball with the kids last week — 6 October, 2023
+- Evan has been helped by physical therapy — 6 October, 2023
+- Sam's doctor said Sam's weight is a serious health risk — 8 October, 2023
+- Sam's doctor warned that Sam's health could get worse if Sam does not make changes soon — 8 October, 2023
+- Sam has been having a hard time regarding Sam's health — 8 October, 2023
+- Sam bought unhealthy snacks during a rough week — 14 October, 2023
+- Sam went to the ER last weekend with a severe stomachache. — 17 October, 2023
+- Sam was diagnosed with gastritis. — 17 October, 2023
+- Sam wants to prioritize health by adopting a more nutritious diet. — 17 October, 2023
+- Sam is trying to maintain a new health routine. — 25 October, 2023
+- Evan went through a similar health-related phase two years ago. — 25 October, 2023
+- Evan changed his diet two years ago. — 25 October, 2023
+- Evan focused on his well-being rather than quick results during his health transformation. — 25 October, 2023
+- Evan let go of unrealistic expectations during his health transformation. — 25 October, 2023
+- Evan found letting go of unrealistic expectations liberating physically and mentally. — 25 October, 2023
+- Sam plans to focus on small wins in his health routine. — 25 October, 2023
+- Sam is a Weight Watchers coach in Sam's group — 9 November, 2023
+- Sam was chosen as a Weight Watchers coach as part of Sam's quest for better health — 9 November, 2023
+- Sam hopes being a Weight Watchers coach will keep Sam motivated and help others stay committed — 9 November, 2023
+- Sam is determined to continue making a positive impact — 9 November, 2023
+- Evan had a health scare last week and went to the hospital — 21 November, 2023
+- Doctors found something suspicious during Evan's check-up — 21 November, 2023
+- Evan's health scare turned out to be a misunderstanding — 21 November, 2023
+- Evan's doctors said everything was fine after his health scare — 21 November, 2023
+- Sam has been dealing with discomfort that limits Sam's movement — 21 November, 2023
+- Sam has been trying to make dietary changes — 21 November, 2023
+- Sam attended a Weight Watchers meeting yesterday — 5 December, 2023
+- Sam learned tips at the Weight Watchers meeting — 5 December, 2023
+- Sam is struggling with his weight. — 17 December, 2023
+- Sam's weight is affecting his confidence. — 17 December, 2023
+- Sam lacks motivation to overcome his weight-related challenges. — 17 December, 2023
+- Sam finds it tough to break out of his comfort zone. — 17 December, 2023
+- Evan has been trying new healthy snacks — 31 December, 2023
+- Evan has been trying to eat healthier — 31 December, 2023
+- Evan recommends cookies as a snack — 31 December, 2023
+- Evan discovered a recipe for energy balls — 31 December, 2023
+- Evan enjoys the taste of the energy balls — 31 December, 2023
+- Evan finds the energy balls energizing and a healthy way to satisfy a sweet tooth — 31 December, 2023
+- Evan is limiting himself to two ginger snaps a day on his new diet — 6 January, 2024
+- Sam plans to ask a doctor for advice about a balanced diet plan. — 10 January, 2024
+- Sam plans to ask a doctor for advice about low-impact exercises given Sam's current situation. — 10 January, 2024
+- Sam plans to make a doctor's appointment soon. — 10 January, 2024
+- Sam has health issues that have been rough and feels that his weight keeps him from fully living — 11 January, 2024
